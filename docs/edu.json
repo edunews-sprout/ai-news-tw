@@ -1,4 +1,19 @@
 {
+  "https://example.com/test-watch-sync": {
+    "title": "GitHub Actions 自動同步測試",
+    "link": "https://example.com/test-watch-sync",
+    "published": "2026-03-31 10:55",
+    "images": [],
+    "summary": "這是一筆用來驗證 watch 自動同步與前端部署流程的測試資料。",
+    "tags": "",
+    "classes": "",
+    "is_target": "True",
+    "cn_summary": "這是一筆用來驗證 watch 自動同步與前端部署流程的測試資料。",
+    "cn_title": "GitHub Actions 自動同步測試",
+    "cn_classes": "",
+    "cn_tags": "",
+    "source": "測試來源"
+  },
   "https://www.chinatimes.com/campus/20260331001361-262301": {
     "title": "東海大學董事會「黃金陣容」曝光    跨界巨頭重塑教育新典範",
     "link": "https://www.chinatimes.com/campus/20260331001361-262301",
