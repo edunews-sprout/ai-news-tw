@@ -5,13 +5,13 @@
     "published": "2026-07-06 09:00",
     "images": [],
     "summary": "這是一篇用來測試上傳流程的假文章，確認系統能正確跳過LLM分類並成功上架，測試完成後可以忽略此則新聞。",
-    "tags": "",
+    "tags": "高教",
     "classes": "其他",
     "is_target": "True",
     "cn_summary": "這是一篇用來測試上傳流程的假文章，確認系統能正確跳過LLM分類並成功上架，測試完成後可以忽略此則新聞。",
     "cn_title": "【測試】高教新聞平台上傳流程測試文章",
     "cn_classes": "其他",
-    "cn_tags": "",
+    "cn_tags": "高教",
     "source": "測試用假新聞"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5490267": {
@@ -20,13 +20,13 @@
     "published": "2026-07-01 15:21",
     "images": [],
     "summary": "腸道細菌可能與阿茲海默症有關！陽明交通大學公共衛生研究所研究團隊透過分析439位長者的糞便樣本、阿茲海默症生物標記與大腦影像，發現腸道內擁有較多次世代益生菌「嗜黏蛋白阿克曼菌」...…",
-    "tags": "",
+    "tags": "國立陽明交通大學, 研究所",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "腸道細菌可能與阿茲海默症有關！陽明交通大學公共衛生研究所研究團隊透過分析439位長者的糞便樣本、阿茲海默症生物標記與大腦影像，發現腸道內擁有較多次世代益生菌「嗜黏蛋白阿克曼菌」...…",
     "cn_title": "腸道細菌可能影響阿茲海默症！ 陽明交大團隊科研登國際期刊",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "",
+    "cn_tags": "國立陽明交通大學, 研究所",
     "source": "自由時報"
   },
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TaVRnTjNyc01OVTRRT3pSLTd6N0NtTUVvbU45MHp4UFVzVm50MDJwMUJyTTg3SG9BSUxiMzdSQk85Szk0RmJLMV9BbjlSTF800gFWQVVfeXFMUERVNWtNQ01LM2lkUmxuZ0FuVVlRTUV1ZzB5U3Z6TjluTjdGOS1HbGdKR2hJbGphSFFWYVNfRjZPdUVKdEJ0RXhMZWdHVkFJV1c5LUlpUmc?oc=5": {
@@ -35,13 +35,13 @@
     "published": "2026-07-01 14:11",
     "images": [],
     "summary": "暨南大學攜手創教育學院台灣AI運動協會 引領香港高中生跨海體驗人形機器人課程&nbsp;&nbsp;UDN",
-    "tags": "",
+    "tags": "國立暨南國際大學",
     "classes": "教學與課程",
     "is_target": "True",
     "cn_summary": "暨南大學攜手創教育學院台灣AI運動協會 引領香港高中生跨海體驗人形機器人課程&nbsp;&nbsp;UDN",
     "cn_title": "暨南大學攜手創教育學院台灣AI運動協會 引領香港高中生跨海體驗人形機器人課程 - UDN",
     "cn_classes": "教學與課程",
-    "cn_tags": "",
+    "cn_tags": "國立暨南國際大學",
     "source": "UDN 文教"
   },
   "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QM3BXYzNLWHZyc0l2TS05LURSUjIwRmVMdnp2WG9ZQ1pETGllNWNlTHhRTTZMeXd6bVpRRE1qODVmbTQ2eDljaXlVejRkX2dHbXA1TEU4WlZfWlJjdGhtOEFrUkdiUFQzNDdQdFBlMWVQZGFzVEE?oc=5": {
@@ -50,13 +50,13 @@
     "published": "2026-07-01 13:42",
     "images": [],
     "summary": "大學USR如何深化在地連結？&nbsp;&nbsp;遠見雜誌",
-    "tags": "",
+    "tags": "大學",
     "classes": "在地連結與社會責任（USR）",
     "is_target": "True",
     "cn_summary": "大學USR如何深化在地連結？&nbsp;&nbsp;遠見雜誌",
     "cn_title": "大學USR如何深化在地連結？ - 遠見雜誌",
     "cn_classes": "在地連結與社會責任（USR）",
-    "cn_tags": "",
+    "cn_tags": "大學",
     "source": "遠見雜誌"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5489854": {
@@ -65,13 +65,13 @@
     "published": "2026-07-01 11:11",
     "images": [],
     "summary": "澎湖四面環海，大海孕育菊島子民生活需求。POYA寶雅攜手澎科大海洋遊憩系、風櫃國小及台灣釣具產業協進會，共同舉辦「釣線傳情・永續共好釣魚日」，帶領離島孩子走進海洋、認識海洋。 ...…",
-    "tags": "",
+    "tags": "國立澎湖科技大學",
     "classes": "其他",
     "is_target": "True",
     "cn_summary": "澎湖四面環海，大海孕育菊島子民生活需求。POYA寶雅攜手澎科大海洋遊憩系、風櫃國小及台灣釣具產業協進會，共同舉辦「釣線傳情・永續共好釣魚日」，帶領離島孩子走進海洋、認識海洋。 ...…",
     "cn_title": "企業攜手澎湖風櫃國小開釣  打造永續釣魚日",
     "cn_classes": "其他",
-    "cn_tags": "",
+    "cn_tags": "國立澎湖科技大學",
     "source": "自由時報"
   },
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQNS1aWU9vb0RiM2p2cVNkb1BhbnRLQTk1ZFRaSXlZR0UzeWJpR0JzOUQ3X3dKMjJ6eTRKYzduZXBCUFJRcko5UmJNV0hvR1h0cEJpVDFaNXJYVnhlYWlZ0gFkQVVfeXFMT3Z5cmszOHVTTVAwbE9DcXFZa0xLam04SW1qdVI2SlJaa2dqZUtDcXQ5TWxFeDIxUEZ5NlFaYk5XUzRZTDlwb2hLZzhPZ3J1c1lzclY1dDVyOTdVcFNVdDR3dVFZUw?oc=5": {
@@ -80,13 +80,13 @@
     "published": "2026-07-01 10:29",
     "images": [],
     "summary": "養生村總是「貴又遠」？蓋在大學裡50歲就能住！結合校園資源免當孤獨老人&nbsp;&nbsp;橘世代",
-    "tags": "",
+    "tags": "大學",
     "classes": "其他",
     "is_target": "True",
     "cn_summary": "養生村總是「貴又遠」？蓋在大學裡50歲就能住！結合校園資源免當孤獨老人&nbsp;&nbsp;橘世代",
     "cn_title": "養生村總是「貴又遠」？蓋在大學裡50歲就能住！結合校園資源免當孤獨老人 - 橘世代",
     "cn_classes": "其他",
-    "cn_tags": "",
+    "cn_tags": "大學",
     "source": "UDN 文教"
   },
   "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbWMtVnNoVjJoNnVydnN5T05yd3VPRjJ0UlNQOVNldlRkb05DRFFfX1ZxY2M4NmFMR01UdU8yelRRaTl4b1hwVS1BM29BUWdfdGNnZEVrMjZjaUhtbjd3YWxaR0VjTV9xR1dRam9MU0VYSHFGa2dnUWhJOFc3MmI3UQ?oc=5": {
@@ -95,13 +95,13 @@
     "published": "2026-07-01 10:05",
     "images": [],
     "summary": "世新大學申請入學表現強勁 大規模校院名額使用率居冠 | 熱門亮點 | 商情&nbsp;&nbsp;經濟日報",
-    "tags": "",
+    "tags": "申請入學, 世新大學",
     "classes": "其他",
     "is_target": "True",
     "cn_summary": "世新大學申請入學表現強勁 大規模校院名額使用率居冠 | 熱門亮點 | 商情&nbsp;&nbsp;經濟日報",
     "cn_title": "世新大學申請入學表現強勁 大規模校院名額使用率居冠 | 熱門亮點 | 商情 - 經濟日報",
     "cn_classes": "其他",
-    "cn_tags": "",
+    "cn_tags": "申請入學, 世新大學",
     "source": "UDN 文教"
   },
   "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iV096SmdhX0FLUHBpeE82R0hfREwtUjBXQXJYOU0xZS1fMzQyNXA5dHhVTG1vS2ZyeVpRV2VaMHpHT0hpWF9UMWdGNUZKUERBUkdQU0JHc1IwNTZiTWNhblZSdjl0MGd1ZTZCNGExdWRKU3JHbmlRZ3NnMDQ?oc=5": {
@@ -110,13 +110,13 @@
     "published": "2026-07-01 10:04",
     "images": [],
     "summary": "逢甲大學通過145件含金量最高國科會大專生計畫 比肩頂大 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
-    "tags": "",
+    "tags": "逢甲大學, 頂大, 大專",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "逢甲大學通過145件含金量最高國科會大專生計畫 比肩頂大 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
     "cn_title": "逢甲大學通過145件含金量最高國科會大專生計畫 比肩頂大 | 產學研訓 | 商情 - 經濟日報",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "",
+    "cn_tags": "逢甲大學, 頂大, 大專",
     "source": "UDN 文教"
   },
   "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVEJJaGd1dm1CTWY0WFFSN1hma0U5alNIU005M25EdFhfWTJrSmEwb2VBcHN1YkY0VEJyZTFwSFh1Q3QzRXhaQWw1U2wwd0RkSnl4YkUyUElOVGxxUGJBVVJ0cl9nQlFEWGJHVkVrUlNoM3E2c1N6azlveHZJMEpZUg?oc=5": {
@@ -125,13 +125,13 @@
     "published": "2026-07-01 10:04",
     "images": [],
     "summary": "臺東大學綠能科技再添新猷！全國首套水力地熱複合式發電系統在知本溫泉亮相| 產學研訓| 商情&nbsp;&nbsp;經濟日報",
-    "tags": "",
+    "tags": "臺東大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "臺東大學綠能科技再添新猷！全國首套水力地熱複合式發電系統在知本溫泉亮相| 產學研訓| 商情&nbsp;&nbsp;經濟日報",
     "cn_title": "臺東大學綠能科技再添新猷！全國首套水力地熱複合式發電系統在知本溫泉亮相| 產學研訓| 商情 - 經濟日報",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "",
+    "cn_tags": "臺東大學",
     "source": "UDN 文教"
   },
   "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaDR4QlFrNGMtRHBQZk9WdHN1cHppdGFteHNxZGk4cmpQbG92bTJERzdndVVLNk1uMm9ISVYybHg1VDQwa2k1WTgwOEZEVDBzUmh3SURhUEdrMmstWkhNOE1KY0JTRTBhS2NtdGVtYjNUNzNyMnllWjVLanMtXzNiZw?oc=5": {
@@ -140,13 +140,13 @@
     "published": "2026-07-01 10:04",
     "images": [],
     "summary": "中原大學AI競賽登場 行政創新成果亮眼 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
-    "tags": "",
+    "tags": "中原大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "中原大學AI競賽登場 行政創新成果亮眼 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
     "cn_title": "中原大學AI競賽登場 行政創新成果亮眼 | 產學研訓 | 商情 - 經濟日報",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "",
+    "cn_tags": "中原大學",
     "source": "UDN 文教"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5489658": {
@@ -155,13 +155,13 @@
     "published": "2026-07-01 09:22",
     "images": [],
     "summary": "經濟弱勢家庭的孩子能穩定完成大學學業已經不易，若能持續攻讀研究所更是少數，台灣世界展望會陪伴15年的屏東學子蓓拉，在外地就讀私立大學法律系時，以獎學金作為主要生活費來源，今年完...…",
-    "tags": "",
+    "tags": "私立大學, 國立大學, 研究所, 國立成功大學",
     "classes": "學生事務與生活",
     "is_target": "True",
     "cn_summary": "經濟弱勢家庭的孩子能穩定完成大學學業已經不易，若能持續攻讀研究所更是少數，台灣世界展望會陪伴15年的屏東學子蓓拉，在外地就讀私立大學法律系時，以獎學金作為主要生活費來源，今年完...…",
     "cn_title": "靠獎學金支付開銷讀完大學 屏東女孩不畏逆境上國立大學法研所",
     "cn_classes": "學生事務與生活",
-    "cn_tags": "",
+    "cn_tags": "私立大學, 國立大學, 研究所, 國立成功大學",
     "source": "自由時報"
   },
   "https://news.ltn.com.tw/news/life/paper/1760869": {
@@ -170,13 +170,13 @@
     "published": "2026-07-01 05:30",
     "images": [],
     "summary": "〔記者林曉雲／台北報導〕教育部最新統計顯示，技術型高中學生升學率近八成五。科技大學校長認為，這並非代表技職教育偏離務實致用，而是因應AI、半導體、智慧製造等產業快速升級，高職畢業已難符合企業需求，學生透過科技大學深化專業能力、累積實作經驗，才能成為企業需要的中高階技術人才，關鍵不在於追求文憑，而是提…",
-    "tags": "",
+    "tags": "科技大學, 產學合作, 科大, 技職",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "〔記者林曉雲／台北報導〕教育部最新統計顯示，技術型高中學生升學率近八成五。科技大學校長認為，這並非代表技職教育偏離務實致用，而是因應AI、半導體、智慧製造等產業快速升級，高職畢業已難符合企業需求，學生透過科技大學深化專業能力、累積實作經驗，才能成為企業需要的中高階技術人才，關鍵不在於追求文憑，而是提…",
     "cn_title": "科大校長：產學合作 畢業即可投入實戰",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "",
+    "cn_tags": "科技大學, 產學合作, 科大, 技職",
     "source": "自由時報"
   },
   "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUVhMMmVjYkdHdlk0dkpZV01VbDZEekd5cUxMbXllVW1lX0Z1dm9rUlR0OTg3bGMwVWt4TVZRLXFOS3g1MHJ0Z1ZvQzFkb19TZVpFbG1BSmlxY0tVMU02cktvMVM1OUtnXzlfckhuWUVSNnlwU1dXTmlQR2psNDdOMdIBX0FVX3lxTFBEYmtocUFla0VFb3R0ZGtwMnF6WWVkNlhaNFgwdkdqZmk3LURqcVg0OEJtODJIVDF2ODYxRmdUZEx6ekhMZTlGZG9rRGhhV2kzMi12Zmo2TS1TWXEwQ0dF?oc=5": {
@@ -185,13 +185,13 @@
     "published": "2026-07-01 02:17",
     "images": [],
     "summary": "CBRC論壇 探討高端金融培育／臺灣大學國際政經學院教授張孝威：誠信不可缺&nbsp;&nbsp;經濟日報",
-    "tags": "",
+    "tags": "國立臺灣大學, 教授",
     "classes": "國際交流與合作",
     "is_target": "True",
     "cn_summary": "CBRC論壇 探討高端金融培育／臺灣大學國際政經學院教授張孝威：誠信不可缺&nbsp;&nbsp;經濟日報",
     "cn_title": "CBRC論壇 探討高端金融培育／臺灣大學國際政經學院教授張孝威：誠信不可缺 - 經濟日報",
     "cn_classes": "國際交流與合作",
-    "cn_tags": "",
+    "cn_tags": "國立臺灣大學, 教授",
     "source": "UDN 文教"
   },
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qZ2hXNVFLdXQyOVBZa3FhdnB0MTc5N3pCU0hWZmQ3MWxpZjBqN01YdW4wQ2ZsVWFoMHhLdVBNc0tfRW10a3dycVpQSHVhanU50gFWQVVfeXFMTlNfdU81RTJJcDNyRTI3QUtKcTJ4VVh4V0thMHkwdGRKRVpkTkpNYTNYRUhCdDlBeXdwV2o3VGh1aEFVRVdUMDFJWFh1ZVBabUFRZjJncGc?oc=5": {
@@ -200,13 +200,13 @@
     "published": "2026-06-30 22:14",
     "images": [],
     "summary": "產學巨擘許勝雄、張國恩等人曼谷發聲 以參與式學習打造AI原生代大學&nbsp;&nbsp;UDN",
-    "tags": "",
+    "tags": "大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "產學巨擘許勝雄、張國恩等人曼谷發聲 以參與式學習打造AI原生代大學&nbsp;&nbsp;UDN",
     "cn_title": "產學巨擘許勝雄、張國恩等人曼谷發聲 以參與式學習打造AI原生代大學 - UDN",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "",
+    "cn_tags": "大學",
     "source": "UDN 文教"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5489352": {
@@ -245,13 +245,13 @@
     "published": "2026-06-30 19:06",
     "images": [],
     "summary": "智慧醫療產業跨域鏈結中山醫大登場展13項創新技術| 大學研究所| 文教&nbsp;&nbsp;UDN",
-    "tags": "",
+    "tags": "中山醫學大學, 研究所, 大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "智慧醫療產業跨域鏈結中山醫大登場展13項創新技術| 大學研究所| 文教&nbsp;&nbsp;UDN",
     "cn_title": "智慧醫療產業跨域鏈結中山醫大登場展13項創新技術| 大學研究所| 文教 - UDN",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "",
+    "cn_tags": "中山醫學大學, 研究所, 大學",
     "source": "UDN 文教"
   },
   "https://sports.ltn.com.tw/news/breakingnews/5489220": {
@@ -260,13 +260,13 @@
     "published": "2026-06-30 18:16",
     "images": [],
     "summary": "富邦悍將昨在選秀會上大有斬獲，不僅以狀元籤選進大溪高中游擊手陳柏凱，9輪當中還選進3位左投，包括2輪的文化大學余冠諭、3輪南華大學和新北凱撒陳霆豪，和第7輪台東大學李聖韓...…",
-    "tags": "",
+    "tags": "南華大學, 國立臺東大學, 文化",
     "classes": "其他",
     "is_target": "True",
     "cn_summary": "富邦悍將昨在選秀會上大有斬獲，不僅以狀元籤選進大溪高中游擊手陳柏凱，9輪當中還選進3位左投，包括2輪的文化大學余冠諭、3輪南華大學和新北凱撒陳霆豪，和第7輪台東大學李聖韓...…",
     "cn_title": "中職》富邦選秀鎖定投手戰力！後藤監督評價兩位左投新秀",
     "cn_classes": "其他",
-    "cn_tags": "",
+    "cn_tags": "南華大學, 國立臺東大學, 文化",
     "source": "自由時報"
   },
   "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03ZXRSYjc3eENTZlZ0V2ZxZWNqV3J1eFBqRDFKemlOaUpBM2x0Yy1IY25XYkttRE16bVJ5eFVYNG1ReFlmUWdfMDdkR0JYb2xGaVA5Y0pWSHlUU0FrMk5IZHV3eF9tQQ?oc=5": {
@@ -275,13 +275,13 @@
     "published": "2026-06-30 18:05",
     "images": [],
     "summary": "產學巨擘許勝雄、張國恩、宋曜廷曼谷發聲參與式學習打造AI原生代大學- 新消息- Campus&nbsp;&nbsp;中時新聞網",
-    "tags": "",
+    "tags": "大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "產學巨擘許勝雄、張國恩、宋曜廷曼谷發聲參與式學習打造AI原生代大學- 新消息- Campus&nbsp;&nbsp;中時新聞網",
     "cn_title": "產學巨擘許勝雄、張國恩、宋曜廷曼谷發聲參與式學習打造AI原生代大學- 新消息- Campus - 中時新聞網",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "",
+    "cn_tags": "大學",
     "source": "中國時報"
   },
   "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBETDhaUVN0M3VUa1pMcXN6UDdUSDlsX2tJTjJuNDZ6VUNBcXU0cXg1YkxmSTltVWE4b0ZQTFMxRU9LZUZ0TmJELWlRR3ZvTWdtckZjVS00T0VSd9IBX0FVX3lxTFBkWURLQk50NmdsVUpJcWRnVFhGQWdVSmpqdGVUUnNoMm5za1Y4N19yeDRMcHRGdWNtR1VGOVBRTWpTREU3MThTMUpVX2U0Nkk2eFZpcHFLVW1nS0FqX3RZ?oc=5": {
@@ -290,13 +290,13 @@
     "published": "2026-06-30 17:53",
     "images": [],
     "summary": "深化台美國際共學交流 靜宜大學國際學院攜手美國喜瑞都學院&nbsp;&nbsp;經濟日報",
-    "tags": "",
+    "tags": "靜宜大學",
     "classes": "國際交流與合作",
     "is_target": "True",
     "cn_summary": "深化台美國際共學交流 靜宜大學國際學院攜手美國喜瑞都學院&nbsp;&nbsp;經濟日報",
     "cn_title": "深化台美國際共學交流 靜宜大學國際學院攜手美國喜瑞都學院 - 經濟日報",
     "cn_classes": "國際交流與合作",
-    "cn_tags": "",
+    "cn_tags": "靜宜大學",
     "source": "UDN 文教"
   },
   "https://www.cna.com.tw/news/ahel/202606300302.aspx": {
@@ -305,13 +305,13 @@
     "published": "2026-06-30 17:53",
     "images": [],
     "summary": "（中央社記者郝雪卿台中30日電）「2026智慧醫療產業跨域鏈結交流會」今天在中山醫學大學登場，聚焦高齡精準健康與醫療數位賦能，展示13項創新技術，涵蓋AR手術導航、AI影像判讀及臨床AI平台。",
-    "tags": "",
+    "tags": "中山醫學大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "（中央社記者郝雪卿台中30日電）「2026智慧醫療產業跨域鏈結交流會」今天在中山醫學大學登場，聚焦高齡精準健康與醫療數位賦能，展示13項創新技術，涵蓋AR手術導航、AI影像判讀及臨床AI平台。",
     "cn_title": "智慧醫療產業跨域鏈結中山醫大登場 展13項創新技術",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "",
+    "cn_tags": "中山醫學大學",
     "source": "中央社"
   },
   "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VZmNYNEJaZVNXNzJ0X1YzTGFYYU5KNVZ5NXBkNklNai1HM3lDV1VMMnFlVGYzdGlNT3hCNmg1R1JtLWdzdTYydUwyNkhCSTJuVVA3eEpzTEM5eWVQRkEtOHBTMDNBZw?oc=5": {
@@ -320,13 +320,13 @@
     "published": "2026-06-30 17:03",
     "images": [],
     "summary": "靜宜大學國際學院攜手美國喜瑞都學院深化台美國際共學交流- 新消息- Campus&nbsp;&nbsp;中時新聞網",
-    "tags": "",
+    "tags": "靜宜大學",
     "classes": "國際交流與合作",
     "is_target": "True",
     "cn_summary": "靜宜大學國際學院攜手美國喜瑞都學院深化台美國際共學交流- 新消息- Campus&nbsp;&nbsp;中時新聞網",
     "cn_title": "靜宜大學國際學院攜手美國喜瑞都學院深化台美國際共學交流- 新消息- Campus - 中時新聞網",
     "cn_classes": "國際交流與合作",
-    "cn_tags": "",
+    "cn_tags": "靜宜大學",
     "source": "中國時報"
   },
   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tTWZTR2p3NmJhWVBZQ0NZY1FBVldfazBQQU9KTDZCNXRVRVJGaDlOeEdhQzEtajlyMm9INGxFeUlxVFhhWGxWeGRHbHRXZFBRR3U1NVZ0M0pydw?oc=5": {
@@ -335,13 +335,13 @@
     "published": "2026-06-30 16:01",
     "images": [],
     "summary": "長庚大學解密補骨脂寧抗老機制 研究登《Nature Communications》 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
-    "tags": "",
+    "tags": "長庚大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "長庚大學解密補骨脂寧抗老機制 研究登《Nature Communications》 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
     "cn_title": "長庚大學解密補骨脂寧抗老機制 研究登《Nature Communications》 | 產學研訓 | 商情 - 經濟日報",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "",
+    "cn_tags": "長庚大學",
     "source": "UDN 文教"
   },
   "https://www.cna.com.tw/news/acul/202606300234.aspx": {
@@ -365,13 +365,13 @@
     "published": "2026-06-30 15:29",
     "images": [],
     "summary": "深化台美國際共學交流 靜宜大學國際學院攜手美國喜瑞都學院&nbsp;&nbsp;UDN",
-    "tags": "",
+    "tags": "靜宜大學",
     "classes": "國際交流與合作",
     "is_target": "True",
     "cn_summary": "深化台美國際共學交流 靜宜大學國際學院攜手美國喜瑞都學院&nbsp;&nbsp;UDN",
     "cn_title": "深化台美國際共學交流 靜宜大學國際學院攜手美國喜瑞都學院 - UDN",
     "cn_classes": "國際交流與合作",
-    "cn_tags": "",
+    "cn_tags": "靜宜大學",
     "source": "UDN 文教"
   },
   "https://talk.ltn.com.tw/article/breakingnews/5471098": {
@@ -380,13 +380,13 @@
     "published": "2026-06-30 15:00",
     "images": [],
     "summary": "6月10日很榮幸應邀前往新加坡尤索夫伊薩東南亞研究所（ISEAS – Yusof Ishak Institute）發表演講，與研究同仁及產業界友人就全球半導體產業發展、台灣的關鍵角色，...…",
-    "tags": "",
+    "tags": "研究所",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "6月10日很榮幸應邀前往新加坡尤索夫伊薩東南亞研究所（ISEAS – Yusof Ishak Institute）發表演講，與研究同仁及產業界友人就全球半導體產業發展、台灣的關鍵角色，...…",
     "cn_title": "有志一「童」》晶片連結世界：在新加坡分享台灣半導體的關鍵角色與未來合作",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "",
+    "cn_tags": "研究所",
     "source": "自由時報"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5488899": {
@@ -395,13 +395,13 @@
     "published": "2026-06-30 14:51",
     "images": [],
     "summary": "114學年度境外生總人數達14萬417名，創下歷史新高。為強化境外生入出境管理及失聯通報機制，教育部宣布，今（2026）年8月起的115學年度，將全面推動大專校院境外生資料管理...…",
-    "tags": "",
+    "tags": "大專",
     "classes": "校務治理與管理",
     "is_target": "True",
     "cn_summary": "114學年度境外生總人數達14萬417名，創下歷史新高。為強化境外生入出境管理及失聯通報機制，教育部宣布，今（2026）年8月起的115學年度，將全面推動大專校院境外生資料管理...…",
     "cn_title": "境外生人數創新高 教育部新學年全面推動預登系統",
     "cn_classes": "校務治理與管理",
-    "cn_tags": "",
+    "cn_tags": "大專",
     "source": "自由時報"
   },
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSU0JlcFRnSG9yY09BR0VBNEJybkRKcFpEWEN5NE9NMHM2T0Eydy1ySjVZaENRY2wyLW1uYlIwTHJlNzdvTlRBcElSa25LUDZa0gFWQVVfeXFMTkNNWDViM0ZrMzZFelVXQlJndU9BYjNYaklFb3RuUXUxT3AwSUVkZXJWSlRoX0J0X2JkSV9SYnAtY1haTk12TXRwMExYWXdJZjJHLW1veVE?oc=5": {
@@ -410,13 +410,13 @@
     "published": "2026-06-30 14:01",
     "images": [],
     "summary": "大學憂AI導入教研用電量劇增 教育部商討對策：盼節電納補助考量&nbsp;&nbsp;UDN",
-    "tags": "",
+    "tags": "大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "大學憂AI導入教研用電量劇增 教育部商討對策：盼節電納補助考量&nbsp;&nbsp;UDN",
     "cn_title": "大學憂AI導入教研用電量劇增 教育部商討對策：盼節電納補助考量 - UDN",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "",
+    "cn_tags": "大學",
     "source": "UDN 文教"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5488773": {
@@ -425,13 +425,13 @@
     "published": "2026-06-30 13:38",
     "images": [],
     "summary": "隨著數位科技及人工智慧AI快速發展，性別暴力已不再侷限於實體空間，私密影像外流、網路性騷擾及深偽（Deepfake）事件逐漸成為校園面臨的新挑戰。教育部今天表示，將持續強化大專...…",
-    "tags": "",
+    "tags": "大專",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "隨著數位科技及人工智慧AI快速發展，性別暴力已不再侷限於實體空間，私密影像外流、網路性騷擾及深偽（Deepfake）事件逐漸成為校園面臨的新挑戰。教育部今天表示，將持續強化大專...…",
     "cn_title": "AI深偽成校園新危機 教育部推跨機關防治機制",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "",
+    "cn_tags": "大專",
     "source": "自由時報"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5488686": {
@@ -440,13 +440,13 @@
     "published": "2026-06-30 12:41",
     "images": [],
     "summary": "AI浪潮對教學現場產生影響，大學主管認為，AI模型被訓練得越來越厲害，但其強在「教學技術」，而非「教學本質」，應透過讓AI有機融入教學現場，培養學生與AI協作的能力，引...…",
-    "tags": "",
+    "tags": "大學, 高教",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "AI浪潮對教學現場產生影響，大學主管認為，AI模型被訓練得越來越厲害，但其強在「教學技術」，而非「教學本質」，應透過讓AI有機融入教學現場，培養學生與AI協作的能力，引...…",
     "cn_title": "AI浪潮影響教學現場 高教強調協作與負責任使用",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "",
+    "cn_tags": "大學, 高教",
     "source": "自由時報"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5488670": {
@@ -455,13 +455,13 @@
     "published": "2026-06-30 12:27",
     "images": [],
     "summary": "面對AI發展帶動校園用電增加，教育部正研議調整大專校院節能評比機制。教育部高教司長廖高賢今（30）日表示，未來將把大學節電表現納入獎補助機制，節電成效較佳的學校可望獲得鼓勵，但...…",
-    "tags": "",
+    "tags": "高教司, 大學, 大專",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "面對AI發展帶動校園用電增加，教育部正研議調整大專校院節能評比機制。教育部高教司長廖高賢今（30）日表示，未來將把大學節電表現納入獎補助機制，節電成效較佳的學校可望獲得鼓勵，但...…",
     "cn_title": "教育部研議節電納入獎補助 AI用電將列考量",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "",
+    "cn_tags": "高教司, 大學, 大專",
     "source": "自由時報"
   },
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0U0xjMFVBT3FfUWg0eFF2SUtITWg3VFRJR0xYbkp1WGJzUW1DUHNpbS1XSEZRQ3Q0dU9vTG5ReGZGRmI4dGltYWlMWDdqSlpK?oc=5": {
@@ -470,13 +470,13 @@
     "published": "2026-06-30 12:01",
     "images": [],
     "summary": "大專性別暴力防治研討會跟騷、AI技術受關注| 大學研究所| 文教&nbsp;&nbsp;UDN",
-    "tags": "",
+    "tags": "研究所, 大學, 大專",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "大專性別暴力防治研討會跟騷、AI技術受關注| 大學研究所| 文教&nbsp;&nbsp;UDN",
     "cn_title": "大專性別暴力防治研討會跟騷、AI技術受關注| 大學研究所| 文教 - UDN",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "",
+    "cn_tags": "研究所, 大學, 大專",
     "source": "UDN 文教"
   },
   "https://www.cna.com.tw/news/ahel/202606300094.aspx": {
@@ -485,13 +485,13 @@
     "published": "2026-06-30 11:38",
     "images": [],
     "summary": "（中央社記者陳至中台北30日電）教育部今天在台灣藝術大學舉辦性別暴力防治研討會，邀集大專校院相關主管共同討論，「跟蹤騷擾防制法」上路後的校園配套，以及AI（人工智慧）科技的挑戰成為討論焦點。",
-    "tags": "",
+    "tags": "大學, 大專",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "（中央社記者陳至中台北30日電）教育部今天在台灣藝術大學舉辦性別暴力防治研討會，邀集大專校院相關主管共同討論，「跟蹤騷擾防制法」上路後的校園配套，以及AI（人工智慧）科技的挑戰成為討論焦點。",
     "cn_title": "大專性別暴力防治研討會  跟騷、AI技術受關注",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "",
+    "cn_tags": "大學, 大專",
     "source": "中央社"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5488483": {
@@ -500,13 +500,13 @@
     "published": "2026-06-30 11:19",
     "images": [],
     "summary": "國立台灣海洋大學（簡稱台海大）師生研究團隊在115年度國科會大專生研究計畫通過件數高達52件、計畫總金額達292．36萬元創新高。本年度通過件數較前一年成長36．84％，通過率...…",
-    "tags": "",
+    "tags": "大學, 大專, 國立臺灣海洋大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "國立台灣海洋大學（簡稱台海大）師生研究團隊在115年度國科會大專生研究計畫通過件數高達52件、計畫總金額達292．36萬元創新高。本年度通過件數較前一年成長36．84％，通過率...…",
     "cn_title": "台海大大專生研究計畫通過創新高 AI與永續成焦點",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "",
+    "cn_tags": "大學, 大專, 國立臺灣海洋大學",
     "source": "自由時報"
   },
   "https://ec.ltn.com.tw/article/breakingnews/5488493": {
@@ -515,13 +515,13 @@
     "published": "2026-06-30 10:44",
     "images": [],
     "summary": "〔財經頻道／綜合報導〕前經濟部長郭智輝近日赴日本東京早稻田大學發表演講，以自身從年輕時自學日文赴日拓展業務，到73歲站上日本大學講台分享台灣產業發展經驗的歷程，闡述台日產業合作的重要性，並呼籲雙...…",
-    "tags": "",
+    "tags": "大學",
     "classes": "其他",
     "is_target": "True",
     "cn_summary": "〔財經頻道／綜合報導〕前經濟部長郭智輝近日赴日本東京早稻田大學發表演講，以自身從年輕時自學日文赴日拓展業務，到73歲站上日本大學講台分享台灣產業發展經驗的歷程，闡述台日產業合作的重要性，並呼籲雙...…",
     "cn_title": "郭智輝談台日產業合作 倡半導體、能源等4大領域深化結盟",
     "cn_classes": "其他",
-    "cn_tags": "",
+    "cn_tags": "大學",
     "source": "自由時報"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5488460": {
@@ -530,13 +530,13 @@
     "published": "2026-06-30 10:24",
     "images": [],
     "summary": "立委陳瑩於今年3月接獲多位設籍台東、於外縣市求學之大學生及就讀國立台東大學學生的陳情，反映學生族群在學期間交通負擔問題，盼能爭取台鐵「大學生優惠票」政策減輕負擔；陳瑩與莊瑞雄多...…",
-    "tags": "",
+    "tags": "國立臺東大學, 大學生",
     "classes": "學生事務與生活",
     "is_target": "True",
     "cn_summary": "立委陳瑩於今年3月接獲多位設籍台東、於外縣市求學之大學生及就讀國立台東大學學生的陳情，反映學生族群在學期間交通負擔問題，盼能爭取台鐵「大學生優惠票」政策減輕負擔；陳瑩與莊瑞雄多...…",
     "cn_title": "立委陳瑩、莊瑞雄爭取台鐵「大學生優惠票」  7月公告8月實施",
     "cn_classes": "學生事務與生活",
-    "cn_tags": "",
+    "cn_tags": "國立臺東大學, 大學生",
     "source": "自由時報"
   },
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wMklQeGJadmp2VXZMTkZ0ME5VZFFKeE9vZFhHdjR3WGpFdDFKTm5DWUppZV91bDRuT2M5X2I3YnZmdWtTM0hMeWNZaERIcmp50gFWQVVfeXFMTWs1XzNwejhDVC1xbm5ZcVJzUU1sYmZJMTFqcldqREV5R0EtcWUwT2t6d0JYaExwd0toU1djSTBMdXFBcDVySTBSM3QweFRpS0VZQmprSkE?oc=5": {
@@ -545,13 +545,13 @@
     "published": "2026-06-30 10:19",
     "images": [],
     "summary": "赴東海大學曼谷論壇演講 金仁寶總裁許勝雄：人人、處處、時時談AI&nbsp;&nbsp;UDN",
-    "tags": "",
+    "tags": "東海大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "赴東海大學曼谷論壇演講 金仁寶總裁許勝雄：人人、處處、時時談AI&nbsp;&nbsp;UDN",
     "cn_title": "赴東海大學曼谷論壇演講 金仁寶總裁許勝雄：人人、處處、時時談AI - UDN",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "",
+    "cn_tags": "東海大學",
     "source": "UDN 文教"
   },
   "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQQXYyUzd5Vk9hQml3dEFFMDFRVHlPWEJzOVBRNFhjclRVN3NlM0pWUDQzeXQwc0NLTVFiR0U0ZkJTVGc5WUVNLXJwMmVlQ0I3c1Y2d1lXcHoxS3FlV2JVUDMyMHFSSFczeGdMVjVmZksxeHNzUzF2edIBYEFVX3lxTFB3WUhMWldVSEF4TTZUV2RnbGNOTXVUbkFlaHdwcWFvUlhWY0QtQ24xWS1xd0JQYng4Tm14N0NjeER5Ny1pU21QTWdXLTNHQUhSbWJEbmJwNkg5c3pSdDZJWg?oc=5": {
@@ -560,13 +560,13 @@
     "published": "2026-06-30 10:19",
     "images": [],
     "summary": "赴東海大學曼谷論壇演講 金仁寶總裁許勝雄：人人、處處、時時談AI&nbsp;&nbsp;經濟日報",
-    "tags": "",
+    "tags": "東海大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "赴東海大學曼谷論壇演講 金仁寶總裁許勝雄：人人、處處、時時談AI&nbsp;&nbsp;經濟日報",
     "cn_title": "赴東海大學曼谷論壇演講 金仁寶總裁許勝雄：人人、處處、時時談AI - 經濟日報",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "",
+    "cn_tags": "東海大學",
     "source": "UDN 文教"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5488445": {
@@ -575,13 +575,13 @@
     "published": "2026-06-30 10:08",
     "images": [],
     "summary": "面對教師退休潮及全球高階人才競逐，國立台灣科技大學啟動10年師資布局計畫，預計投入2.86億元，並向教育部申請2.16億元補助，另由學校加碼5000萬元，未來5年將優先延攬75...…",
-    "tags": "",
+    "tags": "科技大學, 國立臺灣科技大學",
     "classes": "國際交流與合作",
     "is_target": "True",
     "cn_summary": "面對教師退休潮及全球高階人才競逐，國立台灣科技大學啟動10年師資布局計畫，預計投入2.86億元，並向教育部申請2.16億元補助，另由學校加碼5000萬元，未來5年將優先延攬75...…",
     "cn_title": "台科大啟動10年師資布局計畫 搶攻國際高階人才",
     "cn_classes": "國際交流與合作",
-    "cn_tags": "",
+    "cn_tags": "科技大學, 國立臺灣科技大學",
     "source": "自由時報"
   },
   "https://news.google.com/rss/articles/CBMifEFVX3lxTE91bGFHc2FMUUl6T1gyT0NCdTVZMnVoZG5aRXlheXdJWEdadGxLbjJhMHQzX0FxOFhJQzg1V1RhVXpHTXc1VlNJaEV2RkJCcjBZd3NucWtpcG90a1l3bWRRSlFERGhzSllhRkZEZjVWOFdSS3lYX0twb3FNTGM?oc=5": {
@@ -590,13 +590,13 @@
     "published": "2026-06-30 10:01",
     "images": [],
     "summary": "陽明交通大學攜手禾榮科技推動博愛校區硼中子捕獲治療暨前瞻影像研究中心建置| 產學研訓| 商情&nbsp;&nbsp;經濟日報",
-    "tags": "",
+    "tags": "國立陽明交通大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "陽明交通大學攜手禾榮科技推動博愛校區硼中子捕獲治療暨前瞻影像研究中心建置| 產學研訓| 商情&nbsp;&nbsp;經濟日報",
     "cn_title": "陽明交通大學攜手禾榮科技推動博愛校區硼中子捕獲治療暨前瞻影像研究中心建置| 產學研訓| 商情 - 經濟日報",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "",
+    "cn_tags": "國立陽明交通大學",
     "source": "UDN 文教"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5488435": {
@@ -605,13 +605,13 @@
     "published": "2026-06-30 09:52",
     "images": [],
     "summary": "極端氣候衝擊供電安全，大學也開始為關鍵研究設備打造「不停電」防線。國立中山大學副總務長曾景濱今（30）日表示，校方規劃建置微電網，災害發生時可切換為「孤島運轉模式」，優先維持半...…",
-    "tags": "",
+    "tags": "國立中山大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "極端氣候衝擊供電安全，大學也開始為關鍵研究設備打造「不停電」防線。國立中山大學副總務長曾景濱今（30）日表示，校方規劃建置微電網，災害發生時可切換為「孤島運轉模式」，優先維持半...…",
     "cn_title": "中山大學建防災微電網 停電優先保半導體研究",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "",
+    "cn_tags": "國立中山大學",
     "source": "自由時報"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5488390": {
@@ -620,13 +620,13 @@
     "published": "2026-06-30 09:28",
     "images": [],
     "summary": "生成式AI快速改變高等教育，面對各大學陸續制定AI使用規範，國科會人文及社會科學研究發展處處長黃俊儒今（30）日指出，目前AI偵測工具存在誤判率高、準確率不足、容易規避、無法追...…",
-    "tags": "",
+    "tags": "高等教育, 大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "生成式AI快速改變高等教育，面對各大學陸續制定AI使用規範，國科會人文及社會科學研究發展處處長黃俊儒今（30）日指出，目前AI偵測工具存在誤判率高、準確率不足、容易規避、無法追...…",
     "cn_title": "AI抓作弊有盲點 國科會：大學治理不能只靠AI偵測工具",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "",
+    "cn_tags": "高等教育, 大學",
     "source": "自由時報"
   },
   "https://talk.ltn.com.tw/article/breakingnews/5486127": {
@@ -635,13 +635,13 @@
     "published": "2026-06-30 08:30",
     "images": [],
     "summary": "近期看到了一則令人心痛的消息，新竹市清華大學與陽明交通大學，今年不到半年內已發生三起學生墜樓身亡事件。一位資深消防員在社群上寫道：「當消防員10多年，第一次頻繁遇到，真的很令人惋惜……...…",
-    "tags": "",
+    "tags": "國立清華大學, 國立陽明交通大學",
     "classes": "學生事務與生活",
     "is_target": "True",
     "cn_summary": "近期看到了一則令人心痛的消息，新竹市清華大學與陽明交通大學，今年不到半年內已發生三起學生墜樓身亡事件。一位資深消防員在社群上寫道：「當消防員10多年，第一次頻繁遇到，真的很令人惋惜……...…",
     "cn_title": "自由開講》在高學歷城市的背後 誰能為孩子撐起心裡的那把傘",
     "cn_classes": "學生事務與生活",
-    "cn_tags": "",
+    "cn_tags": "國立清華大學, 國立陽明交通大學",
     "source": "自由時報"
   },
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52clAwM2RoekJfSmN1ZzljQXliVGNmWDhIaDhsY29MeXZFV3cxZHBWV0V2TXRWRUx1RVhCRlloc1JYNGJGN2VWS2xYU1FtLVVx?oc=5": {
@@ -650,13 +650,13 @@
     "published": "2026-06-30 07:51",
     "images": [],
     "summary": "屏大師資生赴捷克校園見習童玩文化搭起交流橋梁| 大學研究所| 文教&nbsp;&nbsp;UDN",
-    "tags": "",
+    "tags": "研究所, 大學, 國立屏東大學, 文化",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "屏大師資生赴捷克校園見習童玩文化搭起交流橋梁| 大學研究所| 文教&nbsp;&nbsp;UDN",
     "cn_title": "屏大師資生赴捷克校園見習童玩文化搭起交流橋梁| 大學研究所| 文教 - UDN",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "",
+    "cn_tags": "研究所, 大學, 國立屏東大學, 文化",
     "source": "UDN 文教"
   },
   "https://www.chinatimes.com/campus/20260512003922-262301": {
@@ -701,13 +701,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/12/34940100.jpg&M=1&s=Y&x=0&y=0&sw=1275&sh=850&exp=3600"
     ],
     "summary": "``` \n嘉大與農水署攜手推動光電風雨球場計劃，旨在活化新民校區，打造綠能運動場。校長林翰謙表示，該計劃將轉化校園為實務學習場域，培養具備解決氣候變遷與減碳能力的跨領域專業人才。計劃重點包括智慧農業實習場的智慧灌溉系統，及「淨零綠領人才培育課程」，讓學生獲得環境部合格證明，提升綠色產業競爭力。這一合作示範了行政資源與學術研發的結合，將為農業永續發展奠定基礎。 \n```",
-    "tags": "嘉大,大學",
+    "tags": "國立嘉義大學, 大學",
     "classes": "校務治理與管理, 在地連結與社會責任（USR）",
     "is_target": "True",
     "cn_summary": "``` \n嘉大與農水署攜手推動光電風雨球場計劃，旨在活化新民校區，打造綠能運動場。校長林翰謙表示，該計劃將轉化校園為實務學習場域，培養具備解決氣候變遷與減碳能力的跨領域專業人才。計劃重點包括智慧農業實習場的智慧灌溉系統，及「淨零綠領人才培育課程」，讓學生獲得環境部合格證明，提升綠色產業競爭力。這一合作示範了行政資源與學術研發的結合，將為農業永續發展奠定基礎。 \n```",
     "cn_title": "嘉大與農水署推動光電風雨球場 新民校區活化打造綠能運動場",
     "cn_classes": "校務治理與管理, 在地連結與社會責任（USR）",
-    "cn_tags": "嘉大,大學",
+    "cn_tags": "國立嘉義大學, 大學",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260512003533-262301": {
@@ -718,13 +718,13 @@
       "https://images.chinatimes.com/newsphoto/2026-05-12/330/20260512003540.jpg"
     ],
     "summary": "``` \n真理大學加強產學連結，於7日舉辦校外教學，帶領師生參訪中國砂輪企業股份有限公司（KINIK）。此次活動由副董事長白文亮接待，他分享了精密研磨及半導體材料產業的發展趨勢和企業轉型的實務經驗。白董事長強調「共好經營」的核心價值，並介紹公司如何在全球市場中透過創新與策略調整提升競爭力。此外，他也探討了ESG（環境、社會、公司治理）理念的實踐，並以音樂拉近與學生的距離。這次參訪不僅讓學生了解產業一線，也深化了對企業轉型及職涯規劃的理解，未來將持續推動多元產學合作機會。 \n```",
-    "tags": "真理大學,大學",
+    "tags": "真理大學, 大學",
     "classes": "學術研究與創新, 教學與課程",
     "is_target": "True",
     "cn_summary": "``` \n真理大學加強產學連結，於7日舉辦校外教學，帶領師生參訪中國砂輪企業股份有限公司（KINIK）。此次活動由副董事長白文亮接待，他分享了精密研磨及半導體材料產業的發展趨勢和企業轉型的實務經驗。白董事長強調「共好經營」的核心價值，並介紹公司如何在全球市場中透過創新與策略調整提升競爭力。此外，他也探討了ESG（環境、社會、公司治理）理念的實踐，並以音樂拉近與學生的距離。這次參訪不僅讓學生了解產業一線，也深化了對企業轉型及職涯規劃的理解，未來將持續推動多元產學合作機會。 \n```",
     "cn_title": "真理大學校外教學走進中國砂輪公司　白文亮親授產業轉型與永續經營之道",
     "cn_classes": "學術研究與創新, 教學與課程",
-    "cn_tags": "真理大學,大學",
+    "cn_tags": "真理大學, 大學",
     "source": "chinatimes"
   },
   "https://udn.com/news/story/6928/9497755": {
@@ -769,13 +769,13 @@
       "https://images.chinatimes.com/newsphoto/2026-05-12/330/20260512001464.jpg"
     ],
     "summary": "輔仁大學推動彈性學習制度，重組畢業學分結構，實施「四個四分之一」的跨域多元學習模式。教務長蔡宗佑表示，該制度旨在應對AI時代挑戰，讓學生依據個人興趣與職涯規劃，自由組合課程，培養具跨界能力的人才。輔大將設置八大領域的60個學分學程，推動模組化課程設計，幫助學生建立第二專長。這一創新措施有望提升學生的職場競爭力，並鼓勵在安全資源豐富的環境中探索學習方向。",
-    "tags": "輔大, 大學",
+    "tags": "輔仁大學, 大學",
     "classes": "教學與課程, 國際交流與合作",
     "is_target": "True",
     "cn_summary": "輔仁大學推動彈性學習制度，重組畢業學分結構，實施「四個四分之一」的跨域多元學習模式。教務長蔡宗佑表示，該制度旨在應對AI時代挑戰，讓學生依據個人興趣與職涯規劃，自由組合課程，培養具跨界能力的人才。輔大將設置八大領域的60個學分學程，推動模組化課程設計，幫助學生建立第二專長。這一創新措施有望提升學生的職場競爭力，並鼓勵在安全資源豐富的環境中探索學習方向。",
     "cn_title": "輔大接軌國際推出跨域模組學習　大學不再「一系定終身」",
     "cn_classes": "教學與課程, 國際交流與合作",
-    "cn_tags": "輔大, 大學",
+    "cn_tags": "輔仁大學, 大學",
     "source": "chinatimes"
   },
   "https://udn.com/news/story/6928/9496532": {
@@ -786,13 +786,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/11/34936041.jpg&M=1&x=&y=&sw=&sh=&exp=3600"
     ],
     "summary": "``` \n台灣NASA計劃首席日籍教授解聘引發高教危機討論。此事件凸顯了大學在吸引和留任國際人才方面的挑戰，特別是在科研和創新領域。專家指出，解聘問題可能影響台灣高等教育的國際競爭力，並對學生的學習機會造成影響。教育界人士呼籲，政府應加強政策支持，以促進優秀人才的引進與留用，確保教育體系的穩定與發展。\n```",
-    "tags": "教授,高教",
+    "tags": "教授, 高教",
     "classes": "校務治理與管理, 校園爭議與事件",
     "is_target": "True",
     "cn_summary": "``` \n台灣NASA計劃首席日籍教授解聘引發高教危機討論。此事件凸顯了大學在吸引和留任國際人才方面的挑戰，特別是在科研和創新領域。專家指出，解聘問題可能影響台灣高等教育的國際競爭力，並對學生的學習機會造成影響。教育界人士呼籲，政府應加強政策支持，以促進優秀人才的引進與留用，確保教育體系的穩定與發展。\n```",
     "cn_title": "解聘爭議／台灣NASA計劃第一人 日籍教授案藏高教危機",
     "cn_classes": "校務治理與管理, 校園爭議與事件",
-    "cn_tags": "教授,高教",
+    "cn_tags": "教授, 高教",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9496132": {
@@ -837,13 +837,13 @@
       "https://images.chinatimes.com/newsphoto/2026-05-11/330/20260511002795.jpg"
     ],
     "summary": "``` \n南華大學學生專題競賽圓滿落幕 本年度南華大學學生專題競賽於6日舉行決賽，共有90支隊伍參賽，30組優秀團隊晉級，涵蓋智慧創新、人文探索等多元領域。校長高俊雄指出，今年的專題不僅是問題導向學習，更包括專案、政策與人本導向，聚焦公共議題和創新應用。競賽中，「紅寶之力」團隊以高效液相層析質譜技術奪得智慧創新組冠軍，展現生醫研究能力。校慶特別獎也頒發給呼應學校理念的優秀團隊，強調跨域整合與社會責任感的重要性。 \n```",
-    "tags": "南華大學,大學",
+    "tags": "南華大學, 大學",
     "classes": "教學與課程, 學生事務與生活",
     "is_target": "True",
     "cn_summary": "``` \n南華大學學生專題競賽圓滿落幕 本年度南華大學學生專題競賽於6日舉行決賽，共有90支隊伍參賽，30組優秀團隊晉級，涵蓋智慧創新、人文探索等多元領域。校長高俊雄指出，今年的專題不僅是問題導向學習，更包括專案、政策與人本導向，聚焦公共議題和創新應用。競賽中，「紅寶之力」團隊以高效液相層析質譜技術奪得智慧創新組冠軍，展現生醫研究能力。校慶特別獎也頒發給呼應學校理念的優秀團隊，強調跨域整合與社會責任感的重要性。 \n```",
     "cn_title": "南華大學學生專題競賽多元創新　展現跨域學習能量",
     "cn_classes": "教學與課程, 學生事務與生活",
-    "cn_tags": "南華大學,大學",
+    "cn_tags": "南華大學, 大學",
     "source": "chinatimes"
   },
   "https://udn.com/news/story/6928/9495172": {
@@ -854,13 +854,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/11/34935967.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` \n嘉義大學棒球隊獲台糖公司近100萬元資源支持，雙方於80周年慶典中簽署合作意向書。台糖將提供運動器材、保健食品及訓練經費，旨在培育體育人才並推動當地棒球發展。嘉大棒球隊歷史悠久，期望透過這項產學合作，進一步提升選手培訓品質，並為嘉義市創造新的棒球發展格局。民眾黨嘉義市長參選人張啟楷強調，這是國營企業回饋地方的典範，未來將繼續爭取各界資源以支持棒球運動。\n```",
-    "tags": "嘉大,大學,產學合作",
+    "tags": "國立嘉義大學, 大學, 產學合作",
     "classes": "學術研究與創新, 學生事務與生活",
     "is_target": "True",
     "cn_summary": "``` \n嘉義大學棒球隊獲台糖公司近100萬元資源支持，雙方於80周年慶典中簽署合作意向書。台糖將提供運動器材、保健食品及訓練經費，旨在培育體育人才並推動當地棒球發展。嘉大棒球隊歷史悠久，期望透過這項產學合作，進一步提升選手培訓品質，並為嘉義市創造新的棒球發展格局。民眾黨嘉義市長參選人張啟楷強調，這是國營企業回饋地方的典範，未來將繼續爭取各界資源以支持棒球運動。\n```",
     "cn_title": "嘉大棒球隊獲台糖百萬資源挹注 產學攜手打造嘉義棒球新格局",
     "cn_classes": "學術研究與創新, 學生事務與生活",
-    "cn_tags": "嘉大,大學,產學合作",
+    "cn_tags": "國立嘉義大學, 大學, 產學合作",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9494596": {
@@ -871,13 +871,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/11/34935724.jpg&M=1&s=Y&x=0&y=277&sw=960&sh=640&exp=3600"
     ],
     "summary": "``` \n台科大揭示鋰電池裂縫迷思 研究團隊近期發現，鋰電池電極的裂縫並不會削弱材料的擴散能力，而是透過界面與幾何效應主導傳輸行為。此研究由台科大機械工程系副教授蔡秉均帶領，採用計算驅動實驗的材料設計架構，首次定量解析裂縫對材料傳輸的影響，為設計高能量密度、快充及長壽命的鋰電池提供新物理基礎。該成果對未來鋰電池及固態電池技術發展具有關鍵意義。 \n```",
-    "tags": "台科大",
+    "tags": "國立臺灣科技大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "``` \n台科大揭示鋰電池裂縫迷思 研究團隊近期發現，鋰電池電極的裂縫並不會削弱材料的擴散能力，而是透過界面與幾何效應主導傳輸行為。此研究由台科大機械工程系副教授蔡秉均帶領，採用計算驅動實驗的材料設計架構，首次定量解析裂縫對材料傳輸的影響，為設計高能量密度、快充及長壽命的鋰電池提供新物理基礎。該成果對未來鋰電池及固態電池技術發展具有關鍵意義。 \n```",
     "cn_title": "台科大破鋰電池裂縫迷思 揭界面與幾何效應主導傳輸",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "台科大",
+    "cn_tags": "國立臺灣科技大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9492112": {
@@ -888,13 +888,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/09/34931620.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600"
     ],
     "summary": "```清華大學女學生墜樓事件引發關注。5月9日，一名女大學生在台積館墜樓，校方雖立即通報救護，但不治身亡。警方已調查監視器畫面，希望釐清事件經過。校方啟動校安機制，並提供心理輔導，呼籲校內師生避免傳播未經證實的信息。此次事件對學生心理健康和校園安全引發廣泛討論，校方表示將持續關注學生狀況，並提供必要的支持和協助。```",
-    "tags": "清華大學,女大生",
+    "tags": "國立清華大學, 女大生",
     "classes": "校園爭議與事件",
     "is_target": "True",
     "cn_summary": "```清華大學女學生墜樓事件引發關注。5月9日，一名女大學生在台積館墜樓，校方雖立即通報救護，但不治身亡。警方已調查監視器畫面，希望釐清事件經過。校方啟動校安機制，並提供心理輔導，呼籲校內師生避免傳播未經證實的信息。此次事件對學生心理健康和校園安全引發廣泛討論，校方表示將持續關注學生狀況，並提供必要的支持和協助。```",
     "cn_title": "清華大學女學生台積館墜樓亡 警方調監視器釐清案情",
     "cn_classes": "校園爭議與事件",
-    "cn_tags": "清華大學,女大生",
+    "cn_tags": "國立清華大學, 女大生",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9491998": {
@@ -905,13 +905,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/09/34931461.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` \n台大藝術季以「DECOmposer 分解者」為主題正式登場，探討生命科學與生態議題。該活動由生命科學系學生策劃，旨在透過藝術重新詮釋與公民科學相關的生命故事，強調人類與自然之間的關係。展覽包括針對窗殺、路殺等議題的專屬展場，並鼓勵參與者成為「分解者」，體驗科學記錄過程。此外，藝術季還設有多個工作坊，促進藝術與生活的結合，讓學生在創作中反思動物生命的重要性。 \n```",
-    "tags": "台大,大學",
+    "tags": "國立臺灣大學, 大學",
     "classes": "學生事務與生活",
     "is_target": "True",
     "cn_summary": "``` \n台大藝術季以「DECOmposer 分解者」為主題正式登場，探討生命科學與生態議題。該活動由生命科學系學生策劃，旨在透過藝術重新詮釋與公民科學相關的生命故事，強調人類與自然之間的關係。展覽包括針對窗殺、路殺等議題的專屬展場，並鼓勵參與者成為「分解者」，體驗科學記錄過程。此外，藝術季還設有多個工作坊，促進藝術與生活的結合，讓學生在創作中反思動物生命的重要性。 \n```",
     "cn_title": "窗殺路殺入題、看見動物困境 台大藝術季今登場",
     "cn_classes": "學生事務與生活",
-    "cn_tags": "台大,大學",
+    "cn_tags": "國立臺灣大學, 大學",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260509001273-262301": {
@@ -939,13 +939,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/08/34930482.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` \n中山大學與台灣大學醫學院合作，共同推進護理教育。兩校近日簽署教學及研究合作備忘錄，將透過師資交流和跨校授課，培育具備專業照護、人文關懷及科技應用能力的護理人才。這項合作旨在提升南台灣的醫療人才培育，讓當地學生能接觸頂尖的護理教育資源，並強化其臨床實習和研究能力。隨著智慧醫療需求的增加，此舉將有助於應對高齡化社會的挑戰。\n```",
-    "tags": "中山大學,台大",
+    "tags": "國立中山大學, 國立臺灣大學",
     "classes": "教學與課程",
     "is_target": "True",
     "cn_summary": "``` \n中山大學與台灣大學醫學院合作，共同推進護理教育。兩校近日簽署教學及研究合作備忘錄，將透過師資交流和跨校授課，培育具備專業照護、人文關懷及科技應用能力的護理人才。這項合作旨在提升南台灣的醫療人才培育，讓當地學生能接觸頂尖的護理教育資源，並強化其臨床實習和研究能力。隨著智慧醫療需求的增加，此舉將有助於應對高齡化社會的挑戰。\n```",
     "cn_title": "不必北漂讀護理！中山大學接軌台大醫學院共享教學資源",
     "cn_classes": "教學與課程",
-    "cn_tags": "中山大學,台大",
+    "cn_tags": "國立中山大學, 國立臺灣大學",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260508003458-262301": {
@@ -956,13 +956,13 @@
       "https://images.chinatimes.com/newsphoto/2026-05-08/330/20260508003470.png"
     ],
     "summary": "``` \n中國文化大學桃園分部正式成立，成為北台灣第八個服務據點，致力於推動終身學習與地方發展。桃園市長張善政出席開幕典禮，強調該分部將加強人文素養及技能培訓，滿足社會需求。新分部將提供多元課程，包括藝術文創與運動健康，並以靈活學習機制為核心，致力於讓學習不受時間與距離限制。文化大學副校長表示，此舉將進一步強化桃園在智慧科技及產業發展的角色，為市民提供更全面的進修機會。 \n```",
-    "tags": "文大",
+    "tags": "中國文化大學",
     "classes": "教學與課程, 校務治理與管理",
     "is_target": "True",
     "cn_summary": "``` \n中國文化大學桃園分部正式成立，成為北台灣第八個服務據點，致力於推動終身學習與地方發展。桃園市長張善政出席開幕典禮，強調該分部將加強人文素養及技能培訓，滿足社會需求。新分部將提供多元課程，包括藝術文創與運動健康，並以靈活學習機制為核心，致力於讓學習不受時間與距離限制。文化大學副校長表示，此舉將進一步強化桃園在智慧科技及產業發展的角色，為市民提供更全面的進修機會。 \n```",
     "cn_title": "張善政認證全國第一！文大推廣教育插旗桃園　補足終身教育最後一塊拼圖",
     "cn_classes": "教學與課程, 校務治理與管理",
-    "cn_tags": "文大",
+    "cn_tags": "中國文化大學",
     "source": "chinatimes"
   },
   "https://www.chinatimes.com/campus/20260508002533-262301": {
@@ -973,13 +973,13 @@
       "https://images.chinatimes.com/newsphoto/2026-05-08/330/20260508002548.jpg"
     ],
     "summary": "``` \n南華大學產品與室內設計學系近期傳出佳績，9名參加「建築物室內裝修工程管理乙級技術士」術科考試的學生中，有5人成功通過，通過率達60%。該系自114年起開設證照輔導班，透過專業師資和實務課程，強化學生的專業實務能力，並鼓勵考取國家級專業證照。學生們表示，備考過程雖具挑戰，但在教師的指導下，逐漸建立信心，這張證照不僅肯定專業能力，還為未來職涯奠定良好基礎。校方將持續優化課程，協助更多學生提升職場競爭力。 \n```",
-    "tags": "南華大學,大學",
+    "tags": "南華大學, 大學",
     "classes": "教學與課程, 學生事務與生活",
     "is_target": "True",
     "cn_summary": "``` \n南華大學產品與室內設計學系近期傳出佳績，9名參加「建築物室內裝修工程管理乙級技術士」術科考試的學生中，有5人成功通過，通過率達60%。該系自114年起開設證照輔導班，透過專業師資和實務課程，強化學生的專業實務能力，並鼓勵考取國家級專業證照。學生們表示，備考過程雖具挑戰，但在教師的指導下，逐漸建立信心，這張證照不僅肯定專業能力，還為未來職涯奠定良好基礎。校方將持續優化課程，協助更多學生提升職場競爭力。 \n```",
     "cn_title": "南華大學證照輔導有成　產設系乙級技術士考照成果亮眼",
     "cn_classes": "教學與課程, 學生事務與生活",
-    "cn_tags": "南華大學,大學",
+    "cn_tags": "南華大學, 大學",
     "source": "chinatimes"
   },
   "https://udn.com/news/story/6928/9490080": {
@@ -990,13 +990,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/08/34928560.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600"
     ],
     "summary": "``` \n金門大學舉辦「療癒手作工作坊－紓壓手作植栽生態瓶」活動，吸引眾多學生參加。學生們在專業講師的指導下，利用玻璃標本瓶創作個人化的微型生態系統，透過手作與植物互動，緩解課業壓力。活動中，學生們專注投入，分享創作靈感，氣氛輕鬆愉快。校長表示，未來將持續策劃類似的療癒活動，幫助學生在繁忙的學業中找到情緒的出口，提升生活品質與幸福感。此舉顯示學校對學生心理健康的重視。 \n```",
-    "tags": "金大",
+    "tags": "國立金門大學",
     "classes": "學生事務與生活",
     "is_target": "True",
     "cn_summary": "``` \n金門大學舉辦「療癒手作工作坊－紓壓手作植栽生態瓶」活動，吸引眾多學生參加。學生們在專業講師的指導下，利用玻璃標本瓶創作個人化的微型生態系統，透過手作與植物互動，緩解課業壓力。活動中，學生們專注投入，分享創作靈感，氣氛輕鬆愉快。校長表示，未來將持續策劃類似的療癒活動，幫助學生在繁忙的學業中找到情緒的出口，提升生活品質與幸福感。此舉顯示學校對學生心理健康的重視。 \n```",
     "cn_title": "金大辦療癒生態瓶工作坊 學生打造「瓶中森林」紓解課業壓力",
     "cn_classes": "學生事務與生活",
-    "cn_tags": "金大",
+    "cn_tags": "國立金門大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9490057": {
@@ -1007,13 +1007,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/08/34928508.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` \n台大推動全英語授課教師工作坊 獲教育部認證\n\n國立台灣大學的EMI（全英語授課）教學資源中心近期推出的「EMI Plus 教師增能工作坊」已正式通過教育部的EMI課程教學增能課程認證。此工作坊結合國際教學培訓架構ISW與EMI課室實務需求，旨在提升教師的教學能力。課程提供36小時的專業培訓，涵蓋BOPPPS教學架構及互動式教學等內容，並包含微型教學演練。參加教師可獲得結訓證明及ISW國際證書，進一步提升其專業能見度，並促進跨校交流與實務分享。\n```",
-    "tags": "台大",
+    "tags": "國立臺灣大學",
     "classes": "教學與課程",
     "is_target": "True",
     "cn_summary": "``` \n台大推動全英語授課教師工作坊 獲教育部認證\n\n國立台灣大學的EMI（全英語授課）教學資源中心近期推出的「EMI Plus 教師增能工作坊」已正式通過教育部的EMI課程教學增能課程認證。此工作坊結合國際教學培訓架構ISW與EMI課室實務需求，旨在提升教師的教學能力。課程提供36小時的專業培訓，涵蓋BOPPPS教學架構及互動式教學等內容，並包含微型教學演練。參加教師可獲得結訓證明及ISW國際證書，進一步提升其專業能見度，並促進跨校交流與實務分享。\n```",
     "cn_title": "台大「雙軸整合式」全英語授課教師工作坊 獲教育部認證",
     "cn_classes": "教學與課程",
-    "cn_tags": "台大",
+    "cn_tags": "國立臺灣大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9489917": {
@@ -1024,13 +1024,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/08/34928263.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "```  \n海大學生梁祐嘉獲蘋果WWDC 2026學生挑戰賽獎項  國立台灣海洋大學資訊工程學系四年級學生梁祐嘉設計的數位效果器APP，專為吉他手而生，近日榮獲蘋果WWDC 2026 Swift學生挑戰賽獎項，全球僅350位得主中，台灣只有8位。該APP結合AI助手，能有效降低音樂學習與音色調整的門檻，使用者可透過自然語言指令調整參數，並支援多種音效，為預算有限的音樂愛好者提供便利。梁祐嘉感謝海大的教學資源，鼓勵學弟妹參與國際競賽以拓展視野。  \n```",
-    "tags": "國立臺灣海洋大學,海大,大學",
+    "tags": "國立臺灣海洋大學, 大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "```  \n海大學生梁祐嘉獲蘋果WWDC 2026學生挑戰賽獎項  國立台灣海洋大學資訊工程學系四年級學生梁祐嘉設計的數位效果器APP，專為吉他手而生，近日榮獲蘋果WWDC 2026 Swift學生挑戰賽獎項，全球僅350位得主中，台灣只有8位。該APP結合AI助手，能有效降低音樂學習與音色調整的門檻，使用者可透過自然語言指令調整參數，並支援多種音效，為預算有限的音樂愛好者提供便利。梁祐嘉感謝海大的教學資源，鼓勵學弟妹參與國際競賽以拓展視野。  \n```",
     "cn_title": "蘋果WWDC26學生挑戰賽 海大梁祐嘉吉他APP獲獎",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "國立臺灣海洋大學,海大,大學",
+    "cn_tags": "國立臺灣海洋大學, 大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9489525": {
@@ -1075,13 +1075,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/07/34925493.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600"
     ],
     "summary": "``` \n曾文駿驚豔全大運 重新回歸體操贏得7面獎牌 \n\n國立台東大學的24歲選手曾文駿，在離開體操近10年後重返賽場，於115年全國大專校院運動會中表現出色，拿下3金1銀3銅，共計7面獎牌，成為焦點。曾文駿在個人全能、吊環及鞍馬項目中表現亮眼，展現了他在訓練中的努力與決心。他的復出之路充滿挑戰，曾因高壓訓練而放棄體操，但重新思考後回到校園，燃起熱情。這段經歷不僅激勵了他自己，也彰顯了東大不屈不撓的精神與對夢想的追求。 \n```",
-    "tags": "台東大學,大學",
+    "tags": "國立臺東大學, 大學",
     "classes": "學生事務與生活",
     "is_target": "True",
     "cn_summary": "``` \n曾文駿驚豔全大運 重新回歸體操贏得7面獎牌 \n\n國立台東大學的24歲選手曾文駿，在離開體操近10年後重返賽場，於115年全國大專校院運動會中表現出色，拿下3金1銀3銅，共計7面獎牌，成為焦點。曾文駿在個人全能、吊環及鞍馬項目中表現亮眼，展現了他在訓練中的努力與決心。他的復出之路充滿挑戰，曾因高壓訓練而放棄體操，但重新思考後回到校園，燃起熱情。這段經歷不僅激勵了他自己，也彰顯了東大不屈不撓的精神與對夢想的追求。 \n```",
     "cn_title": "超狂紀錄！離開體操10年再回歸！台東大學曾文駿全大運狂掃7獎牌",
     "cn_classes": "學生事務與生活",
-    "cn_tags": "台東大學,大學",
+    "cn_tags": "國立臺東大學, 大學",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260507003094-262301": {
@@ -1092,13 +1092,13 @@
       "https://images.chinatimes.com/newsphoto/2026-05-07/330/20260507003109.jpg"
     ],
     "summary": "``` 南華大學推動慢城發展成果顯著 自2016年輔導大林鎮獲得義大利國際慢城認證以來，南華大學持續協助多個鄉鎮通過認證，包括屏東竹田、台東池上及馬祖東引。2023年，瑪家鄉啟動國際慢城申請，並於2024年赴韓國交流。近期，瑪家鄉與三義鄉簽署姊妹鄉合作備忘錄，促進地方創生與藝術文化交流。南華大學將於4月23日舉辦慢城培力工作坊，邀請專家分享推動經驗，以加強在地居民對慢城理念的認識。這一系列行動不僅展示了地方特色，也有助於提升國際視野，預計將於2026年台灣慢城年會中展現成果。```",
-    "tags": "南華大學,大學",
+    "tags": "南華大學, 大學",
     "classes": "在地連結與社會責任（USR）, 國際交流與合作",
     "is_target": "True",
     "cn_summary": "``` 南華大學推動慢城發展成果顯著 自2016年輔導大林鎮獲得義大利國際慢城認證以來，南華大學持續協助多個鄉鎮通過認證，包括屏東竹田、台東池上及馬祖東引。2023年，瑪家鄉啟動國際慢城申請，並於2024年赴韓國交流。近期，瑪家鄉與三義鄉簽署姊妹鄉合作備忘錄，促進地方創生與藝術文化交流。南華大學將於4月23日舉辦慢城培力工作坊，邀請專家分享推動經驗，以加強在地居民對慢城理念的認識。這一系列行動不僅展示了地方特色，也有助於提升國際視野，預計將於2026年台灣慢城年會中展現成果。```",
     "cn_title": "南華大學推動慢城有成　攜手瑪家鄉、三義鄉深化國際慢城交流",
     "cn_classes": "在地連結與社會責任（USR）, 國際交流與合作",
-    "cn_tags": "南華大學,大學",
+    "cn_tags": "南華大學, 大學",
     "source": "chinatimes"
   },
   "https://udn.com/news/story/6928/9487768": {
@@ -1109,13 +1109,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/07/34925018.jpg&M=1&s=Y&x=0&y=0&sw=1273&sh=849&exp=3600"
     ],
     "summary": "``` \n國北教大推行偏鄉教師培育新模式 為解決偏鄉教學難題，國立台北教育大學與教育部簽署合作備忘錄，將於115學年度啟動全台首個「教學實作導向」偏鄉在職學士後教育學分班。此課程透過混成式學習，結合線上及實體教學，並引入教學教練陪伴機制，實現理論與實踐的深度整合。該模式旨在支持偏鄉教師的專業成長，並提升留任率，預計招收48名現職代理教師，強調「教學即工作，進修即成長」。此計畫反映了政府與民間在偏鄉教育的合作努力，期望能有效應對偏鄉師資短缺問題。 \n```",
-    "tags": "國北教,在職專班,學分",
+    "tags": "國立臺北教育大學, 在職專班, 學分",
     "classes": "教學與課程, 在地連結與社會責任（USR）",
     "is_target": "True",
     "cn_summary": "``` \n國北教大推行偏鄉教師培育新模式 為解決偏鄉教學難題，國立台北教育大學與教育部簽署合作備忘錄，將於115學年度啟動全台首個「教學實作導向」偏鄉在職學士後教育學分班。此課程透過混成式學習，結合線上及實體教學，並引入教學教練陪伴機制，實現理論與實踐的深度整合。該模式旨在支持偏鄉教師的專業成長，並提升留任率，預計招收48名現職代理教師，強調「教學即工作，進修即成長」。此計畫反映了政府與民間在偏鄉教育的合作努力，期望能有效應對偏鄉師資短缺問題。 \n```",
     "cn_title": "解決偏鄉老師教學難題…國北教在職學分班 首次有「教練」陪課",
     "cn_classes": "教學與課程, 在地連結與社會責任（USR）",
-    "cn_tags": "國北教,在職專班,學分",
+    "cn_tags": "國立臺北教育大學, 在職專班, 學分",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9487621": {
@@ -1126,13 +1126,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid11195_7.jpg"
     ],
     "summary": "``` \n國北教大與TFT合作推出在職師資培育計畫，旨在解決偏鄉學校教師流動率高的問題。自2026學年度起，將開設「教學實作導向師資培育偏遠地區學校學士後教育學分班」，專為在偏鄉任教的代理教師設計。該課程採用混成學習模式，結合線上和實體課程，並由專業教練提供支持，幫助教師提升文化敏感度和教學實力。這一創新舉措期望能為偏鄉教師提供穩定的專業支持，促進其留任，進而改善偏鄉教育品質。 \n```",
-    "tags": "國北教大",
+    "tags": "國立臺北教育大學",
     "classes": "教學與課程, 在地連結與社會責任（USR）",
     "is_target": "True",
     "cn_summary": "``` \n國北教大與TFT合作推出在職師資培育計畫，旨在解決偏鄉學校教師流動率高的問題。自2026學年度起，將開設「教學實作導向師資培育偏遠地區學校學士後教育學分班」，專為在偏鄉任教的代理教師設計。該課程採用混成學習模式，結合線上和實體課程，並由專業教練提供支持，幫助教師提升文化敏感度和教學實力。這一創新舉措期望能為偏鄉教師提供穩定的專業支持，促進其留任，進而改善偏鄉教育品質。 \n```",
     "cn_title": "國北教大與TFT合作在職師資培育 為偏鄉學校留才",
     "cn_classes": "教學與課程, 在地連結與社會責任（USR）",
-    "cn_tags": "國北教大",
+    "cn_tags": "國立臺北教育大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9487360": {
@@ -1143,13 +1143,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/07/34924242.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "```  \n諾貝爾獎得主法蘭克在國立台灣大學發表演講，介紹了抗疫關鍵技術「低溫電子顯微鏡」的應用。他指出，該技術在COVID-19疫情期間幫助科學家迅速觀察刺突蛋白結構，對疫苗開發至關重要。法蘭克強調，低溫電子顯微鏡技術已成為對抗癌症和其他疾病的核心工具，能在接近自然狀態下觀察蛋白質的動態變化，並為現代藥物設計提供了重要的視覺證據。這一技術的進步不僅改變了結構生物學的研究範式，也為生命科學領域帶來了前所未有的機遇。  \n```",
-    "tags": "台大,大學",
+    "tags": "國立臺灣大學, 大學",
     "classes": "學術研究與創新, 教學與課程",
     "is_target": "True",
     "cn_summary": "```  \n諾貝爾獎得主法蘭克在國立台灣大學發表演講，介紹了抗疫關鍵技術「低溫電子顯微鏡」的應用。他指出，該技術在COVID-19疫情期間幫助科學家迅速觀察刺突蛋白結構，對疫苗開發至關重要。法蘭克強調，低溫電子顯微鏡技術已成為對抗癌症和其他疾病的核心工具，能在接近自然狀態下觀察蛋白質的動態變化，並為現代藥物設計提供了重要的視覺證據。這一技術的進步不僅改變了結構生物學的研究範式，也為生命科學領域帶來了前所未有的機遇。  \n```",
     "cn_title": "諾貝爾獎得主法蘭克台大開講 解密抗疫功臣「低溫電子顯微鏡」應用",
     "cn_classes": "學術研究與創新, 教學與課程",
-    "cn_tags": "台大,大學",
+    "cn_tags": "國立臺灣大學, 大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9486212": {
@@ -1160,13 +1160,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/06/34922771.png&M=1&s=Y&x=70&y=47&sw=1210&sh=806&exp=3600"
     ],
     "summary": "``` \n成大行政人員誤將AI輔助修改的內部對話發送至全校，引發熱議。這封信件原本是邀請參加「成功永續金質獎」頒獎典禮，但末段出現的AI指令「幫我修正一下信件的內容，並且縮減一下內容不要這麼冗長」，讓網友笑翻。此事件提醒行政人員在使用AI工具時，需謹慎檢查內容，避免類似烏龍再次發生。專家表示，這也反映了AI在教育行政中的潛在影響，強調人機協作的重要性。 \n```",
-    "tags": "成大",
+    "tags": "國立成功大學",
     "classes": "校園爭議與事件",
     "is_target": "True",
     "cn_summary": "``` \n成大行政人員誤將AI輔助修改的內部對話發送至全校，引發熱議。這封信件原本是邀請參加「成功永續金質獎」頒獎典禮，但末段出現的AI指令「幫我修正一下信件的內容，並且縮減一下內容不要這麼冗長」，讓網友笑翻。此事件提醒行政人員在使用AI工具時，需謹慎檢查內容，避免類似烏龍再次發生。專家表示，這也反映了AI在教育行政中的潛在影響，強調人機協作的重要性。 \n```",
     "cn_title": "抓包AI代筆！成大全校信驚見「幫我縮減內容」 眾人笑瘋：Email不能收回啊",
     "cn_classes": "校園爭議與事件",
-    "cn_tags": "成大",
+    "cn_tags": "國立成功大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9486131": {
@@ -1177,13 +1177,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/06/34922636.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "```\n台大外文畢業生薪資現狀引發關注。一名31歲的畢業生在Dcard上發文，透露自己工作後年薪僅50萬元，遭遇到多次求職困境，因「缺乏相關經歷」而被拒絕。此情況引起網友熱議，許多人指出文科生在職場上的挑戰，並建議他結合其他專業技能以提高競爭力。部分網友質疑其背景，認為其薪水與台大外文系的普遍水平不符，並呼籲加強跨領域發展以提升就業機會。\n```",
-    "tags": "臺大",
+    "tags": "國立臺灣大學",
     "classes": "學生事務與生活",
     "is_target": "True",
     "cn_summary": "```\n台大外文畢業生薪資現狀引發關注。一名31歲的畢業生在Dcard上發文，透露自己工作後年薪僅50萬元，遭遇到多次求職困境，因「缺乏相關經歷」而被拒絕。此情況引起網友熱議，許多人指出文科生在職場上的挑戰，並建議他結合其他專業技能以提高競爭力。部分網友質疑其背景，認為其薪水與台大外文系的普遍水平不符，並呼籲加強跨領域發展以提升就業機會。\n```",
     "cn_title": "台大外文畢業年薪僅50萬？他崩潰喊「被嫌沒經歷」 網揪1細節疑造假",
     "cn_classes": "學生事務與生活",
-    "cn_tags": "臺大",
+    "cn_tags": "國立臺灣大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9485929": {
@@ -1194,13 +1194,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/06/34922323.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600"
     ],
     "summary": "``` \n「吊車大王」胡漢龑近日在中國文化大學分享「花布美學」，鼓勵學生展現個人風格並培養不可替代的專業技能。他強調，企業成功源自於對傳統的創新，並以自身經驗指出，對於青年而言，具備高技術的吊車操作員職位提供穩定的工作機會與優渥薪資。胡漢龑提到，學歷並非唯一的成功指標，重要的是培養具實用性的技能。他也鼓勵學生積極參與公益活動，透過自身能力影響社會，推動正向的改變。 \n```",
-    "tags": "大學,文大",
+    "tags": "大學, 中國文化大學",
     "classes": "學生事務與生活",
     "is_target": "True",
     "cn_summary": "``` \n「吊車大王」胡漢龑近日在中國文化大學分享「花布美學」，鼓勵學生展現個人風格並培養不可替代的專業技能。他強調，企業成功源自於對傳統的創新，並以自身經驗指出，對於青年而言，具備高技術的吊車操作員職位提供穩定的工作機會與優渥薪資。胡漢龑提到，學歷並非唯一的成功指標，重要的是培養具實用性的技能。他也鼓勵學生積極參與公益活動，透過自身能力影響社會，推動正向的改變。 \n```",
     "cn_title": "吊車大王胡漢龑文大開講 「花布美學」喻做事如穿衣要有個人風格",
     "cn_classes": "學生事務與生活",
-    "cn_tags": "大學,文大",
+    "cn_tags": "大學, 中國文化大學",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260506003745-262301": {
@@ -1228,13 +1228,13 @@
       "https://images.chinatimes.com/newsphoto/2026-05-06/330/20260506003288.jpg"
     ],
     "summary": "```  \n中國文化大學新聞學系近日舉辦「文化新聞—傑出新聞工作者的搖籃」講座，邀請多位校友分享實戰經驗。活動由校友何戎主持，與多位不同屆別的校友對談，促進跨世代交流。校友們強調理論與實務並重的重要性，並分享投身新聞領域的契機及職涯初期挑戰。面對人工智慧的影響，他們認為AI無法取代新聞工作中的人際互動。此次講座不僅增進在校學生對新聞職場的理解，也激勵學生持續精進專業能力，承擔新聞使命。  \n```",
-    "tags": "文化大學,大學",
+    "tags": "中國文化大學, 大學",
     "classes": "學生事務與生活",
     "is_target": "True",
     "cn_summary": "```  \n中國文化大學新聞學系近日舉辦「文化新聞—傑出新聞工作者的搖籃」講座，邀請多位校友分享實戰經驗。活動由校友何戎主持，與多位不同屆別的校友對談，促進跨世代交流。校友們強調理論與實務並重的重要性，並分享投身新聞領域的契機及職涯初期挑戰。面對人工智慧的影響，他們認為AI無法取代新聞工作中的人際互動。此次講座不僅增進在校學生對新聞職場的理解，也激勵學生持續精進專業能力，承擔新聞使命。  \n```",
     "cn_title": "跨世代新聞人齊聚文化大學    校友分享第一線實戰經驗",
     "cn_classes": "學生事務與生活",
-    "cn_tags": "文化大學,大學",
+    "cn_tags": "中國文化大學, 大學",
     "source": "chinatimes"
   },
   "https://udn.com/news/story/6928/9485669": {
@@ -1245,13 +1245,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/06/34921931.jpg&M=1&s=Y&x=0&y=0&sw=1236&sh=824&exp=3600"
     ],
     "summary": "``` \n台師大開放教育專業課程納入畢業學分，將學士班自由選修學分中整合師培學分，旨在減輕學生修課負擔並提升修讀意願。教育部修正相關辦法，允許設有師資培育中心的大學自訂規則，學生的教育學程學分可抵認通識或自由學分。台大則表示將審慎評估此政策，並持續研議相關作法，期望改善師資生的課程完成率，提升教學靈活性。這一改變可能對學生的學習路徑和教育專業的吸引力產生積極影響。 \n```",
-    "tags": "師大, 台大, 學分",
+    "tags": "國立臺灣師範大學, 國立臺灣大學, 學分",
     "classes": "教學與課程",
     "is_target": "True",
     "cn_summary": "``` \n台師大開放教育專業課程納入畢業學分，將學士班自由選修學分中整合師培學分，旨在減輕學生修課負擔並提升修讀意願。教育部修正相關辦法，允許設有師資培育中心的大學自訂規則，學生的教育學程學分可抵認通識或自由學分。台大則表示將審慎評估此政策，並持續研議相關作法，期望改善師資生的課程完成率，提升教學靈活性。這一改變可能對學生的學習路徑和教育專業的吸引力產生積極影響。 \n```",
     "cn_title": "台師大開放教程學分納入畢業學分 台大：配合政策審慎評估",
     "cn_classes": "教學與課程",
-    "cn_tags": "師大, 台大, 學分",
+    "cn_tags": "國立臺灣師範大學, 國立臺灣大學, 學分",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260506002645-262301": {
@@ -1262,13 +1262,13 @@
       "https://images.chinatimes.com/newsphoto/2026-05-06/330/20260506002745.jpg"
     ],
     "summary": "明新科技大學於4月25日至26日及5月2日至3日舉辦了為期四天的成長營，吸引46名青年參與，透過航太科技、鑑識科學及國際金融三大主題課程進行培訓。此次成長營的主題包括「法國航太探索之旅」、「倫敦鑑識迷蹤大冒險」及「前進美加：全球治理想像力」，旨在增強學員的跨域學習與國際視野。活動中，學員實作火箭設計、鑑識技術等，並將於未來前往英國、法國及美國等地進行海外見學，為其升學與職涯發展奠定基礎。",
-    "tags": "明新科大,科大",
+    "tags": "明新科技大學, 科大",
     "classes": "教學與課程, 學生事務與生活, 國際交流與合作",
     "is_target": "True",
     "cn_summary": "明新科技大學於4月25日至26日及5月2日至3日舉辦了為期四天的成長營，吸引46名青年參與，透過航太科技、鑑識科學及國際金融三大主題課程進行培訓。此次成長營的主題包括「法國航太探索之旅」、「倫敦鑑識迷蹤大冒險」及「前進美加：全球治理想像力」，旨在增強學員的跨域學習與國際視野。活動中，學員實作火箭設計、鑑識技術等，並將於未來前往英國、法國及美國等地進行海外見學，為其升學與職涯發展奠定基礎。",
     "cn_title": "明新科大海外圓夢營結訓　航太科技、鑑識科學、國際金融成亮點",
     "cn_classes": "教學與課程, 學生事務與生活, 國際交流與合作",
-    "cn_tags": "明新科大,科大",
+    "cn_tags": "明新科技大學, 科大",
     "source": "chinatimes"
   },
   "https://udn.com/news/story/6928/9484844": {
@@ -1279,13 +1279,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/06/34920436.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` \n台師大教育學分納入畢業學分，教團指出仍有「2關鍵」待改善\n國立台灣師範大學宣布，自本學期起將教育專業課程納入學士班畢業學分計算，旨在減輕學生修課負擔並提高修習意願。此新制改變了長期以來的外加學分制度，預計吸引更多學生選修教育課程。然而，全國教師工會總聯合會理事長侯俊良表示，若未同步改善教師待遇及工作環境，改革效果將有限。專家強調師培品質需檢視，確保能培養實際教學能力，而非僅重視學分數。 \n```",
-    "tags": "臺師大,學分",
+    "tags": "國立臺灣師範大學, 學分",
     "classes": "教學與課程",
     "is_target": "True",
     "cn_summary": "``` \n台師大教育學分納入畢業學分，教團指出仍有「2關鍵」待改善\n國立台灣師範大學宣布，自本學期起將教育專業課程納入學士班畢業學分計算，旨在減輕學生修課負擔並提高修習意願。此新制改變了長期以來的外加學分制度，預計吸引更多學生選修教育課程。然而，全國教師工會總聯合會理事長侯俊良表示，若未同步改善教師待遇及工作環境，改革效果將有限。專家強調師培品質需檢視，確保能培養實際教學能力，而非僅重視學分數。 \n```",
     "cn_title": "台師大教育學分納入畢業學分 教團指還有「2關鍵」待改善",
     "cn_classes": "教學與課程",
-    "cn_tags": "臺師大,學分",
+    "cn_tags": "國立臺灣師範大學, 學分",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9484704": {
@@ -1296,13 +1296,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/06/34920228.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` \n台師大推動教師培育改革 開放教育專業課程納入畢業學分\n\n為應對教師荒，國立台灣師範大學（台師大）宣布，自本學期起，將教育專業課程學分納入學士班自由選修學分，學生可在128學分的畢業要求中靈活規劃修課。此政策源自教育部對師資培育中心辦法的修正，旨在減輕學生修課壓力，提升對教育學程的吸引力。專家指出，這一變革不僅有助於學生提前規劃職涯，還能吸引更多具潛力的年輕人投身教育行業，促進未來教育人才的發展。\n```",
-    "tags": "臺師大,學分",
+    "tags": "國立臺灣師範大學, 學分",
     "classes": "教學與課程",
     "is_target": "True",
     "cn_summary": "``` \n台師大推動教師培育改革 開放教育專業課程納入畢業學分\n\n為應對教師荒，國立台灣師範大學（台師大）宣布，自本學期起，將教育專業課程學分納入學士班自由選修學分，學生可在128學分的畢業要求中靈活規劃修課。此政策源自教育部對師資培育中心辦法的修正，旨在減輕學生修課壓力，提升對教育學程的吸引力。專家指出，這一變革不僅有助於學生提前規劃職涯，還能吸引更多具潛力的年輕人投身教育行業，促進未來教育人才的發展。\n```",
     "cn_title": "搶救教師荒！台師大開第一槍 開放教程學分納入畢業學分",
     "cn_classes": "教學與課程",
-    "cn_tags": "臺師大,學分",
+    "cn_tags": "國立臺灣師範大學, 學分",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9483647": {
@@ -1313,13 +1313,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/05/34919023.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "中興大學研究：柑橘廢棄物變黃金 具生醫保健潛力  \n國立中興大學循環經濟研究學院的最新研究顯示，柑橘加工廢棄物中的天然單萜類化合物γ-terpinene，能有效恢復粒線體活力並保護神經細胞。該研究已發表於國際期刊《功能性食品》。研究團隊發現，這些化合物不僅提升粒線體能量代謝，還有助於修復受損神經，預期將對生醫保健產品的發展產生重要影響。這一成果展現了如何將低價廢棄物轉化為高價值的生物活性材料，符合循環經濟的理念。",
-    "tags": "中興大學",
+    "tags": "國立中興大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "中興大學研究：柑橘廢棄物變黃金 具生醫保健潛力  \n國立中興大學循環經濟研究學院的最新研究顯示，柑橘加工廢棄物中的天然單萜類化合物γ-terpinene，能有效恢復粒線體活力並保護神經細胞。該研究已發表於國際期刊《功能性食品》。研究團隊發現，這些化合物不僅提升粒線體能量代謝，還有助於修復受損神經，預期將對生醫保健產品的發展產生重要影響。這一成果展現了如何將低價廢棄物轉化為高價值的生物活性材料，符合循環經濟的理念。",
     "cn_title": "中興大學研究：柑橘廢棄物變黃金 具生醫保健潛力",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "中興大學",
+    "cn_tags": "國立中興大學",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260505004041-262301": {
@@ -1347,13 +1347,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/05/34918197.jpg&M=1&s=Y&x=1&y=75&sw=1279&sh=853&exp=3600"
     ],
     "summary": "``` \n政大獲得保育共生地認證，成為第一所非農林背景的國立大學，旨在推動生態保護與教育。X實驗學院將於115學年度推出「綠色照顧與生態倫理：冒險體驗教育」微課程，結合泰雅族山林知識，帶學生深入烏來部落進行文化浸泡，促進生態意識與實踐。課程透過探險和互動學習，增進學生與自然的聯繫，並設計「政大後山綠色療癒體驗教案」，期望成為生物多樣性保護的重要場域，並提升學生的生態自我認知。\n```",
-    "tags": "政大,學生",
+    "tags": "國立政治大學, 學生",
     "classes": "教學與課程, 在地連結與社會責任（USR）",
     "is_target": "True",
     "cn_summary": "``` \n政大獲得保育共生地認證，成為第一所非農林背景的國立大學，旨在推動生態保護與教育。X實驗學院將於115學年度推出「綠色照顧與生態倫理：冒險體驗教育」微課程，結合泰雅族山林知識，帶學生深入烏來部落進行文化浸泡，促進生態意識與實踐。課程透過探險和互動學習，增進學生與自然的聯繫，並設計「政大後山綠色療癒體驗教案」，期望成為生物多樣性保護的重要場域，並提升學生的生態自我認知。\n```",
     "cn_title": "政大獲保育共生地認證！X學院推「冒險體驗課」 帶學生走進山林學習",
     "cn_classes": "教學與課程, 在地連結與社會責任（USR）",
-    "cn_tags": "政大,學生",
+    "cn_tags": "國立政治大學, 學生",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260505003161-262301": {
@@ -1364,13 +1364,13 @@
       "https://images.chinatimes.com/newsphoto/2026-05-05/330/20260505003202.jpg"
     ],
     "summary": "``` \n中華台北啦啦隊在2026年世界啦啦隊錦標賽中展現出色表現，雖然未能站上頒獎台，但在競技啦啦隊團體第六級獲得第10名，嘻哈雙人項目第7名，彩球雙人預賽第16名，充分展現台灣青年活力。此次參賽的39名選手中，包括多位開南大學校友，顯示該校在啦啦隊人才培育上的持續成果。校長郭鐘達表示，學生在國際賽事中累積經驗，對未來發展有深遠意義，並強調學校將持續支持學生多元發展，培養具競爭力的青年人才。\n```",
-    "tags": "開南大學,大學",
+    "tags": "開南大學, 大學",
     "classes": "國際交流與合作, 教學與課程",
     "is_target": "True",
     "cn_summary": "``` \n中華台北啦啦隊在2026年世界啦啦隊錦標賽中展現出色表現，雖然未能站上頒獎台，但在競技啦啦隊團體第六級獲得第10名，嘻哈雙人項目第7名，彩球雙人預賽第16名，充分展現台灣青年活力。此次參賽的39名選手中，包括多位開南大學校友，顯示該校在啦啦隊人才培育上的持續成果。校長郭鐘達表示，學生在國際賽事中累積經驗，對未來發展有深遠意義，並強調學校將持續支持學生多元發展，培養具競爭力的青年人才。\n```",
     "cn_title": "開南大學培育人才登國際舞台    ICU世錦賽表現受矚目",
     "cn_classes": "國際交流與合作, 教學與課程",
-    "cn_tags": "開南大學,大學",
+    "cn_tags": "開南大學, 大學",
     "source": "chinatimes"
   },
   "https://udn.com/news/story/6928/9483061": {
@@ -1428,13 +1428,13 @@
     "published": "2026-05-04 14:03",
     "images": [],
     "summary": "面對人工智慧（AI）快速發展與數位教育轉型趨勢，教育部今年正式推動「AI Di+實驗方案」，結合大學資源與中小學教學現場，導入AI學習夥伴與數位工具，其中將「慢AI」理念融入教...…",
-    "tags": "",
+    "tags": "大學",
     "classes": "政策與法規, 教學與課程",
     "is_target": "True",
     "cn_summary": "面對人工智慧（AI）快速發展與數位教育轉型趨勢，教育部今年正式推動「AI Di+實驗方案」，結合大學資源與中小學教學現場，導入AI學習夥伴與數位工具，其中將「慢AI」理念融入教...…",
     "cn_title": "「慢AI」提升學生自主學習力 教育部推「AI Di+實驗方案」",
     "cn_classes": "政策與法規, 教學與課程",
-    "cn_tags": "",
+    "cn_tags": "大學",
     "source": "自由時報"
   },
   "https://udn.com/news/story/6928/9480431": {
@@ -1445,13 +1445,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/04/34914010.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` \n台大舉辦「對話諾貝爾特展」 旨在激勵學子探索潛能與學術追求。此次展覽由台灣大學與瑞典駐台辦事處共同主辦，於台大綜合教學館開幕，展期自5月4日至28日。展覽以三大區域呈現諾貝爾獎的歷史與影響，並透過影音資料及互動設計促進知識交流。校長陳文章強調，諾貝爾獎得主的貢獻不僅在於獎項，更在於鼓勵年輕一代追求卓越的精神。教育部也宣布將深化與瑞典的學術合作，培養創新人才。\n```",
-    "tags": "臺大, 學術",
+    "tags": "國立臺灣大學, 學術",
     "classes": "學術研究與創新, 學生事務與生活",
     "is_target": "True",
     "cn_summary": "``` \n台大舉辦「對話諾貝爾特展」 旨在激勵學子探索潛能與學術追求。此次展覽由台灣大學與瑞典駐台辦事處共同主辦，於台大綜合教學館開幕，展期自5月4日至28日。展覽以三大區域呈現諾貝爾獎的歷史與影響，並透過影音資料及互動設計促進知識交流。校長陳文章強調，諾貝爾獎得主的貢獻不僅在於獎項，更在於鼓勵年輕一代追求卓越的精神。教育部也宣布將深化與瑞典的學術合作，培養創新人才。\n```",
     "cn_title": "台大辦「對話諾貝爾」特展 盼激勵學子挖掘潛能、啟發學術追求",
     "cn_classes": "學術研究與創新, 學生事務與生活",
-    "cn_tags": "臺大, 學術",
+    "cn_tags": "國立臺灣大學, 學術",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9480372": {
@@ -1462,13 +1462,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/04/34913900.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600"
     ],
     "summary": "```  \n台大舉辦「對話諾貝爾特展」，旨在啟發學生潛能並設定高遠志向。此展覽由台大與瑞典駐台辦事處共同主辦，設有三大展區，包括「瑞典諾貝爾展區」、「台灣橋樑計畫」及「諾貝爾獎得主講座」。台大校長陳文章表示，展覽不僅展示諾貝爾獎的價值，更希望透過國際對話激發學生的學術追求與創新思維。中研院院長廖俊智強調，科學與人文的結合是回應現代挑戰的關鍵。此展覽期望能夠提升學生的全球視野及研究熱情。  \n```",
-    "tags": "臺大, 大學",
+    "tags": "國立臺灣大學, 大學",
     "classes": "學術研究與創新, 學生事務與生活",
     "is_target": "True",
     "cn_summary": "```  \n台大舉辦「對話諾貝爾特展」，旨在啟發學生潛能並設定高遠志向。此展覽由台大與瑞典駐台辦事處共同主辦，設有三大展區，包括「瑞典諾貝爾展區」、「台灣橋樑計畫」及「諾貝爾獎得主講座」。台大校長陳文章表示，展覽不僅展示諾貝爾獎的價值，更希望透過國際對話激發學生的學術追求與創新思維。中研院院長廖俊智強調，科學與人文的結合是回應現代挑戰的關鍵。此展覽期望能夠提升學生的全球視野及研究熱情。  \n```",
     "cn_title": "台大校園辦「對話諾貝爾特展」 啓發學子潛能與設定高遠志向",
     "cn_classes": "學術研究與創新, 學生事務與生活",
-    "cn_tags": "臺大, 大學",
+    "cn_tags": "國立臺灣大學, 大學",
     "source": "udn"
   },
   "https://www.cna.com.tw/news/ahel/202605040038.aspx": {
@@ -1511,13 +1511,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/03/34912467.jpg&M=2&x=&y=&sw=&sh=&exp=3600"
     ],
     "summary": "``` \n成功大學立方衛星成功升空\n\n國立成功大學的「雙子星─波魯克斯」立方衛星於近日搭乘SpaceX獵鷹九號火箭，在美國范登堡太空軍基地成功升空，預計將進入約590公里的低地球軌道。這項任務由師生歷時四年自主研製，顯示台灣在太空科技與人才培育方面的進步。衛星將執行電離層觀測、高層大氣研究及地球影像拍攝等任務，並助力於環境監測和災害研究，為學生提供真實的太空任務經驗，強化國家太空產業的發展。\n```",
-    "tags": "成大,大學,成功大學",
+    "tags": "國立成功大學, 大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "``` \n成功大學立方衛星成功升空\n\n國立成功大學的「雙子星─波魯克斯」立方衛星於近日搭乘SpaceX獵鷹九號火箭，在美國范登堡太空軍基地成功升空，預計將進入約590公里的低地球軌道。這項任務由師生歷時四年自主研製，顯示台灣在太空科技與人才培育方面的進步。衛星將執行電離層觀測、高層大氣研究及地球影像拍攝等任務，並助力於環境監測和災害研究，為學生提供真實的太空任務經驗，強化國家太空產業的發展。\n```",
     "cn_title": "4年打磨 成大立方衛星順利升空",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "成大,大學,成功大學",
+    "cn_tags": "國立成功大學, 大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9479121": {
@@ -1528,13 +1528,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/03/34911924.jpg&M=1&s=Y&x=0&y=0&sw=1111&sh=741&exp=3600"
     ],
     "summary": "``` \n成功大學夏漢民太空科技中心的「雙子星─波魯克斯」（Gemini─Pollux）立方衛星，今天搭載SpaceX獵鷹九號火箭，成功從美國范登堡太空軍基地升空，預計進入距地約590公里的低地球軌道。該衛星經過四年的自主研製，展現了台灣在太空領域的人才培育與產學合作成果。團隊由跨系所學生及教師組成，進行了多項測試來確保衛星的穩定運作。這次任務不僅是學生的太空夢實現，也是他們獲得實戰經驗的重要契機，未來將執行電離層觀測及環境監測等任務。\n```",
-    "tags": "成大",
+    "tags": "國立成功大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "``` \n成功大學夏漢民太空科技中心的「雙子星─波魯克斯」（Gemini─Pollux）立方衛星，今天搭載SpaceX獵鷹九號火箭，成功從美國范登堡太空軍基地升空，預計進入距地約590公里的低地球軌道。該衛星經過四年的自主研製，展現了台灣在太空領域的人才培育與產學合作成果。團隊由跨系所學生及教師組成，進行了多項測試來確保衛星的穩定運作。這次任務不僅是學生的太空夢實現，也是他們獲得實戰經驗的重要契機，未來將執行電離層觀測及環境監測等任務。\n```",
     "cn_title": "4年打磨一顆衛星 成大團隊夏漢民太空中心立方衛星今順利升空",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "成大",
+    "cn_tags": "國立成功大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9478368": {
@@ -1562,13 +1562,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/02/34910250.jpg&M=1&s=Y&x=84&y=0&sw=1080&sh=720&exp=3600"
     ],
     "summary": "``` \n115年全國大專校院運動會在中央大學盛大開幕，吸引來自143所大專院校的超過1.2萬名運動員參賽。儀式的亮點為「三代聖火」傳承儀式，象徵著運動精神的延續。行政院長卓榮泰在致詞中強調，中央大學從北極帶回的聖火象徵著台灣的開放與決心，並鼓勵選手們勇攀高峰。此次活動不僅展示了運動的熱情，還體現了大學社群的團結與努力，將持續至6日，歡迎民眾前來共襄盛舉。 \n```",
-    "tags": "中央大學",
+    "tags": "國立中央大學",
     "classes": "學生事務與生活, 校務治理與管理",
     "is_target": "True",
     "cn_summary": "``` \n115年全國大專校院運動會在中央大學盛大開幕，吸引來自143所大專院校的超過1.2萬名運動員參賽。儀式的亮點為「三代聖火」傳承儀式，象徵著運動精神的延續。行政院長卓榮泰在致詞中強調，中央大學從北極帶回的聖火象徵著台灣的開放與決心，並鼓勵選手們勇攀高峰。此次活動不僅展示了運動的熱情，還體現了大學社群的團結與努力，將持續至6日，歡迎民眾前來共襄盛舉。 \n```",
     "cn_title": "115年全大運開幕 中央大學「三代聖火」傳承儀式成焦點",
     "cn_classes": "學生事務與生活, 校務治理與管理",
-    "cn_tags": "中央大學",
+    "cn_tags": "國立中央大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9476786": {
@@ -1579,13 +1579,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/01/34908545.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` \n中山大學將於2026年5月4日舉辦「不憋了！女廁運動三十周年論壇」，該論壇聚焦於性別平等與廁所設施的議題。開幕由陳美華、于欽平及洪世謙致詞，並邀請台大退休教授畢恆達演講，主題為「廁所的性別平等之路」。論壇將分成三個場次，探討大學校園女學生運動、女廁與無性別廁所運動，及性別友善廁所的進展與挑戰。此次活動免費，鼓勵各界報名參加，旨在提升對性別平等的關注和討論。 \n```",
-    "tags": "中山大學, 大學",
+    "tags": "國立中山大學, 大學",
     "classes": "學生事務與生活",
     "is_target": "True",
     "cn_summary": "``` \n中山大學將於2026年5月4日舉辦「不憋了！女廁運動三十周年論壇」，該論壇聚焦於性別平等與廁所設施的議題。開幕由陳美華、于欽平及洪世謙致詞，並邀請台大退休教授畢恆達演講，主題為「廁所的性別平等之路」。論壇將分成三個場次，探討大學校園女學生運動、女廁與無性別廁所運動，及性別友善廁所的進展與挑戰。此次活動免費，鼓勵各界報名參加，旨在提升對性別平等的關注和討論。 \n```",
     "cn_title": "「不憋了！女廁運動30年」論壇 中山大學五四登場",
     "cn_classes": "學生事務與生活",
-    "cn_tags": "中山大學, 大學",
+    "cn_tags": "國立中山大學, 大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9476369": {
@@ -1596,13 +1596,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/01/34907893.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=853&exp=3600"
     ],
     "summary": "``` 教育部公告115學年度大學學雜費基準調幅0.62% 教育部近日發函各大專校院，公告115學年度學雜費收費基準調整幅度為0.62%，較去年0.7%略減。根據計算，以私立大學文學院一年收費10萬元為例，調漲約620元。然而，若大學獲得教育部的補助，則不得調漲學雜費。教部表示，這項調整基於消費者物價指數和薪資年增率進行核算，並要求學校依規定申請調整。隨著學雜費的調整，各大專校院需在公開程序後向教育部申請，然而最近成功調整的學校相對較少。```",
-    "tags": "教育部,大學",
+    "tags": "教育部, 大學",
     "classes": "政策與法規, 校務治理與管理",
     "is_target": "True",
     "cn_summary": "``` 教育部公告115學年度大學學雜費基準調幅0.62% 教育部近日發函各大專校院，公告115學年度學雜費收費基準調整幅度為0.62%，較去年0.7%略減。根據計算，以私立大學文學院一年收費10萬元為例，調漲約620元。然而，若大學獲得教育部的補助，則不得調漲學雜費。教部表示，這項調整基於消費者物價指數和薪資年增率進行核算，並要求學校依規定申請調整。隨著學雜費的調整，各大專校院需在公開程序後向教育部申請，然而最近成功調整的學校相對較少。```",
     "cn_title": "教育部公告115學年大學學雜費基準調幅0.62% 較去年0.7%略減",
     "cn_classes": "政策與法規, 校務治理與管理",
-    "cn_tags": "教育部,大學",
+    "cn_tags": "教育部, 大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9475932": {
@@ -1630,13 +1630,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/01/34907125.jpg&M=1&s=Y&x=0&y=0&sw=957&sh=638&exp=3600"
     ],
     "summary": "``` \n台師大與日本團隊攜手推動蘭嶼瀕危「珠光鳳蝶」復育計畫。國立台灣師範大學生命科學系教授徐堉峰的研究團隊，邀請東京大學的專家於今年4月前往蘭嶼，結合學術與在地資源進行生態保護。計畫重點為補植「草港口馬兜鈴」，以恢復蝶群族群數量，同時推動生態教育課程，提升學生對生物保育的認識。此舉不僅有助於保護珍稀物種，還促進當地的永續發展與生態旅遊。\n```",
-    "tags": "台師大",
+    "tags": "國立臺灣師範大學",
     "classes": "學術研究與創新, 國際交流與合作, 在地連結與社會責任（USR）",
     "is_target": "True",
     "cn_summary": "``` \n台師大與日本團隊攜手推動蘭嶼瀕危「珠光鳳蝶」復育計畫。國立台灣師範大學生命科學系教授徐堉峰的研究團隊，邀請東京大學的專家於今年4月前往蘭嶼，結合學術與在地資源進行生態保護。計畫重點為補植「草港口馬兜鈴」，以恢復蝶群族群數量，同時推動生態教育課程，提升學生對生物保育的認識。此舉不僅有助於保護珍稀物種，還促進當地的永續發展與生態旅遊。\n```",
     "cn_title": "台師大攜手日本團隊 推動蘭嶼瀕危「珠光鳳蝶」復育",
     "cn_classes": "學術研究與創新, 國際交流與合作, 在地連結與社會責任（USR）",
-    "cn_tags": "台師大",
+    "cn_tags": "國立臺灣師範大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9475740": {
@@ -1647,13 +1647,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/01/34906889.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` \n高雄大學與法國動物保健大廠Virbac簽署技術移轉合作，將其研發的「ASK-K1細胞株」推向國際市場。這項技術經過7年研究，對於冷水魚病毒的高效生產及水產疫苗的開發至關重要。此次合作被視為台灣在動物生技領域的重要里程碑，顯示學界與產業的緊密結合能提升研發成果的價值，並為學生提供跨域實戰經驗。專家指出，這將有助於應對全球水產養殖的防疫需求，擴大市場潛力。 \n```",
-    "tags": "高雄大學",
+    "tags": "國立高雄大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "``` \n高雄大學與法國動物保健大廠Virbac簽署技術移轉合作，將其研發的「ASK-K1細胞株」推向國際市場。這項技術經過7年研究，對於冷水魚病毒的高效生產及水產疫苗的開發至關重要。此次合作被視為台灣在動物生技領域的重要里程碑，顯示學界與產業的緊密結合能提升研發成果的價值，並為學生提供跨域實戰經驗。專家指出，這將有助於應對全球水產養殖的防疫需求，擴大市場潛力。 \n```",
     "cn_title": "7年磨出1顆關鍵細胞 高雄大學ASK-K1技轉搶進國際市場",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "高雄大學",
+    "cn_tags": "國立高雄大學",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260430003851-262301": {
@@ -1664,13 +1664,13 @@
       "https://images.chinatimes.com/newsphoto/2026-04-30/330/20260430003876.jpg"
     ],
     "summary": "``` \n武德淳捐贈代表作《1³=1，三位一體》於國立臺灣師範大學美術學系典藏，成為跨文化學習的重要里程碑。該作品可摺疊的設計象徵無限可能，展現了創作過程中的師生情誼。美術系於28日舉辦作品展，展期至5月8日，展出19件作品。武德淳長期回校舉辦工作坊，鼓勵學生探索鐵雕藝術，並強調材料與創作的關係。該活動不僅深化藝術教育的傳承，也提高學生的國際視野，促進文化交流。 \n```",
-    "tags": "臺師大,大學",
+    "tags": "國立臺灣師範大學, 大學",
     "classes": "學生事務與生活",
     "is_target": "True",
     "cn_summary": "``` \n武德淳捐贈代表作《1³=1，三位一體》於國立臺灣師範大學美術學系典藏，成為跨文化學習的重要里程碑。該作品可摺疊的設計象徵無限可能，展現了創作過程中的師生情誼。美術系於28日舉辦作品展，展期至5月8日，展出19件作品。武德淳長期回校舉辦工作坊，鼓勵學生探索鐵雕藝術，並強調材料與創作的關係。該活動不僅深化藝術教育的傳承，也提高學生的國際視野，促進文化交流。 \n```",
     "cn_title": "旅法雕塑家武德淳鐵雕創作展臺師大登場　歷時14年鐵雕鉅作亮相",
     "cn_classes": "學生事務與生活",
-    "cn_tags": "臺師大,大學",
+    "cn_tags": "國立臺灣師範大學, 大學",
     "source": "chinatimes"
   },
   "https://www.chinatimes.com/campus/20260430003754-262301": {
@@ -1681,13 +1681,13 @@
       "https://images.chinatimes.com/newsphoto/2026-04-30/330/20260430003770.jpg"
     ],
     "summary": "```  \n輔仁大學成為114學年度大學申請入學第二階段報名的熱門選擇，截止日期為5月6日。教育界指出，輔大的辦學特色與國際認證實力緊密結合產業需求，對考生的錄取結果及職業發展至關重要。根據《Cheers雜誌》調查，輔大在就業力與國際移動能力方面具優勢，並持續維持AACSB認證。該校提供60個跨域學分學程，鼓勵學生修讀人工智慧與數據分析等新興領域，培養具全球視野的人才。專家建議考生在選擇志願時應考慮輔大的豐富資源與課程彈性。  \n```",
-    "tags": "申請入學,輔仁大學",
+    "tags": "申請入學, 輔仁大學",
     "classes": "學生事務與生活, 教學與課程",
     "is_target": "True",
     "cn_summary": "```  \n輔仁大學成為114學年度大學申請入學第二階段報名的熱門選擇，截止日期為5月6日。教育界指出，輔大的辦學特色與國際認證實力緊密結合產業需求，對考生的錄取結果及職業發展至關重要。根據《Cheers雜誌》調查，輔大在就業力與國際移動能力方面具優勢，並持續維持AACSB認證。該校提供60個跨域學分學程，鼓勵學生修讀人工智慧與數據分析等新興領域，培養具全球視野的人才。專家建議考生在選擇志願時應考慮輔大的豐富資源與課程彈性。  \n```",
     "cn_title": "申請入學二階報名倒數  輔仁大學國際認證與跨域資源成考生首選",
     "cn_classes": "學生事務與生活, 教學與課程",
-    "cn_tags": "申請入學,輔仁大學",
+    "cn_tags": "申請入學, 輔仁大學",
     "source": "chinatimes"
   },
   "https://www.chinatimes.com/campus/20260430003615-262301": {
@@ -1732,13 +1732,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34904135.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` 成大實施生理假新制 促進性別友善 國立成功大學於今日正式實施生理假新制，支持學生身心健康。根據新規定，女學生可因生理期不適每月申請2次生理假，每次1天。此政策源自學生會的倡議，旨在改善女性學生的學習與生活品質。校方表示，此舉不僅回應學生的需求，還有助於推動校園的性別友善環境，並鼓勵學生積極參與公共事務。學務處提醒教師需尊重及支持此新規定，確保學生的請假權益得以實現。 ```",
-    "tags": "成大",
+    "tags": "國立成功大學",
     "classes": "學生事務與生活",
     "is_target": "True",
     "cn_summary": "``` 成大實施生理假新制 促進性別友善 國立成功大學於今日正式實施生理假新制，支持學生身心健康。根據新規定，女學生可因生理期不適每月申請2次生理假，每次1天。此政策源自學生會的倡議，旨在改善女性學生的學習與生活品質。校方表示，此舉不僅回應學生的需求，還有助於推動校園的性別友善環境，並鼓勵學生積極參與公共事務。學務處提醒教師需尊重及支持此新規定，確保學生的請假權益得以實現。 ```",
     "cn_title": "成大「生理假新制」今上路 學生會倡議、校方支持",
     "cn_classes": "學生事務與生活",
-    "cn_tags": "成大",
+    "cn_tags": "國立成功大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9473688": {
@@ -1749,13 +1749,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34903723.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` \n中國籍依親學生因法律限制無法轉入台灣大學就讀。教育部長鄭英耀表示，根據「兩岸人民關係條例」，該學生在年滿18歲後必須離境，無法直接轉為中生。雖然學生透過「繁星推薦」獲得錄取，但因其身份屬於「停居留許可」而失去居留資格，無法繼續在台灣學習。鄭英耀對該學生的未來發展表示期待，強調需依照現行法律辦理。此事件突顯了兩岸教育政策對學生流動性的重要影響。\n```",
-    "tags": "國立臺灣大學,教育部",
+    "tags": "國立臺灣大學, 教育部",
     "classes": "國際交流與合作, 校園爭議與事件",
     "is_target": "True",
     "cn_summary": "``` \n中國籍依親學生因法律限制無法轉入台灣大學就讀。教育部長鄭英耀表示，根據「兩岸人民關係條例」，該學生在年滿18歲後必須離境，無法直接轉為中生。雖然學生透過「繁星推薦」獲得錄取，但因其身份屬於「停居留許可」而失去居留資格，無法繼續在台灣學習。鄭英耀對該學生的未來發展表示期待，強調需依照現行法律辦理。此事件突顯了兩岸教育政策對學生流動性的重要影響。\n```",
     "cn_title": "陸籍依親學生上台大遭阻 教育部長：期待他未來有更好發展",
     "cn_classes": "國際交流與合作, 校園爭議與事件",
-    "cn_tags": "國立臺灣大學,教育部",
+    "cn_tags": "國立臺灣大學, 教育部",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9473641": {
@@ -1766,13 +1766,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34903634.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` \n監察院重查林智堅論文抄襲案引發爭議 監察院近日決定重新調查四年前新竹市前市長林智堅的論文抄襲案，此案曾由台大學倫會確認並影響其碩士學位。台大副校長曾宛如強調校方在審查過程中沒有行政疏漏，而立委羅智強則批評監察院此舉「可恥」，質疑其專注於台大案件的動機。此事件引發對學術自治的廣泛討論，並可能對台灣高等教育的監管方式產生影響。 \n```",
-    "tags": "論文,台大",
+    "tags": "論文, 國立臺灣大學",
     "classes": "校園爭議與事件",
     "is_target": "True",
     "cn_summary": "``` \n監察院重查林智堅論文抄襲案引發爭議 監察院近日決定重新調查四年前新竹市前市長林智堅的論文抄襲案，此案曾由台大學倫會確認並影響其碩士學位。台大副校長曾宛如強調校方在審查過程中沒有行政疏漏，而立委羅智強則批評監察院此舉「可恥」，質疑其專注於台大案件的動機。此事件引發對學術自治的廣泛討論，並可能對台灣高等教育的監管方式產生影響。 \n```",
     "cn_title": "監察院重查4年前林智堅論文抄襲案 立委轟可恥「專找台大麻煩」",
     "cn_classes": "校園爭議與事件",
-    "cn_tags": "論文,台大",
+    "cn_tags": "論文, 國立臺灣大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9473505": {
@@ -1783,13 +1783,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34903407.jpg&M=1&s=Y&x=0&y=0&sw=1236&sh=824&exp=3600"
     ],
     "summary": "```  \n南韓頂尖大學宣布自2025年起，任何高中階段曾被證實參與校園霸凌的學生將終身不被錄取。台大副校長曾宛如表示，該政策如有必要，將在校務會議上進行討論，並強調台大對霸凌事件的零容忍態度。這項措施旨在提升校園安全，並促進社會責任感。隨著韓國教育部計畫將此政策推廣至全國，專家指出，這可能對其他國家大學的招生標準產生影響，促進更廣泛的反霸凌行動。  \n```",
-    "tags": "台大,頂大",
+    "tags": "國立臺灣大學, 頂大",
     "classes": "校務治理與管理, 校園爭議與事件",
     "is_target": "True",
     "cn_summary": "```  \n南韓頂尖大學宣布自2025年起，任何高中階段曾被證實參與校園霸凌的學生將終身不被錄取。台大副校長曾宛如表示，該政策如有必要，將在校務會議上進行討論，並強調台大對霸凌事件的零容忍態度。這項措施旨在提升校園安全，並促進社會責任感。隨著韓國教育部計畫將此政策推廣至全國，專家指出，這可能對其他國家大學的招生標準產生影響，促進更廣泛的反霸凌行動。  \n```",
     "cn_title": "防霸凌…南韓頂大宣示永不錄取 台大：可列校務會議討論",
     "cn_classes": "校務治理與管理, 校園爭議與事件",
-    "cn_tags": "台大,頂大",
+    "cn_tags": "國立臺灣大學, 頂大",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260430001574-262301": {
@@ -1834,13 +1834,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/29/34902206.jpg&M=1&s=Y&x=0&y=75&sw=1280&sh=853&exp=3600"
     ],
     "summary": "```  \n師資生對進入教職的憂慮加劇，調查顯示高達80.1%的師資生擔心遭到投訴，70.6%認為教師不受社會尊重，且69.9%認為薪資吸引力不足。調查由台灣師範大學學生會進行，參與者反映教育職場環境影響其職業選擇。師資生希望提升薪資及穩定開缺，以提高投入教育的意願。專家強調，改善現場環境和待遇是解決教師荒的關鍵。此調查結果或將促使政策制定者重視師資生的聲音，改善教育體系。  \n```",
-    "tags": "",
+    "tags": "大學",
     "classes": "學生事務與生活, 教學與課程",
     "is_target": "True",
     "cn_summary": "```  \n師資生對進入教職的憂慮加劇，調查顯示高達80.1%的師資生擔心遭到投訴，70.6%認為教師不受社會尊重，且69.9%認為薪資吸引力不足。調查由台灣師範大學學生會進行，參與者反映教育職場環境影響其職業選擇。師資生希望提升薪資及穩定開缺，以提高投入教育的意願。專家強調，改善現場環境和待遇是解決教師荒的關鍵。此調查結果或將促使政策制定者重視師資生的聲音，改善教育體系。  \n```",
     "cn_title": "師資生對踏入教職卻步…調查揭原因！8成憂投訴、7成認不受尊重",
     "cn_classes": "學生事務與生活, 教學與課程",
-    "cn_tags": "",
+    "cn_tags": "大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9472338": {
@@ -1851,13 +1851,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/29/34901794.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600"
     ],
     "summary": "``` \n全台69所大專院校宿舍仍維持宵禁制度，引發學生團體強烈反對，呼籲教育部要求廢除這項不合時宜的規定。學生聯合會指出，宵禁限制了學生的自主權，特別是需在課後兼職的學生，迫使他們選擇校外居住，增加經濟負擔。教育部回應稱，大學宿舍管理屬於自治事項，但鼓勵學校檢討過於嚴苛的規定，以兼顧學生的安全與自主。此舉將促進學生權益，並推動大學管理的現代化。 \n```",
-    "tags": "大學,宿舍,教部",
+    "tags": "大學, 宿舍, 教部",
     "classes": "學生事務與生活, 政策與法規",
     "is_target": "True",
     "cn_summary": "``` \n全台69所大專院校宿舍仍維持宵禁制度，引發學生團體強烈反對，呼籲教育部要求廢除這項不合時宜的規定。學生聯合會指出，宵禁限制了學生的自主權，特別是需在課後兼職的學生，迫使他們選擇校外居住，增加經濟負擔。教育部回應稱，大學宿舍管理屬於自治事項，但鼓勵學校檢討過於嚴苛的規定，以兼顧學生的安全與自主。此舉將促進學生權益，並推動大學管理的現代化。 \n```",
     "cn_title": "都成年大學宿舍還有宵禁…學團促廢除 教部：鼓勵檢討不合時宜規定",
     "cn_classes": "學生事務與生活, 政策與法規",
-    "cn_tags": "大學,宿舍,教部",
+    "cn_tags": "大學, 宿舍, 教部",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9471880": {
@@ -1868,13 +1868,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/29/34901029.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600"
     ],
     "summary": "```  \n台大副教授郭靜穎榮獲吳大猷先生紀念獎，因其研究揭示肥胖與乳癌惡化之間的直接關聯。該研究團隊使用小鼠模型，探討高脂飲食如何引發代謝異常，並促使乳癌進展。郭教授指出，肥胖不僅僅是體重增加，還包括與代謝症候群相關的症狀，例如胰島素抵抗等。未來，她希望藉助人工智慧設計針對特定蛋白質的藥物，以提供更精準的治療策略。這項研究不僅對乳癌的治療具有潛在影響，也可能對其他癌症類型的理解和治療方式產生深遠影響。  \n```",
-    "tags": "台大,教授",
+    "tags": "國立臺灣大學, 教授",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "```  \n台大副教授郭靜穎榮獲吳大猷先生紀念獎，因其研究揭示肥胖與乳癌惡化之間的直接關聯。該研究團隊使用小鼠模型，探討高脂飲食如何引發代謝異常，並促使乳癌進展。郭教授指出，肥胖不僅僅是體重增加，還包括與代謝症候群相關的症狀，例如胰島素抵抗等。未來，她希望藉助人工智慧設計針對特定蛋白質的藥物，以提供更精準的治療策略。這項研究不僅對乳癌的治療具有潛在影響，也可能對其他癌症類型的理解和治療方式產生深遠影響。  \n```",
     "cn_title": "肥胖恐加速乳癌惡化 台大副教授郭靜穎獲吳大猷先生紀念獎",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "台大,教授",
+    "cn_tags": "國立臺灣大學, 教授",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260429003296-262301": {
@@ -1902,13 +1902,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/29/34900196.jpg&M=1&s=Y&x=0&y=0&sw=960&sh=640&exp=3600"
     ],
     "summary": "``` 成功大學醫學系的楊姓學霸近日參選學生會會長，成為話題焦點。楊生在去年因學習歷程檔案遭質疑，失去5所醫學系的錄取資格，但最終通過分科測驗入讀成功大學醫學系。他與政治系學姐搭檔，以「單車」為主題推出幽默的宣傳影片，強調參選動機及對校內問題的關注。此次學生會選舉將於5月4日舉行政見發表會，5月6日至8日進行投票，對於校園治理及學生聲音將產生重要影響。```",
-    "tags": "成大",
+    "tags": "國立成功大學",
     "classes": "學生事務與生活",
     "is_target": "True",
     "cn_summary": "``` 成功大學醫學系的楊姓學霸近日參選學生會會長，成為話題焦點。楊生在去年因學習歷程檔案遭質疑，失去5所醫學系的錄取資格，但最終通過分科測驗入讀成功大學醫學系。他與政治系學姐搭檔，以「單車」為主題推出幽默的宣傳影片，強調參選動機及對校內問題的關注。此次學生會選舉將於5月4日舉行政見發表會，5月6日至8日進行投票，對於校園治理及學生聲音將產生重要影響。```",
     "cn_title": "遭5校撤銷拚回成大醫學系 楊姓學霸搭檔學姐角逐學生會長",
     "cn_classes": "學生事務與生活",
-    "cn_tags": "成大",
+    "cn_tags": "國立成功大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9471171": {
@@ -1919,13 +1919,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/29/34899912.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` \n台師大體操教練翁士航因霸凌事件被停聘兩年，然而他仍在執行兩項國科會補助計畫。立委陳秀寶在立法院質詢時指出，國科會的補助專題研究案缺乏針對霸凌的處置規範，呼籲應參照教師法進行修訂。國科會副主委陳炳宇表示將研議相關措施，並強調若收到學校通報，將依照作業要點處理。這一事件突顯校園霸凌問題的嚴重性及對教育政策的影響，呼籲更嚴格的規範以確保學生安全。 \n```",
-    "tags": "師大",
+    "tags": "國立臺灣師範大學",
     "classes": "校園爭議與事件, 校務治理與管理",
     "is_target": "True",
     "cn_summary": "``` \n台師大體操教練翁士航因霸凌事件被停聘兩年，然而他仍在執行兩項國科會補助計畫。立委陳秀寶在立法院質詢時指出，國科會的補助專題研究案缺乏針對霸凌的處置規範，呼籲應參照教師法進行修訂。國科會副主委陳炳宇表示將研議相關措施，並強調若收到學校通報，將依照作業要點處理。這一事件突顯校園霸凌問題的嚴重性及對教育政策的影響，呼籲更嚴格的規範以確保學生安全。 \n```",
     "cn_title": "台師大霸凌案教練國科會補助計畫正執行 立委質疑缺霸凌處置",
     "cn_classes": "校園爭議與事件, 校務治理與管理",
-    "cn_tags": "師大",
+    "cn_tags": "國立臺灣師範大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9471146": {
@@ -1936,13 +1936,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/29/34899944.jpg&M=1&x=&y=&sw=&sh=&exp=3600"
     ],
     "summary": "```全台69所大專校院宿舍仍實施宵禁，學生團體批評這一制度過時且限制成年學生的自主權。根據台灣學生聯合會的統計，近五成的大專校院仍保持宵禁，特別是私立學校的比例高達67.4%。學生們呼籲全面廢除宵禁，認為這不僅增加了經濟負擔，還影響了學生的打工機會。立委也支持此主張，強調應讓學生自主管理，並提升宿舍安全制度，而非以宵禁為名限制自由。```",
-    "tags": "大專,學測",
+    "tags": "大專, 學測",
     "classes": "學生事務與生活",
     "is_target": "True",
     "cn_summary": "```全台69所大專校院宿舍仍實施宵禁，學生團體批評這一制度過時且限制成年學生的自主權。根據台灣學生聯合會的統計，近五成的大專校院仍保持宵禁，特別是私立學校的比例高達67.4%。學生們呼籲全面廢除宵禁，認為這不僅增加了經濟負擔，還影響了學生的打工機會。立委也支持此主張，強調應讓學生自主管理，並提升宿舍安全制度，而非以宵禁為名限制自由。```",
     "cn_title": "都18歲了！全台69大專校院宿舍還有宵禁 學團轟「什麼辦學特色」",
     "cn_classes": "學生事務與生活",
-    "cn_tags": "大專,學測",
+    "cn_tags": "大專, 學測",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9470763": {
@@ -1953,13 +1953,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/29/34899708.jpg&M=1&x=&y=&sw=&sh=&exp=3600"
     ],
     "summary": "```  \n成功大學學生會選舉熱鬧非凡，曾因學習歷程爭議而遭多校取消錄取資格的「最佳辯士」楊承叡，與搭檔政治系三年級的陳彥馨共同參選第34屆學生會正副會長。兩人以「承諾同行，用馨傾聽」為口號，推出以「單車日常」為主題的競選影片，吸引廣泛關注。楊承叡希望透過學生會打造相互學習的平台，推動性別平等及學生權益。他的逆境翻身故事被視為勵志範例，展現出年輕學子的堅韌精神。  \n```",
-    "tags": "",
+    "tags": "國立成功大學",
     "classes": "學生事務與生活",
     "is_target": "True",
     "cn_summary": "```  \n成功大學學生會選舉熱鬧非凡，曾因學習歷程爭議而遭多校取消錄取資格的「最佳辯士」楊承叡，與搭檔政治系三年級的陳彥馨共同參選第34屆學生會正副會長。兩人以「承諾同行，用馨傾聽」為口號，推出以「單車日常」為主題的競選影片，吸引廣泛關注。楊承叡希望透過學生會打造相互學習的平台，推動性別平等及學生權益。他的逆境翻身故事被視為勵志範例，展現出年輕學子的堅韌精神。  \n```",
     "cn_title": "「最佳辯士」風波後露臉！楊承叡騎單車拚學生會長 正妹搭檔身分曝光",
     "cn_classes": "學生事務與生活",
-    "cn_tags": "",
+    "cn_tags": "國立成功大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9470480": {
@@ -1970,13 +1970,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/29/34899006.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` \n教育部啟動博士班名額流用試辦計畫，旨在提升博士班招生績效。若某系所報名人數未達招生名額，該缺額可流用至其他系所。此舉不僅增加學生的報名機會，還能提升整體註冊率。以陽明交大為例，實施後註冊率從76%提升至90%。中山大學和台師大等多所高校也參與此計畫，表示流用機制將有助於解決博士班報名不足的問題，並促進學術資源的有效利用。 \n```",
-    "tags": "博士班,博班",
+    "tags": "博士班, 博班",
     "classes": "教學與課程",
     "is_target": "True",
     "cn_summary": "``` \n教育部啟動博士班名額流用試辦計畫，旨在提升博士班招生績效。若某系所報名人數未達招生名額，該缺額可流用至其他系所。此舉不僅增加學生的報名機會，還能提升整體註冊率。以陽明交大為例，實施後註冊率從76%提升至90%。中山大學和台師大等多所高校也參與此計畫，表示流用機制將有助於解決博士班報名不足的問題，並促進學術資源的有效利用。 \n```",
     "cn_title": "啟動試辦！博班有缺額 可開放其他系所流用",
     "cn_classes": "教學與課程",
-    "cn_tags": "博士班,博班",
+    "cn_tags": "博士班, 博班",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9470482": {
@@ -2021,13 +2021,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/28/34898649.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600"
     ],
     "summary": "``` 教育部推動博士班名額流用試辦計畫，旨在提升博士班的招生機會。根據新政策，若某研究所報名人數低於招生名額，該缺額可流用至其他系所。此計畫已在陽明交大等學校試行，報名後的博士班註冊率已從76%提升至90%。教育部希望透過名額再分配，減少某些研究所的缺額問題，並且搭配獎助方案，進一步吸引更多學生選擇進入博士學習。此舉將有助於提高整體博士班的招生率，促進學術研究的發展。 ```",
-    "tags": "教育部,博士班,頂大,研究所",
+    "tags": "教育部, 博士班, 頂大, 研究所",
     "classes": "政策與法規, 學術研究與創新",
     "is_target": "True",
     "cn_summary": "``` 教育部推動博士班名額流用試辦計畫，旨在提升博士班的招生機會。根據新政策，若某研究所報名人數低於招生名額，該缺額可流用至其他系所。此計畫已在陽明交大等學校試行，報名後的博士班註冊率已從76%提升至90%。教育部希望透過名額再分配，減少某些研究所的缺額問題，並且搭配獎助方案，進一步吸引更多學生選擇進入博士學習。此舉將有助於提高整體博士班的招生率，促進學術研究的發展。 ```",
     "cn_title": "教育部推博士班名額流用試辦計畫 頂大熱門研究所機會增",
     "cn_classes": "政策與法規, 學術研究與創新",
-    "cn_tags": "教育部,博士班,頂大,研究所",
+    "cn_tags": "教育部, 博士班, 頂大, 研究所",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9469825": {
@@ -2055,13 +2055,13 @@
       "https://images.chinatimes.com/newsphoto/2026-04-28/330/20260428003321.jpg"
     ],
     "summary": "``` \n中國文化大學「2026青春童遊祭」盛大回歸，將校園打造成大型兒童樂園，活動期間至30日。此次活動由學務處與學生會共同主辦，結合多元遊樂設施、沉浸式體驗及街頭表演，為師生帶來探索式遊園體驗。活動亮點包括「童樂遊樂地」的球池空間和互動式真人夾娃娃機，吸引眾多參與者。29日晚間更有「童年狂歡夜」演出，邀請知名YouTuber及音樂團體，讓大家重溫童年回憶。本次活動旨在增強校園凝聚力，鼓勵師生共創美好回憶。 \n```",
-    "tags": "文化大學,大學",
+    "tags": "中國文化大學, 大學",
     "classes": "學生事務與生活",
     "is_target": "True",
     "cn_summary": "``` \n中國文化大學「2026青春童遊祭」盛大回歸，將校園打造成大型兒童樂園，活動期間至30日。此次活動由學務處與學生會共同主辦，結合多元遊樂設施、沉浸式體驗及街頭表演，為師生帶來探索式遊園體驗。活動亮點包括「童樂遊樂地」的球池空間和互動式真人夾娃娃機，吸引眾多參與者。29日晚間更有「童年狂歡夜」演出，邀請知名YouTuber及音樂團體，讓大家重溫童年回憶。本次活動旨在增強校園凝聚力，鼓勵師生共創美好回憶。 \n```",
     "cn_title": "文化大學「青春童遊祭」熱血回歸　校園變身大型童趣樂園掀回憶潮",
     "cn_classes": "學生事務與生活",
-    "cn_tags": "文化大學,大學",
+    "cn_tags": "中國文化大學, 大學",
     "source": "chinatimes"
   },
   "https://udn.com/news/story/6928/9469225": {
@@ -2072,13 +2072,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/28/34897114.jpg&M=1&s=Y&x=0&y=62&sw=1278&sh=852&exp=3600"
     ],
     "summary": "前總統蔡英文近日在國立成功大學發表主題為「韌性成長·在壓力與爭議中練習做一個有溫度的決策者」的講座，吸引了900名師生搶先報名參加。蔡英文在講座中分享了面對挑戰的心得，特別針對即將畢業的學生所面臨的重大選擇與壓力進行探討。講座由成大人文社會科學中心及其他單位主辦，報名名額瞬間被搶光，顯示出學生對於韌性與決策能力的高度關注。此次活動的熱烈反響也突顯了在當前社會環境中，教育與心理支持的重要性。",
-    "tags": "成大",
+    "tags": "國立成功大學",
     "classes": "學生事務與生活, 校務治理與管理",
     "is_target": "True",
     "cn_summary": "前總統蔡英文近日在國立成功大學發表主題為「韌性成長·在壓力與爭議中練習做一個有溫度的決策者」的講座，吸引了900名師生搶先報名參加。蔡英文在講座中分享了面對挑戰的心得，特別針對即將畢業的學生所面臨的重大選擇與壓力進行探討。講座由成大人文社會科學中心及其他單位主辦，報名名額瞬間被搶光，顯示出學生對於韌性與決策能力的高度關注。此次活動的熱烈反響也突顯了在當前社會環境中，教育與心理支持的重要性。",
     "cn_title": "前總統蔡英文赴成大談「韌性成長」 900師生搶聽",
     "cn_classes": "學生事務與生活, 校務治理與管理",
-    "cn_tags": "成大",
+    "cn_tags": "國立成功大學",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260428002472-262301": {
@@ -2140,13 +2140,13 @@
       "https://images.chinatimes.com/newsphoto/2026-04-27/330/20260427002975.jpg"
     ],
     "summary": "``` \n靜宜大學南區校友會成功舉辦會員大會暨校友聯誼活動，吸引來自南部各地的校友熱情參加，並在嘉義中埔的澐水幸福莊園共享溫馨時光。活動中包含氣球教學和魔術表演，讓校友重溫校園回憶，增進彼此間的情感連結。校友會理事長蘇正輝強調，這類活動有助於延續校友情誼，為校友會注入更多活力。靜宜大學將於12月12日舉辦「全球校友日」，誠邀校友們回校共襄盛舉，進一步提升靜宜的品牌影響力。 \n```",
-    "tags": "靜宜大學,大學",
+    "tags": "靜宜大學, 大學",
     "classes": "學生事務與生活, 校務治理與管理",
     "is_target": "True",
     "cn_summary": "``` \n靜宜大學南區校友會成功舉辦會員大會暨校友聯誼活動，吸引來自南部各地的校友熱情參加，並在嘉義中埔的澐水幸福莊園共享溫馨時光。活動中包含氣球教學和魔術表演，讓校友重溫校園回憶，增進彼此間的情感連結。校友會理事長蘇正輝強調，這類活動有助於延續校友情誼，為校友會注入更多活力。靜宜大學將於12月12日舉辦「全球校友日」，誠邀校友們回校共襄盛舉，進一步提升靜宜的品牌影響力。 \n```",
     "cn_title": "靜宜大學南區校友會年度盛會　精彩活動與溫馨交流延續情誼",
     "cn_classes": "學生事務與生活, 校務治理與管理",
-    "cn_tags": "靜宜大學,大學",
+    "cn_tags": "靜宜大學, 大學",
     "source": "chinatimes"
   },
   "https://udn.com/news/story/6928/9466994": {
@@ -2174,13 +2174,13 @@
       "https://images.chinatimes.com/newsphoto/2026-04-27/330/20260427002319.png"
     ],
     "summary": "``` \n文化大學推動iPAS人才能力鑑定計劃，積極整合相關證照於課程中，以提升學生專業能力及職場競爭力。校方以「融入式教學」為核心策略，涵蓋AI應用、資訊安全及淨零碳等領域，並設立種子教師團隊，加強證照輔導。自113年度以來，參與iPAS報考學生人數持續增長，顯示學校對專業能力驗證的重視。校長王子奇強調，未來將深化課程與產業趨勢的結合，培育具實務應用能力的人才，全面提升學生的競爭力。 \n```",
-    "tags": "中國文化大學,課程,學術",
+    "tags": "中國文化大學, 課程, 學術",
     "classes": "教學與課程, 學術研究與創新",
     "is_target": "True",
     "cn_summary": "``` \n文化大學推動iPAS人才能力鑑定計劃，積極整合相關證照於課程中，以提升學生專業能力及職場競爭力。校方以「融入式教學」為核心策略，涵蓋AI應用、資訊安全及淨零碳等領域，並設立種子教師團隊，加強證照輔導。自113年度以來，參與iPAS報考學生人數持續增長，顯示學校對專業能力驗證的重視。校長王子奇強調，未來將深化課程與產業趨勢的結合，培育具實務應用能力的人才，全面提升學生的競爭力。 \n```",
     "cn_title": "文化大學推動iPAS證照融入課程　培育AI與淨零跨域人才成果顯現",
     "cn_classes": "教學與課程, 學術研究與創新",
-    "cn_tags": "中國文化大學,課程,學術",
+    "cn_tags": "中國文化大學, 課程, 學術",
     "source": "chinatimes"
   },
   "https://udn.com/news/story/6928/9466396": {
@@ -2191,13 +2191,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/27/34893806.jpg&M=1&x=&y=&sw=&sh=&exp=3600"
     ],
     "summary": "```  \n邱美虹獲頒美科教傑出研究貢獻獎，成為首位華人得主。台灣師範大學的名譽教授邱美虹因其在科教研究領域的卓越貢獻，特別是將人工智慧與微表情分析結合，獲得美國科學教學研究學會的最高榮譽。該獎項旨在表彰長期致力於改善科學教育的學者，邱教授的研究不僅提升了科學教育的質量，也展示了台灣學者在全球學術界的重要角色。她鼓勵年輕研究者相信自己的潛能，並強調語言不應成為創造力的障礙。  \n```",
-    "tags": "學術,研究",
+    "tags": "學術, 研究",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "```  \n邱美虹獲頒美科教傑出研究貢獻獎，成為首位華人得主。台灣師範大學的名譽教授邱美虹因其在科教研究領域的卓越貢獻，特別是將人工智慧與微表情分析結合，獲得美國科學教學研究學會的最高榮譽。該獎項旨在表彰長期致力於改善科學教育的學者，邱教授的研究不僅提升了科學教育的質量，也展示了台灣學者在全球學術界的重要角色。她鼓勵年輕研究者相信自己的潛能，並強調語言不應成為創造力的障礙。  \n```",
     "cn_title": "邱美虹獲頒美科教傑出研究貢獻獎 首位華人得主",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "學術,研究",
+    "cn_tags": "學術, 研究",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9465511": {
@@ -2242,13 +2242,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/24/34887606.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` \n首位台灣出生NASA太空人林琪兒博士於4月24日訪問成功大學，並在國際視野講座中分享其太空經歷。講座吸引了大量師生參加，林博士生動描述在國際太空站的生活與科學實驗，並與聽眾熱烈互動，討論包括太空醫學及立方衛星的未來發展。此次訪問不僅強調了成大在航太領域的研究實力，還展現了台灣在國際太空合作中的重要角色。林博士的分享對於激勵學生探索太空科學具有深遠意義。\n```",
-    "tags": "成大, 大學",
+    "tags": "國立成功大學, 大學",
     "classes": "學生事務與生活, 國際交流與合作",
     "is_target": "True",
     "cn_summary": "``` \n首位台灣出生NASA太空人林琪兒博士於4月24日訪問成功大學，並在國際視野講座中分享其太空經歷。講座吸引了大量師生參加，林博士生動描述在國際太空站的生活與科學實驗，並與聽眾熱烈互動，討論包括太空醫學及立方衛星的未來發展。此次訪問不僅強調了成大在航太領域的研究實力，還展現了台灣在國際太空合作中的重要角色。林博士的分享對於激勵學生探索太空科學具有深遠意義。\n```",
     "cn_title": "首位台灣出生NASA太空人林琪兒訪成大 講座爆滿互動熱烈",
     "cn_classes": "學生事務與生活, 國際交流與合作",
-    "cn_tags": "成大, 大學",
+    "cn_tags": "國立成功大學, 大學",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260424003710-262301": {
@@ -2259,13 +2259,13 @@
       "https://images.chinatimes.com/newsphoto/2026-04-24/330/20260424003711.jpg"
     ],
     "summary": "``` 靜宜大學推動泰北華語TeachLab服務計畫 靜宜大學國際學院近日攜手華碩文教基金會，於寒假期間向泰國清萊芒崗文明中學捐贈11台再生筆電，支援偏鄉數位教學資源。計畫旨在透過華語教學與教師培力提升當地教學品質。靜宜團隊將於暑假重返泰北，持續推動華語推展活動，並透過互動式教學提升學生的華語口語表達能力。院長蔡英德表示，期望學生在跨國服務中深化專業能力，培養國際視野與社會責任。此舉有助於縮小教育資源差距，促進當地學習社群的發展。 ```",
-    "tags": "靜宜大學,華語,教學",
+    "tags": "靜宜大學, 華語, 教學",
     "classes": "教學與課程, 國際交流與合作, 在地連結與社會責任（USR）",
     "is_target": "True",
     "cn_summary": "``` 靜宜大學推動泰北華語TeachLab服務計畫 靜宜大學國際學院近日攜手華碩文教基金會，於寒假期間向泰國清萊芒崗文明中學捐贈11台再生筆電，支援偏鄉數位教學資源。計畫旨在透過華語教學與教師培力提升當地教學品質。靜宜團隊將於暑假重返泰北，持續推動華語推展活動，並透過互動式教學提升學生的華語口語表達能力。院長蔡英德表示，期望學生在跨國服務中深化專業能力，培養國際視野與社會責任。此舉有助於縮小教育資源差距，促進當地學習社群的發展。 ```",
     "cn_title": "靜宜大學國際學院跨國服務學習　深耕泰北推展華語與數位教學",
     "cn_classes": "教學與課程, 國際交流與合作, 在地連結與社會責任（USR）",
-    "cn_tags": "靜宜大學,華語,教學",
+    "cn_tags": "靜宜大學, 華語, 教學",
     "source": "chinatimes"
   },
   "https://udn.com/news/story/6928/9462263": {
@@ -2276,13 +2276,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/24/34886656.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600"
     ],
     "summary": "``` \n2026年亞洲大學最新排名揭曉，亞大在非醫學類私立大學中穩居第一，顯示其在研究質量與國際競爭力上的顯著成就。根據英國高等教育調查機構（THE）的排名，台灣共有49校上榜，亞大以八名的佳績名列全台前列。校方表示，這一成就源於其長期專注於國際化與高品質研究的策略，並強調未來將深化AI和數位轉型、強化跨域整合及擴大國際合作，以進一步提升學校的學術影響力。 \n```",
-    "tags": "亞洲大學,大學排名",
+    "tags": "亞洲大學, 大學排名",
     "classes": "校務治理與管理",
     "is_target": "True",
     "cn_summary": "``` \n2026年亞洲大學最新排名揭曉，亞大在非醫學類私立大學中穩居第一，顯示其在研究質量與國際競爭力上的顯著成就。根據英國高等教育調查機構（THE）的排名，台灣共有49校上榜，亞大以八名的佳績名列全台前列。校方表示，這一成就源於其長期專注於國際化與高品質研究的策略，並強調未來將深化AI和數位轉型、強化跨域整合及擴大國際合作，以進一步提升學校的學術影響力。 \n```",
     "cn_title": "THE 2026亞洲區大學最新排名揭曉 亞大穩居私校非醫大第一",
     "cn_classes": "校務治理與管理",
-    "cn_tags": "亞洲大學,大學排名",
+    "cn_tags": "亞洲大學, 大學排名",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9461875": {
@@ -2293,13 +2293,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/24/34885972.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` 大葉大學創新創業計畫首階段獲50萬元補助 大葉大學在教育部青年發展署的「U-start創新創業計畫」中表現卓越，兩個團隊各獲50萬元創業基本開辦費，創下參加隊數新高。「奈盾生醫材料」團隊專注於開發新型抗菌敷料，應對高齡社會的醫療需求；而「機巧時運」團隊則推出智慧互動農民曆，結合科技與傳統文化，顯示出市場潛力。大葉創新育成中心鼓勵學生參與創業，若能進入第二階段，還有機會獲得額外資金支持。 ```",
-    "tags": "大葉大學,創新創業,計畫,入選",
+    "tags": "大葉大學, 創新創業, 計畫, 入選",
     "classes": "學術研究與創新, 產學合作",
     "is_target": "True",
     "cn_summary": "``` 大葉大學創新創業計畫首階段獲50萬元補助 大葉大學在教育部青年發展署的「U-start創新創業計畫」中表現卓越，兩個團隊各獲50萬元創業基本開辦費，創下參加隊數新高。「奈盾生醫材料」團隊專注於開發新型抗菌敷料，應對高齡社會的醫療需求；而「機巧時運」團隊則推出智慧互動農民曆，結合科技與傳統文化，顯示出市場潛力。大葉創新育成中心鼓勵學生參與創業，若能進入第二階段，還有機會獲得額外資金支持。 ```",
     "cn_title": "創新創業計畫第一階段先發50萬元 大葉大學入選隊數創新高",
     "cn_classes": "學術研究與創新, 產學合作",
-    "cn_tags": "大葉大學,創新創業,計畫,入選",
+    "cn_tags": "大葉大學, 創新創業, 計畫, 入選",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9461356": {
@@ -2310,13 +2310,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/23/34883905.jpg&M=1&s=Y&x=0&y=0&sw=1268&sh=845&exp=3600"
     ],
     "summary": "```\n台大醫院院長談醫療公平性問題\n\n台大醫院院長近日在一場論壇中強調，醫療公平性是當前醫療體系面臨的重要挑戰。他指出，許多患者在獲得醫療資源上存在「公平性黑洞」，影響了整體醫療服務的質量和可及性。院長呼籲社會各界共同努力，改善資源分配，確保每位患者都能獲得必要的醫療照護。這一倡議引發了教育界的關注，尤其是在醫學教育和職業道德的培養上，期待能夠培育出更具社會責任感的醫療人員。\n```",
-    "tags": "台大",
+    "tags": "國立臺灣大學",
     "classes": "政策與法規, 校園爭議與事件",
     "is_target": "True",
     "cn_summary": "```\n台大醫院院長談醫療公平性問題\n\n台大醫院院長近日在一場論壇中強調，醫療公平性是當前醫療體系面臨的重要挑戰。他指出，許多患者在獲得醫療資源上存在「公平性黑洞」，影響了整體醫療服務的質量和可及性。院長呼籲社會各界共同努力，改善資源分配，確保每位患者都能獲得必要的醫療照護。這一倡議引發了教育界的關注，尤其是在醫學教育和職業道德的培養上，期待能夠培育出更具社會責任感的醫療人員。\n```",
     "cn_title": "台大醫院院長是「西西爸」 波波醫難解是因公平性黑洞",
     "cn_classes": "政策與法規, 校園爭議與事件",
-    "cn_tags": "台大",
+    "cn_tags": "國立臺灣大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9460349": {
@@ -2344,13 +2344,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/23/34882870.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` \n中央大學推出「松濤學者」計畫，為應對即將來臨的教授退休潮，將結合教育部的永續發展方案，投入近10億元延攬國際優秀教師。此計畫的獎勵金額在10年間超過2000萬元，顯示出大學對人才的極高重視。中央大學校長蕭述三指出，此計畫將專注於半導體、AI、太空科學、智慧醫療及量子科技等五大關鍵領域，並將進一步提升台灣的國際競爭力。此舉不僅是挑戰，更是吸引人才的契機。 \n```",
-    "tags": "中央大學,教授,獎勵金",
+    "tags": "國立中央大學, 教授, 獎勵金",
     "classes": "學術研究與創新, 校務治理與管理",
     "is_target": "True",
     "cn_summary": "``` \n中央大學推出「松濤學者」計畫，為應對即將來臨的教授退休潮，將結合教育部的永續發展方案，投入近10億元延攬國際優秀教師。此計畫的獎勵金額在10年間超過2000萬元，顯示出大學對人才的極高重視。中央大學校長蕭述三指出，此計畫將專注於半導體、AI、太空科學、智慧醫療及量子科技等五大關鍵領域，並將進一步提升台灣的國際競爭力。此舉不僅是挑戰，更是吸引人才的契機。 \n```",
     "cn_title": "搶人才預算無上限 中央大學推「松濤學者」教授10年獎勵金逾2千萬",
     "cn_classes": "學術研究與創新, 校務治理與管理",
-    "cn_tags": "中央大學,教授,獎勵金",
+    "cn_tags": "國立中央大學, 教授, 獎勵金",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9459208": {
@@ -2361,13 +2361,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/23/34881982.jpg&M=1&s=Y&x=0&y=105&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` \n「最佳辯士」楊承叡自學習歷程爭議後，重返成功大學醫學系並宣布參選學生會長。儘管曾遭五所大學取消錄取資格，他以74級分重考成功，展現堅韌不拔的精神。楊生表示，這段經歷促使他成長，並提出六大改革政見，旨在為學生爭取更多權益。投票將於5月6日至8日進行，楊承叡的故事引發社會熱議，獲得廣泛讚賞。此事例彰顯了學生在逆境中仍可重拾信心，追求目標的榜樣力量。 \n```",
-    "tags": "成大, 大學生",
+    "tags": "國立成功大學, 大學生",
     "classes": "學生事務與生活",
     "is_target": "True",
     "cn_summary": "``` \n「最佳辯士」楊承叡自學習歷程爭議後，重返成功大學醫學系並宣布參選學生會長。儘管曾遭五所大學取消錄取資格，他以74級分重考成功，展現堅韌不拔的精神。楊生表示，這段經歷促使他成長，並提出六大改革政見，旨在為學生爭取更多權益。投票將於5月6日至8日進行，楊承叡的故事引發社會熱議，獲得廣泛讚賞。此事例彰顯了學生在逆境中仍可重拾信心，追求目標的榜樣力量。 \n```",
     "cn_title": "從谷底翻身！「最佳辯士」遭5校取消又拚回醫學系 再戰成大學生會長",
     "cn_classes": "學生事務與生活",
-    "cn_tags": "成大, 大學生",
+    "cn_tags": "國立成功大學, 大學生",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260423001874-262301": {
@@ -2395,13 +2395,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/22/34880683.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` 林琪兒太空人勉勵中央大學學生：追求興趣創造機會 近日，NASA台裔太空人林琪兒（Kjell Lindgren）訪問中央大學，首次與台灣學生面對面交流。他鼓勵學生追求個人興趣與專長，強調努力是為了創造更多機會。林琪兒分享了自身的學習與職業旅程，並表示太空任務的成功依賴於團隊合作和跨領域專業的緊密配合。他希望能啟發學生對太空科學的興趣，並提到未來計畫中，台灣有望參與國際太空任務的實驗設計。此舉有助於提升台灣在太空領域的國際視野。 ```",
-    "tags": "中央大學",
+    "tags": "國立中央大學",
     "classes": "其他",
     "is_target": "True",
     "cn_summary": "``` 林琪兒太空人勉勵中央大學學生：追求興趣創造機會 近日，NASA台裔太空人林琪兒（Kjell Lindgren）訪問中央大學，首次與台灣學生面對面交流。他鼓勵學生追求個人興趣與專長，強調努力是為了創造更多機會。林琪兒分享了自身的學習與職業旅程，並表示太空任務的成功依賴於團隊合作和跨領域專業的緊密配合。他希望能啟發學生對太空科學的興趣，並提到未來計畫中，台灣有望參與國際太空任務的實驗設計。此舉有助於提升台灣在太空領域的國際視野。 ```",
     "cn_title": "NASA台裔太空人訪中央大學 林琪兒勉學生：努力是為自己創造更多機會",
     "cn_classes": "其他",
-    "cn_tags": "中央大學",
+    "cn_tags": "國立中央大學",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260422004259-262301": {
@@ -2412,13 +2412,13 @@
       "https://images.chinatimes.com/newsphoto/2026-04-22/330/20260422004272.jpg"
     ],
     "summary": "```  \n國立臺灣師範大學美術學系水墨組115級畢業展《404 Ink Not Found》於18日至22日在國立臺灣藝術教育館展出，展覽靈感來自網路錯誤訊息“404 Not Found”，象徵水墨藝術的多元想像。展出作品涵蓋水墨、書篆、膠彩等多種媒材，展現創作者的藝術實踐。開幕茶會上，館長與教授們對學生的創作表示肯定，並鼓勵他們在未來的藝術道路上繼續探索。展覽吸引了眾多師生與藝術愛好者參觀，成為當代水墨藝術的重要展示平台。  \n```",
-    "tags": "臺師大,大學",
+    "tags": "國立臺灣師範大學, 大學",
     "classes": "學生事務與生活",
     "is_target": "True",
     "cn_summary": "```  \n國立臺灣師範大學美術學系水墨組115級畢業展《404 Ink Not Found》於18日至22日在國立臺灣藝術教育館展出，展覽靈感來自網路錯誤訊息“404 Not Found”，象徵水墨藝術的多元想像。展出作品涵蓋水墨、書篆、膠彩等多種媒材，展現創作者的藝術實踐。開幕茶會上，館長與教授們對學生的創作表示肯定，並鼓勵他們在未來的藝術道路上繼續探索。展覽吸引了眾多師生與藝術愛好者參觀，成為當代水墨藝術的重要展示平台。  \n```",
     "cn_title": "臺師大美術系水墨組畢展開幕 《404 Ink Not Found》玩轉水墨無限可能",
     "cn_classes": "學生事務與生活",
-    "cn_tags": "臺師大,大學",
+    "cn_tags": "國立臺灣師範大學, 大學",
     "source": "chinatimes"
   },
   "https://www.chinatimes.com/campus/20260422003141-262301": {
@@ -2446,13 +2446,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/22/34879009.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600"
     ],
     "summary": "``` \n新北市推動共享汽車進入台北大學校園 新北市交通局與國立台北大學合作，將於校園內設置共享汽車車格，預計6月啟用。這項措施旨在為師生提供多樣交通選擇，並強化校園與三鶯線的交通連結，提升區域運輸效率。交通局長表示，制度化管理將確保師生的用車權益，減輕校園停車壓力，並鼓勵年輕人選擇共享運具作為安全移動的選擇。此舉不僅便利校內交通，還能促進學生的可持續出行方式。 \n```",
-    "tags": "台北大學, 大學",
+    "tags": "國立臺北大學, 大學",
     "classes": "學生事務與生活, 校務治理與管理",
     "is_target": "True",
     "cn_summary": "``` \n新北市推動共享汽車進入台北大學校園 新北市交通局與國立台北大學合作，將於校園內設置共享汽車車格，預計6月啟用。這項措施旨在為師生提供多樣交通選擇，並強化校園與三鶯線的交通連結，提升區域運輸效率。交通局長表示，制度化管理將確保師生的用車權益，減輕校園停車壓力，並鼓勵年輕人選擇共享運具作為安全移動的選擇。此舉不僅便利校內交通，還能促進學生的可持續出行方式。 \n```",
     "cn_title": "串連三鶯線 新北共享汽車將開進台北大學校園",
     "cn_classes": "學生事務與生活, 校務治理與管理",
-    "cn_tags": "台北大學, 大學",
+    "cn_tags": "國立臺北大學, 大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9456908": {
@@ -2463,13 +2463,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/22/34878571.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` \n陽明交大研發抗濕氣臭氧分解催化劑 近日，國立陽明交通大學的研究團隊開發出一種新型抗濕氣臭氧分解催化劑，專門針對潮濕氣候下的臭氧問題。這種催化劑在一般室溫和75%濕度的環境下，臭氧去除率可達92%，甚至在50%濕度時可達99%。該技術未來將應用於空氣清淨機、醫療機構以及學校的空調系統，有望降低臭氧對呼吸道和心血管健康的威脅，為台灣的環境改善作出貢獻。 \n```",
-    "tags": "陽明交大",
+    "tags": "國立陽明交通大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "``` \n陽明交大研發抗濕氣臭氧分解催化劑 近日，國立陽明交通大學的研究團隊開發出一種新型抗濕氣臭氧分解催化劑，專門針對潮濕氣候下的臭氧問題。這種催化劑在一般室溫和75%濕度的環境下，臭氧去除率可達92%，甚至在50%濕度時可達99%。該技術未來將應用於空氣清淨機、醫療機構以及學校的空調系統，有望降低臭氧對呼吸道和心血管健康的威脅，為台灣的環境改善作出貢獻。 \n```",
     "cn_title": "春天臭氧超標威脅健康 陽明交大團隊研發抗濕氣分解催化劑",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "陽明交大",
+    "cn_tags": "國立陽明交通大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9456434": {
@@ -2480,13 +2480,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/21/34876219.jpg&M=1&s=Y&x=1&y=94&sw=1279&sh=853&exp=3600"
     ],
     "summary": "``` \n輔仁大學校長分享重返校園的學習方向，鼓勵30歲以上的學生選擇合適課程以提升自身技能與知識。隨著社會需求的變化，校長強調在學習中尋找目標的重要性，並建議學生根據個人興趣與未來職業規劃選擇課程。這一倡導對於希望提升競爭力的成人學習者尤為重要，能幫助他們更好地融入快速變化的職場環境，實現個人成長與發展。\n```",
-    "tags": "大學,輔大",
+    "tags": "大學, 輔仁大學",
     "classes": "教學與課程",
     "is_target": "True",
     "cn_summary": "``` \n輔仁大學校長分享重返校園的學習方向，鼓勵30歲以上的學生選擇合適課程以提升自身技能與知識。隨著社會需求的變化，校長強調在學習中尋找目標的重要性，並建議學生根據個人興趣與未來職業規劃選擇課程。這一倡導對於希望提升競爭力的成人學習者尤為重要，能幫助他們更好地融入快速變化的職場環境，實現個人成長與發展。\n```",
     "cn_title": "30+上大學／重回校園如何找學習方向 輔大校長選這些課",
     "cn_classes": "教學與課程",
-    "cn_tags": "大學,輔大",
+    "cn_tags": "大學, 輔仁大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9456378": {
@@ -2497,13 +2497,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/21/34877494.png&M=1&x=&y=&sw=&sh=&exp=3600"
     ],
     "summary": "```  \n台師大體操隊近期爆發霸凌事件，引發社會廣泛關注。根據報導，該隊長期以來建立了嚴格的訓練制度，並遭到人本基金會質疑是否存在霸凌行為。教育部已成立專案小組，計劃深入檢視該隊的訓練文化及相關問題。這一事件突顯了「服從即紀律」的教育理念所帶來的風險，專家呼籲學校應重視學生的心理健康與權益，並促進更健康的訓練環境。此事件可能對體育教育的管理與監督機制產生深遠影響。  \n```  ",
-    "tags": "台師大",
+    "tags": "國立臺灣師範大學",
     "classes": "校園爭議與事件",
     "is_target": "True",
     "cn_summary": "```  \n台師大體操隊近期爆發霸凌事件，引發社會廣泛關注。根據報導，該隊長期以來建立了嚴格的訓練制度，並遭到人本基金會質疑是否存在霸凌行為。教育部已成立專案小組，計劃深入檢視該隊的訓練文化及相關問題。這一事件突顯了「服從即紀律」的教育理念所帶來的風險，專家呼籲學校應重視學生的心理健康與權益，並促進更健康的訓練環境。此事件可能對體育教育的管理與監督機制產生深遠影響。  \n```  ",
     "cn_title": "台師大霸凌案 撕開「服從即紀律」的遮羞布",
     "cn_classes": "校園爭議與事件",
-    "cn_tags": "台師大",
+    "cn_tags": "國立臺灣師範大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9455673": {
@@ -2531,13 +2531,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/21/34877082.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` 清華大學舉辦「諾貝爾大師在清華」活動，邀請了2012年諾貝爾經濟學獎得主艾文．羅斯與化學獎得主布萊恩．克比爾卡，探討AI如何影響醫療與市場。羅斯提出透過優化制度和跨國合作提高腎臟移植配對可能性，克比爾卡則強調AI在藥物開發中的應用，推動從試錯模式轉向精準設計。此次論壇吸引近300名師生參與，強調AI不僅改變科學研究方法，也影響醫療服務模式，帶來新挑戰與機會。```",
-    "tags": "清大",
+    "tags": "國立清華大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "``` 清華大學舉辦「諾貝爾大師在清華」活動，邀請了2012年諾貝爾經濟學獎得主艾文．羅斯與化學獎得主布萊恩．克比爾卡，探討AI如何影響醫療與市場。羅斯提出透過優化制度和跨國合作提高腎臟移植配對可能性，克比爾卡則強調AI在藥物開發中的應用，推動從試錯模式轉向精準設計。此次論壇吸引近300名師生參與，強調AI不僅改變科學研究方法，也影響醫療服務模式，帶來新挑戰與機會。```",
     "cn_title": "諾貝爾獎得主齊聚清大 談AI時代的醫療與市場變局",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "清大",
+    "cn_tags": "國立清華大學",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260421003872-262301": {
@@ -2548,13 +2548,13 @@
       "https://images.chinatimes.com/newsphoto/2026-04-21/330/20260421003874.jpg"
     ],
     "summary": "``` \n靜宜大學與東海大學舉辦第30屆聯合祈禱會，於21日在靜宜大學主顧聖母堂盛大舉行。今年祈禱會以「在復活基督的愛中相遇，在聖方濟的精神裡同行」為主題，回顧兩校30年的信仰連結，並為世界和平、校園發展獻上祝福。靜宜校長林思伶和東海校長張國恩強調，此活動不僅深化校際情誼，更是培育兼具品格與專業能力人才的契機。他們期望透過共同信仰，攜手為台灣高等教育做出貢獻。\n```",
-    "tags": "靜宜大學,東海大學",
+    "tags": "靜宜大學, 東海大學",
     "classes": "學生事務與生活",
     "is_target": "True",
     "cn_summary": "``` \n靜宜大學與東海大學舉辦第30屆聯合祈禱會，於21日在靜宜大學主顧聖母堂盛大舉行。今年祈禱會以「在復活基督的愛中相遇，在聖方濟的精神裡同行」為主題，回顧兩校30年的信仰連結，並為世界和平、校園發展獻上祝福。靜宜校長林思伶和東海校長張國恩強調，此活動不僅深化校際情誼，更是培育兼具品格與專業能力人才的契機。他們期望透過共同信仰，攜手為台灣高等教育做出貢獻。\n```",
     "cn_title": "靜宜、東海聯合祈禱30週年　共育愛德青年",
     "cn_classes": "學生事務與生活",
-    "cn_tags": "靜宜大學,東海大學",
+    "cn_tags": "靜宜大學, 東海大學",
     "source": "chinatimes"
   },
   "https://udn.com/news/story/6928/9455502": {
@@ -2565,13 +2565,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/21/34876829.jpg&M=1&s=Y&x=0&y=0&sw=1132&sh=755&exp=3600"
     ],
     "summary": "``` \n靜宜大學與東海大學聯合祈禱會邁入第30年，於4月21日在靜宜大學舉行，旨在深化兩校交流，攜手培育具愛德、品格與專業能力的青年人才。此次活動主題為「在復活基督的愛中相遇，在聖方濟的精神裡同行」，由兩校校長及教職員共同參與，為世界和平與校園合一祈禱。校長強調，這一傳統不僅展現了天主教與基督教的合作精神，也為台灣高等教育注入正向力量，期待透過這樣的交流促進共同成長。 \n```",
-    "tags": "靜宜,東海,高等教育,大學,高教",
+    "tags": "靜宜, 東海, 高等教育, 大學, 高教",
     "classes": "國際交流與合作",
     "is_target": "True",
     "cn_summary": "``` \n靜宜大學與東海大學聯合祈禱會邁入第30年，於4月21日在靜宜大學舉行，旨在深化兩校交流，攜手培育具愛德、品格與專業能力的青年人才。此次活動主題為「在復活基督的愛中相遇，在聖方濟的精神裡同行」，由兩校校長及教職員共同參與，為世界和平與校園合一祈禱。校長強調，這一傳統不僅展現了天主教與基督教的合作精神，也為台灣高等教育注入正向力量，期待透過這樣的交流促進共同成長。 \n```",
     "cn_title": "跨越30年的約定！靜宜、東海兩校長領軍祈禱 打造台灣高教最暖傳統",
     "cn_classes": "國際交流與合作",
-    "cn_tags": "靜宜,東海,高等教育,大學,高教",
+    "cn_tags": "靜宜, 東海, 高等教育, 大學, 高教",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260421002761-262301": {
@@ -2616,13 +2616,13 @@
       "https://images.chinatimes.com/newsphoto/2026-04-21/330/20260421002661.png"
     ],
     "summary": "```  \n文化大學推動永續教育與產學合作 文化大學近日整合永續創新學院與紡工系，與台南企業合作參加「2026 Impact Local 在地影響力培育計畫」。此計畫旨在因應全球永續發展目標（SDGs），以跨域教學結合產學合作，培育具備永續思維及實務能力的人才。學生將於115年4月至12月期間參與專案操作，包括企業訪談及實習，並在TITAS紡織展中展示成果。透過企業出題、學生解題的機制，該計畫強調材料循環、低碳製程等議題，為台灣紡織產業的轉型提供支持。  \n```",
-    "tags": "文化大學,跨域合作,產學合作",
+    "tags": "中國文化大學, 跨域合作, 產學合作",
     "classes": "學術研究與創新, 教學與課程",
     "is_target": "True",
     "cn_summary": "```  \n文化大學推動永續教育與產學合作 文化大學近日整合永續創新學院與紡工系，與台南企業合作參加「2026 Impact Local 在地影響力培育計畫」。此計畫旨在因應全球永續發展目標（SDGs），以跨域教學結合產學合作，培育具備永續思維及實務能力的人才。學生將於115年4月至12月期間參與專案操作，包括企業訪談及實習，並在TITAS紡織展中展示成果。透過企業出題、學生解題的機制，該計畫強調材料循環、低碳製程等議題，為台灣紡織產業的轉型提供支持。  \n```",
     "cn_title": "文化大學跨域合作培養永續人才    助學生接軌職場與產業需求",
     "cn_classes": "學術研究與創新, 教學與課程",
-    "cn_tags": "文化大學,跨域合作,產學合作",
+    "cn_tags": "中國文化大學, 跨域合作, 產學合作",
     "source": "chinatimes"
   },
   "https://www.chinatimes.com/campus/20260421002599-262301": {
@@ -2650,13 +2650,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/21/34874811.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "```  \n台師大體操隊再爆霸凌事件，助教以剪刀威脅學生，並對一名遲到的三年級學生施以倒立懲罰長達2.5小時，導致頭部充血。調查顯示，副教授及助理教練使用高壓管教手段，並創造敵意環境進行訓誡。學生會呼籲校方檢討管理機制，特別建議未來調查小組應包含不同性別委員，以更全面考量受害者的處境。此次事件揭示教師兼任教練可能造成角色混淆，影響學生表達需求的能力。  \n```",
-    "tags": "臺師大",
+    "tags": "國立臺灣師範大學",
     "classes": "校園爭議與事件",
     "is_target": "True",
     "cn_summary": "```  \n台師大體操隊再爆霸凌事件，助教以剪刀威脅學生，並對一名遲到的三年級學生施以倒立懲罰長達2.5小時，導致頭部充血。調查顯示，副教授及助理教練使用高壓管教手段，並創造敵意環境進行訓誡。學生會呼籲校方檢討管理機制，特別建議未來調查小組應包含不同性別委員，以更全面考量受害者的處境。此次事件揭示教師兼任教練可能造成角色混淆，影響學生表達需求的能力。  \n```",
     "cn_title": "台師大又爆霸凌！體操隊助教拿剪刀威脅⋯小三遲到10分鐘被罰倒立2.5小時",
     "cn_classes": "校園爭議與事件",
-    "cn_tags": "臺師大",
+    "cn_tags": "國立臺灣師範大學",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260421001545-262301": {
@@ -2718,13 +2718,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/20/34872425.jpg&M=1&x=&y=&sw=&sh=&exp=3600"
     ],
     "summary": "``` \n中央大學參與的科學紀錄片《重返月球：太空新世紀》即將播出，該片聚焦於美國NASA的阿提米絲計畫，描繪人類重返月球及探索月球南極水資源的任務。這部紀錄片由台灣公共電視與法國France TV及ZED合作製作，展示了中央大學在太空環境風險評估及生醫研究上的關鍵科研成果。紀錄片將於4月23日和30日晚上9點在公視頻道播出，並引發對地球環境與永續發展的深思，彰顯台灣在新太空時代的重要角色。\n```",
-    "tags": "中央大學",
+    "tags": "國立中央大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "``` \n中央大學參與的科學紀錄片《重返月球：太空新世紀》即將播出，該片聚焦於美國NASA的阿提米絲計畫，描繪人類重返月球及探索月球南極水資源的任務。這部紀錄片由台灣公共電視與法國France TV及ZED合作製作，展示了中央大學在太空環境風險評估及生醫研究上的關鍵科研成果。紀錄片將於4月23日和30日晚上9點在公視頻道播出，並引發對地球環境與永續發展的深思，彰顯台灣在新太空時代的重要角色。\n```",
     "cn_title": "中央大學登國際舞台 「重返月球」紀錄片展現科研成果",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "中央大學",
+    "cn_tags": "國立中央大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9452350": {
@@ -2735,13 +2735,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/20/34871818.jpg&M=1&s=Y&x=1&y=129&sw=959&sh=640&exp=3600"
     ],
     "summary": "```  \n嘉藥大西餐隊在馬來西亞砂拉越國際廚藝賽中表現優異，獲得4枚銀牌和2枚銅牌，顯示出學生的專業能力和韌性。此次比賽是世界廚師聯合會官方認證賽事，吸引多國代表隊參加。選手孫明琮、陳昱安和明韋辰皆以創新料理技巧獲獎，並表示這次的成績將激勵他們在未來的比賽中追求更高成就。餐旅系主任也強調，國際比賽經驗對學生的職業發展至關重要，有助於開拓其視野。  \n```",
-    "tags": "嘉藥大",
+    "tags": "嘉南藥理大學",
     "classes": "學術研究與創新, 國際交流與合作",
     "is_target": "True",
     "cn_summary": "```  \n嘉藥大西餐隊在馬來西亞砂拉越國際廚藝賽中表現優異，獲得4枚銀牌和2枚銅牌，顯示出學生的專業能力和韌性。此次比賽是世界廚師聯合會官方認證賽事，吸引多國代表隊參加。選手孫明琮、陳昱安和明韋辰皆以創新料理技巧獲獎，並表示這次的成績將激勵他們在未來的比賽中追求更高成就。餐旅系主任也強調，國際比賽經驗對學生的職業發展至關重要，有助於開拓其視野。  \n```",
     "cn_title": "遠征馬來西亞砂拉越國際廚藝賽 嘉藥大西餐隊帶回4銀2銅",
     "cn_classes": "學術研究與創新, 國際交流與合作",
-    "cn_tags": "嘉藥大",
+    "cn_tags": "嘉南藥理大學",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260417004488-262301": {
@@ -2769,13 +2769,13 @@
       "https://images.chinatimes.com/newsphoto/2026-04-17/330/20260417003956.jpg"
     ],
     "summary": "``` \n靜宜大學大眾傳播學系第18屆畢業成果展《青春18LIGHT》將於5月1日至3日在高雄駁二藝術特區展出，並於5月11日至14日回校內接續展開。本次展覽集結21組作品，涵蓋影視、雜誌、繪本、新媒體及廣播等多元形式，展現學生在學期間的探索與成長。主題象徵學生在四年學習後站上屬於自己的舞台，邀請校內外觀眾共同感受年輕世代的創作能量。更多資訊可參見「青春18LIGHT」畢展官網或相關社交媒體平台。 \n```",
-    "tags": "靜宜大學,高雄,臺中",
+    "tags": "靜宜大學, 高雄, 臺中",
     "classes": "學生事務與生活",
     "is_target": "True",
     "cn_summary": "``` \n靜宜大學大眾傳播學系第18屆畢業成果展《青春18LIGHT》將於5月1日至3日在高雄駁二藝術特區展出，並於5月11日至14日回校內接續展開。本次展覽集結21組作品，涵蓋影視、雜誌、繪本、新媒體及廣播等多元形式，展現學生在學期間的探索與成長。主題象徵學生在四年學習後站上屬於自己的舞台，邀請校內外觀眾共同感受年輕世代的創作能量。更多資訊可參見「青春18LIGHT」畢展官網或相關社交媒體平台。 \n```",
     "cn_title": "靜宜大傳系畢展《青春18LIGHT》高雄、台中接力展出　影視與新媒體作品齊亮相",
     "cn_classes": "學生事務與生活",
-    "cn_tags": "靜宜大學,高雄,臺中",
+    "cn_tags": "靜宜大學, 高雄, 臺中",
     "source": "chinatimes"
   },
   "https://udn.com/news/story/6928/9448031": {
@@ -2786,13 +2786,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/17/34864812.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` \n中正大學成立前瞻綠色低碳製造基地，近日正式揭牌。此基地結合人工智慧（AI）與低碳技術，旨在推動精密機械產業的升級，特別是在齒輪加工技術上，效能提升近7倍，能源消耗則降低6倍。校長蔡少正表示，透過數據化的加工過程，AI技術可將傳統經驗轉化為可複製的演算法，提升製程穩定性。此外，大學將與多所科技大學合作，培養具備機械與AI能力的人才，為產業未來發展提供支持。此發展有助於應對淨零排放的趨勢，並提升國家競爭力。 \n```",
-    "tags": "中正大學, AI, 製造, 技術轉移, 高等教育",
+    "tags": "國立中正大學, AI, 製造, 技術轉移, 高等教育",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "``` \n中正大學成立前瞻綠色低碳製造基地，近日正式揭牌。此基地結合人工智慧（AI）與低碳技術，旨在推動精密機械產業的升級，特別是在齒輪加工技術上，效能提升近7倍，能源消耗則降低6倍。校長蔡少正表示，透過數據化的加工過程，AI技術可將傳統經驗轉化為可複製的演算法，提升製程穩定性。此外，大學將與多所科技大學合作，培養具備機械與AI能力的人才，為產業未來發展提供支持。此發展有助於應對淨零排放的趨勢，並提升國家競爭力。 \n```",
     "cn_title": "中正大學低碳製造基地揭牌 AI助攻齒輪加工效能提升7倍",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "中正大學, AI, 製造, 技術轉移, 高等教育",
+    "cn_tags": "國立中正大學, AI, 製造, 技術轉移, 高等教育",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9447779": {
@@ -2820,13 +2820,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/16/34862566.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` \n逢甲大學在2026年大學校長辦學績效互評中榮獲全國第五，並持續蟬聯綜合私校第一。這項調查由天下Cheers雜誌主辦，涵蓋110所參評大專院校。逢甲大學校長王葳表示，學校將成立半導體學院，專注培育半導體專才，並計劃進行校內設施的升級與改造，以強化學生的實作能力與產業經驗。逢甲大學的持續投資與前瞻佈局，顯示其在高等教育領域的穩健發展及對未來產業的積極回應。 \n```",
-    "tags": "大學,逢甲大學",
+    "tags": "大學, 逢甲大學",
     "classes": "校務治理與管理",
     "is_target": "True",
     "cn_summary": "``` \n逢甲大學在2026年大學校長辦學績效互評中榮獲全國第五，並持續蟬聯綜合私校第一。這項調查由天下Cheers雜誌主辦，涵蓋110所參評大專院校。逢甲大學校長王葳表示，學校將成立半導體學院，專注培育半導體專才，並計劃進行校內設施的升級與改造，以強化學生的實作能力與產業經驗。逢甲大學的持續投資與前瞻佈局，顯示其在高等教育領域的穩健發展及對未來產業的積極回應。 \n```",
     "cn_title": "2026大學校長辦學績效互評 逢甲大學榮獲全國第五",
     "cn_classes": "校務治理與管理",
-    "cn_tags": "大學,逢甲大學",
+    "cn_tags": "大學, 逢甲大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9446387": {
@@ -2854,13 +2854,13 @@
       "https://images.chinatimes.com/newsphoto/2026-04-16/330/20260416002938.jpg"
     ],
     "summary": "南華大學科技學院與欣欣水泥企業股份有限公司於4月1日簽署合作協議，建立產學合作關係，將共同推動永續發展、環境教育及USR計畫。此合作將協助欣欣水泥申請環境教育設施場所認證，並提升企業的ESG發展與環境教育品質。南華大學院長強調，透過跨領域教學與研究，將建構環境教育課程模組及提供學生實習機會，促進理論與實務的整合，深化學習成效。該合作標誌著產學合作推動永續教育的重要里程碑，未來雙方將持續深化合作。",
-    "tags": "南華大學,產學合作",
+    "tags": "南華大學, 產學合作",
     "classes": "學術研究與創新, 在地連結與社會責任（USR）",
     "is_target": "True",
     "cn_summary": "南華大學科技學院與欣欣水泥企業股份有限公司於4月1日簽署合作協議，建立產學合作關係，將共同推動永續發展、環境教育及USR計畫。此合作將協助欣欣水泥申請環境教育設施場所認證，並提升企業的ESG發展與環境教育品質。南華大學院長強調，透過跨領域教學與研究，將建構環境教育課程模組及提供學生實習機會，促進理論與實務的整合，深化學習成效。該合作標誌著產學合作推動永續教育的重要里程碑，未來雙方將持續深化合作。",
     "cn_title": "南華大學與欣欣水泥攜手　產學合作共推ESG與環境教育",
     "cn_classes": "學術研究與創新, 在地連結與社會責任（USR）",
-    "cn_tags": "南華大學,產學合作",
+    "cn_tags": "南華大學, 產學合作",
     "source": "chinatimes"
   },
   "https://udn.com/news/story/6928/9445478": {
@@ -2905,13 +2905,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/15/34858754.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600"
     ],
     "summary": "``` \n台南大學榮獲天下大學公民獎第二名，表現突出，獲得教育部的肯定。該校注重治理、教學、社會參與及環境永續，積極推動大學社會責任（USR），並將永續發展納入校務核心。校內已開設超過1900門永續相關課程，修課人次超過6萬。南大透過USR計畫，如「為偏鄉而教」等，與地方學校及社福機構建立合作，推動社會參與。未來，南大將進一步深化與社會的連結，強化大學的公共價值。 \n```",
-    "tags": "台南大學",
+    "tags": "國立臺南大學",
     "classes": "校務治理與管理, 在地連結與社會責任（USR）",
     "is_target": "True",
     "cn_summary": "``` \n台南大學榮獲天下大學公民獎第二名，表現突出，獲得教育部的肯定。該校注重治理、教學、社會參與及環境永續，積極推動大學社會責任（USR），並將永續發展納入校務核心。校內已開設超過1900門永續相關課程，修課人次超過6萬。南大透過USR計畫，如「為偏鄉而教」等，與地方學校及社福機構建立合作，推動社會參與。未來，南大將進一步深化與社會的連結，強化大學的公共價值。 \n```",
     "cn_title": "百年師培到永續治理 台南大學獲天下大學公民獎肯定",
     "cn_classes": "校務治理與管理, 在地連結與社會責任（USR）",
-    "cn_tags": "台南大學",
+    "cn_tags": "國立臺南大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9443901": {
@@ -2922,13 +2922,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/15/34858487.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600"
     ],
     "summary": "``` \n成功大學榮獲2026年「天下大學公民獎」公立一般大型大學組首獎，展現其在大學治理、社會參與及環境永續等方面的卓越成就。副校長陳玉女表示，此獎項不僅是對學校努力的肯定，更是提醒大學應回應社會需求與承擔責任。成大以「永續躍升計畫」為核心，整合跨領域研究，積極應對超高齡社會及淨零排放等公共議題，顯示其在永續治理上的領導地位。未來，成大將持續推動創新與社會責任，為國家和社會作出貢獻。\n```",
-    "tags": "成大",
+    "tags": "國立成功大學",
     "classes": "校務治理與管理, 在地連結與社會責任（USR）",
     "is_target": "True",
     "cn_summary": "``` \n成功大學榮獲2026年「天下大學公民獎」公立一般大型大學組首獎，展現其在大學治理、社會參與及環境永續等方面的卓越成就。副校長陳玉女表示，此獎項不僅是對學校努力的肯定，更是提醒大學應回應社會需求與承擔責任。成大以「永續躍升計畫」為核心，整合跨領域研究，積極應對超高齡社會及淨零排放等公共議題，顯示其在永續治理上的領導地位。未來，成大將持續推動創新與社會責任，為國家和社會作出貢獻。\n```",
     "cn_title": "以永續治理及社會責任 成大勇奪2026天下大學公民獎首獎",
     "cn_classes": "校務治理與管理, 在地連結與社會責任（USR）",
-    "cn_tags": "成大",
+    "cn_tags": "國立成功大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9443629": {
@@ -2939,13 +2939,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/15/34858114.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "```  \n中央大學研發高穩定度「抗擾」機器手臂 近日，國立中央大學電機系副教授吳俊緯的研究團隊成功打造出高精確度與高穩定度的「抗擾」機器手臂。該項技術整合了強化學習與傳統控制方法，能在環境不確定性和外部干擾下保持良好的控制效果。研究成果已發表於國際期刊IEEE Transactions on Cybernetics，標誌著在智慧製造與自動化領域的一大進步。此機器手臂的發展將促進工業自動化的應用，提升生產效率及技術適應性。  \n```",
-    "tags": "中央大學",
+    "tags": "國立中央大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "```  \n中央大學研發高穩定度「抗擾」機器手臂 近日，國立中央大學電機系副教授吳俊緯的研究團隊成功打造出高精確度與高穩定度的「抗擾」機器手臂。該項技術整合了強化學習與傳統控制方法，能在環境不確定性和外部干擾下保持良好的控制效果。研究成果已發表於國際期刊IEEE Transactions on Cybernetics，標誌著在智慧製造與自動化領域的一大進步。此機器手臂的發展將促進工業自動化的應用，提升生產效率及技術適應性。  \n```",
     "cn_title": "打開學理黑盒子 中央大學團隊打造高穩定度「抗擾」機器手臂",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "中央大學",
+    "cn_tags": "國立中央大學",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260415002816-262301": {
@@ -2973,13 +2973,13 @@
       "https://images.chinatimes.com/newsphoto/2026-04-15/330/20260415001939.jpg"
     ],
     "summary": "``` \n當代傳奇劇場走入明新科技大學 課堂分享表演藝術 藉由邀請成團四十週年的「當代傳奇劇場」，明新科技大學多媒體與遊戲發展系舉辦了一場藝文講座，介紹其代表作《慾望城國》的創作過程及京劇的基本功。演員朱柏澄和黃若琳展示京劇表演技巧，並分享在跨文化劇場中的創作經驗。此次交流不僅增進學生對表演藝術的認識，還激發了他們對劇場觀賞的興趣，展現了東西方藝術融合的多元可能性。 \n```",
-    "tags": "明新科大",
+    "tags": "明新科技大學",
     "classes": "學生事務與生活",
     "is_target": "True",
     "cn_summary": "``` \n當代傳奇劇場走入明新科技大學 課堂分享表演藝術 藉由邀請成團四十週年的「當代傳奇劇場」，明新科技大學多媒體與遊戲發展系舉辦了一場藝文講座，介紹其代表作《慾望城國》的創作過程及京劇的基本功。演員朱柏澄和黃若琳展示京劇表演技巧，並分享在跨文化劇場中的創作經驗。此次交流不僅增進學生對表演藝術的認識，還激發了他們對劇場觀賞的興趣，展現了東西方藝術融合的多元可能性。 \n```",
     "cn_title": "從莎士比亞到京劇唱唸做打　當代傳奇劇場走進明新科大",
     "cn_classes": "學生事務與生活",
-    "cn_tags": "明新科大",
+    "cn_tags": "明新科技大學",
     "source": "chinatimes"
   },
   "https://www.chinatimes.com/campus/20260414002569-262301": {
@@ -3058,13 +3058,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/13/34851673.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600"
     ],
     "summary": "``` \n中山大學攜手倫敦大學亞非學院，共同推出「全球公民權碩士學位學程」，成為台英高教合作首例。該學程為期一年，學生將在台灣與英國修課，並由雙方教授指導，學費僅需一般留英費用的一半。校長李志鵬強調，培養具全球視野的公民是高教的責任，這項合作將促進知識流動與創新，並提升台灣在全球學術體系中的能見度。首屆招生已引起國內外學生的廣泛關注。 \n```",
-    "tags": "中山大學, 學位, 碩士",
+    "tags": "國立中山大學, 學位, 碩士",
     "classes": "國際交流與合作, 教學與課程",
     "is_target": "True",
     "cn_summary": "``` \n中山大學攜手倫敦大學亞非學院，共同推出「全球公民權碩士學位學程」，成為台英高教合作首例。該學程為期一年，學生將在台灣與英國修課，並由雙方教授指導，學費僅需一般留英費用的一半。校長李志鵬強調，培養具全球視野的公民是高教的責任，這項合作將促進知識流動與創新，並提升台灣在全球學術體系中的能見度。首屆招生已引起國內外學生的廣泛關注。 \n```",
     "cn_title": "一年兩國拿學位 中山大學聯手倫敦亞非學院共辦碩士學程",
     "cn_classes": "國際交流與合作, 教學與課程",
-    "cn_tags": "中山大學, 學位, 碩士",
+    "cn_tags": "國立中山大學, 學位, 碩士",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260413002282-262301": {
@@ -3092,13 +3092,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/12/34847038.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600"
     ],
     "summary": "``` \n靜宜大學推動藝術跨域創作學士學位學程，將課程移至實際創作工坊，讓學生在真實環境中學習。該學程以師徒制形式進行泥塑創作，並開放高中職應屆及非應屆畢業生報名，無需筆試。課程設計涵蓋視覺藝術、表演藝術等多個模組，學生可依興趣選課，並將獲得模組結業證書，增強未來就業競爭力。此創新教學模式旨在將藝術學習實踐化，提升學生的實務技能與創作經驗。\n```",
-    "tags": "大學,學士",
+    "tags": "大學, 學士",
     "classes": "教學與課程",
     "is_target": "True",
     "cn_summary": "``` \n靜宜大學推動藝術跨域創作學士學位學程，將課程移至實際創作工坊，讓學生在真實環境中學習。該學程以師徒制形式進行泥塑創作，並開放高中職應屆及非應屆畢業生報名，無需筆試。課程設計涵蓋視覺藝術、表演藝術等多個模組，學生可依興趣選課，並將獲得模組結業證書，增強未來就業競爭力。此創新教學模式旨在將藝術學習實踐化，提升學生的實務技能與創作經驗。\n```",
     "cn_title": "大學藝術跨域創作學士學位學程 實務學習工坊即教室",
     "cn_classes": "教學與課程",
-    "cn_tags": "大學,學士",
+    "cn_tags": "大學, 學士",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9436067": {
@@ -3109,13 +3109,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/11/34846665.jpg&M=1&s=Y&x=0&y=107&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` 屏科大學生創立蜜棗品牌，實踐農業教育 國立屏東科技大學的三名大二學生陳文豪、傅斌彥和許紘睿，在「農場實務」課程中合作創立了「棗承蜜棗農園」品牌。他們成功採收超過1500斤蜜棗，並將產品預購一空，所得還捐出5%回饋給系上的「天使基金」，助力後進學生。這項創業經驗不僅鞏固了他們的農業技能，也體現了實踐與學習的結合，展現了新農民培育計畫的成效。```",
-    "tags": "屏科大",
+    "tags": "國立屏東科技大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "``` 屏科大學生創立蜜棗品牌，實踐農業教育 國立屏東科技大學的三名大二學生陳文豪、傅斌彥和許紘睿，在「農場實務」課程中合作創立了「棗承蜜棗農園」品牌。他們成功採收超過1500斤蜜棗，並將產品預購一空，所得還捐出5%回饋給系上的「天使基金」，助力後進學生。這項創業經驗不僅鞏固了他們的農業技能，也體現了實踐與學習的結合，展現了新農民培育計畫的成效。```",
     "cn_title": "校園新鮮事／屏科大3生創蜜棗品牌",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "屏科大",
+    "cn_tags": "國立屏東科技大學",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260411002806-262301": {
@@ -3143,13 +3143,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/11/34845613.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600"
     ],
     "summary": "```  \n台南大學以「廢棄太陽能板材料循環再生推動永續綠能教育」計畫獲得第七屆遠見USR大學社會責任獎產業共創組首獎，展現其在永續科技研發和社會實踐方面的成就。該計畫專注於太陽能電池材料的回收與再利用，成立「太陽能電池循環經濟產業聯盟」，並通過跨領域合作推動技術驗證與實務應用。校方表示，未來將持續強化與產業及社會的連結，深化綠能與循環經濟的發展，強化對永續議題的教育與推廣。  \n```",
-    "tags": "台南大學",
+    "tags": "國立臺南大學",
     "classes": "在地連結與社會責任（USR）",
     "is_target": "True",
     "cn_summary": "```  \n台南大學以「廢棄太陽能板材料循環再生推動永續綠能教育」計畫獲得第七屆遠見USR大學社會責任獎產業共創組首獎，展現其在永續科技研發和社會實踐方面的成就。該計畫專注於太陽能電池材料的回收與再利用，成立「太陽能電池循環經濟產業聯盟」，並通過跨領域合作推動技術驗證與實務應用。校方表示，未來將持續強化與產業及社會的連結，深化綠能與循環經濟的發展，強化對永續議題的教育與推廣。  \n```",
     "cn_title": "太陽能板循環再生！台南大學奪遠見USR首獎 兩年獲三大獎",
     "cn_classes": "在地連結與社會責任（USR）",
-    "cn_tags": "台南大學",
+    "cn_tags": "國立臺南大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9435041": {
@@ -3160,13 +3160,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/09/34840263.jpg&M=2&s=Y&x=0&y=30&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` 頂大推動方程式賽車計劃，學生從設計到經營車隊，獲得最佳創業教育體驗。這項計劃不僅讓學生實踐工程技術，還培養他們的團隊合作和創新能力。透過參加方程式賽車賽事，學生能夠將理論知識運用於實際情境，提升問題解決能力及商業意識。專家指出，此類實踐活動對學生未來職業發展具有深遠影響，特別是在科技和工程領域。```",
-    "tags": "頂大,學生,創業,教育",
+    "tags": "頂大, 學生, 創業, 教育",
     "classes": "學術研究與創新, 學生事務與生活",
     "is_target": "True",
     "cn_summary": "``` 頂大推動方程式賽車計劃，學生從設計到經營車隊，獲得最佳創業教育體驗。這項計劃不僅讓學生實踐工程技術，還培養他們的團隊合作和創新能力。透過參加方程式賽車賽事，學生能夠將理論知識運用於實際情境，提升問題解決能力及商業意識。專家指出，此類實踐活動對學生未來職業發展具有深遠影響，特別是在科技和工程領域。```",
     "cn_title": "頂大瘋方程式賽車 學生造車到經營車隊成最佳創業教育",
     "cn_classes": "學術研究與創新, 學生事務與生活",
-    "cn_tags": "頂大,學生,創業,教育",
+    "cn_tags": "頂大, 學生, 創業, 教育",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9434359": {
@@ -3211,13 +3211,13 @@
       "https://images.chinatimes.com/newsphoto/2026-04-10/330/20260410003257.jpg"
     ],
     "summary": "``` \n南華大學舉辦樂齡大學成果展慶祝創校三十週年。此次展覽「藝起樂活．重啟風華」於4月8日開幕，展示長者學員在課程中的學習成果，包括水墨畫、陶藝等。校長高俊雄表示，這一活動象徵著南華大學對終身學習的堅持，並鼓勵不同年齡層在校園中共同成長。終身學習學院院長釋知賢強調，展覽不僅展示了長者的創意與活力，也是南華大學30年教育精神的延續。此次成果展將持續至4月15日，旨在傳遞教育的溫暖與希望。\n```",
-    "tags": "南華大學,大學",
+    "tags": "南華大學, 大學",
     "classes": "教學與課程, 在地連結與社會責任（USR）",
     "is_target": "True",
     "cn_summary": "``` \n南華大學舉辦樂齡大學成果展慶祝創校三十週年。此次展覽「藝起樂活．重啟風華」於4月8日開幕，展示長者學員在課程中的學習成果，包括水墨畫、陶藝等。校長高俊雄表示，這一活動象徵著南華大學對終身學習的堅持，並鼓勵不同年齡層在校園中共同成長。終身學習學院院長釋知賢強調，展覽不僅展示了長者的創意與活力，也是南華大學30年教育精神的延續。此次成果展將持續至4月15日，旨在傳遞教育的溫暖與希望。\n```",
     "cn_title": "南華大學終身學院樂齡成果展　「藝起樂活．重啟風華」璀璨登場",
     "cn_classes": "教學與課程, 在地連結與社會責任（USR）",
-    "cn_tags": "南華大學,大學",
+    "cn_tags": "南華大學, 大學",
     "source": "chinatimes"
   },
   "https://www.chinatimes.com/campus/20260410003139-262301": {
@@ -3228,13 +3228,13 @@
       "https://images.chinatimes.com/newsphoto/2026-04-10/330/20260410003143.jpg"
     ],
     "summary": "``` \n中國文化大學推動華語教學國際化，擴展海外招生市場。文學院中文系的黃瓊慧老師帶領華語教師團隊，將教學延伸至全球，傳遞語言與文化。學校透過建立在地合作、優化課程及師資培育，打造完整的華語學習路徑，並編纂的《校園華語》教材已通過華測會認證，成為重要的海外推廣資源。這項計劃不僅提升了學校的國際競爭力，還有助於應對少子女化及教育轉型的挑戰，培養具語言能力與跨文化視野的人才。 \n```",
-    "tags": "文化大學",
+    "tags": "中國文化大學",
     "classes": "國際交流與合作",
     "is_target": "True",
     "cn_summary": "``` \n中國文化大學推動華語教學國際化，擴展海外招生市場。文學院中文系的黃瓊慧老師帶領華語教師團隊，將教學延伸至全球，傳遞語言與文化。學校透過建立在地合作、優化課程及師資培育，打造完整的華語學習路徑，並編纂的《校園華語》教材已通過華測會認證，成為重要的海外推廣資源。這項計劃不僅提升了學校的國際競爭力，還有助於應對少子女化及教育轉型的挑戰，培養具語言能力與跨文化視野的人才。 \n```",
     "cn_title": "熱血教師領航　文化大學華語教學走向世界",
     "cn_classes": "國際交流與合作",
-    "cn_tags": "文化大學",
+    "cn_tags": "中國文化大學",
     "source": "chinatimes"
   },
   "https://udn.com/news/story/6928/9433661": {
@@ -3245,13 +3245,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/10/34843044.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600"
     ],
     "summary": "```  \n前學生會長因曠課超過45節遭中教大退學，提出訴願稱「45節課非45小時」。校方強調已多次通知學生請假，並解釋學則規定的退學標準是基於每節課對應一小時的慣例。學生申訴遭駁回，校方表示尊重後續行政程序。這一事件引發對學校曠課規範及其合理性的討論，提醒學生注意請假制度以免影響學業。  \n```",
-    "tags": "中教大",
+    "tags": "國立臺中教育大學",
     "classes": "學生事務與生活, 校務爭議與事件",
     "is_target": "True",
     "cn_summary": "```  \n前學生會長因曠課超過45節遭中教大退學，提出訴願稱「45節課非45小時」。校方強調已多次通知學生請假，並解釋學則規定的退學標準是基於每節課對應一小時的慣例。學生申訴遭駁回，校方表示尊重後續行政程序。這一事件引發對學校曠課規範及其合理性的討論，提醒學生注意請假制度以免影響學業。  \n```",
     "cn_title": "硬拗「曠45節課非45小時」 前學生會長遭退學提訴願 中教大：已多次通知",
     "cn_classes": "學生事務與生活, 校務爭議與事件",
-    "cn_tags": "中教大",
+    "cn_tags": "國立臺中教育大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9432878": {
@@ -3262,13 +3262,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/09/34840468.jpg&M=2&x=&y=&sw=&sh=&exp=3600"
     ],
     "summary": "``` \n技職普大合併首例 修平科大、暨南大學「互補」迎戰少子化\n\n為應對少子化挑戰，修平科技大學與暨南國際大學將進行合併，這是台灣首例技職與普大合併的案例。兩校的結合旨在整合資源，提升教學質量，並擴大學生的學習選擇。這一策略不僅希望增強兩校的競爭力，還能為學生提供更全面的學術與職業發展機會，助力於培養符合市場需求的人才。專家表示，此舉可能成為未來高等教育改革的範本，促進教育體系的靈活性與創新性。\n```",
-    "tags": "修平科技大學,國立暨南國際大學,少子化,技職",
+    "tags": "修平科技大學, 國立暨南國際大學, 少子化, 技職",
     "classes": "校務治理與管理, 在地連結與社會責任（USR）",
     "is_target": "True",
     "cn_summary": "``` \n技職普大合併首例 修平科大、暨南大學「互補」迎戰少子化\n\n為應對少子化挑戰，修平科技大學與暨南國際大學將進行合併，這是台灣首例技職與普大合併的案例。兩校的結合旨在整合資源，提升教學質量，並擴大學生的學習選擇。這一策略不僅希望增強兩校的競爭力，還能為學生提供更全面的學術與職業發展機會，助力於培養符合市場需求的人才。專家表示，此舉可能成為未來高等教育改革的範本，促進教育體系的靈活性與創新性。\n```",
     "cn_title": "技職普大合併首例 修平科大、暨大「互補」迎戰少子化",
     "cn_classes": "校務治理與管理, 在地連結與社會責任（USR）",
-    "cn_tags": "修平科技大學,國立暨南國際大學,少子化,技職",
+    "cn_tags": "修平科技大學, 國立暨南國際大學, 少子化, 技職",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9432200": {
@@ -3279,13 +3279,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/09/34840997.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600"
     ],
     "summary": "```  \n遠見大學社會責任獎頒發 國立台灣海洋大學表現卓越  \n在2026年遠見USR大學社會責任獎頒獎典禮上，國立台灣海洋大學榮獲3件楷模獎與2件績優獎，僅次於國立成功大學。海大校長許泰文表示，這些獎項彰顯了學校在海洋永續核心理念的教學及研究成果。特別是「貢創雙贏」USR計畫，成功整合生態、生活與生產，推動地方創生與永續治理。這些成就不僅增強了海大的社會責任感，也為學生提供了實踐學習的機會，顯示出教育與社會的緊密聯繫。  \n```",
-    "tags": "海大,成大",
+    "tags": "國立臺灣海洋大學, 國立成功大學",
     "classes": "在地連結與社會責任（USR）",
     "is_target": "True",
     "cn_summary": "```  \n遠見大學社會責任獎頒發 國立台灣海洋大學表現卓越  \n在2026年遠見USR大學社會責任獎頒獎典禮上，國立台灣海洋大學榮獲3件楷模獎與2件績優獎，僅次於國立成功大學。海大校長許泰文表示，這些獎項彰顯了學校在海洋永續核心理念的教學及研究成果。特別是「貢創雙贏」USR計畫，成功整合生態、生活與生產，推動地方創生與永續治理。這些成就不僅增強了海大的社會責任感，也為學生提供了實踐學習的機會，顯示出教育與社會的緊密聯繫。  \n```",
     "cn_title": "遠見大學社會責任獎！海大奪5大獎 獲獎數僅次於成大",
     "cn_classes": "在地連結與社會責任（USR）",
-    "cn_tags": "海大,成大",
+    "cn_tags": "國立臺灣海洋大學, 國立成功大學",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260409003826-262301": {
@@ -3313,13 +3313,13 @@
       "https://images.chinatimes.com/newsphoto/2026-04-09/330/20260409002549.jpg"
     ],
     "summary": "``` \n真理大學音樂應用學系創新舉措，將今年的畢業班級音樂會移師至巫登益美術館，定於6月5日舉行。此次演出不僅展現學生四年學習成果，還透過音樂與視覺藝術的結合，為觀眾帶來全新藝術體驗。音應系同學在導師指導下進行場地勘查，確保演出品質。這場音樂會將成為學生畢業的重要里程碑，期待能與藝術作品產生深度對話，塑造沉浸式的美學體驗。 \n```",
-    "tags": "真理,大學",
+    "tags": "真理, 大學",
     "classes": "學生事務與生活",
     "is_target": "True",
     "cn_summary": "``` \n真理大學音樂應用學系創新舉措，將今年的畢業班級音樂會移師至巫登益美術館，定於6月5日舉行。此次演出不僅展現學生四年學習成果，還透過音樂與視覺藝術的結合，為觀眾帶來全新藝術體驗。音應系同學在導師指導下進行場地勘查，確保演出品質。這場音樂會將成為學生畢業的重要里程碑，期待能與藝術作品產生深度對話，塑造沉浸式的美學體驗。 \n```",
     "cn_title": "音樂走入美術館　真理音應系班級音樂會6月登場",
     "cn_classes": "學生事務與生活",
-    "cn_tags": "真理,大學",
+    "cn_tags": "真理, 大學",
     "source": "chinatimes"
   },
   "https://udn.com/news/story/6928/9431214": {
@@ -3364,13 +3364,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/07/34833725.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600"
     ],
     "summary": "``` 台科大與台大合作研發自供電水質監測系統 近日，國立台灣科技大學與國立台灣大學合作開發了一款「液固摩擦奈米感測器」，能在無需外部電源的情況下，同時偵測水中重金屬及細菌，並進行水質淨化。該系統利用水滴摩擦產生電能，降低能源消耗，並提升監測效率。研究成果已刊登於《Advanced Functional Materials》期刊，未來可應用於河川水質監測、災害水源檢查等多元場景，對環境保護及公共健康具有重要意義。 ```",
-    "tags": "台科大,台大,科技大學,國立臺灣大學,高等教育,學術研究,產學合作,技職",
+    "tags": "國立臺灣科技大學, 國立臺灣大學, 科技大學, 高等教育, 學術研究, 產學合作, 技職",
     "classes": "學術研究與創新, 產學合作",
     "is_target": "True",
     "cn_summary": "``` 台科大與台大合作研發自供電水質監測系統 近日，國立台灣科技大學與國立台灣大學合作開發了一款「液固摩擦奈米感測器」，能在無需外部電源的情況下，同時偵測水中重金屬及細菌，並進行水質淨化。該系統利用水滴摩擦產生電能，降低能源消耗，並提升監測效率。研究成果已刊登於《Advanced Functional Materials》期刊，未來可應用於河川水質監測、災害水源檢查等多元場景，對環境保護及公共健康具有重要意義。 ```",
     "cn_title": "台科大攜台大開發自供電水質監測系統 偵測重金屬、殺菌一次搞定",
     "cn_classes": "學術研究與創新, 產學合作",
-    "cn_tags": "台科大,台大,科技大學,國立臺灣大學,高等教育,學術研究,產學合作,技職",
+    "cn_tags": "國立臺灣科技大學, 國立臺灣大學, 科技大學, 高等教育, 學術研究, 產學合作, 技職",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260407003307-262301": {
@@ -3449,13 +3449,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/07/34831412.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600"
     ],
     "summary": "``` \n嘉大與中研院的研究顯示，塑化劑的環境污染會對魚類的胚胎發育產生跨代影響，第二代的負面效果甚至高於第一代。該研究已於2026年發表於國際期刊《Aquatic Toxicology》。研究團隊指出，母魚即使在極低濃度的環境中接觸塑化劑，仍會導致其生殖能力下降，影響子代的發育。研究者強調，這種跨世代的影響可能與「表觀遺傳」有關，提醒人類尤其是孕婦需謹慎應對環境污染，以保障胎兒健康。此研究成果引起國際學術界的廣泛關注，凸顯了環境污染對生物及人類健康的潛在危害。 \n```",
-    "tags": "嘉大",
+    "tags": "國立嘉義大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "``` \n嘉大與中研院的研究顯示，塑化劑的環境污染會對魚類的胚胎發育產生跨代影響，第二代的負面效果甚至高於第一代。該研究已於2026年發表於國際期刊《Aquatic Toxicology》。研究團隊指出，母魚即使在極低濃度的環境中接觸塑化劑，仍會導致其生殖能力下降，影響子代的發育。研究者強調，這種跨世代的影響可能與「表觀遺傳」有關，提醒人類尤其是孕婦需謹慎應對環境污染，以保障胎兒健康。此研究成果引起國際學術界的廣泛關注，凸顯了環境污染對生物及人類健康的潛在危害。 \n```",
     "cn_title": "塑化劑會影響子代發育 嘉大與中研院研究登國際期刊",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "嘉大",
+    "cn_tags": "國立嘉義大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9424557": {
@@ -3466,13 +3466,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/06/34830094.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600"
     ],
     "summary": "``` \n台師大學二舍整修計畫引發爭議。根據學生會調查，超過90%的學生不支持全棟施工，擔心床位將減少700張，施工期間會影響生活品質。學生會呼籲校方尊重學生意見，建議只對一樓公共空間進行改善。台師大回應將考慮學生反饋，並計畫向教育部申請變更內容，將以不影響住宿的方式進行必要的設施優化。此次整修計畫旨在提升宿舍環境，保障學生的住宿權益與生活品質。 \n```",
-    "tags": "台師大",
+    "tags": "國立臺灣師範大學",
     "classes": "學生事務與生活, 校務治理與管理",
     "is_target": "True",
     "cn_summary": "``` \n台師大學二舍整修計畫引發爭議。根據學生會調查，超過90%的學生不支持全棟施工，擔心床位將減少700張，施工期間會影響生活品質。學生會呼籲校方尊重學生意見，建議只對一樓公共空間進行改善。台師大回應將考慮學生反饋，並計畫向教育部申請變更內容，將以不影響住宿的方式進行必要的設施優化。此次整修計畫旨在提升宿舍環境，保障學生的住宿權益與生活品質。 \n```",
     "cn_title": "台師大學二舍整修 學生會調查：逾9成學生不支持全棟施工計畫",
     "cn_classes": "學生事務與生活, 校務治理與管理",
-    "cn_tags": "台師大",
+    "cn_tags": "國立臺灣師範大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9423627": {
@@ -3483,13 +3483,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/05/34828881.jpg&M=1&s=Y&x=0&y=107&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` 清華大學澄清與中國「國防七子」無實質交流 近日，清華大學就其官網仍列出與中國「國防七子」等校的合作事宜進行澄清，表示相關協議多為早年簽訂，經過審查後確認目前已無實質交流。教育部去年已禁止國內大專院校與這些學校進行交流，旨在加強國安措施，避免關鍵技術外流。清大強調，未來的國際學術合作將遵循現行法規，並根據整體教育政策審慎辦理。此舉反映出在當前國際形勢下，教育機構對於合作夥伴的選擇日益謹慎。 ```",
-    "tags": "清大,大學",
+    "tags": "國立清華大學, 大學",
     "classes": "國際交流與合作, 校務治理與管理",
     "is_target": "True",
     "cn_summary": "``` 清華大學澄清與中國「國防七子」無實質交流 近日，清華大學就其官網仍列出與中國「國防七子」等校的合作事宜進行澄清，表示相關協議多為早年簽訂，經過審查後確認目前已無實質交流。教育部去年已禁止國內大專院校與這些學校進行交流，旨在加強國安措施，避免關鍵技術外流。清大強調，未來的國際學術合作將遵循現行法規，並根據整體教育政策審慎辦理。此舉反映出在當前國際形勢下，教育機構對於合作夥伴的選擇日益謹慎。 ```",
     "cn_title": "官網仍列與中國「國防七子」合作？ 清大澄清：無實質交流",
     "cn_classes": "國際交流與合作, 校務治理與管理",
-    "cn_tags": "清大,大學",
+    "cn_tags": "國立清華大學, 大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9423200": {
@@ -3500,13 +3500,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/04/34827369.jpg&M=1&s=Y&x=52&y=0&sw=1204&sh=803&exp=3600"
     ],
     "summary": "``` \n中山大學突破AI技術限制，推出矽光子技術，期望打造下一座科技高峰。這項技術有望在計算能力及數據傳輸速度上實現重大突破，將對未來的人工智慧和通訊技術產生深遠影響。學校表示，該技術的發展不僅能提升學術研究，也可能促進相關產業的創新與發展，為教育界和科技界帶來新的機遇。專家認為，這將有助於鞏固台灣在全球科技競爭中的地位。 \n```",
-    "tags": "中山大學,大學",
+    "tags": "國立中山大學, 大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "``` \n中山大學突破AI技術限制，推出矽光子技術，期望打造下一座科技高峰。這項技術有望在計算能力及數據傳輸速度上實現重大突破，將對未來的人工智慧和通訊技術產生深遠影響。學校表示，該技術的發展不僅能提升學術研究，也可能促進相關產業的創新與發展，為教育界和科技界帶來新的機遇。專家認為，這將有助於鞏固台灣在全球科技競爭中的地位。 \n```",
     "cn_title": "突破AI頻寬牆 中山大學矽光子技術 打造下一座護國神山",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "中山大學,大學",
+    "cn_tags": "國立中山大學, 大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9420516": {
@@ -3517,13 +3517,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/03/34824203.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` \n台大推出「能源界的超商咖啡機」 背包大小煉油機將廢油轉變為燃料 國立台灣大學機械工程系副教授蔣雅郁團隊近期成功開發出一款背包大小的連續式生質柴油系統，能將廢棄食用油或植物油即時轉化為高品質生質柴油。該系統如同咖啡機般便捷，打破傳統大型工業設備的限制，提升能源的即時可用性。此研究已獲選於2025年《Green Chemistry》期刊封面，並有望在社區發電及醫療備源方面實現商業化，增強台灣的能源自主與韌性。 \n```",
-    "tags": "台大",
+    "tags": "國立臺灣大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "``` \n台大推出「能源界的超商咖啡機」 背包大小煉油機將廢油轉變為燃料 國立台灣大學機械工程系副教授蔣雅郁團隊近期成功開發出一款背包大小的連續式生質柴油系統，能將廢棄食用油或植物油即時轉化為高品質生質柴油。該系統如同咖啡機般便捷，打破傳統大型工業設備的限制，提升能源的即時可用性。此研究已獲選於2025年《Green Chemistry》期刊封面，並有望在社區發電及醫療備源方面實現商業化，增強台灣的能源自主與韌性。 \n```",
     "cn_title": "台大打造「能源界的超商咖啡機」 背包大小煉油機把廢油變燃料",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "台大",
+    "cn_tags": "國立臺灣大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9420134": {
@@ -3551,13 +3551,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/02/34823622.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600"
     ],
     "summary": "```  \n東海大學因柯文哲演講引發爭議決定停辦 「公共事務菁英講座」原定邀請前民眾黨主席柯文哲主講，因其涉及京華城案件而判刑17年，校方的決定引起社會高度關注。校方在評估後指出，為避免影響校園的教學秩序與學習環境，決定停止該場講座。東海大學強調，專班主任已與柯文哲辦公室進行溝通，並尊重各方意見，此舉旨在維護校園的穩定與和諧。  \n```",
-    "tags": "東海大學,大學",
+    "tags": "東海大學, 大學",
     "classes": "校園爭議與事件",
     "is_target": "True",
     "cn_summary": "```  \n東海大學因柯文哲演講引發爭議決定停辦 「公共事務菁英講座」原定邀請前民眾黨主席柯文哲主講，因其涉及京華城案件而判刑17年，校方的決定引起社會高度關注。校方在評估後指出，為避免影響校園的教學秩序與學習環境，決定停止該場講座。東海大學強調，專班主任已與柯文哲辦公室進行溝通，並尊重各方意見，此舉旨在維護校園的穩定與和諧。  \n```",
     "cn_title": "東海大學「菁英講座」邀柯文哲演講惹議 校方決議停辦了",
     "cn_classes": "校園爭議與事件",
-    "cn_tags": "東海大學,大學",
+    "cn_tags": "東海大學, 大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9419697": {
@@ -3568,13 +3568,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/02/34823195.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "```  \n東海大學因邀請前民眾黨主席柯文哲擔任「公共事務菁英講座」主講人而引發爭議，校方原定於5月30日舉行的講座最終決定停辦。校方在發聲明時表示，邀請規劃在柯文哲的相關司法判決出爐前已完成，並無政治考量。然而，由於社會各界對此邀請的高度關注與不同意見，為維護校園教學秩序，最終選擇停止此活動。此事件突顯大學在政治與學術交流中的角色與挑戰。  \n```",
-    "tags": "東海大學,大學",
+    "tags": "東海大學, 大學",
     "classes": "校務治理與管理, 校園爭議與事件",
     "is_target": "True",
     "cn_summary": "```  \n東海大學因邀請前民眾黨主席柯文哲擔任「公共事務菁英講座」主講人而引發爭議，校方原定於5月30日舉行的講座最終決定停辦。校方在發聲明時表示，邀請規劃在柯文哲的相關司法判決出爐前已完成，並無政治考量。然而，由於社會各界對此邀請的高度關注與不同意見，為維護校園教學秩序，最終選擇停止此活動。此事件突顯大學在政治與學術交流中的角色與挑戰。  \n```",
     "cn_title": "下午才發聲明…東海大學邀柯文哲演講惹議 急轉彎宣布「停辦」",
     "cn_classes": "校務治理與管理, 校園爭議與事件",
-    "cn_tags": "東海大學,大學",
+    "cn_tags": "東海大學, 大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9419474": {
@@ -3585,13 +3585,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/02/34822865.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` \n東海大學邀請前民眾黨主席柯文哲於5月30日舉行「公共事務菁英講座」，講題為「從醫療到政治：從醫師到市長再到主席的治理經驗」，引發廣泛討論。由於柯文哲因京華城案被判有期徒刑17年，校方最初表示此邀請基於學術考量，並無政治意圖。然而，面對社會爭議，東海大學於近日宣布停辦該講座，以維護校園教學秩序與學習環境的穩定。校方重申，將持續尊重多元觀點，並強調理性對話的重要性。 \n```",
-    "tags": "東海大學,大學",
+    "tags": "東海大學, 大學",
     "classes": "學生事務與生活, 校園爭議與事件, 校務治理與管理",
     "is_target": "True",
     "cn_summary": "``` \n東海大學邀請前民眾黨主席柯文哲於5月30日舉行「公共事務菁英講座」，講題為「從醫療到政治：從醫師到市長再到主席的治理經驗」，引發廣泛討論。由於柯文哲因京華城案被判有期徒刑17年，校方最初表示此邀請基於學術考量，並無政治意圖。然而，面對社會爭議，東海大學於近日宣布停辦該講座，以維護校園教學秩序與學習環境的穩定。校方重申，將持續尊重多元觀點，並強調理性對話的重要性。 \n```",
     "cn_title": "東海大學「菁英講座」邀柯文哲演講掀議論 校方回應",
     "cn_classes": "學生事務與生活, 校園爭議與事件, 校務治理與管理",
-    "cn_tags": "東海大學,大學",
+    "cn_tags": "東海大學, 大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9418556": {
@@ -3602,13 +3602,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/02/34821308.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` \n台大推出矽光子長波紅外氣體感測器 提升城市安全 國立台灣大學材料系的陳學禮教授團隊與台灣半導體研究中心合作，研發出一種可於室溫運作的矽光子長波紅外氣體感測技術。該技術能精準偵測可燃氣體丙烯與甲烷，並於濃度達到危險水平前即時發出警報。這項技術的應用對於工業環境監測及智慧城市的安全防範至關重要，有望減少如2014年高雄氣爆等事故的發生。研究成果已發表於《Journal of Hazardous Materials》期刊。\n```",
-    "tags": "臺大",
+    "tags": "國立臺灣大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "``` \n台大推出矽光子長波紅外氣體感測器 提升城市安全 國立台灣大學材料系的陳學禮教授團隊與台灣半導體研究中心合作，研發出一種可於室溫運作的矽光子長波紅外氣體感測技術。該技術能精準偵測可燃氣體丙烯與甲烷，並於濃度達到危險水平前即時發出警報。這項技術的應用對於工業環境監測及智慧城市的安全防範至關重要，有望減少如2014年高雄氣爆等事故的發生。研究成果已發表於《Journal of Hazardous Materials》期刊。\n```",
     "cn_title": "台大研發矽光子長波紅外感測器 即時偵測高氣爆風險氣體",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "臺大",
+    "cn_tags": "國立臺灣大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9418533": {
@@ -3619,13 +3619,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/02/34821267.jpg&M=1&s=Y&x=0&y=0&sw=1080&sh=720&exp=3600"
     ],
     "summary": "``` \n陽明交通大學太空所成功發射名為「Asfaloth」的火箭，為台灣的太空發展注入新動力。該火箭長6.2公尺，於2025年10月發射，達到2.8公里的高度，吸引了眾多學生的目光。太空所的建立旨在填補台灣太空產業的人才缺口，並透過實作課程培養具系統性知識的人才。校方已啟動支持計畫，提供設備補助及獎學金，以確保更多有志學生能夠參與這一領域的發展，為未來的「太空國家隊」打下基礎。 \n```",
-    "tags": "陽明交大",
+    "tags": "國立陽明交通大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "``` \n陽明交通大學太空所成功發射名為「Asfaloth」的火箭，為台灣的太空發展注入新動力。該火箭長6.2公尺，於2025年10月發射，達到2.8公里的高度，吸引了眾多學生的目光。太空所的建立旨在填補台灣太空產業的人才缺口，並透過實作課程培養具系統性知識的人才。校方已啟動支持計畫，提供設備補助及獎學金，以確保更多有志學生能夠參與這一領域的發展，為未來的「太空國家隊」打下基礎。 \n```",
     "cn_title": "陽明交大太空所師生把火箭送上天空 助攻太空國家隊",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "陽明交大",
+    "cn_tags": "國立陽明交通大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9417987": {
@@ -3636,13 +3636,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/02/34820245.jpg&M=1&s=Y&x=0&y=0&sw=1080&sh=720&exp=3600"
     ],
     "summary": "``` \n海大林翰佳教授榮獲傑出研究獎，因其在海洋生物技術方面的創新成果。林教授結合傳統中藥炮製技術與奈米科技，開發出具天然抗菌效能的「草本炭方」技術。該技術為解決養殖業過度依賴抗生素問題提供了解決方案，並已成功外銷至日本、越南及馬來西亞。林教授強調，研究應具備產業價值，透過跨領域合作創新，推動台灣農業生技的全球影響力，展現其在抗生素替代品開發上的潛力。 \n```",
-    "tags": "海大",
+    "tags": "國立臺灣海洋大學",
     "classes": "學術研究與創新",
     "is_target": "True",
     "cn_summary": "``` \n海大林翰佳教授榮獲傑出研究獎，因其在海洋生物技術方面的創新成果。林教授結合傳統中藥炮製技術與奈米科技，開發出具天然抗菌效能的「草本炭方」技術。該技術為解決養殖業過度依賴抗生素問題提供了解決方案，並已成功外銷至日本、越南及馬來西亞。林教授強調，研究應具備產業價值，透過跨領域合作創新，推動台灣農業生技的全球影響力，展現其在抗生素替代品開發上的潛力。 \n```",
     "cn_title": "草本炭到解方 海大林翰佳獲傑出研究獎",
     "cn_classes": "學術研究與創新",
-    "cn_tags": "海大",
+    "cn_tags": "國立臺灣海洋大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9417357": {
@@ -3653,13 +3653,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/01/34819536.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "``` \n聯大校園徵才博覽會盛大登場，吸引90家企業參與，提供3000個職缺，旨在協助應屆畢業生順利就業。此次活動由勞動部勞動力發展署及國立聯合大學共同舉辦，涵蓋科技製造、電子資訊、服務業等多個領域，台灣美光等知名企業也設攤提供即時面試機會。校方希望學生能主動與企業交流，利用自身能力爭取理想職位，實現「畢業即就業」的目標。這一活動不僅促進學生與業界的連結，還彰顯了地方對教育與就業的重視。 \n```",
-    "tags": "聯大,大學",
+    "tags": "國立聯合大學, 大學",
     "classes": "學生事務與生活",
     "is_target": "True",
     "cn_summary": "``` \n聯大校園徵才博覽會盛大登場，吸引90家企業參與，提供3000個職缺，旨在協助應屆畢業生順利就業。此次活動由勞動部勞動力發展署及國立聯合大學共同舉辦，涵蓋科技製造、電子資訊、服務業等多個領域，台灣美光等知名企業也設攤提供即時面試機會。校方希望學生能主動與企業交流，利用自身能力爭取理想職位，實現「畢業即就業」的目標。這一活動不僅促進學生與業界的連結，還彰顯了地方對教育與就業的重視。 \n```",
     "cn_title": "影／畢業即就業！聯大校園徵才博覽會今登場 90家企業提供3000職缺",
     "cn_classes": "學生事務與生活",
-    "cn_tags": "聯大,大學",
+    "cn_tags": "國立聯合大學, 大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9415045": {
@@ -3670,13 +3670,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/31/34816065.jpg&M=3&s=Y&x=0&y=108&sw=1154&sh=770&exp=3600"
     ],
     "summary": "```  \n台大學生會長陳柏承近日遭罷免，成為該校學生會成立以來首位被成功罷免的會長。罷免投票中，443票支持罷免，63票反對，投票率僅為1.44%。罷免理由包括陳柏承未能有效與幹部聯繫及規避監督機制。陳柏承反指罷免背後涉及私人恩怨和權力鬥爭。校方表示尊重學生自治決策，此事件引起對校園民主及學生自治的廣泛關注。  \n```",
-    "tags": "台大,大學生,大學",
+    "tags": "國立臺灣大學, 大學生, 大學",
     "classes": "學生事務與生活, 校務治理與管理, 校園爭議與事件",
     "is_target": "True",
     "cn_summary": "```  \n台大學生會長陳柏承近日遭罷免，成為該校學生會成立以來首位被成功罷免的會長。罷免投票中，443票支持罷免，63票反對，投票率僅為1.44%。罷免理由包括陳柏承未能有效與幹部聯繫及規避監督機制。陳柏承反指罷免背後涉及私人恩怨和權力鬥爭。校方表示尊重學生自治決策，此事件引起對校園民主及學生自治的廣泛關注。  \n```",
     "cn_title": "創首例 台大學生會長遭罷免",
     "cn_classes": "學生事務與生活, 校務治理與管理, 校園爭議與事件",
-    "cn_tags": "台大,大學生,大學",
+    "cn_tags": "國立臺灣大學, 大學生, 大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9415046": {
@@ -3687,13 +3687,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid11195_4.jpg"
     ],
     "summary": "```\n學生團體強調罷免是校園自治的重要一環。最近，台灣大學學生會長的罷免案引發了高教界的熱烈討論。學生們表示，透過民主機制表達訴求是必要的，罷免過程應回歸學生本位，以促進學生自治的穩健運作，最大化學生權益。蔡其曄理事長指出，學生自治的過程中可能出現衝突，需有效溝通以避免惡性循環，並強調不同意見的磨合是學生成長的關鍵。同時，學生聯合會也呼籲各校檢視學生會的運作狀況，以適應當前的挑戰。\n```",
-    "tags": "",
+    "tags": "國立臺灣大學, 高教",
     "classes": "校務治理與管理",
     "is_target": "True",
     "cn_summary": "```\n學生團體強調罷免是校園自治的重要一環。最近，台灣大學學生會長的罷免案引發了高教界的熱烈討論。學生們表示，透過民主機制表達訴求是必要的，罷免過程應回歸學生本位，以促進學生自治的穩健運作，最大化學生權益。蔡其曄理事長指出，學生自治的過程中可能出現衝突，需有效溝通以避免惡性循環，並強調不同意見的磨合是學生成長的關鍵。同時，學生聯合會也呼籲各校檢視學生會的運作狀況，以適應當前的挑戰。\n```",
     "cn_title": "學團：罷免是校園自治重要一環",
     "cn_classes": "校務治理與管理",
-    "cn_tags": "",
+    "cn_tags": "國立臺灣大學, 高教",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260331002251-262301": {
@@ -3704,13 +3704,13 @@
       "https://images.chinatimes.com/newsphoto/2026-03-31/330/20260331002274.jpg"
     ],
     "summary": "``` \n東海大學首屆會長盃半程馬拉松活動於28日盛大舉行，吸引超過1500位師生與校友參加。會長游志豪在致詞中回顧童年回憶，提到一根針成為他正直行事的準則，希望透過此次公益路跑串聯社會力量，打造正直社會。活動還結合「草原海鮮饗宴」，讓參與者在運動後享受美食，促進情誼。立法院副院長江啟臣等嘉賓出席並肯定游志豪對公益的長期貢獻，強調路跑是連結社區與校園的重要橋樑。 \n```",
-    "tags": "東海大學,大學",
+    "tags": "東海大學, 大學",
     "classes": "學生事務與生活, 在地連結與社會責任（USR）",
     "is_target": "True",
     "cn_summary": "``` \n東海大學首屆會長盃半程馬拉松活動於28日盛大舉行，吸引超過1500位師生與校友參加。會長游志豪在致詞中回顧童年回憶，提到一根針成為他正直行事的準則，希望透過此次公益路跑串聯社會力量，打造正直社會。活動還結合「草原海鮮饗宴」，讓參與者在運動後享受美食，促進情誼。立法院副院長江啟臣等嘉賓出席並肯定游志豪對公益的長期貢獻，強調路跑是連結社區與校園的重要橋樑。 \n```",
     "cn_title": "東海大學馬拉松吸引1500人參與    以「一根針」精神打造正直社會",
     "cn_classes": "學生事務與生活, 在地連結與社會責任（USR）",
-    "cn_tags": "東海大學,大學",
+    "cn_tags": "東海大學, 大學",
     "source": "chinatimes"
   },
   "https://udn.com/news/story/6928/9413655": {
@@ -3721,13 +3721,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/31/34814475.jpg&M=1&s=Y&x=83&y=0&sw=1157&sh=771&exp=3600"
     ],
     "summary": "``` \n台大學生會長首次遭罷免！在創會38年中，學生會長陳柏承因未審預算即辦活動及工作延誤，被提案罷免。投票於3月30日進行，結果顯示同意罷免的票數達443票，占投票總數的85%以上，創下台大學生會首例罷免的紀錄。此次投票率僅為1.44%。陳柏承在答辯中強調其對「舍監案」等議題的關注和努力，並呼籲大家評價其具體行動而非外界評價。校方表示尊重學生自治的結果，這一事件引發對學生自治及民主運作的討論。\n```",
-    "tags": "台大,大學,大學生",
+    "tags": "國立臺灣大學, 大學, 大學生",
     "classes": "學生事務與生活",
     "is_target": "True",
     "cn_summary": "``` \n台大學生會長首次遭罷免！在創會38年中，學生會長陳柏承因未審預算即辦活動及工作延誤，被提案罷免。投票於3月30日進行，結果顯示同意罷免的票數達443票，占投票總數的85%以上，創下台大學生會首例罷免的紀錄。此次投票率僅為1.44%。陳柏承在答辯中強調其對「舍監案」等議題的關注和努力，並呼籲大家評價其具體行動而非外界評價。校方表示尊重學生自治的結果，這一事件引發對學生自治及民主運作的討論。\n```",
     "cn_title": "創會38年首例！台大學生會長遭罷免 投票率1.44%、逾8成5同意",
     "cn_classes": "學生事務與生活",
-    "cn_tags": "台大,大學,大學生",
+    "cn_tags": "國立臺灣大學, 大學, 大學生",
     "source": "udn"
   },
   "https://example.com/test-watch-sync": {
@@ -3753,13 +3753,13 @@
       "https://images.chinatimes.com/newsphoto/2026-03-31/330/20260331001368.png"
     ],
     "summary": "``` \n東海大學董事會大換血，推動教育改革\n\n東海大學於30日正式公布第36屆董事會名單，創下8位新任董事更換的歷史紀錄。新董事會成員涵蓋金融、生醫、半導體等多個領域，包括富邦集團董事長蔡明忠及前台大校長楊泮池等重量級人物。校長張國恩表示，此次改組顯示東海大學致力於專業治理與學術卓越，期望重返教育領導地位，並應對少子化挑戰。新董事會將於4月21日正式啟動，展望未來將推動創新改革，提升校園環境與教育質量。\n```",
-    "tags": "東海大學,大學",
+    "tags": "東海大學, 大學",
     "classes": "校務治理與管理",
     "is_target": "True",
     "cn_summary": "``` \n東海大學董事會大換血，推動教育改革\n\n東海大學於30日正式公布第36屆董事會名單，創下8位新任董事更換的歷史紀錄。新董事會成員涵蓋金融、生醫、半導體等多個領域，包括富邦集團董事長蔡明忠及前台大校長楊泮池等重量級人物。校長張國恩表示，此次改組顯示東海大學致力於專業治理與學術卓越，期望重返教育領導地位，並應對少子化挑戰。新董事會將於4月21日正式啟動，展望未來將推動創新改革，提升校園環境與教育質量。\n```",
     "cn_title": "東海大學董事會「黃金陣容」曝光    跨界巨頭重塑教育新典範",
     "cn_classes": "校務治理與管理",
-    "cn_tags": "東海大學,大學",
+    "cn_tags": "東海大學, 大學",
     "source": "chinatimes"
   },
   "https://www.chinatimes.com/campus/20260331001347-262301": {
@@ -3770,13 +3770,13 @@
       "https://images.chinatimes.com/newsphoto/2026-03-31/330/20260331001352.jpg"
     ],
     "summary": "輔仁大學展現卓越國考表現，成為「國考常勝軍」。根據最新數據，輔大在文法商、醫學及數據科技等領域的國考通過率均高於全國平均，尤其醫學院臨床心理學系保持100%通過率，醫學系及其他相關科系也名列前茅。教務長蔡宗佑指出，這些成績反映了學校的教學品質與專業培育，並強調跨領域人才的培養。輔大將於4月11日舉辦校系特色說明會，幫助即將升學的學生和家長了解未來職業發展路徑。",
-    "tags": "輔大",
+    "tags": "輔仁大學",
     "classes": "教學與課程, 學生事務與生活",
     "is_target": "True",
     "cn_summary": "輔仁大學展現卓越國考表現，成為「國考常勝軍」。根據最新數據，輔大在文法商、醫學及數據科技等領域的國考通過率均高於全國平均，尤其醫學院臨床心理學系保持100%通過率，醫學系及其他相關科系也名列前茅。教務長蔡宗佑指出，這些成績反映了學校的教學品質與專業培育，並強調跨領域人才的培養。輔大將於4月11日舉辦校系特色說明會，幫助即將升學的學生和家長了解未來職業發展路徑。",
     "cn_title": "國考證照常勝軍！　輔大文法商醫各領域通過率傲視全台",
     "cn_classes": "教學與課程, 學生事務與生活",
-    "cn_tags": "輔大",
+    "cn_tags": "輔仁大學",
     "source": "chinatimes"
   },
   "https://www.chinatimes.com/campus/20260330003883-262301": {
@@ -3787,13 +3787,13 @@
       "https://images.chinatimes.com/newsphoto/2026-03-30/330/20260330003894_20260330191839.jpg"
     ],
     "summary": "```  \n第五屆長江杯金裳獎即日起至5月7日開放報名，吸引兩岸新銳設計師參加。該活動不僅為參賽者提供專業競賽的舞台，還透過企業參訪和產業交流，讓學生實際接觸AI應用和直播帶貨等新興商業模式，提升對時尚產業的理解。參賽者表示，這樣的經驗如同提前進入時尚業實習，能夠挑戰自我，拓展創作視野。主辦單位強調，金裳獎是設計創作者展示才華的重要機會，鼓勵各大專院校學生積極參與。  \n```",
-    "tags": "",
+    "tags": "大專",
     "classes": "教學與課程, 學術研究與創新",
     "is_target": "True",
     "cn_summary": "```  \n第五屆長江杯金裳獎即日起至5月7日開放報名，吸引兩岸新銳設計師參加。該活動不僅為參賽者提供專業競賽的舞台，還透過企業參訪和產業交流，讓學生實際接觸AI應用和直播帶貨等新興商業模式，提升對時尚產業的理解。參賽者表示，這樣的經驗如同提前進入時尚業實習，能夠挑戰自我，拓展創作視野。主辦單位強調，金裳獎是設計創作者展示才華的重要機會，鼓勵各大專院校學生積極參與。  \n```",
     "cn_title": "直擊設計產業現場！　選手力推「金裳獎」實戰魅力",
     "cn_classes": "教學與課程, 學術研究與創新",
-    "cn_tags": "",
+    "cn_tags": "大專",
     "source": "chinatimes"
   },
   "https://udn.com/news/story/6928/9412462": {
@@ -3804,13 +3804,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/30/34812386.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600"
     ],
     "summary": "``` \n東海大學新董事會成員曝光！教育部近日核定第36屆董事會名單，成員包括富邦集團董事長蔡明忠、前國立台灣大學校長楊泮池及前國立成功大學校長蘇慧貞等，共有15位董事，其中8位為新任，創下更換人數紀錄。校長張國恩表示，此次改組顯示東海大學致力於推動「專業治理」與「學術卓越」雙引擎策略，目標重返教育領導地位。新董事會成員涵蓋金融、生醫、半導體等領域，期待提升學術影響力與產業連結，為學生提供更豐富的實踐機會。 \n```",
-    "tags": "東海大學,大學",
+    "tags": "東海大學, 大學",
     "classes": "校務治理與管理",
     "is_target": "True",
     "cn_summary": "``` \n東海大學新董事會成員曝光！教育部近日核定第36屆董事會名單，成員包括富邦集團董事長蔡明忠、前國立台灣大學校長楊泮池及前國立成功大學校長蘇慧貞等，共有15位董事，其中8位為新任，創下更換人數紀錄。校長張國恩表示，此次改組顯示東海大學致力於推動「專業治理」與「學術卓越」雙引擎策略，目標重返教育領導地位。新董事會成員涵蓋金融、生醫、半導體等領域，期待提升學術影響力與產業連結，為學生提供更豐富的實踐機會。 \n```",
     "cn_title": "東海大學新董事會黃金陣容曝光！楊泮池、蔡明忠、蘇慧貞入列",
     "cn_classes": "校務治理與管理",
-    "cn_tags": "東海大學,大學",
+    "cn_tags": "東海大學, 大學",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260330003340-262301": {
@@ -3821,13 +3821,13 @@
       "https://images.chinatimes.com/newsphoto/2026-03-30/330/20260330003342.jpg"
     ],
     "summary": "``` \n東海大學重塑校園生態新地標 近日，東海大學落成的小王子玫瑰園旁舉行植樹節活動，復育的「東海湖」正式轉型為水岸大花園，吸引師生共同種下700株親水植物，增添校園生態美感。校長張國恩表示，湖泊的修復不僅解決了漏水問題，還引入了黑天鵝和柯爾鴨以維持生態平衡，成為台中市民喜愛的踏青打卡地點。EMBA校友會理事長林天財捐贈的13棵落羽松將進一步美化校園，象徵學子的茁壯成長。\n```",
-    "tags": "東海大學,大學",
+    "tags": "東海大學, 大學",
     "classes": "校務治理與管理",
     "is_target": "True",
     "cn_summary": "``` \n東海大學重塑校園生態新地標 近日，東海大學落成的小王子玫瑰園旁舉行植樹節活動，復育的「東海湖」正式轉型為水岸大花園，吸引師生共同種下700株親水植物，增添校園生態美感。校長張國恩表示，湖泊的修復不僅解決了漏水問題，還引入了黑天鵝和柯爾鴨以維持生態平衡，成為台中市民喜愛的踏青打卡地點。EMBA校友會理事長林天財捐贈的13棵落羽松將進一步美化校園，象徵學子的茁壯成長。\n```",
     "cn_title": "東海大學打造「湖畔大花園」  700株綠苗、落羽松築生態秘境",
     "cn_classes": "校務治理與管理",
-    "cn_tags": "東海大學,大學",
+    "cn_tags": "東海大學, 大學",
     "source": "chinatimes"
   },
   "https://udn.com/news/story/6928/9411924": {
@@ -3838,13 +3838,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/30/34811746.jpg&M=1&s=Y&x=0&y=0&sw=1163&sh=776&exp=3600"
     ],
     "summary": "```  \n台大舍監性騷擾案一審宣判，涉案女舍監被判有期徒刑7個月。事件引發學生會及立委的關注，當事女學生感謝司法公正，但對於台大未立即支持受害者表示不滿。台大隨後宣布該名舍監將不再任職，以保障學生權益。此案還涉及前教育部次長洩漏個資的問題，凸顯校內性平議題的迫切性。學生會呼籲重啟性平調查，要求校方更積極保護學生安全。  \n```",
-    "tags": "台大",
+    "tags": "國立臺灣大學",
     "classes": "校園爭議與事件, 校務治理與管理",
     "is_target": "True",
     "cn_summary": "```  \n台大舍監性騷擾案一審宣判，涉案女舍監被判有期徒刑7個月。事件引發學生會及立委的關注，當事女學生感謝司法公正，但對於台大未立即支持受害者表示不滿。台大隨後宣布該名舍監將不再任職，以保障學生權益。此案還涉及前教育部次長洩漏個資的問題，凸顯校內性平議題的迫切性。學生會呼籲重啟性平調查，要求校方更積極保護學生安全。  \n```",
     "cn_title": "台大舍監案判女舍監有期徒刑7個月 台大：該員不再任職",
     "cn_classes": "校園爭議與事件, 校務治理與管理",
-    "cn_tags": "台大",
+    "cn_tags": "國立臺灣大學",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260330002582-262301": {
@@ -3855,13 +3855,13 @@
       "https://images.chinatimes.com/newsphoto/2026-03-30/330/20260330002588_20260330140352.jpg"
     ],
     "summary": "``` \n「EduSports 智慧體育策略聯盟」正式啟動，該聯盟由臺中市新成國小校長林益興發起，串聯四縣市七所學校，並結合國立臺北教育大學及東海大學的學術資源，致力於打造以AI為核心的智慧體育新模式。該計畫旨在推動跨校、跨域、跨國合作，透過資源共享與策略聯盟，提升體育課程的數位轉型，並強化學生的自我效能與健康發展。專家指出，此舉將有助於縮小地區間的教育差距，促進學生的群性成長，並培養未來關鍵能力。 \n```",
-    "tags": "",
+    "tags": "國立臺北教育大學, 東海大學, 學術",
     "classes": "國際交流與合作, 校務治理與管理, 教學與課程, 學術研究與創新",
     "is_target": "True",
     "cn_summary": "``` \n「EduSports 智慧體育策略聯盟」正式啟動，該聯盟由臺中市新成國小校長林益興發起，串聯四縣市七所學校，並結合國立臺北教育大學及東海大學的學術資源，致力於打造以AI為核心的智慧體育新模式。該計畫旨在推動跨校、跨域、跨國合作，透過資源共享與策略聯盟，提升體育課程的數位轉型，並強化學生的自我效能與健康發展。專家指出，此舉將有助於縮小地區間的教育差距，促進學生的群性成長，並培養未來關鍵能力。 \n```",
     "cn_title": "林益興啟動智慧體育策略聯盟    串聯四縣市七校邁向國際",
     "cn_classes": "國際交流與合作, 校務治理與管理, 教學與課程, 學術研究與創新",
-    "cn_tags": "",
+    "cn_tags": "國立臺北教育大學, 東海大學, 學術",
     "source": "chinatimes"
   },
   "https://udn.com/news/story/6928/9411335": {
@@ -3889,13 +3889,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/30/34809906.jpg&M=1&s=Y&x=1&y=108&sw=1279&sh=852&exp=3600"
     ],
     "summary": "```嘉大與東京大學合作研發生物除草劑，利用農業廢棄物如稻殼和稻稈進行「化感作用」研究，顯示其對台灣常見惡性雜草「大花咸豐草」有顯著的抑制效果。此研究成果於2026年日本植物學年會上發表，成功將農業廢棄物轉化為「綠金」，推動永續循環農業。助理教授林孟淳表示，該研究不僅增強農業副產物的經濟價值，也朝向全株利用、零廢棄的目標邁進，對環境保護及農業發展具有深遠影響。```",
-    "tags": "嘉大,東大",
+    "tags": "國立嘉義大學, 東大",
     "classes": "學術研究與創新, 國際交流與合作",
     "is_target": "True",
     "cn_summary": "```嘉大與東京大學合作研發生物除草劑，利用農業廢棄物如稻殼和稻稈進行「化感作用」研究，顯示其對台灣常見惡性雜草「大花咸豐草」有顯著的抑制效果。此研究成果於2026年日本植物學年會上發表，成功將農業廢棄物轉化為「綠金」，推動永續循環農業。助理教授林孟淳表示，該研究不僅增強農業副產物的經濟價值，也朝向全株利用、零廢棄的目標邁進，對環境保護及農業發展具有深遠影響。```",
     "cn_title": "嘉大東大跨國研發生物除草劑 農業廢棄物變「綠金」",
     "cn_classes": "學術研究與創新, 國際交流與合作",
-    "cn_tags": "嘉大,東大",
+    "cn_tags": "國立嘉義大學, 東大",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9403946": {
@@ -3906,13 +3906,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/26/34798773.png&M=1&s=Y&x=0&y=0&sw=1280&sh=670&exp=3600"
     ],
     "summary": "```  \n臺師大春季課程推廣多元學習 新課程「植癒心流：正向園藝療癒課程」正式開放報名，將植物照護與正向心理學結合，特別針對熟齡與樂齡族群設計。課程強調透過園藝活動幫助學員放慢生活步調、調節情緒，並建立內在平衡。學員在八週內可完成各種園藝作品，體驗創作的成就感。這類課程不僅促進身心健康，也在都市快速生活中提供一種新的學習與療癒方式，鼓勵更多人參與終身學習。  \n```",
-    "tags": "臺師大,大學",
+    "tags": "國立臺灣師範大學, 大學",
     "classes": "教學與課程",
     "is_target": "True",
     "cn_summary": "```  \n臺師大春季課程推廣多元學習 新課程「植癒心流：正向園藝療癒課程」正式開放報名，將植物照護與正向心理學結合，特別針對熟齡與樂齡族群設計。課程強調透過園藝活動幫助學員放慢生活步調、調節情緒，並建立內在平衡。學員在八週內可完成各種園藝作品，體驗創作的成就感。這類課程不僅促進身心健康，也在都市快速生活中提供一種新的學習與療癒方式，鼓勵更多人參與終身學習。  \n```",
     "cn_title": "從學習到療癒 臺師大春季課程展現多元學習新樣貌",
     "cn_classes": "教學與課程",
-    "cn_tags": "臺師大,大學",
+    "cn_tags": "國立臺灣師範大學, 大學",
     "source": "udn"
   },
   "https://www.chinatimes.com/campus/20260329002198-262301": {
@@ -3940,13 +3940,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/28/34806261.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
     ],
     "summary": "```  \n清大核工系成為人才搶手貨 隨著台灣重啟核能發電計劃，清華大學的核工系迎來了前所未有的人才需求。根據報導，美國愛達荷國家實驗室與核能技術公司西屋頻繁挖角清大畢業生，試用期薪資約為303萬元，正式後可達383萬元。清大核工系歷史悠久，曾為台灣核電發展的重要人才搖籃，然而在「非核家園」政策下，曾面臨招生困境。如今，隨著全球對淨零碳排的重視，核能再次成為關鍵選項，清大核工人才的需求急劇上升，顯示出核工職業的未來潛力。  \n```",
-    "tags": "清大",
+    "tags": "國立清華大學",
     "classes": "教學與課程, 學術研究與創新, 學生事務與生活",
     "is_target": "True",
     "cn_summary": "```  \n清大核工系成為人才搶手貨 隨著台灣重啟核能發電計劃，清華大學的核工系迎來了前所未有的人才需求。根據報導，美國愛達荷國家實驗室與核能技術公司西屋頻繁挖角清大畢業生，試用期薪資約為303萬元，正式後可達383萬元。清大核工系歷史悠久，曾為台灣核電發展的重要人才搖籃，然而在「非核家園」政策下，曾面臨招生困境。如今，隨著全球對淨零碳排的重視，核能再次成為關鍵選項，清大核工人才的需求急劇上升，顯示出核工職業的未來潛力。  \n```",
     "cn_title": "全球瘋搶核工人才！清大畢業生年薪380萬",
     "cn_classes": "教學與課程, 學術研究與創新, 學生事務與生活",
-    "cn_tags": "清大",
+    "cn_tags": "國立清華大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9408650": {
@@ -3957,13 +3957,13 @@
       "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/28/34806160.jpg&M=1&s=Y&x=0&y=0&sw=1191&sh=794&exp=3600"
     ],
     "summary": "``` \n中山大學校友總會近日舉行第12屆理事長交接典禮，卸任的黃烱輝以捐贈2億元支持母校和產業發展，為校友會奠定基礎。接任的陳建志，擁有電機博士及EMBA學位，計劃推動跨域整合與公益服務，將校友專業轉化為社會資源。教育部長鄭英耀也出席並讚揚校友對母校的貢獻。陳建志表示，未來將專注於擴大公益活動參與及整合校友資源，助力社會發展。 \n```",
-    "tags": "中山大學",
+    "tags": "國立中山大學",
     "classes": "校務治理與管理",
     "is_target": "True",
     "cn_summary": "``` \n中山大學校友總會近日舉行第12屆理事長交接典禮，卸任的黃烱輝以捐贈2億元支持母校和產業發展，為校友會奠定基礎。接任的陳建志，擁有電機博士及EMBA學位，計劃推動跨域整合與公益服務，將校友專業轉化為社會資源。教育部長鄭英耀也出席並讚揚校友對母校的貢獻。陳建志表示，未來將專注於擴大公益活動參與及整合校友資源，助力社會發展。 \n```",
     "cn_title": "中山校友總會交棒 黃烱輝捐2億元卸任、陳建志布局跨域整合",
     "cn_classes": "校務治理與管理",
-    "cn_tags": "中山大學",
+    "cn_tags": "國立中山大學",
     "source": "udn"
   },
   "https://udn.com/news/story/6928/9408478": {
