@@ -1,4 +1,19 @@
 {
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UbncyYjh2VHN0VW9XTnNSaXpVNGJyQlZ0aENOc0p4dWlGZE1FdzRYZFNIOVdnWVJJVHVyak01bVptWXBQMmhCdU1SUml4UQ?oc=5": {
+    "title": "柏克萊重教國中數學 現在大學生真的程度變差了？為什麼？ - 天下雜誌",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UbncyYjh2VHN0VW9XTnNSaXpVNGJyQlZ0aENOc0p4dWlGZE1FdzRYZFNIOVdnWVJJVHVyak01bVptWXBQMmhCdU1SUml4UQ?oc=5",
+    "published": "2026-07-06 17:11",
+    "images": [],
+    "summary": "柏克萊重教國中數學 現在大學生真的程度變差了？為什麼？&nbsp;&nbsp;天下雜誌",
+    "tags": "大學生",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "柏克萊重教國中數學 現在大學生真的程度變差了？為什麼？&nbsp;&nbsp;天下雜誌",
+    "cn_title": "柏克萊重教國中數學 現在大學生真的程度變差了？為什麼？ - 天下雜誌",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "大學生",
+    "source": "天下雜誌"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5495642": {
     "title": "王爺公上太空！中央大學攜手屏東迎王祭典 發射立方衛星展現跨域創新",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5495642",
@@ -3582,21 +3597,6 @@
     "cn_title": "大學排名落後！ 《BBC》曝台灣為何能培育出「世界級工程師」",
     "cn_classes": "校務治理與管理",
     "cn_tags": "國立臺灣大學",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5483743": {
-    "title": "中山大學攜手台積電推半導體暑期課程 全國學生免費選修拿學分",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5483743",
-    "published": "2026-06-25 15:04",
-    "images": [],
-    "summary": "台灣在全球半導體產業鏈占有關鍵地位，為培育更多半導體人才，國立中山大學與台積電合作，於今年暑假推出「半導體基礎科學與工程應用暑期課程」，除了串聯南台灣及東部10所大學共同參與，...…",
-    "tags": "國立中山大學, 學分",
-    "classes": "教學與課程",
-    "is_target": "True",
-    "cn_summary": "台灣在全球半導體產業鏈占有關鍵地位，為培育更多半導體人才，國立中山大學與台積電合作，於今年暑假推出「半導體基礎科學與工程應用暑期課程」，除了串聯南台灣及東部10所大學共同參與，...…",
-    "cn_title": "中山大學攜手台積電推半導體暑期課程 全國學生免費選修拿學分",
-    "cn_classes": "教學與課程",
-    "cn_tags": "國立中山大學, 學分",
     "source": "自由時報"
   }
 }
