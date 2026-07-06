@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5495642": {
+    "title": "王爺公上太空！中央大學攜手屏東迎王祭典 發射立方衛星展現跨域創新",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5495642",
+    "published": "2026-07-06 16:17",
+    "images": [],
+    "summary": "明年、2027年屏東迎王正科年前，由國立中央大學領軍、教育部「數位人文跨域人才智慧領航計畫」推動「王爺公上太空」任務，將於台灣時間7月7日下午3時10分，在美國加州范登堡太空軍...…",
+    "tags": "國立中央大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "明年、2027年屏東迎王正科年前，由國立中央大學領軍、教育部「數位人文跨域人才智慧領航計畫」推動「王爺公上太空」任務，將於台灣時間7月7日下午3時10分，在美國加州范登堡太空軍...…",
+    "cn_title": "王爺公上太空！中央大學攜手屏東迎王祭典 發射立方衛星展現跨域創新",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立中央大學",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51ZkNUSF9UMF84M3V0Y0RabVg0cWEwaENtaEtYNVIzTGVPSTQ4dVN2QWVZM2FHUlRLNkZXNVY0eDJJN1JIdzRONzN5ckNLSUxU?oc=5": {
     "title": "從寒枝到櫻綻：馬偕醫學大學醫學教育品質認證的實踐與省思──以2022年TMAC認證訪視為例 - UDN",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51ZkNUSF9UMF84M3V0Y0RabVg0cWEwaENtaEtYNVIzTGVPSTQ4dVN2QWVZM2FHUlRLNkZXNVY0eDJJN1JIdzRONzN5ckNLSUxU?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "華梵大學, 研究所",
     "source": "UDN 文教"
-  },
-  "https://www.cna.com.tw/news/ahel/202606280079.aspx": {
-    "title": "印尼台校首辦留學華語營　助擬赴台學生提升適應力",
-    "link": "https://www.cna.com.tw/news/ahel/202606280079.aspx",
-    "published": "2026-06-28 12:41",
-    "images": [],
-    "summary": "（中央社記者羅薇佳雅加達28日專電）印尼留台校友聯誼會與雅加達台灣學校於22日至26日首度舉辦赴台留學預備華語營，共吸引45名準備赴台留學的印尼學生參與；校方表示，協助準備赴台的印尼學生提升中文聽說能力，提前奠定語言基礎與在地適應力。",
-    "tags": "",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "（中央社記者羅薇佳雅加達28日專電）印尼留台校友聯誼會與雅加達台灣學校於22日至26日首度舉辦赴台留學預備華語營，共吸引45名準備赴台留學的印尼學生參與；校方表示，協助準備赴台的印尼學生提升中文聽說能力，提前奠定語言基礎與在地適應力。",
-    "cn_title": "印尼台校首辦留學華語營　助擬赴台學生提升適應力",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "",
-    "source": "中央社"
   }
 }
