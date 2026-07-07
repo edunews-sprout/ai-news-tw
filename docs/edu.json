@@ -44,6 +44,21 @@
     "cn_tags": "大學",
     "source": "自由時報"
   },
+  "https://news.ltn.com.tw/news/Miaoli/paper/1761824": {
+    "title": "巴黎發明展 苗栗企業奪4金7銀17銅",
+    "link": "https://news.ltn.com.tw/news/Miaoli/paper/1761824",
+    "published": "2026-07-08 05:30",
+    "images": [],
+    "summary": "苗栗縣政府攜手國立聯合大學、私立育達科技大學積動產官學合作，持續深耕創新研發，今年巴黎國際發明展苗栗縣有十五家優秀企業參展，勇奪四金、七銀、十七銅佳績，目前有兩家產品獲國外廠商青睞，將洽談合作事宜；縣長鍾東錦昨頒獎表揚，鼓勵企業持續投入研發，有更多創新商品站上國際舞台。（圖文：記者張勳騰）…",
+    "tags": "國立聯合大學, 育達科技大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "苗栗縣政府攜手國立聯合大學、私立育達科技大學積動產官學合作，持續深耕創新研發，今年巴黎國際發明展苗栗縣有十五家優秀企業參展，勇奪四金、七銀、十七銅佳績，目前有兩家產品獲國外廠商青睞，將洽談合作事宜；縣長鍾東錦昨頒獎表揚，鼓勵企業持續投入研發，有更多創新商品站上國際舞台。（圖文：記者張勳騰）…",
+    "cn_title": "巴黎發明展 苗栗企業奪4金7銀17銅",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立聯合大學, 育達科技大學",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93bmdWWmhTVU81dzJGV2szMF9KQ3Zha2FVYkF5QnVodS01NHA0NDdFY1k1LUJSZ083MHZObkJfaV9VZ0JZOE9USHVpZzRPUQ?oc=5": {
     "title": "淨零轉型！義守大學連四年獲U-start補助學生研發半導體廢水回收技術奪50萬元| 徐炳文 | 地方新聞 - 風傳媒",
     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93bmdWWmhTVU81dzJGV2szMF9KQ3Zha2FVYkF5QnVodS01NHA0NDdFY1k1LUJSZ083MHZObkJfaV9VZ0JZOE9USHVpZzRPUQ?oc=5",
@@ -3582,21 +3597,6 @@
     "cn_title": "西方教育哲學融合陽明學第一人 台大文學院以「林茂生」命名會議室 - UDN",
     "cn_classes": "其他",
     "cn_tags": "國立臺灣大學, 國立陽明交通大學",
-    "source": "UDN 文教"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41dWo5dk9yZXVBRjFFeXdmSGluLWpxeWxjUXZWSXpDY2dTX1NwUFlrcTNEcHdpU3VJM01GQmw5RUNneGhrZVkwdWd2YlZZMFJD0gFWQVVfeXFMTjNIWkgzODdsYzVZYXd1bFZhYmZsOUl4eE1GYlFBUy14Z01mdzFzMmY0c0g0TE1oTTR2WnlvOUo2RjdtUkFBTFZPNXZRSDdUeEdYdV8tNkE?oc=5": {
-    "title": "修繕古蹟最多獲教育部5千萬補助 台大：盼方案更有彈性 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41dWo5dk9yZXVBRjFFeXdmSGluLWpxeWxjUXZWSXpDY2dTX1NwUFlrcTNEcHdpU3VJM01GQmw5RUNneGhrZVkwdWd2YlZZMFJD0gFWQVVfeXFMTjNIWkgzODdsYzVZYXd1bFZhYmZsOUl4eE1GYlFBUy14Z01mdzFzMmY0c0g0TE1oTTR2WnlvOUo2RjdtUkFBTFZPNXZRSDdUeEdYdV8tNkE?oc=5",
-    "published": "2026-06-27 17:02",
-    "images": [],
-    "summary": "修繕古蹟最多獲教育部5千萬補助 台大：盼方案更有彈性&nbsp;&nbsp;UDN",
-    "tags": "國立臺灣大學",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "修繕古蹟最多獲教育部5千萬補助 台大：盼方案更有彈性&nbsp;&nbsp;UDN",
-    "cn_title": "修繕古蹟最多獲教育部5千萬補助 台大：盼方案更有彈性 - UDN",
-    "cn_classes": "其他",
-    "cn_tags": "國立臺灣大學",
     "source": "UDN 文教"
   }
 }
