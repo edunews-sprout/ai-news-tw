@@ -1,4 +1,19 @@
 {
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93bmdWWmhTVU81dzJGV2szMF9KQ3Zha2FVYkF5QnVodS01NHA0NDdFY1k1LUJSZ083MHZObkJfaV9VZ0JZOE9USHVpZzRPUQ?oc=5": {
+    "title": "淨零轉型！義守大學連四年獲U-start補助學生研發半導體廢水回收技術奪50萬元| 徐炳文 | 地方新聞 - 風傳媒",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93bmdWWmhTVU81dzJGV2szMF9KQ3Zha2FVYkF5QnVodS01NHA0NDdFY1k1LUJSZ083MHZObkJfaV9VZ0JZOE9USHVpZzRPUQ?oc=5",
+    "published": "2026-07-07 23:17",
+    "images": [],
+    "summary": "淨零轉型！義守大學連四年獲U-start補助學生研發半導體廢水回收技術奪50萬元| 徐炳文 | 地方新聞&nbsp;&nbsp;風傳媒",
+    "tags": "義守大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "淨零轉型！義守大學連四年獲U-start補助學生研發半導體廢水回收技術奪50萬元| 徐炳文 | 地方新聞&nbsp;&nbsp;風傳媒",
+    "cn_title": "淨零轉型！義守大學連四年獲U-start補助學生研發半導體廢水回收技術奪50萬元| 徐炳文 | 地方新聞 - 風傳媒",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "義守大學",
+    "source": "風傳媒"
+  },
   "https://www.cna.com.tw/news/acul/202607070404.aspx": {
     "title": "百年戲台華麗亮相　台灣布袋戲文化月早稻田開幕",
     "link": "https://www.cna.com.tw/news/acul/202607070404.aspx",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "文化",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FamhMemJ4TmlVR1FXMVVLN3RoX2stQW9VdXQtWUVHLUNudWQtMFgwdDdsaXNPcDdjODZoSHBGdmE3eFpYc3JYVm1VdDVZNEhX?oc=5": {
-    "title": "華語教學助理計畫進澳洲校園深化台澳教育交流| 文教新訊| 文教 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FamhMemJ4TmlVR1FXMVVLN3RoX2stQW9VdXQtWUVHLUNudWQtMFgwdDdsaXNPcDdjODZoSHBGdmE3eFpYc3JYVm1VdDVZNEhX?oc=5",
-    "published": "2026-06-26 17:53",
-    "images": [],
-    "summary": "華語教學助理計畫進澳洲校園深化台澳教育交流| 文教新訊| 文教&nbsp;&nbsp;UDN",
-    "tags": "",
-    "classes": "教學與課程",
-    "is_target": "True",
-    "cn_summary": "華語教學助理計畫進澳洲校園深化台澳教育交流| 文教新訊| 文教&nbsp;&nbsp;UDN",
-    "cn_title": "華語教學助理計畫進澳洲校園深化台澳教育交流| 文教新訊| 文教 - UDN",
-    "cn_classes": "教學與課程",
-    "cn_tags": "",
-    "source": "UDN 文教"
   }
 }
