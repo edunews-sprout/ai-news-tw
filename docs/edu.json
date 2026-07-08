@@ -29,6 +29,21 @@
     "cn_tags": "大學",
     "source": "UDN 文教"
   },
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fYzJMUm5pMTFyYTBoTjRYcm5iWEZvQXBjOE5JUTdZcnNyeUdCcVpsX1hvQUp5cnNpWjdNekVyTmtpRk02bG00ZWVDSVJFNHRW?oc=5": {
+    "title": "比薪水公布2026大學薪資排行！這大學畢業生年薪83萬奪冠國防大學成黑馬| 大學研究所| 文教 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fYzJMUm5pMTFyYTBoTjRYcm5iWEZvQXBjOE5JUTdZcnNyeUdCcVpsX1hvQUp5cnNpWjdNekVyTmtpRk02bG00ZWVDSVJFNHRW?oc=5",
+    "published": "2026-07-08 15:17",
+    "images": [],
+    "summary": "比薪水公布2026大學薪資排行！這大學畢業生年薪83萬奪冠國防大學成黑馬| 大學研究所| 文教&nbsp;&nbsp;聯合新聞網",
+    "tags": "研究所, 大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "比薪水公布2026大學薪資排行！這大學畢業生年薪83萬奪冠國防大學成黑馬| 大學研究所| 文教&nbsp;&nbsp;聯合新聞網",
+    "cn_title": "比薪水公布2026大學薪資排行！這大學畢業生年薪83萬奪冠國防大學成黑馬| 大學研究所| 文教 - 聯合新聞網",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "研究所, 大學",
+    "source": "UDN 文教"
+  },
   "https://ec.ltn.com.tw/article/breakingnews/5498169": {
     "title": "清大攜手益鼎設立10億元基金 聚焦AI、半導體新創",
     "link": "https://ec.ltn.com.tw/article/breakingnews/5498169",
@@ -3582,21 +3597,6 @@
     "cn_title": "第三屆設計思考工作坊在清華大學圓滿落幕| 編輯精選 - 河好如初",
     "cn_classes": "其他",
     "cn_tags": "國立清華大學",
-    "source": "UDN 文教"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yZE1yS183LUZMV1FtZlJwb1JCN3V6SW9Ycm9YcXh5X2ZMNHZaeHRuTzV3RkJzdmlwX3drV0tyYXhMTE1CUnNxelZiQUdhRDJH?oc=5": {
-    "title": "諾丁漢大學研討會江雅綺談台灣科技力與國際合作| 文教新訊| 文教 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yZE1yS183LUZMV1FtZlJwb1JCN3V6SW9Ycm9YcXh5X2ZMNHZaeHRuTzV3RkJzdmlwX3drV0tyYXhMTE1CUnNxelZiQUdhRDJH?oc=5",
-    "published": "2026-06-28 21:36",
-    "images": [],
-    "summary": "諾丁漢大學研討會江雅綺談台灣科技力與國際合作| 文教新訊| 文教&nbsp;&nbsp;UDN",
-    "tags": "大學",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "諾丁漢大學研討會江雅綺談台灣科技力與國際合作| 文教新訊| 文教&nbsp;&nbsp;UDN",
-    "cn_title": "諾丁漢大學研討會江雅綺談台灣科技力與國際合作| 文教新訊| 文教 - UDN",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "大學",
     "source": "UDN 文教"
   }
 }
