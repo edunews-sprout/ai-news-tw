@@ -134,6 +134,21 @@
     "cn_tags": "東海大學",
     "source": "UDN 文教"
   },
+  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HbUQ3SU4zTEJtV0tMUWc0eDlLSE1EamNTU1VKVmRjaFJhTVQ2QkZsV1dWUV9CQWN1UGlfaDhlVHNhME9hQ0lBUW5zNUJTdkZPTW9Nd3ZtRE5UaVkz0gFiQVVfeXFMTnYxeDNZVW5veEdwTmxKTDVEblBYOXA2bXVKblhUdnhlVjBDVklVV01BcUd4SmotVDZiTEhCa1FtVy1aZEo4Q2Nsc1RpMkttNFdjMlFpUVhtVC03OVg1aE14bGc?oc=5": {
+    "title": "海尼根攜手屏大、屏科大推青年孵育計畫 不限科累積國際職場競爭力 - 經濟日報",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HbUQ3SU4zTEJtV0tMUWc0eDlLSE1EamNTU1VKVmRjaFJhTVQ2QkZsV1dWUV9CQWN1UGlfaDhlVHNhME9hQ0lBUW5zNUJTdkZPTW9Nd3ZtRE5UaVkz0gFiQVVfeXFMTnYxeDNZVW5veEdwTmxKTDVEblBYOXA2bXVKblhUdnhlVjBDVklVV01BcUd4SmotVDZiTEhCa1FtVy1aZEo4Q2Nsc1RpMkttNFdjMlFpUVhtVC03OVg1aE14bGc?oc=5",
+    "published": "2026-07-09 18:34",
+    "images": [],
+    "summary": "海尼根攜手屏大、屏科大推青年孵育計畫 不限科累積國際職場競爭力&nbsp;&nbsp;經濟日報",
+    "tags": "國立屏東科技大學, 國立屏東大學",
+    "classes": "國際交流與合作",
+    "is_target": "True",
+    "cn_summary": "海尼根攜手屏大、屏科大推青年孵育計畫 不限科累積國際職場競爭力&nbsp;&nbsp;經濟日報",
+    "cn_title": "海尼根攜手屏大、屏科大推青年孵育計畫 不限科累積國際職場競爭力 - 經濟日報",
+    "cn_classes": "國際交流與合作",
+    "cn_tags": "國立屏東科技大學, 國立屏東大學",
+    "source": "UDN 文教"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5499736": {
     "title": "美濃偏鄉免費AI科學營  27學生體驗人機共學",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5499736",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立陽明交通大學",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5488435": {
-    "title": "中山大學建防災微電網 停電優先保半導體研究",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5488435",
-    "published": "2026-06-30 09:52",
-    "images": [],
-    "summary": "極端氣候衝擊供電安全，大學也開始為關鍵研究設備打造「不停電」防線。國立中山大學副總務長曾景濱今（30）日表示，校方規劃建置微電網，災害發生時可切換為「孤島運轉模式」，優先維持半...…",
-    "tags": "國立中山大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "極端氣候衝擊供電安全，大學也開始為關鍵研究設備打造「不停電」防線。國立中山大學副總務長曾景濱今（30）日表示，校方規劃建置微電網，災害發生時可切換為「孤島運轉模式」，優先維持半...…",
-    "cn_title": "中山大學建防災微電網 停電優先保半導體研究",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "國立中山大學",
-    "source": "自由時報"
   }
 }
