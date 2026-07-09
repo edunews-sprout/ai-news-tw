@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5499024": {
+    "title": "學生展現跨域整合實力 台科大方程式賽車隊FST摘冠",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5499024",
+    "published": "2026-07-09 10:20",
+    "images": [],
+    "summary": "台灣科技大學方程式賽車隊在今年「FST台灣盃學生方程式聯賽」表現亮眼，不僅順利完成所有技術檢驗，更在3天賽程中穩定發揮，最終勇奪賽事總成績第一名，締造車隊成立以來最佳成績，車隊...…",
+    "tags": "科技大學, 國立臺灣科技大學",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "台灣科技大學方程式賽車隊在今年「FST台灣盃學生方程式聯賽」表現亮眼，不僅順利完成所有技術檢驗，更在3天賽程中穩定發揮，最終勇奪賽事總成績第一名，締造車隊成立以來最佳成績，車隊...…",
+    "cn_title": "學生展現跨域整合實力 台科大方程式賽車隊FST摘冠",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "科技大學, 國立臺灣科技大學",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/paper/1761947": {
     "title": "強颱巴威路徑南修「威脅更大」 大學分科測驗 延至13、14日",
     "link": "https://news.ltn.com.tw/news/life/paper/1761947",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立中興大學, 高教司, 科大",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLWlEenRCZ0hMbU8xV0xCYVVIR2NtRzRTNXo2YlFrZ0NUWlh1bTJUNkV4RG5VbXRnY1g1YjVEMFNjaVk4VGlyMTlNU1h1NlBIWEdOUmhCQ18wV3YtYzA0T3B3VDVSTVJxZ3UtSmpkVi0tYjBwaG1oZ1NGMGI3VmtqbWl1VGZFTHZhcUs3T0Z0TmpPQWdXbWc?oc=5": {
-    "title": "為何李志鵬認為哈佛大學是中山大學的標竿？ - 遠見雜誌",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLWlEenRCZ0hMbU8xV0xCYVVIR2NtRzRTNXo2YlFrZ0NUWlh1bTJUNkV4RG5VbXRnY1g1YjVEMFNjaVk4VGlyMTlNU1h1NlBIWEdOUmhCQ18wV3YtYzA0T3B3VDVSTVJxZ3UtSmpkVi0tYjBwaG1oZ1NGMGI3VmtqbWl1VGZFTHZhcUs3T0Z0TmpPQWdXbWc?oc=5",
-    "published": "2026-06-29 12:27",
-    "images": [],
-    "summary": "為何李志鵬認為哈佛大學是中山大學的標竿？&nbsp;&nbsp;遠見雜誌",
-    "tags": "國立中山大學",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "為何李志鵬認為哈佛大學是中山大學的標竿？&nbsp;&nbsp;遠見雜誌",
-    "cn_title": "為何李志鵬認為哈佛大學是中山大學的標竿？ - 遠見雜誌",
-    "cn_classes": "其他",
-    "cn_tags": "國立中山大學",
-    "source": "遠見雜誌"
   }
 }
