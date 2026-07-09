@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/paper/1762028": {
+    "title": "啤酒商攜手屏大、屏科大 推青年孵育計畫",
+    "link": "https://news.ltn.com.tw/news/life/paper/1762028",
+    "published": "2026-07-10 05:30",
+    "images": [],
+    "summary": "〔記者陳彥廷／屏東報導〕國際啤酒商海尼根於二〇二四年在內埔酒廠投產後持續深耕地方，昨天與國立屏東大學、國立屏東科技大學簽署產學合作備忘錄（MOU），共同啟動「海尼根青年孵育計畫」，將跨國企業人才培育資源帶進屏東。 海尼根台灣總經理Suraen De Silva表示，這項合作是與在地大學、政府攜手投…",
+    "tags": "國立屏東科技大學, 國立屏東大學, 產學合作",
+    "classes": "在地連結與社會責任（USR）",
+    "is_target": "True",
+    "cn_summary": "〔記者陳彥廷／屏東報導〕國際啤酒商海尼根於二〇二四年在內埔酒廠投產後持續深耕地方，昨天與國立屏東大學、國立屏東科技大學簽署產學合作備忘錄（MOU），共同啟動「海尼根青年孵育計畫」，將跨國企業人才培育資源帶進屏東。 海尼根台灣總經理Suraen De Silva表示，這項合作是與在地大學、政府攜手投…",
+    "cn_title": "啤酒商攜手屏大、屏科大 推青年孵育計畫",
+    "cn_classes": "在地連結與社會責任（USR）",
+    "cn_tags": "國立屏東科技大學, 國立屏東大學, 產學合作",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VQmtTLU9DaFVwQWRGdWxRTHhsWmZZSDBCSEpqamVzVXZDOXR2VmpyUk1CNHRzNklKQmRKQmNoYXlZby1uVlBHV05CNHl3UVNk?oc=5": {
     "title": "臺北藝術大學「藝術炭險記」進校園扎根礦山文化| 大學研究所| 文教 - 聯合新聞網",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VQmtTLU9DaFVwQWRGdWxRTHhsWmZZSDBCSEpqamVzVXZDOXR2VmpyUk1CNHRzNklKQmRKQmNoYXlZby1uVlBHV05CNHl3UVNk?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立中山大學",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DRVpaZElHVjZYZmVOLTBHVjdrWEtYVl9XX3YzbklHajlmdndvZVMwVzZqOU5FNVZlMjVlUW5zVDNBbEl0U3FJRHlOZEViRXRlS2dHTlJPVU13QQ?oc=5": {
-    "title": "引領AI與混合雲創新浪潮 云碩科技以四大核心技術助攻企業與高教數位轉型 | ICT趨勢 | 商情 - 經濟日報",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DRVpaZElHVjZYZmVOLTBHVjdrWEtYVl9XX3YzbklHajlmdndvZVMwVzZqOU5FNVZlMjVlUW5zVDNBbEl0U3FJRHlOZEViRXRlS2dHTlJPVU13QQ?oc=5",
-    "published": "2026-06-30 09:29",
-    "images": [],
-    "summary": "引領AI與混合雲創新浪潮 云碩科技以四大核心技術助攻企業與高教數位轉型 | ICT趨勢 | 商情&nbsp;&nbsp;經濟日報",
-    "tags": "高教",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "引領AI與混合雲創新浪潮 云碩科技以四大核心技術助攻企業與高教數位轉型 | ICT趨勢 | 商情&nbsp;&nbsp;經濟日報",
-    "cn_title": "引領AI與混合雲創新浪潮 云碩科技以四大核心技術助攻企業與高教數位轉型 | ICT趨勢 | 商情 - 經濟日報",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "高教",
-    "source": "UDN 文教"
   }
 }
