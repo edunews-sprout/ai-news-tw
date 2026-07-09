@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5499736": {
+    "title": "美濃偏鄉免費AI科學營  27學生體驗人機共學",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5499736",
+    "published": "2026-07-09 17:28",
+    "images": [],
+    "summary": "美濃博士學人協會與國立台南大學知識應用暨網路服務研究中心暑假在美濃偏鄉舉辦「QCI&amp;AI人機共學AI科學營」，27名學生完全免費。 AI科學營在南隆國中舉辦，採用台南大學...…",
+    "tags": "國立臺南大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "美濃博士學人協會與國立台南大學知識應用暨網路服務研究中心暑假在美濃偏鄉舉辦「QCI&amp;AI人機共學AI科學營」，27名學生完全免費。 AI科學營在南隆國中舉辦，採用台南大學...…",
+    "cn_title": "美濃偏鄉免費AI科學營  27學生體驗人機共學",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立臺南大學",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFWnYybTIxNVVqYWl5T2MtdC1lbURrWC04M25PWUVzM2JGUjdBUDNnM182dnYwOHpOdERZTFg1LWRxYWgxdng1ZWJ0MkRFbnE0?oc=5": {
     "title": "青年百億圓夢基金首發！亞大攜UCLA啟動「生醫× 量子」菁英計畫| 大學研究所| 文教 - 聯合新聞網",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFWnYybTIxNVVqYWl5T2MtdC1lbURrWC04M25PWUVzM2JGUjdBUDNnM182dnYwOHpOdERZTFg1LWRxYWgxdng1ZWJ0MkRFbnE0?oc=5",
@@ -3582,21 +3597,6 @@
     "cn_title": "在學就在產業裡！高科大以AI算力共享翻轉技職教育 - 遠見雜誌",
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立高雄科技大學, 技職",
-    "source": "遠見雜誌"
-  },
-  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iOGtHQWI2bjRKM012d2I1SHVHY2Z1TnVXTzJhRWJ4RFk0MnF6b3huLVNGbGsydDRqb3ZMWmUyRHpLT2VyR0RVWko0bDdGZw?oc=5": {
-    "title": "大同大學以跨域實作接軌國際，培育破百企業CEO - 遠見雜誌",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iOGtHQWI2bjRKM012d2I1SHVHY2Z1TnVXTzJhRWJ4RFk0MnF6b3huLVNGbGsydDRqb3ZMWmUyRHpLT2VyR0RVWko0bDdGZw?oc=5",
-    "published": "2026-06-30 00:00",
-    "images": [],
-    "summary": "大同大學以跨域實作接軌國際，培育破百企業CEO&nbsp;&nbsp;遠見雜誌",
-    "tags": "大同大學",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "大同大學以跨域實作接軌國際，培育破百企業CEO&nbsp;&nbsp;遠見雜誌",
-    "cn_title": "大同大學以跨域實作接軌國際，培育破百企業CEO - 遠見雜誌",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "大同大學",
     "source": "遠見雜誌"
   }
 }
