@@ -1,4 +1,19 @@
 {
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96MzB2VEp1Ml83ajZPc3Y5NHdEeFNQbl9wVDlrdU5fMWtJd0VtQUY2bkVTUHZVUExUTlZOeWNLMXR2U1VGTG1zTkFGVUlBQUdfSnk1dFlSQQ?oc=5": {
+    "title": "S3 EP362 ／【未來人才】半導體大廠進駐、全台首創矽光子學院！中正大學如何培育未來人才？ ft. 中正大學校長蔡少正 - 遠見雜誌",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96MzB2VEp1Ml83ajZPc3Y5NHdEeFNQbl9wVDlrdU5fMWtJd0VtQUY2bkVTUHZVUExUTlZOeWNLMXR2U1VGTG1zTkFGVUlBQUdfSnk1dFlSQQ?oc=5",
+    "published": "2026-07-10 10:26",
+    "images": [],
+    "summary": "S3 EP362 ／【未來人才】半導體大廠進駐、全台首創矽光子學院！中正大學如何培育未來人才？ ft. 中正大學校長蔡少正&nbsp;&nbsp;遠見雜誌",
+    "tags": "國立中正大學, 國立體育大學",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "S3 EP362 ／【未來人才】半導體大廠進駐、全台首創矽光子學院！中正大學如何培育未來人才？ ft. 中正大學校長蔡少正&nbsp;&nbsp;遠見雜誌",
+    "cn_title": "S3 EP362 ／【未來人才】半導體大廠進駐、全台首創矽光子學院！中正大學如何培育未來人才？ ft. 中正大學校長蔡少正 - 遠見雜誌",
+    "cn_classes": "其他",
+    "cn_tags": "國立中正大學, 國立體育大學",
+    "source": "遠見雜誌"
+  },
   "https://news.ltn.com.tw/news/life/paper/1762028": {
     "title": "啤酒商攜手屏大、屏科大 推青年孵育計畫",
     "link": "https://news.ltn.com.tw/news/life/paper/1762028",
@@ -3583,20 +3598,5 @@
     "cn_classes": "國際交流與合作",
     "cn_tags": "科技大學, 國立臺灣科技大學",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMifEFVX3lxTE91bGFHc2FMUUl6T1gyT0NCdTVZMnVoZG5aRXlheXdJWEdadGxLbjJhMHQzX0FxOFhJQzg1V1RhVXpHTXc1VlNJaEV2RkJCcjBZd3NucWtpcG90a1l3bWRRSlFERGhzSllhRkZEZjVWOFdSS3lYX0twb3FNTGM?oc=5": {
-    "title": "陽明交通大學攜手禾榮科技推動博愛校區硼中子捕獲治療暨前瞻影像研究中心建置| 產學研訓| 商情 - 經濟日報",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91bGFHc2FMUUl6T1gyT0NCdTVZMnVoZG5aRXlheXdJWEdadGxLbjJhMHQzX0FxOFhJQzg1V1RhVXpHTXc1VlNJaEV2RkJCcjBZd3NucWtpcG90a1l3bWRRSlFERGhzSllhRkZEZjVWOFdSS3lYX0twb3FNTGM?oc=5",
-    "published": "2026-06-30 10:01",
-    "images": [],
-    "summary": "陽明交通大學攜手禾榮科技推動博愛校區硼中子捕獲治療暨前瞻影像研究中心建置| 產學研訓| 商情&nbsp;&nbsp;經濟日報",
-    "tags": "國立陽明交通大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "陽明交通大學攜手禾榮科技推動博愛校區硼中子捕獲治療暨前瞻影像研究中心建置| 產學研訓| 商情&nbsp;&nbsp;經濟日報",
-    "cn_title": "陽明交通大學攜手禾榮科技推動博愛校區硼中子捕獲治療暨前瞻影像研究中心建置| 產學研訓| 商情 - 經濟日報",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "國立陽明交通大學",
-    "source": "UDN 文教"
   }
 }
