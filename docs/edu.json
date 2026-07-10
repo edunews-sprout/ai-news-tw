@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5500454": {
+    "title": "高科大所羅門車隊展氫技實力 蟬聯世界銀牌及最佳設計獎",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5500454",
+    "published": "2026-07-10 10:47",
+    "images": [],
+    "summary": "全球規模最大的氫能模型車賽事H2GP（Hydrogen Grand Prix）世界總決賽，今年在瑞士比勒盛大登場，來自全球24個國家、87支區域冠軍隊伍同場競技。高雄科技大學所...…",
+    "tags": "科技大學, 國立高雄科技大學",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "全球規模最大的氫能模型車賽事H2GP（Hydrogen Grand Prix）世界總決賽，今年在瑞士比勒盛大登場，來自全球24個國家、87支區域冠軍隊伍同場競技。高雄科技大學所...…",
+    "cn_title": "高科大所羅門車隊展氫技實力 蟬聯世界銀牌及最佳設計獎",
+    "cn_classes": "其他",
+    "cn_tags": "科技大學, 國立高雄科技大學",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96MzB2VEp1Ml83ajZPc3Y5NHdEeFNQbl9wVDlrdU5fMWtJd0VtQUY2bkVTUHZVUExUTlZOeWNLMXR2U1VGTG1zTkFGVUlBQUdfSnk1dFlSQQ?oc=5": {
     "title": "S3 EP362 ／【未來人才】半導體大廠進駐、全台首創矽光子學院！中正大學如何培育未來人才？ ft. 中正大學校長蔡少正 - 遠見雜誌",
     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96MzB2VEp1Ml83ajZPc3Y5NHdEeFNQbl9wVDlrdU5fMWtJd0VtQUY2bkVTUHZVUExUTlZOeWNLMXR2U1VGTG1zTkFGVUlBQUdfSnk1dFlSQQ?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "東海大學",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5488445": {
-    "title": "台科大啟動10年師資布局計畫 搶攻國際高階人才",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5488445",
-    "published": "2026-06-30 10:08",
-    "images": [],
-    "summary": "面對教師退休潮及全球高階人才競逐，國立台灣科技大學啟動10年師資布局計畫，預計投入2.86億元，並向教育部申請2.16億元補助，另由學校加碼5000萬元，未來5年將優先延攬75...…",
-    "tags": "科技大學, 國立臺灣科技大學",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "面對教師退休潮及全球高階人才競逐，國立台灣科技大學啟動10年師資布局計畫，預計投入2.86億元，並向教育部申請2.16億元補助，另由學校加碼5000萬元，未來5年將優先延攬75...…",
-    "cn_title": "台科大啟動10年師資布局計畫 搶攻國際高階人才",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "科技大學, 國立臺灣科技大學",
-    "source": "自由時報"
   }
 }
