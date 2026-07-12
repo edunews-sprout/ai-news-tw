@@ -1,4 +1,19 @@
 {
+  "https://talk.ltn.com.tw/article/breakingnews/5499691": {
+    "title": "自由開講》從BBC報導 看台灣「半導體學院」的戰略勝利",
+    "link": "https://talk.ltn.com.tw/article/breakingnews/5499691",
+    "published": "2026-07-12 09:30",
+    "images": [],
+    "summary": "日前BBC一則探討台灣高等教育的特別報導〈台灣大學排名落後，為何卻能培育出世界級半導體工程師？〉，引發了海內外高度關注。 該報導直指一個看似矛盾的現象：台灣的大學在QS世界大...…",
+    "tags": "高等教育, 國立臺灣大學",
+    "classes": "校務治理與管理",
+    "is_target": "True",
+    "cn_summary": "日前BBC一則探討台灣高等教育的特別報導〈台灣大學排名落後，為何卻能培育出世界級半導體工程師？〉，引發了海內外高度關注。 該報導直指一個看似矛盾的現象：台灣的大學在QS世界大...…",
+    "cn_title": "自由開講》從BBC報導 看台灣「半導體學院」的戰略勝利",
+    "cn_classes": "校務治理與管理",
+    "cn_tags": "高等教育, 國立臺灣大學",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZlJCLUpoYWxwbEp5cGxhaHFkdEVpOXJfMnd3ZTdaV0thY0RFUTlMR1V4NEcxV19pVzJRVk02Si11X2dVRUlEOC1WdjN2Tm5PZm02ZGpoRUJLZV95YlRYRE9yTnJ2eXUxX0pmOVNpclpsUm45RkVSa204UnZDRkJrQlFyNFFUNzNVSTVGSDFkZUxUSldUV0E?oc=5": {
     "title": "國家政策如何引導大學與半導體產業深度綁定？ - 遠見雜誌",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZlJCLUpoYWxwbEp5cGxhaHFkdEVpOXJfMnd3ZTdaV0thY0RFUTlMR1V4NEcxV19pVzJRVk02Si11X2dVRUlEOC1WdjN2Tm5PZm02ZGpoRUJLZV95YlRYRE9yTnJ2eXUxX0pmOVNpclpsUm45RkVSa204UnZDRkJrQlFyNFFUNzNVSTVGSDFkZUxUSldUV0E?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "國際交流與合作",
     "cn_tags": "靜宜大學",
     "source": "UDN 文教"
-  },
-  "https://www.cna.com.tw/news/ahel/202606300302.aspx": {
-    "title": "智慧醫療產業跨域鏈結中山醫大登場 展13項創新技術",
-    "link": "https://www.cna.com.tw/news/ahel/202606300302.aspx",
-    "published": "2026-06-30 17:53",
-    "images": [],
-    "summary": "（中央社記者郝雪卿台中30日電）「2026智慧醫療產業跨域鏈結交流會」今天在中山醫學大學登場，聚焦高齡精準健康與醫療數位賦能，展示13項創新技術，涵蓋AR手術導航、AI影像判讀及臨床AI平台。",
-    "tags": "中山醫學大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "（中央社記者郝雪卿台中30日電）「2026智慧醫療產業跨域鏈結交流會」今天在中山醫學大學登場，聚焦高齡精準健康與醫療數位賦能，展示13項創新技術，涵蓋AR手術導航、AI影像判讀及臨床AI平台。",
-    "cn_title": "智慧醫療產業跨域鏈結中山醫大登場 展13項創新技術",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "中山醫學大學",
-    "source": "中央社"
   }
 }
