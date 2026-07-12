@@ -1,4 +1,19 @@
 {
+  "https://health.ltn.com.tw/article/breakingnews/5502458": {
+    "title": "負面記憶怎麼形成？ 台大揭自噬蛋白新功能",
+    "link": "https://health.ltn.com.tw/article/breakingnews/5502458",
+    "published": "2026-07-12 11:21",
+    "images": [],
+    "summary": "細胞會透過「自噬作用」分解細胞內的蛋白質及胞器，再加以清除或回收利用，如同細胞內的「清道夫」。國立台灣大學醫學院分子醫學研究所教授潘俊良研究團隊最新發現，自噬蛋白ATG-...…",
+    "tags": "國立臺灣大學, 研究所, 教授",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "細胞會透過「自噬作用」分解細胞內的蛋白質及胞器，再加以清除或回收利用，如同細胞內的「清道夫」。國立台灣大學醫學院分子醫學研究所教授潘俊良研究團隊最新發現，自噬蛋白ATG-...…",
+    "cn_title": "負面記憶怎麼形成？ 台大揭自噬蛋白新功能",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立臺灣大學, 研究所, 教授",
+    "source": "自由時報"
+  },
   "https://talk.ltn.com.tw/article/breakingnews/5499691": {
     "title": "自由開講》從BBC報導 看台灣「半導體學院」的戰略勝利",
     "link": "https://talk.ltn.com.tw/article/breakingnews/5499691",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "大學",
     "source": "中國時報"
-  },
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBETDhaUVN0M3VUa1pMcXN6UDdUSDlsX2tJTjJuNDZ6VUNBcXU0cXg1YkxmSTltVWE4b0ZQTFMxRU9LZUZ0TmJELWlRR3ZvTWdtckZjVS00T0VSd9IBX0FVX3lxTFBkWURLQk50NmdsVUpJcWRnVFhGQWdVSmpqdGVUUnNoMm5za1Y4N19yeDRMcHRGdWNtR1VGOVBRTWpTREU3MThTMUpVX2U0Nkk2eFZpcHFLVW1nS0FqX3RZ?oc=5": {
-    "title": "深化台美國際共學交流 靜宜大學國際學院攜手美國喜瑞都學院 - 經濟日報",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBETDhaUVN0M3VUa1pMcXN6UDdUSDlsX2tJTjJuNDZ6VUNBcXU0cXg1YkxmSTltVWE4b0ZQTFMxRU9LZUZ0TmJELWlRR3ZvTWdtckZjVS00T0VSd9IBX0FVX3lxTFBkWURLQk50NmdsVUpJcWRnVFhGQWdVSmpqdGVUUnNoMm5za1Y4N19yeDRMcHRGdWNtR1VGOVBRTWpTREU3MThTMUpVX2U0Nkk2eFZpcHFLVW1nS0FqX3RZ?oc=5",
-    "published": "2026-06-30 17:53",
-    "images": [],
-    "summary": "深化台美國際共學交流 靜宜大學國際學院攜手美國喜瑞都學院&nbsp;&nbsp;經濟日報",
-    "tags": "靜宜大學",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "深化台美國際共學交流 靜宜大學國際學院攜手美國喜瑞都學院&nbsp;&nbsp;經濟日報",
-    "cn_title": "深化台美國際共學交流 靜宜大學國際學院攜手美國喜瑞都學院 - 經濟日報",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "靜宜大學",
-    "source": "UDN 文教"
   }
 }
