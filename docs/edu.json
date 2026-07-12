@@ -1,4 +1,19 @@
 {
+  "https://sports.ltn.com.tw/news/breakingnews/5502727": {
+    "title": "四國菁英棒球賽》日本大學王牌太狂 鈴木泰成6局14K封鎖南韓",
+    "link": "https://sports.ltn.com.tw/news/breakingnews/5502727",
+    "published": "2026-07-12 15:27",
+    "images": [],
+    "summary": "首屆四國菁棒球對抗賽今天登場，首戰上演日本迎戰南韓的好戲，但來自青山學院大學的日本隊先發右投鈴木泰成不但一上場飆出三振，先發6局被敲1支安打，更狂飆14次三振，吸引在場大...…",
+    "tags": "大學",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "首屆四國菁棒球對抗賽今天登場，首戰上演日本迎戰南韓的好戲，但來自青山學院大學的日本隊先發右投鈴木泰成不但一上場飆出三振，先發6局被敲1支安打，更狂飆14次三振，吸引在場大...…",
+    "cn_title": "四國菁英棒球賽》日本大學王牌太狂 鈴木泰成6局14K封鎖南韓",
+    "cn_classes": "其他",
+    "cn_tags": "大學",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5502605": {
     "title": "分科測驗明登場 大考中心提醒攜帶身分證等有效證件",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5502605",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "大學",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5489352": {
-    "title": "教師團體批校事會議後拜會教長 鄭英耀同桌談重建校園信任",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5489352",
-    "published": "2026-06-30 21:59",
-    "images": [],
-    "summary": "近來持續批評校事會議制度、呼籲教育部改革的全國教師工會總聯合會（全教總）與全國教師會，今（30）日偕同全國中小學校長協會及全國家長團體聯盟等多個全國性家長團體代表，共同拜會教育...…",
-    "tags": "",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "近來持續批評校事會議制度、呼籲教育部改革的全國教師工會總聯合會（全教總）與全國教師會，今（30）日偕同全國中小學校長協會及全國家長團體聯盟等多個全國性家長團體代表，共同拜會教育...…",
-    "cn_title": "教師團體批校事會議後拜會教長 鄭英耀同桌談重建校園信任",
-    "cn_classes": "其他",
-    "cn_tags": "",
-    "source": "自由時報"
   }
 }
