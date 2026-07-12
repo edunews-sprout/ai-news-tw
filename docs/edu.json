@@ -1,4 +1,19 @@
 {
+  "https://sports.ltn.com.tw/news/breakingnews/5502548": {
+    "title": "四國菁英棒球賽》美日韓3資深教頭首掌大學國家隊 四國賽場邊鬥智",
+    "link": "https://sports.ltn.com.tw/news/breakingnews/5502548",
+    "published": "2026-07-12 12:23",
+    "images": [],
+    "summary": "首屆四國菁英棒球對抗賽（WCBC）集結台、美、日、韓四支勁旅，其中美國、日本及南韓都不約而同由首次執掌大學國家代表隊的總教練領軍。三位教頭雖然都是第一次擔任大學國家隊總教...…",
+    "tags": "大學",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "首屆四國菁英棒球對抗賽（WCBC）集結台、美、日、韓四支勁旅，其中美國、日本及南韓都不約而同由首次執掌大學國家代表隊的總教練領軍。三位教頭雖然都是第一次擔任大學國家隊總教...…",
+    "cn_title": "四國菁英棒球賽》美日韓3資深教頭首掌大學國家隊 四國賽場邊鬥智",
+    "cn_classes": "其他",
+    "cn_tags": "大學",
+    "source": "自由時報"
+  },
   "https://health.ltn.com.tw/article/breakingnews/5502458": {
     "title": "負面記憶怎麼形成？ 台大揭自噬蛋白新功能",
     "link": "https://health.ltn.com.tw/article/breakingnews/5502458",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "南華大學, 國立臺東大學, 文化",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03ZXRSYjc3eENTZlZ0V2ZxZWNqV3J1eFBqRDFKemlOaUpBM2x0Yy1IY25XYkttRE16bVJ5eFVYNG1ReFlmUWdfMDdkR0JYb2xGaVA5Y0pWSHlUU0FrMk5IZHV3eF9tQQ?oc=5": {
-    "title": "產學巨擘許勝雄、張國恩、宋曜廷曼谷發聲參與式學習打造AI原生代大學- 新消息- Campus - 中時新聞網",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03ZXRSYjc3eENTZlZ0V2ZxZWNqV3J1eFBqRDFKemlOaUpBM2x0Yy1IY25XYkttRE16bVJ5eFVYNG1ReFlmUWdfMDdkR0JYb2xGaVA5Y0pWSHlUU0FrMk5IZHV3eF9tQQ?oc=5",
-    "published": "2026-06-30 18:05",
-    "images": [],
-    "summary": "產學巨擘許勝雄、張國恩、宋曜廷曼谷發聲參與式學習打造AI原生代大學- 新消息- Campus&nbsp;&nbsp;中時新聞網",
-    "tags": "大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "產學巨擘許勝雄、張國恩、宋曜廷曼谷發聲參與式學習打造AI原生代大學- 新消息- Campus&nbsp;&nbsp;中時新聞網",
-    "cn_title": "產學巨擘許勝雄、張國恩、宋曜廷曼谷發聲參與式學習打造AI原生代大學- 新消息- Campus - 中時新聞網",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "大學",
-    "source": "中國時報"
   }
 }
