@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5502605": {
+    "title": "分科測驗明登場 大考中心提醒攜帶身分證等有效證件",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5502605",
+    "published": "2026-07-12 13:26",
+    "images": [],
+    "summary": "115學年度大學分科測驗將於明（13）日及後（14）日舉行。巴威颱風過境後，大學入學考試中心今日提醒，考生應攜帶應試有效證件正本，如身分證、有照片的建保卡等，學生證不是有效證件...…",
+    "tags": "大學, 學分",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "115學年度大學分科測驗將於明（13）日及後（14）日舉行。巴威颱風過境後，大學入學考試中心今日提醒，考生應攜帶應試有效證件正本，如身分證、有照片的建保卡等，學生證不是有效證件...…",
+    "cn_title": "分科測驗明登場 大考中心提醒攜帶身分證等有效證件",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "大學, 學分",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5502574": {
     "title": "分科測驗明登場 教育部：全國各考區完成災後復原",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5502574",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "",
     "source": "自由時報"
-  },
-  "https://www.cna.com.tw/news/ahel/202606300339.aspx": {
-    "title": "教師校長家長團體拜會鄭英耀　盼重建校園信任",
-    "link": "https://www.cna.com.tw/news/ahel/202606300339.aspx",
-    "published": "2026-06-30 19:13",
-    "images": [],
-    "summary": "（中央社記者陳至中台北30日電）校園濫訴議題受到矚目，教師、校長、家長團體代表今天一同拜會教育部長鄭英耀，期盼檢討「校事會議」制度，讓校園恢復成信任與合作的教育場域。",
-    "tags": "",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "（中央社記者陳至中台北30日電）校園濫訴議題受到矚目，教師、校長、家長團體代表今天一同拜會教育部長鄭英耀，期盼檢討「校事會議」制度，讓校園恢復成信任與合作的教育場域。",
-    "cn_title": "教師校長家長團體拜會鄭英耀　盼重建校園信任",
-    "cn_classes": "其他",
-    "cn_tags": "",
-    "source": "中央社"
   }
 }
