@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5503893": {
+    "title": "量子科技向下扎根 鴻海攜手台大培育未來人才",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5503893",
+    "published": "2026-07-13 18:57",
+    "images": [],
+    "summary": "量子科技被視為下一代關鍵技術，高中生也有機會親自撰寫量子程式。鴻海教育基金會今（13）日啟動「2026高中量子計算暑期學習營」，透過5天課程帶領學生從量子位元、量子糾纏、量子演...…",
+    "tags": "國立臺灣大學",
+    "classes": "教學與課程",
+    "is_target": "True",
+    "cn_summary": "量子科技被視為下一代關鍵技術，高中生也有機會親自撰寫量子程式。鴻海教育基金會今（13）日啟動「2026高中量子計算暑期學習營」，透過5天課程帶領學生從量子位元、量子糾纏、量子演...…",
+    "cn_title": "量子科技向下扎根 鴻海攜手台大培育未來人才",
+    "cn_classes": "教學與課程",
+    "cn_tags": "國立臺灣大學",
+    "source": "自由時報"
+  },
   "https://www.cna.com.tw/news/ahel/202607130230.aspx": {
     "title": "串聯產業聚落　雲科大智慧電動車人才培育基地揭牌",
     "link": "https://www.cna.com.tw/news/ahel/202607130230.aspx",
@@ -3582,21 +3597,6 @@
     "cn_title": "台灣最佳大學榜》遠東集團資源助攻，亞東科大培育實戰尖兵 - 遠見雜誌",
     "cn_classes": "其他",
     "cn_tags": "亞東科大, 大學",
-    "source": "遠見雜誌"
-  },
-  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80MTZXNHRHQkdaaHI5dkptakstY1JLV3poRXU0eW9UdTJiQldmc21jV1lmTmljZVVOa05Zbmp0eUlrWWlKUllxNzU5RmNwdw?oc=5": {
-    "title": "台灣最佳大學榜》堅守師培、接軌AI，中教大落實創新永續 - 遠見雜誌",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80MTZXNHRHQkdaaHI5dkptakstY1JLV3poRXU0eW9UdTJiQldmc21jV1lmTmljZVVOa05Zbmp0eUlrWWlKUllxNzU5RmNwdw?oc=5",
-    "published": "2026-07-02 07:00",
-    "images": [],
-    "summary": "台灣最佳大學榜》堅守師培、接軌AI，中教大落實創新永續&nbsp;&nbsp;遠見雜誌",
-    "tags": "國立臺中教育大學, 大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "台灣最佳大學榜》堅守師培、接軌AI，中教大落實創新永續&nbsp;&nbsp;遠見雜誌",
-    "cn_title": "台灣最佳大學榜》堅守師培、接軌AI，中教大落實創新永續 - 遠見雜誌",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "國立臺中教育大學, 大學",
     "source": "遠見雜誌"
   }
 }
