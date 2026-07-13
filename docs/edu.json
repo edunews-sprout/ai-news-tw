@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/politics/breakingnews/5504167": {
+    "title": "竹北天坑案》楊文科獲判無罪 曾聖凱：市民更在意城市是否安全",
+    "link": "https://news.ltn.com.tw/news/politics/breakingnews/5504167",
+    "published": "2026-07-13 22:59",
+    "images": [],
+    "summary": "竹北市「豐采520」建案天坑事件今天宣判，其中新竹縣長楊文科一審被判無罪。就在外界關切有罪、無罪之際，國立陽明交通大學助理教授曾聖凱則是提醒大家，司法回答的是法律責任，但在城市...…",
+    "tags": "國立陽明交通大學, 教授",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "竹北市「豐采520」建案天坑事件今天宣判，其中新竹縣長楊文科一審被判無罪。就在外界關切有罪、無罪之際，國立陽明交通大學助理教授曾聖凱則是提醒大家，司法回答的是法律責任，但在城市...…",
+    "cn_title": "竹北天坑案》楊文科獲判無罪 曾聖凱：市民更在意城市是否安全",
+    "cn_classes": "其他",
+    "cn_tags": "國立陽明交通大學, 教授",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6MGJ5aWNwOUdMOE5lY0FJLS11cGZJenJ6dUp1T195Vy1GZWhhOTlvanEwdFRTS3JmX0ktTG83YjhXWjBYX3NESDQ5ZlhaY3NsQ3UteEhIZw?oc=5": {
     "title": "S3 EP363 ／【ESG共好圈】揭密台灣產業界的「CEO搖籃」！大同大學如何培育頂尖經理人？ ft. 大同大學校長何明果 - 遠見雜誌",
     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6MGJ5aWNwOUdMOE5lY0FJLS11cGZJenJ6dUp1T195Vy1GZWhhOTlvanEwdFRTS3JmX0ktTG83YjhXWjBYX3NESDQ5ZlhaY3NsQ3UteEhIZw?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "國立中央大學",
     "source": "UDN 文教"
-  },
-  "https://www.cna.com.tw/news/ahel/202607020049.aspx": {
-    "title": "中大揭植物耐熱關鍵機制　有助提升農業韌性",
-    "link": "https://www.cna.com.tw/news/ahel/202607020049.aspx",
-    "published": "2026-07-02 10:03",
-    "images": [],
-    "summary": "（中央社記者陳至中台北2日電）中央大學研究團隊發現一套植物耐熱機制，與植物核內E3泛素連接酶PUB49與耐熱蛋白HIT4協同作用有關，未來可培育分子標的，提升農業生產韌性，應對全球氣候變遷。",
-    "tags": "國立中央大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "（中央社記者陳至中台北2日電）中央大學研究團隊發現一套植物耐熱機制，與植物核內E3泛素連接酶PUB49與耐熱蛋白HIT4協同作用有關，未來可培育分子標的，提升農業生產韌性，應對全球氣候變遷。",
-    "cn_title": "中大揭植物耐熱關鍵機制　有助提升農業韌性",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "國立中央大學",
-    "source": "中央社"
   }
 }
