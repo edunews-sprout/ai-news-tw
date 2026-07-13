@@ -29,6 +29,21 @@
     "cn_tags": "國立臺灣大學",
     "source": "自由時報"
   },
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42Y1FzZW04QWRPZ1ZfT21GenRTYVJQQTF0Nk9IaThhTllJODczSmNURkhpQlRQb0doYUVydDBFZjByTGIyaFdmdWdpWjF4Ylps?oc=5": {
+    "title": "串聯產業聚落雲科大智慧電動車人才培育基地揭牌| 技職教育| 文教 - UDN",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42Y1FzZW04QWRPZ1ZfT21GenRTYVJQQTF0Nk9IaThhTllJODczSmNURkhpQlRQb0doYUVydDBFZjByTGIyaFdmdWdpWjF4Ylps?oc=5",
+    "published": "2026-07-13 17:33",
+    "images": [],
+    "summary": "串聯產業聚落雲科大智慧電動車人才培育基地揭牌| 技職教育| 文教&nbsp;&nbsp;UDN",
+    "tags": "國立雲林科技大學, 技職",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "串聯產業聚落雲科大智慧電動車人才培育基地揭牌| 技職教育| 文教&nbsp;&nbsp;UDN",
+    "cn_title": "串聯產業聚落雲科大智慧電動車人才培育基地揭牌| 技職教育| 文教 - UDN",
+    "cn_classes": "其他",
+    "cn_tags": "國立雲林科技大學, 技職",
+    "source": "UDN 文教"
+  },
   "https://www.cna.com.tw/news/ahel/202607130230.aspx": {
     "title": "串聯產業聚落　雲科大智慧電動車人才培育基地揭牌",
     "link": "https://www.cna.com.tw/news/ahel/202607130230.aspx",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "大學, 學位",
     "source": "UDN 文教"
-  },
-  "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSTGNvNVpELWJjLWR6d1lGVFlUZFdEanY3NmtnTnNPY0U0dDVuVHlKaGYzY0tyT0hSdVd2bGNucWZIYzR6ZW1Sdi1BOEJIUQ?oc=5": {
-    "title": "台灣最佳大學榜》半導體S廊帶加持，樹德科大逆勢起飛 - 遠見雜誌",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSTGNvNVpELWJjLWR6d1lGVFlUZFdEanY3NmtnTnNPY0U0dDVuVHlKaGYzY0tyT0hSdVd2bGNucWZIYzR6ZW1Sdi1BOEJIUQ?oc=5",
-    "published": "2026-07-02 07:00",
-    "images": [],
-    "summary": "台灣最佳大學榜》半導體S廊帶加持，樹德科大逆勢起飛&nbsp;&nbsp;遠見雜誌",
-    "tags": "樹德科大, 大學",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "台灣最佳大學榜》半導體S廊帶加持，樹德科大逆勢起飛&nbsp;&nbsp;遠見雜誌",
-    "cn_title": "台灣最佳大學榜》半導體S廊帶加持，樹德科大逆勢起飛 - 遠見雜誌",
-    "cn_classes": "其他",
-    "cn_tags": "樹德科大, 大學",
-    "source": "遠見雜誌"
   }
 }
