@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5503507": {
+    "title": "越南籍女大生異鄉求學遇意外不孤單 中華大學攜手各界助渡難關",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5503507",
+    "published": "2026-07-13 13:56",
+    "images": [],
+    "summary": "就讀中華大學國際專修部華語生的越南籍學生黎同學，日前因意外事故需接受手術治療，高額醫療費用讓她及家屬背負沉重壓力。學校得知後，除協助申請急難救助金1萬5000元，導師更號召班級...…",
+    "tags": "中華大學, 女大生",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "就讀中華大學國際專修部華語生的越南籍學生黎同學，日前因意外事故需接受手術治療，高額醫療費用讓她及家屬背負沉重壓力。學校得知後，除協助申請急難救助金1萬5000元，導師更號召班級...…",
+    "cn_title": "越南籍女大生異鄉求學遇意外不孤單 中華大學攜手各界助渡難關",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "中華大學, 女大生",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5503473": {
     "title": "大學分科測驗化學圖表多、難易適中 高雄考生：碘鐘反應題較花時間",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5503473",
@@ -3582,21 +3597,6 @@
     "cn_title": "暨南大學攜手創教育學院台灣AI運動協會 引領香港高中生跨海體驗人形機器人課程 - UDN",
     "cn_classes": "教學與課程",
     "cn_tags": "國立暨南國際大學",
-    "source": "UDN 文教"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83MTFCcU41OGlkSV94TEFfYmw1UTNCTzVaZl9uamxEcGZmdEhMbTFjZVk3dTNoeVlHeGFzTGk0a1RSMGFVVlZBbGdyd18xbnZL0gFWQVVfeXFMTVpyN3o4b05tY2hzQzItMVpiams0RTd6REhlV0RxS0RQdHN6RjNrZkxxcmZ5UzNhRk4xRVU0dmF1dl9Zb1lxa29jZXdGeExxOVRZQmk0NlE?oc=5": {
-    "title": "換好書享閱讀 國立台灣圖書館好書交換活動7月8日登場 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83MTFCcU41OGlkSV94TEFfYmw1UTNCTzVaZl9uamxEcGZmdEhMbTFjZVk3dTNoeVlHeGFzTGk0a1RSMGFVVlZBbGdyd18xbnZL0gFWQVVfeXFMTVpyN3o4b05tY2hzQzItMVpiams0RTd6REhlV0RxS0RQdHN6RjNrZkxxcmZ5UzNhRk4xRVU0dmF1dl9Zb1lxa29jZXdGeExxOVRZQmk0NlE?oc=5",
-    "published": "2026-07-01 14:05",
-    "images": [],
-    "summary": "換好書享閱讀 國立台灣圖書館好書交換活動7月8日登場&nbsp;&nbsp;UDN",
-    "tags": "",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "換好書享閱讀 國立台灣圖書館好書交換活動7月8日登場&nbsp;&nbsp;UDN",
-    "cn_title": "換好書享閱讀 國立台灣圖書館好書交換活動7月8日登場 - UDN",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "",
     "source": "UDN 文教"
   }
 }
