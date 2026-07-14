@@ -1,4 +1,19 @@
 {
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yNmdSTzdsaGVYbExNSDMxNTRBcW9nLUdKbmhYQ25ZVHREbXM1ZkNPYlhZb3I4S3NmT05nLXpWOThaanJ3cjRPSXZ2X1dvQ0ds?oc=5": {
+    "title": "43歲大學教授刺死連襟店長…遭制伏腿部中彈陽明交大：配合調查| 焦點事件| 社會 - UDN",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yNmdSTzdsaGVYbExNSDMxNTRBcW9nLUdKbmhYQ25ZVHREbXM1ZkNPYlhZb3I4S3NmT05nLXpWOThaanJ3cjRPSXZ2X1dvQ0ds?oc=5",
+    "published": "2026-07-14 21:53",
+    "images": [],
+    "summary": "43歲大學教授刺死連襟店長…遭制伏腿部中彈陽明交大：配合調查| 焦點事件| 社會&nbsp;&nbsp;UDN",
+    "tags": "國立陽明交通大學, 大學, 教授",
+    "classes": "在地連結與社會責任（USR）",
+    "is_target": "True",
+    "cn_summary": "43歲大學教授刺死連襟店長…遭制伏腿部中彈陽明交大：配合調查| 焦點事件| 社會&nbsp;&nbsp;UDN",
+    "cn_title": "43歲大學教授刺死連襟店長…遭制伏腿部中彈陽明交大：配合調查| 焦點事件| 社會 - UDN",
+    "cn_classes": "在地連結與社會責任（USR）",
+    "cn_tags": "國立陽明交通大學, 大學, 教授",
+    "source": "UDN 文教"
+  },
   "https://news.ltn.com.tw/news/society/breakingnews/5505340": {
     "title": "還有10人受困！美籍教授殺害連襟店長持刀對峙    警連開4槍化解危機",
     "link": "https://news.ltn.com.tw/news/society/breakingnews/5505340",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "大學, 文化",
     "source": "中國時報"
-  },
-  "https://www.cna.com.tw/news/aloc/202607030119.aspx": {
-    "title": "新北永續未來學院　學子創作環境教育行動劇本",
-    "link": "https://www.cna.com.tw/news/aloc/202607030119.aspx",
-    "published": "2026-07-03 13:27",
-    "images": [],
-    "summary": "（中央社記者黃旭昇新北3日電）新北市「永續未來學院」國中環境教育體驗營2日閉幕，環保局今天說，學員走訪樹林垃圾焚化廠、漳和濕地等，透過探索觀察，創作行動劇本，培養關注水環境與實踐永續行動力。",
-    "tags": "實踐",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "（中央社記者黃旭昇新北3日電）新北市「永續未來學院」國中環境教育體驗營2日閉幕，環保局今天說，學員走訪樹林垃圾焚化廠、漳和濕地等，透過探索觀察，創作行動劇本，培養關注水環境與實踐永續行動力。",
-    "cn_title": "新北永續未來學院　學子創作環境教育行動劇本",
-    "cn_classes": "其他",
-    "cn_tags": "實踐",
-    "source": "中央社"
   }
 }
