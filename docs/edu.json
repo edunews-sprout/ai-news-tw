@@ -1,4 +1,34 @@
 {
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tcTVoX2xiYVBpWTE5UEI3WlRvUkNEV1MtOU5NYWJjSjFKNjVnR2JVc1NKWGNLc3lQSjA2ajJOMW5LSzJVNS1QTmpZQkFhajhX?oc=5": {
+    "title": "推動新藥研發造福人類健康白越珠獲頒東吳名譽博士| 大學研究所| 文教 - UDN",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tcTVoX2xiYVBpWTE5UEI3WlRvUkNEV1MtOU5NYWJjSjFKNjVnR2JVc1NKWGNLc3lQSjA2ajJOMW5LSzJVNS1QTmpZQkFhajhX?oc=5",
+    "published": "2026-07-14 10:52",
+    "images": [],
+    "summary": "推動新藥研發造福人類健康白越珠獲頒東吳名譽博士| 大學研究所| 文教&nbsp;&nbsp;UDN",
+    "tags": "研究所, 大學, 東吳",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "推動新藥研發造福人類健康白越珠獲頒東吳名譽博士| 大學研究所| 文教&nbsp;&nbsp;UDN",
+    "cn_title": "推動新藥研發造福人類健康白越珠獲頒東吳名譽博士| 大學研究所| 文教 - UDN",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "研究所, 大學, 東吳",
+    "source": "UDN 文教"
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5504398": {
+    "title": "全國中小學科展登場 阿帕契、黑鷹直升機7/15降落中央大學",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5504398",
+    "published": "2026-07-14 10:36",
+    "images": [],
+    "summary": "全國第66屆中小學科學展覽會昨（13）晚在國立中央大學開幕，今年首度與國防部陸軍司令部合作，將國防教育與科學教育結合，陸軍航空特戰指揮部601旅阿帕契攻擊直升機及黑鷹直升機，預...…",
+    "tags": "國立中央大學",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "全國第66屆中小學科學展覽會昨（13）晚在國立中央大學開幕，今年首度與國防部陸軍司令部合作，將國防教育與科學教育結合，陸軍航空特戰指揮部601旅阿帕契攻擊直升機及黑鷹直升機，預...…",
+    "cn_title": "全國中小學科展登場 阿帕契、黑鷹直升機7/15降落中央大學",
+    "cn_classes": "其他",
+    "cn_tags": "國立中央大學",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5504385": {
     "title": "教育部推動通識教育轉型 AI與永續成核心課題",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5504385",
@@ -3568,35 +3598,5 @@
     "cn_classes": "政策與法規",
     "cn_tags": "",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5491471": {
-    "title": "前瞻科技教育扎根苗栗！ 縣府攜手陽明交大啟動AI半導體營隊",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5491471",
-    "published": "2026-07-02 14:31",
-    "images": [],
-    "summary": "AI與半導體產業已成為推動城市競爭力的關鍵。苗栗縣政府積極推動竹竹苗大矽谷發展，呼應苗縣府「北台積、南美光」AI半導體產業鏈布局，將產業延伸至教育，攜手國立陽明交通大學共同推動...…",
-    "tags": "國立陽明交通大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "AI與半導體產業已成為推動城市競爭力的關鍵。苗栗縣政府積極推動竹竹苗大矽谷發展，呼應苗縣府「北台積、南美光」AI半導體產業鏈布局，將產業延伸至教育，攜手國立陽明交通大學共同推動...…",
-    "cn_title": "前瞻科技教育扎根苗栗！ 縣府攜手陽明交大啟動AI半導體營隊",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "國立陽明交通大學",
-    "source": "自由時報"
-  },
-  "https://www.cna.com.tw/news/aipl/202607020171.aspx": {
-    "title": "防中國民族團結法製造案件　陸委會強化兩岸交流審查",
-    "link": "https://www.cna.com.tw/news/aipl/202607020171.aspx",
-    "published": "2026-07-02 14:16",
-    "images": [],
-    "summary": "（中央社記者高華謙、實習記者陳湘云台北2日電）中國「民族團結進步促進法」上路。陸委會今天說，已預期中共會藉此法製造案件，政府須提早因應、警示，接下來將強化審查兩岸交流案件，涉統戰疑慮不予許可；也會研議修法或立法反制跨境鎮壓，並禁止加害人入境。",
-    "tags": "",
-    "classes": "政策與法規",
-    "is_target": "True",
-    "cn_summary": "（中央社記者高華謙、實習記者陳湘云台北2日電）中國「民族團結進步促進法」上路。陸委會今天說，已預期中共會藉此法製造案件，政府須提早因應、警示，接下來將強化審查兩岸交流案件，涉統戰疑慮不予許可；也會研議修法或立法反制跨境鎮壓，並禁止加害人入境。",
-    "cn_title": "防中國民族團結法製造案件　陸委會強化兩岸交流審查",
-    "cn_classes": "政策與法規",
-    "cn_tags": "",
-    "source": "中央社"
   }
 }
