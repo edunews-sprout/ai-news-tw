@@ -1,4 +1,19 @@
 {
+  "https://www.cna.com.tw/news/afe/202607150215.aspx": {
+    "title": "台糖冰糖奇緣夏令營開跑　帶領學童探索糖業文化",
+    "link": "https://www.cna.com.tw/news/afe/202607150215.aspx",
+    "published": "2026-07-15 16:53",
+    "images": [],
+    "summary": "（中央社記者謝怡璇台北15日電）台糖冰糖奇緣夏令營今天於善化糖廠揭幕，本屆活動攜手台南市善化區公所及南台科技大學，一連3天帶領學童探索製糖產業，並導入循環經濟與防災課程。台糖表示，將持續挹注資源，落實企業社會責任。",
+    "tags": "科技大學, 文化",
+    "classes": "在地連結與社會責任（USR）",
+    "is_target": "True",
+    "cn_summary": "（中央社記者謝怡璇台北15日電）台糖冰糖奇緣夏令營今天於善化糖廠揭幕，本屆活動攜手台南市善化區公所及南台科技大學，一連3天帶領學童探索製糖產業，並導入循環經濟與防災課程。台糖表示，將持續挹注資源，落實企業社會責任。",
+    "cn_title": "台糖冰糖奇緣夏令營開跑　帶領學童探索糖業文化",
+    "cn_classes": "在地連結與社會責任（USR）",
+    "cn_tags": "科技大學, 文化",
+    "source": "中央社"
+  },
   "https://sports.ltn.com.tw/news/breakingnews/5506214": {
     "title": "電競》李洋開大絕！《英雄聯盟》3分鐘擊敗羅廷瑋 江啟臣笑到停不下來",
     "link": "https://sports.ltn.com.tw/news/breakingnews/5506214",
@@ -298,6 +313,21 @@
     "cn_classes": "校園爭議與事件",
     "cn_tags": "國立陽明交通大學, 教授",
     "source": "自由時報"
+  },
+  "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaeWhvZWhWaEttMG12VVp4cXVlcU80TlhOb19ZZ2NuR3Y2a2ZURkVQbXdvQU00ekdtdnQ4VE9zRUw2NVNKVUhWODlLTldsejVETUZhWDlOSlVFZHBlRHfSAWhBVV95cUxQZHI2QkJicFMzYkFPd1Z4SjlobE5ac1VhcTFWZmJrSy1kLXFQaU84dkFlOG1kRVgxRUZ6bmExZHNjb0ZOMmJRYjdGV2xCT005enctMG1hU1I2V2xDaU9WUXhPQ3kybXFFaA?oc=5": {
+    "title": "陽明交大教授音樂教室殺妹夫！「6大4小受困」嚇壞　警急開槍逮人 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaeWhvZWhWaEttMG12VVp4cXVlcU80TlhOb19ZZ2NuR3Y2a2ZURkVQbXdvQU00ekdtdnQ4VE9zRUw2NVNKVUhWODlLTldsejVETUZhWDlOSlVFZHBlRHfSAWhBVV95cUxQZHI2QkJicFMzYkFPd1Z4SjlobE5ac1VhcTFWZmJrSy1kLXFQaU84dkFlOG1kRVgxRUZ6bmExZHNjb0ZOMmJRYjdGV2xCT005enctMG1hU1I2V2xDaU9WUXhPQ3kybXFFaA?oc=5",
+    "published": "2026-07-15 10:59",
+    "images": [],
+    "summary": "陽明交大教授音樂教室殺妹夫！「6大4小受困」嚇壞 警急開槍逮人&nbsp;&nbsp;ETtoday新聞雲",
+    "tags": "國立陽明交通大學, 教授",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "陽明交大教授音樂教室殺妹夫！「6大4小受困」嚇壞 警急開槍逮人&nbsp;&nbsp;ETtoday新聞雲",
+    "cn_title": "陽明交大教授音樂教室殺妹夫！「6大4小受困」嚇壞　警急開槍逮人 - ETtoday新聞雲",
+    "cn_classes": "其他",
+    "cn_tags": "國立陽明交通大學, 教授",
+    "source": "ETtoday"
   },
   "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vMVVfVDN5a0hQb2gyMmRJX0VtVVI2Tll6a2h2eTJuX0lodzVPSGw5S1UtVWw5R1ZSZmVYZEJHc3VkOWdWMm9fcUVfaElMNHBMYUNBTVBxNlI1ZE9JS0hwdEJ3UkpEVEhWTjBBc3RUaHR5V1lYRkZfZElB0gFiQVVfeXFMTVEtV0RfQlZwbUdzNlBqYVdFWXlaU1AyOVEydEp3SUJxUVRsSVd0SHhzNjdiN1Y5ZzZvaXQ4c0VuWF9kc1EtcHcybjJvUXcwZ0hCQ3JwZERDb1hpVmFfaTFkTVE?oc=5": {
     "title": "影／陸軍阿帕契、黑鷹直升機 降落中央大學操場 - 經濟日報",
@@ -3568,35 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "研究所, 大學, 國立臺灣師範大學",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5495102": {
-    "title": "從化學實驗到藥學系 台師大原民化學營啟發科研夢",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5495102",
-    "published": "2026-07-06 10:29",
-    "images": [],
-    "summary": "原住民族學生也能透過一場暑假科學營，找到投入科研的方向。國立台灣師範大學化學系今年暑假舉辦「原住民族化學人才培訓暑假營」，除安排高中生親手操作化學實驗，更建立由大學教授、高中教...…",
-    "tags": "大學, 教授, 國立臺灣師範大學",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "原住民族學生也能透過一場暑假科學營，找到投入科研的方向。國立台灣師範大學化學系今年暑假舉辦「原住民族化學人才培訓暑假營」，除安排高中生親手操作化學實驗，更建立由大學教授、高中教...…",
-    "cn_title": "從化學實驗到藥學系 台師大原民化學營啟發科研夢",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "大學, 教授, 國立臺灣師範大學",
-    "source": "自由時報"
-  },
-  "https://www.cna.com.tw/news/ahel/202607060033.aspx": {
-    "title": "台師大辦暑假培訓營　帶原民生操作實驗探索科學",
-    "link": "https://www.cna.com.tw/news/ahel/202607060033.aspx",
-    "published": "2026-07-06 10:11",
-    "images": [],
-    "summary": "（中央社記者許秩維台北6日電）台師大化學系舉辦「原住民族化學人才培訓暑假營」，透過實驗課程、專題講座、參訪科教館等活動，帶領原住民族學生體驗科學探索樂趣，培育未來原住民族科學人才。",
-    "tags": "國立臺灣師範大學",
-    "classes": "教學與課程",
-    "is_target": "True",
-    "cn_summary": "（中央社記者許秩維台北6日電）台師大化學系舉辦「原住民族化學人才培訓暑假營」，透過實驗課程、專題講座、參訪科教館等活動，帶領原住民族學生體驗科學探索樂趣，培育未來原住民族科學人才。",
-    "cn_title": "台師大辦暑假培訓營　帶原民生操作實驗探索科學",
-    "cn_classes": "教學與課程",
-    "cn_tags": "國立臺灣師範大學",
-    "source": "中央社"
   }
 }
