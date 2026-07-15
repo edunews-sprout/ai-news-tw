@@ -464,6 +464,21 @@
     "cn_tags": "大學, 亞洲大學",
     "source": "自由時報"
   },
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01c3gzWHNUM2w5dnYyQ2dHVlZvQXFzb3dZejlidl91bmNWR1lkbHdGTDRjdkNndTZTcmwyVk5aMGp5QThIcnhZYUdxNHE5QQ?oc=5": {
+    "title": "來屏東酒廠實習領薪！海尼根攜手兩大學推國際企業培育計畫 - 遠見雜誌",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01c3gzWHNUM2w5dnYyQ2dHVlZvQXFzb3dZejlidl91bmNWR1lkbHdGTDRjdkNndTZTcmwyVk5aMGp5QThIcnhZYUdxNHE5QQ?oc=5",
+    "published": "2026-07-14 14:46",
+    "images": [],
+    "summary": "來屏東酒廠實習領薪！海尼根攜手兩大學推國際企業培育計畫&nbsp;&nbsp;遠見雜誌",
+    "tags": "大學",
+    "classes": "國際交流與合作",
+    "is_target": "True",
+    "cn_summary": "來屏東酒廠實習領薪！海尼根攜手兩大學推國際企業培育計畫&nbsp;&nbsp;遠見雜誌",
+    "cn_title": "來屏東酒廠實習領薪！海尼根攜手兩大學推國際企業培育計畫 - 遠見雜誌",
+    "cn_classes": "國際交流與合作",
+    "cn_tags": "大學",
+    "source": "遠見雜誌"
+  },
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvQzltYnR5WURsRHRmVm1pTWZ6UkhBdS1xM1VpbGNnN0x3Q3c3MWx4SU5vT3ljdGZpenNWb2RQSXc2akg5eDh4ZEVJS3o4emJB0gFWQVVfeXFMUGJTRThpYkExTzY4eDFVc2J1WDB4blFwTFl3VFZyWlpIdGRRaG92enRkMDhTYWdZZnFpSUc2c3VfVi1iVlluQjZiU2h1X0RwWENsNk9sYVE?oc=5": {
     "title": "NBA／騎士挖到寶？次輪新秀兩天狂轟65分 大學名帥：其它隊會後悔 - UDN",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvQzltYnR5WURsRHRmVm1pTWZ6UkhBdS1xM1VpbGNnN0x3Q3c3MWx4SU5vT3ljdGZpenNWb2RQSXc2akg5eDh4ZEVJS3o4emJB0gFWQVVfeXFMUGJTRThpYkExTzY4eDFVc2J1WDB4blFwTFl3VFZyWlpIdGRRaG92enRkMDhTYWdZZnFpSUc2c3VfVi1iVlluQjZiU2h1X0RwWENsNk9sYVE?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "國立清華大學",
     "source": "天下雜誌"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wbVVsdUE2cXZEQ2x4d0NqLXkxWkhfaXdHMEVlVEtKN09ZLUpieDZpQmZxWFZQT2VUSFRGaWxVWk93a2RLbXN6ZHRHU3RWNWUx?oc=5": {
-    "title": "陳文成事件45周年台大生辦晚會促轉型正義| 大學研究所| 文教 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wbVVsdUE2cXZEQ2x4d0NqLXkxWkhfaXdHMEVlVEtKN09ZLUpieDZpQmZxWFZQT2VUSFRGaWxVWk93a2RLbXN6ZHRHU3RWNWUx?oc=5",
-    "published": "2026-07-03 20:30",
-    "images": [],
-    "summary": "陳文成事件45周年台大生辦晚會促轉型正義| 大學研究所| 文教&nbsp;&nbsp;UDN",
-    "tags": "研究所, 大學, 國立臺灣大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "陳文成事件45周年台大生辦晚會促轉型正義| 大學研究所| 文教&nbsp;&nbsp;UDN",
-    "cn_title": "陳文成事件45周年台大生辦晚會促轉型正義| 大學研究所| 文教 - UDN",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "研究所, 大學, 國立臺灣大學",
-    "source": "UDN 文教"
   }
 }
