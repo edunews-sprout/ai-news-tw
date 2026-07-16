@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/politics/breakingnews/5508000": {
+    "title": "佀廣洋北大學歷恐不保了！張育萌出手向學校檢舉作弊",
+    "link": "https://news.ltn.com.tw/news/politics/breakingnews/5508000",
+    "published": "2026-07-16 23:11",
+    "images": [],
+    "summary": "國民黨立委萬美玲之子佀廣洋的霸凌風波越燒越旺，昨（15日）又被爆出他在就讀台北大學時，在期中、期末考都找同一個同學幫忙作弊。對此，台灣青年世代共好協會理事長張育萌表示，他已經向北...…",
+    "tags": "國立臺北大學",
+    "classes": "校園爭議與事件",
+    "is_target": "True",
+    "cn_summary": "國民黨立委萬美玲之子佀廣洋的霸凌風波越燒越旺，昨（15日）又被爆出他在就讀台北大學時，在期中、期末考都找同一個同學幫忙作弊。對此，台灣青年世代共好協會理事長張育萌表示，他已經向北...…",
+    "cn_title": "佀廣洋北大學歷恐不保了！張育萌出手向學校檢舉作弊",
+    "cn_classes": "校園爭議與事件",
+    "cn_tags": "國立臺北大學",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oMkZFN3M3eWtlT1R6S0JXTkJwaEZ3WHhrQWNmSHNjZHBfZG53alNKc1gycERSNk1waC16dk9aQ0k5VVRZYVNCTHRhbW83aHFxQm5LWVRLUnZHR0VJOW9QN2tlTXVuUQ?oc=5": {
     "title": "盧秀燕打造AI機器人之都 東海大學全力支持 產官學聯手布局台灣AI產業 - 中時新聞網",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oMkZFN3M3eWtlT1R6S0JXTkJwaEZ3WHhrQWNmSHNjZHBfZG53alNKc1gycERSNk1waC16dk9aQ0k5VVRZYVNCTHRhbW83aHFxQm5LWVRLUnZHR0VJOW9QN2tlTXVuUQ?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "國立中央大學",
     "source": "中央社"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5497048": {
-    "title": "大學分科測驗確定延期 日期最快明天上午公布",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5497048",
-    "published": "2026-07-07 17:03",
-    "images": [],
-    "summary": "第9號巴威颱風可能影響115學年度分科測驗，教育部長鄭英耀今（7）日主持全國教育局長會議後受訪說，因應颱風情勢變化，大學招生委員會聯合會今天下午召開應變會議後確定「延期」，這是...…",
-    "tags": "大學, 學分",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "第9號巴威颱風可能影響115學年度分科測驗，教育部長鄭英耀今（7）日主持全國教育局長會議後受訪說，因應颱風情勢變化，大學招生委員會聯合會今天下午召開應變會議後確定「延期」，這是...…",
-    "cn_title": "大學分科測驗確定延期 日期最快明天上午公布",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "大學, 學分",
-    "source": "自由時報"
   }
 }
