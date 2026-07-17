@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5508272": {
+    "title": "苗栗農工主任謝文斌接掌海大附中 原校長洪進源轉任頭城家商",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5508272",
+    "published": "2026-07-17 10:06",
+    "images": [],
+    "summary": "國立台灣海洋大學附屬基隆海事高級中等學校（以下簡稱海大附中）現任校長洪進源通過轉任遴選，轉任國立頭城家商校長，新任校長由國立苗栗農工教務主任謝文斌出任。海大附中卸任、新任校長感...…",
+    "tags": "大學, 國立臺灣海洋大學",
+    "classes": "校務治理與管理",
+    "is_target": "True",
+    "cn_summary": "國立台灣海洋大學附屬基隆海事高級中等學校（以下簡稱海大附中）現任校長洪進源通過轉任遴選，轉任國立頭城家商校長，新任校長由國立苗栗農工教務主任謝文斌出任。海大附中卸任、新任校長感...…",
+    "cn_title": "苗栗農工主任謝文斌接掌海大附中 原校長洪進源轉任頭城家商",
+    "cn_classes": "校務治理與管理",
+    "cn_tags": "大學, 國立臺灣海洋大學",
+    "source": "自由時報"
+  },
   "https://ent.ltn.com.tw/news/paper/1762883": {
     "title": "温昇豪嗨喊最愛床戲 曾國城秒換睡衣PK床技",
     "link": "https://ent.ltn.com.tw/news/paper/1762883",
@@ -3583,20 +3598,5 @@
     "cn_classes": "政策與法規",
     "cn_tags": "",
     "source": "中央社"
-  },
-  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GTGEtbTgtTHNMTnJYTy16MGd5M1JoOGlYVHZ6Yi1PUXFBU2F0cFZtUndPYU5fdkcxTUZvSGcwX25PeWIzS0VNcTUzMzI0Zw?oc=5": {
-    "title": "耶魯大學研究：愈在意年紀的人，老的愈快、壽命更短 - 天下雜誌",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GTGEtbTgtTHNMTnJYTy16MGd5M1JoOGlYVHZ6Yi1PUXFBU2F0cFZtUndPYU5fdkcxTUZvSGcwX25PeWIzS0VNcTUzMzI0Zw?oc=5",
-    "published": "2026-07-07 18:00",
-    "images": [],
-    "summary": "耶魯大學研究：愈在意年紀的人，老的愈快、壽命更短&nbsp;&nbsp;天下雜誌",
-    "tags": "大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "耶魯大學研究：愈在意年紀的人，老的愈快、壽命更短&nbsp;&nbsp;天下雜誌",
-    "cn_title": "耶魯大學研究：愈在意年紀的人，老的愈快、壽命更短 - 天下雜誌",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "大學",
-    "source": "天下雜誌"
   }
 }
