@@ -1,4 +1,19 @@
 {
+  "https://ec.ltn.com.tw/article/breakingnews/5509036": {
+    "title": "TSIA首頒半導體設備創新獎 逢甲、陽明交大、明志科大脫穎而出",
+    "link": "https://ec.ltn.com.tw/article/breakingnews/5509036",
+    "published": "2026-07-17 20:47",
+    "images": [],
+    "summary": "台灣半導體產業協會（TSIA）2026年首次頒發「TSIA半導體設備創新獎」，全國有3所大專校院脫穎而出，逢甲大學以熱與固力模擬分析及AI 技術，改善先進封裝設備加熱爐系...…",
+    "tags": "逢甲大學, 國立陽明交通大學, 明志科大, 大專",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "台灣半導體產業協會（TSIA）2026年首次頒發「TSIA半導體設備創新獎」，全國有3所大專校院脫穎而出，逢甲大學以熱與固力模擬分析及AI 技術，改善先進封裝設備加熱爐系...…",
+    "cn_title": "TSIA首頒半導體設備創新獎 逢甲、陽明交大、明志科大脫穎而出",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "逢甲大學, 國立陽明交通大學, 明志科大, 大專",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rSk12V0JYcDdvV3pqQWV2WlVPZFplNXVZMTRXbUJvOGxuQmFmVEZMOWs1WG5zdGppUUMzc2o4bFJSUHhaWUpuaDZHb0xhV1k0NHFPQmd0U0hyUm5pSmYzb01vazB0Zw?oc=5": {
     "title": "東海大學生醫研發再突破腸道新藥、外泌體萃取技術亮相亞洲生技大展- 新消息- Campus - 中時新聞網",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rSk12V0JYcDdvV3pqQWV2WlVPZFplNXVZMTRXbUJvOGxuQmFmVEZMOWs1WG5zdGppUUMzc2o4bFJSUHhaWUpuaDZHb0xhV1k0NHFPQmd0U0hyUm5pSmYzb01vazB0Zw?oc=5",
@@ -3582,21 +3597,6 @@
     "cn_title": "清大攜手益鼎設立10億元基金 聚焦AI、半導體新創",
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立清華大學",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5498062": {
-    "title": "成功大學團隊進駐花蓮光復！揪受災7村長抓病媒蚊",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5498062",
-    "published": "2026-07-08 13:27",
-    "images": [],
-    "summary": "去年馬太鞍溪堰塞湖重創光復鄉，部分社區排水系統因土砂淤積，導致溝渠積水、排水不良，地方憂心恐成傳染病溫床。國立成功大學獲得行政院公共工程委員會補助，在成大校長沈孟儒支持下進駐地...…",
-    "tags": "國立成功大學",
-    "classes": "在地連結與社會責任（USR）",
-    "is_target": "True",
-    "cn_summary": "去年馬太鞍溪堰塞湖重創光復鄉，部分社區排水系統因土砂淤積，導致溝渠積水、排水不良，地方憂心恐成傳染病溫床。國立成功大學獲得行政院公共工程委員會補助，在成大校長沈孟儒支持下進駐地...…",
-    "cn_title": "成功大學團隊進駐花蓮光復！揪受災7村長抓病媒蚊",
-    "cn_classes": "在地連結與社會責任（USR）",
-    "cn_tags": "國立成功大學",
     "source": "自由時報"
   }
 }
