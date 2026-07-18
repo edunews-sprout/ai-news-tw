@@ -1,4 +1,19 @@
 {
+  "https://www.cna.com.tw/news/acn/202607180104.aspx": {
+    "title": "AI大會兩岸論壇  業界盼深化AI產業交流",
+    "link": "https://www.cna.com.tw/news/acn/202607180104.aspx",
+    "published": "2026-07-18 14:31",
+    "images": [],
+    "summary": "（中央社記者廖文綺上海18日電）2026人工智能（慧）大會在上海舉行，今天上午召開「兩岸論壇」，多位台灣與中國產學界人士齊聚探討兩岸AI領域發展。台灣業界人士表示，台灣電子供應鏈與中國市場各具優勢，盼深化AI產業合作。",
+    "tags": "學界",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "（中央社記者廖文綺上海18日電）2026人工智能（慧）大會在上海舉行，今天上午召開「兩岸論壇」，多位台灣與中國產學界人士齊聚探討兩岸AI領域發展。台灣業界人士表示，台灣電子供應鏈與中國市場各具優勢，盼深化AI產業合作。",
+    "cn_title": "AI大會兩岸論壇  業界盼深化AI產業交流",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "學界",
+    "source": "中央社"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5509431": {
     "title": "教育基金會串聯千億資源  今明在科教館辦嘉年華",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5509431",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "東海大學",
     "source": "UDN 文教"
-  },
-  "https://www.cna.com.tw/news/ahel/202607090047.aspx": {
-    "title": "FST台灣盃學生方程式聯賽　台科大賽車隊奪冠",
-    "link": "https://www.cna.com.tw/news/ahel/202607090047.aspx",
-    "published": "2026-07-09 10:34",
-    "images": [],
-    "summary": "（中央社記者許秩維台北9日電）台灣科技大學方程式賽車隊在2026 FST台灣盃學生方程式聯賽表現亮眼，不僅順利完成所有技術檢驗，更在3天賽程中穩定發揮，勇奪賽事總成績第一名，締造車隊成立以來最佳成績。",
-    "tags": "科技大學, 國立臺灣科技大學",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "（中央社記者許秩維台北9日電）台灣科技大學方程式賽車隊在2026 FST台灣盃學生方程式聯賽表現亮眼，不僅順利完成所有技術檢驗，更在3天賽程中穩定發揮，勇奪賽事總成績第一名，締造車隊成立以來最佳成績。",
-    "cn_title": "FST台灣盃學生方程式聯賽　台科大賽車隊奪冠",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "科技大學, 國立臺灣科技大學",
-    "source": "中央社"
   }
 }
