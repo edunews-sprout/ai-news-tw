@@ -89,6 +89,21 @@
     "cn_tags": "國立臺灣大學",
     "source": "UDN 文教"
   },
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGVER1SnZHV1FfRENNQXN4ZUFVSEY0RXJ3RHVtOFIzSEVOMVBYSklCR3FieHNwZmVmRlBfZ0U4UUFfMTc5NVRlS0J6Y2FwWjFrYS1FekE1QnpqUQ?oc=5": {
+    "title": "教育部推動無人機足球 嶺東科大打造中部推廣基地 | 產學研訓 | 商情 - 經濟日報",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGVER1SnZHV1FfRENNQXN4ZUFVSEY0RXJ3RHVtOFIzSEVOMVBYSklCR3FieHNwZmVmRlBfZ0U4UUFfMTc5NVRlS0J6Y2FwWjFrYS1FekE1QnpqUQ?oc=5",
+    "published": "2026-07-20 16:01",
+    "images": [],
+    "summary": "教育部推動無人機足球 嶺東科大打造中部推廣基地 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
+    "tags": "嶺東科技大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "教育部推動無人機足球 嶺東科大打造中部推廣基地 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
+    "cn_title": "教育部推動無人機足球 嶺東科大打造中部推廣基地 | 產學研訓 | 商情 - 經濟日報",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "嶺東科技大學",
+    "source": "UDN 文教"
+  },
   "https://ec.ltn.com.tw/article/breakingnews/5511084": {
     "title": "南亞科出手！長庚大學打造類公費「記憶體碩士專班」搶台積電時代半導體人才",
     "link": "https://ec.ltn.com.tw/article/breakingnews/5511084",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "研究所, 大學, 文化, 國立臺北藝術大學",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/art/breakingnews/5499941": {
-    "title": "政治大學與故宮續簽合作備忘錄  深化館校合作共育跨文化人才",
-    "link": "https://news.ltn.com.tw/news/art/breakingnews/5499941",
-    "published": "2026-07-09 21:34",
-    "images": [],
-    "summary": "政治大學與故宮博物院共同推動外語導覽人才培育、跨文化實務課程及文化教育交流，雙方今舉行合作備忘錄續約簽署儀式，未來將持續結合政大外語教育與跨文化專業，以及故宮典藏研究、博...…",
-    "tags": "國立政治大學, 文化",
-    "classes": "教學與課程",
-    "is_target": "True",
-    "cn_summary": "政治大學與故宮博物院共同推動外語導覽人才培育、跨文化實務課程及文化教育交流，雙方今舉行合作備忘錄續約簽署儀式，未來將持續結合政大外語教育與跨文化專業，以及故宮典藏研究、博...…",
-    "cn_title": "政治大學與故宮續簽合作備忘錄  深化館校合作共育跨文化人才",
-    "cn_classes": "教學與課程",
-    "cn_tags": "國立政治大學, 文化",
-    "source": "自由時報"
   }
 }
