@@ -1,4 +1,19 @@
 {
+  "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GUFhYQ3hNWmRSVGJ1VkRlUFRiWS10endiODl2RDRPbDktRElMaTAwcDh2UC1wR1FXX3MwQy1URFg2SUlTcVpuSy1NV2xzMG5pR2JwOU50QWEzTzVWM3BpY3ZRNDlxQS05LVA1Ump1bWlpWWpqRDhoc3RmMA?oc=5": {
+    "title": "陽明交大火箭隊赴美亞洲第7名完成發射與回收| 大學研究所| 文教 - UDN",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GUFhYQ3hNWmRSVGJ1VkRlUFRiWS10endiODl2RDRPbDktRElMaTAwcDh2UC1wR1FXX3MwQy1URFg2SUlTcVpuSy1NV2xzMG5pR2JwOU50QWEzTzVWM3BpY3ZRNDlxQS05LVA1Ump1bWlpWWpqRDhoc3RmMA?oc=5",
+    "published": "2026-07-21 12:36",
+    "images": [],
+    "summary": "陽明交大火箭隊赴美亞洲第7名完成發射與回收| 大學研究所| 文教&nbsp;&nbsp;UDN",
+    "tags": "國立陽明交通大學, 研究所, 大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "陽明交大火箭隊赴美亞洲第7名完成發射與回收| 大學研究所| 文教&nbsp;&nbsp;UDN",
+    "cn_title": "陽明交大火箭隊赴美亞洲第7名完成發射與回收| 大學研究所| 文教 - UDN",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立陽明交通大學, 研究所, 大學",
+    "source": "UDN 文教"
+  },
   "https://news.ltn.com.tw/news/society/breakingnews/5512180": {
     "title": "新竹殺人教授完成警訊  自述有幻聽還提及「川普的大揭露」",
     "link": "https://news.ltn.com.tw/news/society/breakingnews/5512180",
@@ -3583,20 +3598,5 @@
     "cn_classes": "校務治理與管理",
     "cn_tags": "",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5500640": {
-    "title": "無人機教育前瞻佈局 高師大與嘉義溪口國中跨學段結盟",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5500640",
-    "published": "2026-07-10 13:04",
-    "images": [],
-    "summary": "為響應「無人機國家隊」發展願景，國立高雄師範大學與嘉義縣立溪口國中昨（9）日簽署「學術交流合作備忘錄（MOU）」，雙方將透過跨學段策略結盟，將大學學術資源導入國中校園，突破城鄉...…",
-    "tags": "國立高雄師範大學, 學術",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "為響應「無人機國家隊」發展願景，國立高雄師範大學與嘉義縣立溪口國中昨（9）日簽署「學術交流合作備忘錄（MOU）」，雙方將透過跨學段策略結盟，將大學學術資源導入國中校園，突破城鄉...…",
-    "cn_title": "無人機教育前瞻佈局 高師大與嘉義溪口國中跨學段結盟",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "國立高雄師範大學, 學術",
-    "source": "自由時報"
   }
 }
