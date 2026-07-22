@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5514078": {
+    "title": "「超速」是隱形殺手！陽明交大：車速決定行人被撞存活率",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5514078",
+    "published": "2026-07-22 17:33",
+    "images": [],
+    "summary": "許多民眾對道路速限不滿，陽明交通大學運輸與物流管理學系教授兼管理學院院長邱裕鈞表示，從瑞典資料發現，行人遭時速30公里車輛撞擊，存活率約為90%，若撞擊速度提高至50-60公里...…",
+    "tags": "國立陽明交通大學, 教授",
+    "classes": "校務治理與管理",
+    "is_target": "True",
+    "cn_summary": "許多民眾對道路速限不滿，陽明交通大學運輸與物流管理學系教授兼管理學院院長邱裕鈞表示，從瑞典資料發現，行人遭時速30公里車輛撞擊，存活率約為90%，若撞擊速度提高至50-60公里...…",
+    "cn_title": "「超速」是隱形殺手！陽明交大：車速決定行人被撞存活率",
+    "cn_classes": "校務治理與管理",
+    "cn_tags": "國立陽明交通大學, 教授",
+    "source": "自由時報"
+  },
   "https://www.cna.com.tw/news/aloc/202607220227.aspx": {
     "title": "中山大學深化台帛藍碳合作　帛琉副總統訪台交流",
     "link": "https://www.cna.com.tw/news/aloc/202607220227.aspx",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "私立大學, 公立大學, 教授",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44bDhNOHpfdWNCVlZvNDU1UDZSajZSTjdTWGNRZF9wbmxXM0xJM0tuQV8tcU40OHVBV09BbWg5LWRwT0ZGeEVybWhjWGRZeEZq0gFWQVVfeXFMTVdSUVlZV04yeHlUZkktZ3BDcnVhN2ozNXVDZ3ZSWUlqOXo1MXFBTjZqZUtrSWFKLXZZNDVPUzZHbnZXRF96OENIU1Y0a0pVa1QyTXpGVmc?oc=5": {
-    "title": "涉學術不端…博士擬獲聘安徽大學 校方：若屬實不予錄用 - 聯合新聞網",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44bDhNOHpfdWNCVlZvNDU1UDZSajZSTjdTWGNRZF9wbmxXM0xJM0tuQV8tcU40OHVBV09BbWg5LWRwT0ZGeEVybWhjWGRZeEZq0gFWQVVfeXFMTVdSUVlZV04yeHlUZkktZ3BDcnVhN2ozNXVDZ3ZSWUlqOXo1MXFBTjZqZUtrSWFKLXZZNDVPUzZHbnZXRF96OENIU1Y0a0pVa1QyTXpGVmc?oc=5",
-    "published": "2026-07-13 15:49",
-    "images": [],
-    "summary": "涉學術不端…博士擬獲聘安徽大學 校方：若屬實不予錄用&nbsp;&nbsp;聯合新聞網",
-    "tags": "大學, 學術",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "涉學術不端…博士擬獲聘安徽大學 校方：若屬實不予錄用&nbsp;&nbsp;聯合新聞網",
-    "cn_title": "涉學術不端…博士擬獲聘安徽大學 校方：若屬實不予錄用 - 聯合新聞網",
-    "cn_classes": "其他",
-    "cn_tags": "大學, 學術",
-    "source": "UDN 文教"
   }
 }
