@@ -1,4 +1,19 @@
 {
+  "https://www.cna.com.tw/news/aloc/202607220227.aspx": {
+    "title": "中山大學深化台帛藍碳合作　帛琉副總統訪台交流",
+    "link": "https://www.cna.com.tw/news/aloc/202607220227.aspx",
+    "published": "2026-07-22 16:27",
+    "images": [],
+    "summary": "（中央社記者林巧璉高雄22日電）國立中山大學推動藍碳研究，研究版圖延伸至太平洋友邦帛琉，建構太平洋藍碳研究合作網絡。帛琉副總統歐宜樓今天率團訪問，與校方及研究團隊就海洋科研合作交流。",
+    "tags": "國立中山大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "（中央社記者林巧璉高雄22日電）國立中山大學推動藍碳研究，研究版圖延伸至太平洋友邦帛琉，建構太平洋藍碳研究合作網絡。帛琉副總統歐宜樓今天率團訪問，與校方及研究團隊就海洋科研合作交流。",
+    "cn_title": "中山大學深化台帛藍碳合作　帛琉副總統訪台交流",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立中山大學",
+    "source": "中央社"
+  },
   "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfZ3hOdWVRYkN5S1p0S2R2aGdnUk1GUDdDVl9yM3M4bDFPeHdsZ0ZZYWpFb2JhaFU4emtCMHdyMFVRcDk2THh3QXZJbkFYR1NMNU5zc2sxMkswS0k?oc=5": {
     "title": "小球員踏上大巨蛋紅土築夢 遠雄攜手「大學長」應援 | 產業動態 | 商情 - 經濟日報",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfZ3hOdWVRYkN5S1p0S2R2aGdnUk1GUDdDVl9yM3M4bDFPeHdsZ0ZZYWpFb2JhaFU4emtCMHdyMFVRcDk2THh3QXZJbkFYR1NMNU5zc2sxMkswS0k?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "大學, 學術",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5503649": {
-    "title": "建設、通訊業者攜手送暖 9大學生獲贈全新筆電",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5503649",
-    "published": "2026-07-13 15:22",
-    "images": [],
-    "summary": "數位科技時代來臨， 對許多經濟受限的家庭而言，擁有新電腦往往是孩子不敢說的奢望。雲林家扶中心今 （13）日獲建設公司及資訊通訊行業者，共捐9台全新高效能筆記型電腦給大專生。大學...…",
-    "tags": "大學生, 大專",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "數位科技時代來臨， 對許多經濟受限的家庭而言，擁有新電腦往往是孩子不敢說的奢望。雲林家扶中心今 （13）日獲建設公司及資訊通訊行業者，共捐9台全新高效能筆記型電腦給大專生。大學...…",
-    "cn_title": "建設、通訊業者攜手送暖 9大學生獲贈全新筆電",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "大學生, 大專",
-    "source": "自由時報"
   }
 }
