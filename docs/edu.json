@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5514384": {
+    "title": "陸軍官校攜手陽明交大策略聯盟 學生跨校選修可拿雙學士學位",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5514384",
+    "published": "2026-07-22 21:50",
+    "images": [],
+    "summary": "國軍培育新世代軍事人才，陸軍軍官學校今日攜手國立陽明交通大學簽署策略聯盟合作協議，兩校學生透過跨校選課，修業期滿可取得兩校雙學士學位，兼具科技素養與領導決策的能力。 ​陸...…",
+    "tags": "國立陽明交通大學, 學士, 學位",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "國軍培育新世代軍事人才，陸軍軍官學校今日攜手國立陽明交通大學簽署策略聯盟合作協議，兩校學生透過跨校選課，修業期滿可取得兩校雙學士學位，兼具科技素養與領導決策的能力。 ​陸...…",
+    "cn_title": "陸軍官校攜手陽明交大策略聯盟 學生跨校選修可拿雙學士學位",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "國立陽明交通大學, 學士, 學位",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5514078": {
     "title": "「超速」是隱形殺手！陽明交大：車速決定行人被撞存活率",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5514078",
@@ -132,6 +147,21 @@
     "cn_title": "黃仁勳夫婦捐7500萬 給范德堡大學舊金山分校設旗艦學院 - UDN",
     "cn_classes": "其他",
     "cn_tags": "大學",
+    "source": "UDN 文教"
+  },
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PT1BibXhMYzBZWXNDN2dlUzljY0xDR2phU3BtdjNfdkpOeUVHYjhpajVhNlNlVVdybjJNNHNLQ1REOVRMMC12MmZTUF9Ca0Z1REh2a05sbl9PQWk4MHNn0gFkQVVfeXFMTVIzaXB3VVBMV3J6STVTU2Q1QnFfRTQwUHlKRVE5QWxwSC1hYzRlSjMzdXBxNE5VblBBRzVjVWxvcDlkXzNKVGVyUEg3dnREWDZ2MXdIdFZ3elpGMzhVMXJ1WnhJcg?oc=5": {
+    "title": "大學生找不到工作不是AI的錯？「學用落差」才是勞動力短缺的主因 - 倡議家",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PT1BibXhMYzBZWXNDN2dlUzljY0xDR2phU3BtdjNfdkpOeUVHYjhpajVhNlNlVVdybjJNNHNLQ1REOVRMMC12MmZTUF9Ca0Z1REh2a05sbl9PQWk4MHNn0gFkQVVfeXFMTVIzaXB3VVBMV3J6STVTU2Q1QnFfRTQwUHlKRVE5QWxwSC1hYzRlSjMzdXBxNE5VblBBRzVjVWxvcDlkXzNKVGVyUEg3dnREWDZ2MXdIdFZ3elpGMzhVMXJ1WnhJcg?oc=5",
+    "published": "2026-07-22 14:30",
+    "images": [],
+    "summary": "大學生找不到工作不是AI的錯？「學用落差」才是勞動力短缺的主因&nbsp;&nbsp;倡議家",
+    "tags": "大學生",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "大學生找不到工作不是AI的錯？「學用落差」才是勞動力短缺的主因&nbsp;&nbsp;倡議家",
+    "cn_title": "大學生找不到工作不是AI的錯？「學用落差」才是勞動力短缺的主因 - 倡議家",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "大學生",
     "source": "UDN 文教"
   },
   "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ2xNM0l3Mm1ld19WU3hBVkhndlg0c3d5dmk5QVNYSlZUbWFFTDMxWXF1WlhyOEZ1MElWX25PczZ6bDQxQTJuaExBcTBWVXFHWGVRYzR2bUdaN2M2d3JfUm52aDZyN3BLTXI5enNOdjRHY0ZuaVFhRW9jdnhYa204Q9IBX0FVX3lxTE1aUDFCUURqVy1qUm4zeXNiY2I2RG9CeGcyZTJjTW5ETHcyRDRZSHB1UXhuazY2RERmWHRkeDk5WlZVa29lSjlfaXlDU3prQUFoTjdqS1I1ZXItTUl1RlJz?oc=5": {
@@ -3568,35 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "",
     "source": "UDN 文教"
-  },
-  "https://www.cna.com.tw/news/aipl/202607130191.aspx": {
-    "title": "校園團膳　教育部擬食材供應商經公布食安問題永不使用",
-    "link": "https://www.cna.com.tw/news/aipl/202607130191.aspx",
-    "published": "2026-07-13 15:56",
-    "images": [],
-    "summary": "（中央社記者曾以寧台北13日電）中聯油脂案延燒，教育部今天表示，經盤點全台共有1380所學校曾使用中聯下游3家廠商的油品，並正研議，食材供應商若經公布重大食安問題，就永不再用，預計1個月內提出作法。",
-    "tags": "",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "（中央社記者曾以寧台北13日電）中聯油脂案延燒，教育部今天表示，經盤點全台共有1380所學校曾使用中聯下游3家廠商的油品，並正研議，食材供應商若經公布重大食安問題，就永不再用，預計1個月內提出作法。",
-    "cn_title": "校園團膳　教育部擬食材供應商經公布食安問題永不使用",
-    "cn_classes": "其他",
-    "cn_tags": "",
-    "source": "中央社"
-  },
-  "https://ec.ltn.com.tw/article/breakingnews/5503587": {
-    "title": "這國70％大學教授收入低於最低工資 擺路邊攤兼職、當街唱歌賺小費維生",
-    "link": "https://ec.ltn.com.tw/article/breakingnews/5503587",
-    "published": "2026-07-13 15:53",
-    "images": [],
-    "summary": "〔財經頻道／綜合報導〕印尼70%的大學教授收入低於最低工資，這是因為印尼沒有針對教授制定統一薪資標準，大學可以隨意決定教授的薪資。無論是在公立大學或私立大學任教，大學教授除了本職工作外，還得兼職...…",
-    "tags": "私立大學, 公立大學, 教授",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "〔財經頻道／綜合報導〕印尼70%的大學教授收入低於最低工資，這是因為印尼沒有針對教授制定統一薪資標準，大學可以隨意決定教授的薪資。無論是在公立大學或私立大學任教，大學教授除了本職工作外，還得兼職...…",
-    "cn_title": "這國70％大學教授收入低於最低工資 擺路邊攤兼職、當街唱歌賺小費維生",
-    "cn_classes": "其他",
-    "cn_tags": "私立大學, 公立大學, 教授",
-    "source": "自由時報"
   }
 }
