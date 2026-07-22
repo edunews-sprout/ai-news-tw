@@ -1,4 +1,19 @@
 {
+  "https://ent.ltn.com.tw/news/breakingnews/5513222": {
+    "title": "大學生說「我都沒看新聞」 當家主播回謝謝",
+    "link": "https://ent.ltn.com.tw/news/breakingnews/5513222",
+    "published": "2026-07-22 07:56",
+    "images": [],
+    "summary": "TVBS新聞台當家主播夏嘉璐近日到西班牙進行朝聖之旅，連日來透過臉書發文紀錄這段旅途，今（22）日清晨捎來一段在當地和某大學生的對話。 夏嘉璐說，朝聖路上會遇到來自...…",
+    "tags": "大學生",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "TVBS新聞台當家主播夏嘉璐近日到西班牙進行朝聖之旅，連日來透過臉書發文紀錄這段旅途，今（22）日清晨捎來一段在當地和某大學生的對話。 夏嘉璐說，朝聖路上會遇到來自...…",
+    "cn_title": "大學生說「我都沒看新聞」 當家主播回謝謝",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "大學生",
+    "source": "自由時報"
+  },
   "https://sports.ltn.com.tw/news/paper/1763608": {
     "title": "黃韋盛入選亞運 與貴人再聚首",
     "link": "https://sports.ltn.com.tw/news/paper/1763608",
@@ -3582,21 +3597,6 @@
     "cn_title": "四國菁英棒球賽》日本大學王牌太狂 鈴木泰成6局14K封鎖南韓",
     "cn_classes": "其他",
     "cn_tags": "大學",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5502605": {
-    "title": "分科測驗明登場 大考中心提醒攜帶身分證等有效證件",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5502605",
-    "published": "2026-07-12 13:26",
-    "images": [],
-    "summary": "115學年度大學分科測驗將於明（13）日及後（14）日舉行。巴威颱風過境後，大學入學考試中心今日提醒，考生應攜帶應試有效證件正本，如身分證、有照片的建保卡等，學生證不是有效證件...…",
-    "tags": "大學, 學分",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "115學年度大學分科測驗將於明（13）日及後（14）日舉行。巴威颱風過境後，大學入學考試中心今日提醒，考生應攜帶應試有效證件正本，如身分證、有照片的建保卡等，學生證不是有效證件...…",
-    "cn_title": "分科測驗明登場 大考中心提醒攜帶身分證等有效證件",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "大學, 學分",
     "source": "自由時報"
   }
 }
