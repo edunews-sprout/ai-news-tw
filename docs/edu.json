@@ -299,6 +299,21 @@
     "cn_tags": "國立陽明交通大學, 學士, 學位",
     "source": "自由時報"
   },
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRWdIUHJDdi1PZWxJNlhHTEhtbHQ2Rk1BamZVeHBaQXB1WmJ4OVRVU0MyNXplcnFkMk5sQzh5WkNpazUwREc0V3FtcHpiWDl1ZEJNZV9TaHdMdTVhLTdKZFp2RGRUQmtWTFNhUTN0QXJfVFNjM0w4SDJaQmgteUYzU3BTc0I5QkRxZkFHUXNtWlNCQ1NrUkE?oc=5": {
+    "title": "中山大學如何運用DNA特徵與機器學習鑑定腸道菌種？ - 遠見雜誌",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRWdIUHJDdi1PZWxJNlhHTEhtbHQ2Rk1BamZVeHBaQXB1WmJ4OVRVU0MyNXplcnFkMk5sQzh5WkNpazUwREc0V3FtcHpiWDl1ZEJNZV9TaHdMdTVhLTdKZFp2RGRUQmtWTFNhUTN0QXJfVFNjM0w4SDJaQmgteUYzU3BTc0I5QkRxZkFHUXNtWlNCQ1NrUkE?oc=5",
+    "published": "2026-07-22 20:14",
+    "images": [],
+    "summary": "中山大學如何運用DNA特徵與機器學習鑑定腸道菌種？&nbsp;&nbsp;遠見雜誌",
+    "tags": "國立中山大學",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "中山大學如何運用DNA特徵與機器學習鑑定腸道菌種？&nbsp;&nbsp;遠見雜誌",
+    "cn_title": "中山大學如何運用DNA特徵與機器學習鑑定腸道菌種？ - 遠見雜誌",
+    "cn_classes": "其他",
+    "cn_tags": "國立中山大學",
+    "source": "遠見雜誌"
+  },
   "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWVlnZ1ZWSWd4eXI5N1FySV8wUFFyYmhEVU8wTGlHd1pWTUpaaDlxNzZMN3B0c3BUUFlka1NOUlYwU0N2WnFjeFdXbUFxMnJXT04zNDJLUW5UTndKOG1pOHBobzJLaTI2NlJsc3pXNHpHM3BmQWI5Z0E0M09pb0xOWlh6VVM4OWhZTUpLY1E3WGoyRUdHekE?oc=5": {
     "title": "技專校院榜單前十名，為何以國立科大居多？ - 遠見雜誌",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWVlnZ1ZWSWd4eXI5N1FySV8wUFFyYmhEVU8wTGlHd1pWTUpaaDlxNzZMN3B0c3BUUFlka1NOUlYwU0N2WnFjeFdXbUFxMnJXT04zNDJLUW5UTndKOG1pOHBobzJLaTI2NlJsc3pXNHpHM3BmQWI5Z0E0M09pb0xOWlh6VVM4OWhZTUpLY1E3WGoyRUdHekE?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "教學與課程",
     "cn_tags": "國立嘉義大學",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xRnFEWERpVE1VWFFEd2ZqdlhCa2JLLTM1Tm5LSVhUVnl6dEtmbEFYaHZYQTdOZnVvYmYxYlNmdTJEeEJWYmEtU3lCeGZyc08xS0RXU0h5Z3Z3SmhVWWpSeGV1bEgwd2VoSHUtRzV2RWxLN2dkWE9kQS1RMHE?oc=5": {
-    "title": "379名大專生入高市府暑期工讀學公共治理、首推短影音競賽| 大學研究所| 文教 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xRnFEWERpVE1VWFFEd2ZqdlhCa2JLLTM1Tm5LSVhUVnl6dEtmbEFYaHZYQTdOZnVvYmYxYlNmdTJEeEJWYmEtU3lCeGZyc08xS0RXU0h5Z3Z3SmhVWWpSeGV1bEgwd2VoSHUtRzV2RWxLN2dkWE9kQS1RMHE?oc=5",
-    "published": "2026-07-14 11:34",
-    "images": [],
-    "summary": "379名大專生入高市府暑期工讀學公共治理、首推短影音競賽| 大學研究所| 文教&nbsp;&nbsp;UDN",
-    "tags": "研究所, 大學, 大專",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "379名大專生入高市府暑期工讀學公共治理、首推短影音競賽| 大學研究所| 文教&nbsp;&nbsp;UDN",
-    "cn_title": "379名大專生入高市府暑期工讀學公共治理、首推短影音競賽| 大學研究所| 文教 - UDN",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "研究所, 大學, 大專",
-    "source": "UDN 文教"
   }
 }
