@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5516351": {
+    "title": "北科大把教室搬進市場 AI結合建築教育培養實作力",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5516351",
+    "published": "2026-07-24 15:14",
+    "images": [],
+    "summary": "AI時代的大學建築教育不再只待在教室。國立台北科技大學建築系將北投中繼市場及周邊社區化身教學場域，帶領學生走入市場、農場及社區，運用AI及數位工具進行空間觀察、感官地圖及設計分...…",
+    "tags": "科技大學, 國立臺北科技大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "AI時代的大學建築教育不再只待在教室。國立台北科技大學建築系將北投中繼市場及周邊社區化身教學場域，帶領學生走入市場、農場及社區，運用AI及數位工具進行空間觀察、感官地圖及設計分...…",
+    "cn_title": "北科大把教室搬進市場 AI結合建築教育培養實作力",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "科技大學, 國立臺北科技大學",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/politics/breakingnews/5516261": {
     "title": "室內空品是基本人權 劉建國提4大修法訴求",
     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5516261",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "國立陽明交通大學, 教授",
     "source": "ETtoday"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yNmdSTzdsaGVYbExNSDMxNTRBcW9nLUdKbmhYQ25ZVHREbXM1ZkNPYlhZb3I4S3NmT05nLXpWOThaanJ3cjRPSXZ2X1dvQ0ds?oc=5": {
-    "title": "43歲大學教授刺死連襟店長…遭制伏腿部中彈陽明交大：配合調查| 焦點事件| 社會 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yNmdSTzdsaGVYbExNSDMxNTRBcW9nLUdKbmhYQ25ZVHREbXM1ZkNPYlhZb3I4S3NmT05nLXpWOThaanJ3cjRPSXZ2X1dvQ0ds?oc=5",
-    "published": "2026-07-14 21:53",
-    "images": [],
-    "summary": "43歲大學教授刺死連襟店長…遭制伏腿部中彈陽明交大：配合調查| 焦點事件| 社會&nbsp;&nbsp;UDN",
-    "tags": "國立陽明交通大學, 大學, 教授",
-    "classes": "在地連結與社會責任（USR）",
-    "is_target": "True",
-    "cn_summary": "43歲大學教授刺死連襟店長…遭制伏腿部中彈陽明交大：配合調查| 焦點事件| 社會&nbsp;&nbsp;UDN",
-    "cn_title": "43歲大學教授刺死連襟店長…遭制伏腿部中彈陽明交大：配合調查| 焦點事件| 社會 - UDN",
-    "cn_classes": "在地連結與社會責任（USR）",
-    "cn_tags": "國立陽明交通大學, 大學, 教授",
-    "source": "UDN 文教"
   }
 }
