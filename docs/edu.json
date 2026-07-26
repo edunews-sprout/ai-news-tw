@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/politics/breakingnews/5518312": {
+    "title": "藍白刪凍學校無人機採購補助 公督盟酸：要台灣吃得安全卻活得不安",
+    "link": "https://news.ltn.com.tw/news/politics/breakingnews/5518312",
+    "published": "2026-07-26 17:31",
+    "images": [],
+    "summary": "教育部規劃補助大專校院、高中職校採購無人機設備、培訓師資及課程融入，然遭民眾黨團提案砍刪2億元、凍結3.1億元預算，國民黨團更擬全數凍結，扼殺高中大學「科技人才鏈」。對此，公督...…",
+    "tags": "大學, 大專",
+    "classes": "在地連結與社會責任（USR）",
+    "is_target": "True",
+    "cn_summary": "教育部規劃補助大專校院、高中職校採購無人機設備、培訓師資及課程融入，然遭民眾黨團提案砍刪2億元、凍結3.1億元預算，國民黨團更擬全數凍結，扼殺高中大學「科技人才鏈」。對此，公督...…",
+    "cn_title": "藍白刪凍學校無人機採購補助 公督盟酸：要台灣吃得安全卻活得不安",
+    "cn_classes": "在地連結與社會責任（USR）",
+    "cn_tags": "大學, 大專",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5518228": {
     "title": "教育部示警防統戰交流 東海大學違規遭扣減獎補助款",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5518228",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "科技大學",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/def/breakingnews/5506192": {
-    "title": "阿帕契+黑鷹降落中央大學田徑場  教職員生、民眾超驚喜",
-    "link": "https://news.ltn.com.tw/news/def/breakingnews/5506192",
-    "published": "2026-07-15 15:54",
-    "images": [],
-    "summary": "陸軍司令部配合聯合防禦操演，結合全民國防與科學教育，與甫在國立中央大學舉辦的「第66屆中華民國中小學科學展覽會」合作，今（15）日派出601旅AH-64E阿帕契攻擊直升機...…",
-    "tags": "國立中央大學, 中華",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "陸軍司令部配合聯合防禦操演，結合全民國防與科學教育，與甫在國立中央大學舉辦的「第66屆中華民國中小學科學展覽會」合作，今（15）日派出601旅AH-64E阿帕契攻擊直升機...…",
-    "cn_title": "阿帕契+黑鷹降落中央大學田徑場  教職員生、民眾超驚喜",
-    "cn_classes": "其他",
-    "cn_tags": "國立中央大學, 中華",
-    "source": "自由時報"
   }
 }
