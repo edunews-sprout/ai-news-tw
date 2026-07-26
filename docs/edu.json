@@ -1,4 +1,19 @@
 {
+  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PZGV0cEcwOXM3SlBhTmhURGdRaXVfVTBJRzFBOE5IZ3hSZl93LTVrZkg4WG1abFFPMHJCZm94MEZBeEQ2Zlh3SzJiTno2bUg2Zjkw?oc=5": {
+    "title": "李家同／談大學工學院教育| 名家縱論| 評論 - UDN",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PZGV0cEcwOXM3SlBhTmhURGdRaXVfVTBJRzFBOE5IZ3hSZl93LTVrZkg4WG1abFFPMHJCZm94MEZBeEQ2Zlh3SzJiTno2bUg2Zjkw?oc=5",
+    "published": "2026-07-27 00:06",
+    "images": [],
+    "summary": "李家同／談大學工學院教育| 名家縱論| 評論&nbsp;&nbsp;UDN",
+    "tags": "大學",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "李家同／談大學工學院教育| 名家縱論| 評論&nbsp;&nbsp;UDN",
+    "cn_title": "李家同／談大學工學院教育| 名家縱論| 評論 - UDN",
+    "cn_classes": "其他",
+    "cn_tags": "大學",
+    "source": "UDN 文教"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5518565": {
     "title": "陽明交大涉聘中國長江學者恐有國安疑慮 校方回應了",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5518565",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "逢甲大學",
     "source": "UDN 文教"
-  },
-  "https://www.cna.com.tw/news/asoc/202607150251.aspx": {
-    "title": "大學教授持藍波刀殺死連襟　目擊者：進教室就砍人",
-    "link": "https://www.cna.com.tw/news/asoc/202607150251.aspx",
-    "published": "2026-07-15 17:38",
-    "images": [],
-    "summary": "（中央社記者魯鋼駿新竹市15日電）國立陽明交通大學美國籍林姓教授昨天在新竹市某音樂教室持藍波刀砍連襟致死，遭警方開槍制伏逮捕。目擊者指出，當時林男進入教室，持刀直接朝死者狂砍，嚇壞眾人。",
-    "tags": "國立陽明交通大學, 教授",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "（中央社記者魯鋼駿新竹市15日電）國立陽明交通大學美國籍林姓教授昨天在新竹市某音樂教室持藍波刀砍連襟致死，遭警方開槍制伏逮捕。目擊者指出，當時林男進入教室，持刀直接朝死者狂砍，嚇壞眾人。",
-    "cn_title": "大學教授持藍波刀殺死連襟　目擊者：進教室就砍人",
-    "cn_classes": "其他",
-    "cn_tags": "國立陽明交通大學, 教授",
-    "source": "中央社"
   }
 }
