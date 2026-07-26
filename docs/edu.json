@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/society/breakingnews/5518079": {
+    "title": "日月潭向山遊客中心水域昨晚傳大學生溺水  持續搜救中",
+    "link": "https://news.ltn.com.tw/news/society/breakingnews/5518079",
+    "published": "2026-07-26 13:19",
+    "images": [],
+    "summary": "首次上稿 12:27 更新時間 13:19 日月潭向山遊客中心旁「永結橋」水域，昨（25日）下午發生20歲張姓大學生下水戲水不幸溺水事件，南投縣消防局昨晚獲報立即展開搜救...…",
+    "tags": "大學生",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "首次上稿 12:27 更新時間 13:19 日月潭向山遊客中心旁「永結橋」水域，昨（25日）下午發生20歲張姓大學生下水戲水不幸溺水事件，南投縣消防局昨晚獲報立即展開搜救...…",
+    "cn_title": "日月潭向山遊客中心水域昨晚傳大學生溺水  持續搜救中",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "大學生",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5517915": {
     "title": "台師大緬甸僑生返鄉教學 陪伴60名震後學童學華語",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5517915",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學生事務與生活",
     "cn_tags": "國立中央大學",
     "source": "UDN 文教"
-  },
-  "https://www.cna.com.tw/news/aipl/202607150147.aspx": {
-    "title": "陸軍阿帕契、黑鷹直升機降落中央大學　吸引學生圍觀",
-    "link": "https://www.cna.com.tw/news/aipl/202607150147.aspx",
-    "published": "2026-07-15 14:26",
-    "images": [],
-    "summary": "（中央社記者吳書緯桃園15日電）陸軍航空601旅AH-64E阿帕契攻擊直升機、UH-60M黑鷹直升機今天降落在國立中央大學操場，進行國防裝備陳展，許多參加全國中小學科學展覽會的學生在直升機前圍觀，詢問飛行員飛行原理、武器效能等問題。",
-    "tags": "國立中央大學",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "（中央社記者吳書緯桃園15日電）陸軍航空601旅AH-64E阿帕契攻擊直升機、UH-60M黑鷹直升機今天降落在國立中央大學操場，進行國防裝備陳展，許多參加全國中小學科學展覽會的學生在直升機前圍觀，詢問飛行員飛行原理、武器效能等問題。",
-    "cn_title": "陸軍阿帕契、黑鷹直升機降落中央大學　吸引學生圍觀",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "國立中央大學",
-    "source": "中央社"
   }
 }
