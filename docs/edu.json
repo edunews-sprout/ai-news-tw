@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/politics/breakingnews/5518705": {
+    "title": "陽明交大教評會爆爭議 教育部長：組成有瑕疵",
+    "link": "https://news.ltn.com.tw/news/politics/breakingnews/5518705",
+    "published": "2026-07-27 09:15",
+    "images": [],
+    "summary": "本報獨家揭露國立陽明交通大學爆出傳播研究所教師評審委員會組成爭議，其中教評會主席為退休後赴中國上海交大任教的郭良文，教評會委員則是中國長江學者魏然，引發外界質疑。教育部長鄭英耀...…",
+    "tags": "國立陽明交通大學, 研究所",
+    "classes": "校務治理與管理",
+    "is_target": "True",
+    "cn_summary": "本報獨家揭露國立陽明交通大學爆出傳播研究所教師評審委員會組成爭議，其中教評會主席為退休後赴中國上海交大任教的郭良文，教評會委員則是中國長江學者魏然，引發外界質疑。教育部長鄭英耀...…",
+    "cn_title": "陽明交大教評會爆爭議 教育部長：組成有瑕疵",
+    "cn_classes": "校務治理與管理",
+    "cn_tags": "國立陽明交通大學, 研究所",
+    "source": "自由時報"
+  },
   "https://talk.ltn.com.tw/article/paper/1764204": {
     "title": "自由廣場》師培實習津貼加碼 「留才」仍需行政減量",
     "link": "https://talk.ltn.com.tw/article/paper/1764204",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "高等教育, 大學, 通識",
     "source": "天下雜誌"
-  },
-  "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRMmZTcGFPdk85djl6eWVnMU9ZUTlFelBjdjBCa3hYZkRBMzNDQzVoMTMzbUNoMjFZd2dJUzlJVGhtTEdKWXplUkFWMnB3Zw?oc=5": {
-    "title": "產學合作育才！中鋼運通攜手高科大培育海事人才 乙級船員養成班開放招生 | 徐炳文 | 地方新聞 - Storm.mg",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRMmZTcGFPdk85djl6eWVnMU9ZUTlFelBjdjBCa3hYZkRBMzNDQzVoMTMzbUNoMjFZd2dJUzlJVGhtTEdKWXplUkFWMnB3Zw?oc=5",
-    "published": "2026-07-15 23:54",
-    "images": [],
-    "summary": "產學合作育才！中鋼運通攜手高科大培育海事人才 乙級船員養成班開放招生 | 徐炳文 | 地方新聞&nbsp;&nbsp;Storm.mg",
-    "tags": "產學合作, 國立高雄科技大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "產學合作育才！中鋼運通攜手高科大培育海事人才 乙級船員養成班開放招生 | 徐炳文 | 地方新聞&nbsp;&nbsp;Storm.mg",
-    "cn_title": "產學合作育才！中鋼運通攜手高科大培育海事人才 乙級船員養成班開放招生 | 徐炳文 | 地方新聞 - Storm.mg",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "產學合作, 國立高雄科技大學",
-    "source": "風傳媒"
   }
 }
