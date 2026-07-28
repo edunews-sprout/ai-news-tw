@@ -1,4 +1,19 @@
 {
+  "https://www.cna.com.tw/news/ahel/202607280050.aspx": {
+    "title": "菲律賓留學台灣3年增逾7成　雙邊強化合作機制",
+    "link": "https://www.cna.com.tw/news/ahel/202607280050.aspx",
+    "published": "2026-07-28 11:11",
+    "images": [],
+    "summary": "（中央社記者陳至中台北28日電）菲律賓來台留學生在3年內增加超過7成，教育部與菲律賓高等教育委員會召開「台菲教育工作小組會議」，聚焦大學學分互認機制、華語區域訓練中心等，強化雙邊合作機制。",
+    "tags": "高等教育, 大學, 學分",
+    "classes": "國際交流與合作",
+    "is_target": "True",
+    "cn_summary": "（中央社記者陳至中台北28日電）菲律賓來台留學生在3年內增加超過7成，教育部與菲律賓高等教育委員會召開「台菲教育工作小組會議」，聚焦大學學分互認機制、華語區域訓練中心等，強化雙邊合作機制。",
+    "cn_title": "菲律賓留學台灣3年增逾7成　雙邊強化合作機制",
+    "cn_classes": "國際交流與合作",
+    "cn_tags": "高等教育, 大學, 學分",
+    "source": "中央社"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5519914": {
     "title": "台菲深化高教產學合作 敲定教育行動計畫",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5519914",
@@ -88,6 +103,21 @@
     "cn_classes": "國際交流與合作",
     "cn_tags": "中原大學",
     "source": "UDN 文教"
+  },
+  "https://www.cna.com.tw/news/ahel/202607280026.aspx": {
+    "title": "校事會議相關辦法遭退回　國教盟籲確保制度不倒退",
+    "link": "https://www.cna.com.tw/news/ahel/202607280026.aspx",
+    "published": "2026-07-28 09:44",
+    "images": [],
+    "summary": "（中央社記者陳至中台北28日電）校園濫訴議題備受關注，立法院教育及文化委員會昨天決議，退回校事會議相關辦法，要求教育部更正後再送立院備查。國教行動聯盟今天呼籲建立過渡規範，並確保制度不會倒退。",
+    "tags": "文化",
+    "classes": "政策與法規",
+    "is_target": "True",
+    "cn_summary": "（中央社記者陳至中台北28日電）校園濫訴議題備受關注，立法院教育及文化委員會昨天決議，退回校事會議相關辦法，要求教育部更正後再送立院備查。國教行動聯盟今天呼籲建立過渡規範，並確保制度不會倒退。",
+    "cn_title": "校事會議相關辦法遭退回　國教盟籲確保制度不倒退",
+    "cn_classes": "政策與法規",
+    "cn_tags": "文化",
+    "source": "中央社"
   },
   "https://talk.ltn.com.tw/article/breakingnews/5517419": {
     "title": "自由開講》校事會議不能淪為校園萬用調查機制",
@@ -3568,35 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "大學, 國立臺灣師範大學",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/art/breakingnews/5508580": {
-    "title": "「一張藝嘉 光耀Town walk」台語圖文創作 《春天落雪》獲首獎",
-    "link": "https://news.ltn.com.tw/news/art/breakingnews/5508580",
-    "published": "2026-07-17 14:18",
-    "images": [],
-    "summary": "台灣文學學會與國立中正大學台灣文學研究所合作舉辦「一張藝嘉 光耀Town walk」徵選活動，吸引50篇作品參賽，經評審委員嚴格的複審討論，昨在中正大學文學院公布得獎名單...…",
-    "tags": "國立中正大學, 研究所",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "台灣文學學會與國立中正大學台灣文學研究所合作舉辦「一張藝嘉 光耀Town walk」徵選活動，吸引50篇作品參賽，經評審委員嚴格的複審討論，昨在中正大學文學院公布得獎名單...…",
-    "cn_title": "「一張藝嘉 光耀Town walk」台語圖文創作 《春天落雪》獲首獎",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "國立中正大學, 研究所",
-    "source": "自由時報"
-  },
-  "https://www.cna.com.tw/news/ahel/202607170137.aspx": {
-    "title": "台師大與英國格拉斯哥大學合開專班　探永續議題",
-    "link": "https://www.cna.com.tw/news/ahel/202607170137.aspx",
-    "published": "2026-07-17 14:11",
-    "images": [],
-    "summary": "（中央社記者陳至中台北17日電）台灣師範大學與英國格拉斯哥大學合作，今年開辦「永續領導力專班」，選派45名學生前往英國，思考如何面對極端天氣、社區韌性等議題。",
-    "tags": "大學, 國立臺灣師範大學",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "（中央社記者陳至中台北17日電）台灣師範大學與英國格拉斯哥大學合作，今年開辦「永續領導力專班」，選派45名學生前往英國，思考如何面對極端天氣、社區韌性等議題。",
-    "cn_title": "台師大與英國格拉斯哥大學合開專班　探永續議題",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "大學, 國立臺灣師範大學",
-    "source": "中央社"
   }
 }
