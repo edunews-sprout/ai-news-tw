@@ -1,4 +1,19 @@
 {
+  "https://sports.ltn.com.tw/news/breakingnews/5522289": {
+    "title": "佛光盃》沒有外籍生的「宇宙政大」 23分差大勝強勢開胡",
+    "link": "https://sports.ltn.com.tw/news/breakingnews/5522289",
+    "published": "2026-07-29 22:11",
+    "images": [],
+    "summary": "佛光盃國際大學籃球邀請賽今進入第２天賽事，女子組台灣師大、佛光山佛光大學成功取得連勝，面對加拿大約克大學，「陽明F4」合攻55分助台師大80：61取勝，佛光全員皆兵，95...…",
+    "tags": "佛光大學, 國立政治大學, 國立臺灣師範大學, 國立陽明交通大學",
+    "classes": "國際交流與合作",
+    "is_target": "True",
+    "cn_summary": "佛光盃國際大學籃球邀請賽今進入第２天賽事，女子組台灣師大、佛光山佛光大學成功取得連勝，面對加拿大約克大學，「陽明F4」合攻55分助台師大80：61取勝，佛光全員皆兵，95...…",
+    "cn_title": "佛光盃》沒有外籍生的「宇宙政大」 23分差大勝強勢開胡",
+    "cn_classes": "國際交流與合作",
+    "cn_tags": "佛光大學, 國立政治大學, 國立臺灣師範大學, 國立陽明交通大學",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/politics/breakingnews/5522175": {
     "title": "監院報告：赴中交流大專32校次有疏失 東海漏報5次最多",
     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5522175",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "長庚大學, 碩士",
     "source": "中國時報"
-  },
-  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Zb0liUGZoalFiaUxHM3VmQi0tSjZQeE1rcWpJc3JOZEh2WEczM2l3Qy1IYkk1YVY5czJldXZBZTdUUDd1VjRSY3diZk5Cdw?oc=5": {
-    "title": "長庚大學打造亞洲唯一類公費「記憶體碩士專班」 搶台積電時代一流半導體人才| 王秀禾 | 地方新聞 - 風傳媒",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Zb0liUGZoalFiaUxHM3VmQi0tSjZQeE1rcWpJc3JOZEh2WEczM2l3Qy1IYkk1YVY5czJldXZBZTdUUDd1VjRSY3diZk5Cdw?oc=5",
-    "published": "2026-07-20 18:09",
-    "images": [],
-    "summary": "長庚大學打造亞洲唯一類公費「記憶體碩士專班」 搶台積電時代一流半導體人才| 王秀禾 | 地方新聞&nbsp;&nbsp;風傳媒",
-    "tags": "長庚大學, 碩士",
-    "classes": "在地連結與社會責任（USR）",
-    "is_target": "True",
-    "cn_summary": "長庚大學打造亞洲唯一類公費「記憶體碩士專班」 搶台積電時代一流半導體人才| 王秀禾 | 地方新聞&nbsp;&nbsp;風傳媒",
-    "cn_title": "長庚大學打造亞洲唯一類公費「記憶體碩士專班」 搶台積電時代一流半導體人才| 王秀禾 | 地方新聞 - 風傳媒",
-    "cn_classes": "在地連結與社會責任（USR）",
-    "cn_tags": "長庚大學, 碩士",
-    "source": "風傳媒"
   }
 }
