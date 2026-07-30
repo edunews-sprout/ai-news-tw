@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/paper/1764742": {
+    "title": "「雲縣台師大高中」籌設 119學年度招生",
+    "link": "https://news.ltn.com.tw/news/life/paper/1764742",
+    "published": "2026-07-31 05:30",
+    "images": [],
+    "summary": "從國小到高中滿招900人 虎尾高鐵特定區投入20億蓋新校舍 〔記者黃淑莉／雲林報導〕雲林縣政府攜手台灣師範大學將在虎尾高鐵特定區設立「雲林縣立臺灣師大高級中等學校」，籌備處昨天揭牌，將投入約廿億元蓋新校舍，學制從國小到高中，預計一一九學年度開始逐年招收新生，滿招為九百人。縣府教育處長邱孝文表示，這…",
+    "tags": "國立臺灣師範大學, 大學",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "從國小到高中滿招900人 虎尾高鐵特定區投入20億蓋新校舍 〔記者黃淑莉／雲林報導〕雲林縣政府攜手台灣師範大學將在虎尾高鐵特定區設立「雲林縣立臺灣師大高級中等學校」，籌備處昨天揭牌，將投入約廿億元蓋新校舍，學制從國小到高中，預計一一九學年度開始逐年招收新生，滿招為九百人。縣府教育處長邱孝文表示，這…",
+    "cn_title": "「雲縣台師大高中」籌設 119學年度招生",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "國立臺灣師範大學, 大學",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oWHZaY3lQUEE3UW5ITmNCMTNiaGZjZ09sRmc3S0FxbnBtR2tocDdIS1lDd3FjTUJDR3h4Z3ViUG1NZWRiOUwyTVU4U1VnZW1seVNUZDRGSHQ2UlVjdi1qM3pROHlxSnZrNHNj?oc=5": {
     "title": "在 AI 時代，大學科系該如何布局才能避免被淘汰？ - 遠見雜誌",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oWHZaY3lQUEE3UW5ITmNCMTNiaGZjZ09sRmc3S0FxbnBtR2tocDdIS1lDd3FjTUJDR3h4Z3ViUG1NZWRiOUwyTVU4U1VnZW1seVNUZDRGSHQ2UlVjdi1qM3pROHlxSnZrNHNj?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立中央大學, 博士生, 教授",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42NXlIcHJlX1BDWlN0ZkxwZFFRcjMtZWN2amotOUdmZTZ1UHVFck8wUThoUkUzMUxHZmNnT09ELXl3SktJY0piUUxOaTM5NlEy0gFWQVVfeXFMUGJTbjNUSy1nX2ZhQVFqNkFQSFFqMldSeDAzN2owTE81NTN6V0hBMktYWVFVYWhwQ1JaSEl2VERrQUNlMnBKaXdBZWYtZkFtcUFPWnVoNlE?oc=5": {
-    "title": "中原大學USR跨足馬來西亞 攜手探索水文化設計與永續教育 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42NXlIcHJlX1BDWlN0ZkxwZFFRcjMtZWN2amotOUdmZTZ1UHVFck8wUThoUkUzMUxHZmNnT09ELXl3SktJY0piUUxOaTM5NlEy0gFWQVVfeXFMUGJTbjNUSy1nX2ZhQVFqNkFQSFFqMldSeDAzN2owTE81NTN6V0hBMktYWVFVYWhwQ1JaSEl2VERrQUNlMnBKaXdBZWYtZkFtcUFPWnVoNlE?oc=5",
-    "published": "2026-07-22 12:59",
-    "images": [],
-    "summary": "中原大學USR跨足馬來西亞 攜手探索水文化設計與永續教育&nbsp;&nbsp;UDN",
-    "tags": "中原大學, 文化",
-    "classes": "在地連結與社會責任（USR）",
-    "is_target": "True",
-    "cn_summary": "中原大學USR跨足馬來西亞 攜手探索水文化設計與永續教育&nbsp;&nbsp;UDN",
-    "cn_title": "中原大學USR跨足馬來西亞 攜手探索水文化設計與永續教育 - UDN",
-    "cn_classes": "在地連結與社會責任（USR）",
-    "cn_tags": "中原大學, 文化",
-    "source": "UDN 文教"
   }
 }
