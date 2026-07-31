@@ -104,6 +104,21 @@
     "cn_tags": "靜宜大學",
     "source": "UDN 文教"
   },
+  "https://www.cna.com.tw/news/aloc/202607310246.aspx": {
+    "title": "國家太空創新加速器啟用　卓榮泰：打造產業生態系",
+    "link": "https://www.cna.com.tw/news/aloc/202607310246.aspx",
+    "published": "2026-07-31 17:32",
+    "images": [],
+    "summary": "（中央社記者郭宣彣新竹市31日電）國家太空中心設立太空創新加速器「TASA iSPARK星創基地」今天在陽明交通大學啟用，行政院長卓榮泰致詞說，將培育太空新創團隊，打造台灣太空產業生態系。",
+    "tags": "國立陽明交通大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "（中央社記者郭宣彣新竹市31日電）國家太空中心設立太空創新加速器「TASA iSPARK星創基地」今天在陽明交通大學啟用，行政院長卓榮泰致詞說，將培育太空新創團隊，打造台灣太空產業生態系。",
+    "cn_title": "國家太空創新加速器啟用　卓榮泰：打造產業生態系",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立陽明交通大學",
+    "source": "中央社"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5524381": {
     "title": "全台首座TASA iSPARK新竹啟用 卓揆：串聯竹科打造太空新創基地",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5524381",
@@ -179,6 +194,21 @@
     "cn_tags": "東海大學",
     "source": "UDN 文教"
   },
+  "https://www.cna.com.tw/news/aipl/202607310191.aspx": {
+    "title": "台師大女足抽血案　監院點名教育部還沒完成通盤查處",
+    "link": "https://www.cna.com.tw/news/aipl/202607310191.aspx",
+    "published": "2026-07-31 15:43",
+    "images": [],
+    "summary": "（中央社記者賴于榛台北31日電）台師大女足隊抽血案涉及人體研究，去年引發社會關注。監察委員蔡崇義、賴鼎銘今天說，教育部至今未依權責、依法完成通盤查處，且對於台師大112年函報的博士生執行相關人體研究計畫等違法個案，也怠未積極查處或研擬通案妥適作為，行政院應積極督飭所屬澈底檢討改進。",
+    "tags": "博士生, 國立臺灣師範大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "（中央社記者賴于榛台北31日電）台師大女足隊抽血案涉及人體研究，去年引發社會關注。監察委員蔡崇義、賴鼎銘今天說，教育部至今未依權責、依法完成通盤查處，且對於台師大112年函報的博士生執行相關人體研究計畫等違法個案，也怠未積極查處或研擬通案妥適作為，行政院應積極督飭所屬澈底檢討改進。",
+    "cn_title": "台師大女足抽血案　監院點名教育部還沒完成通盤查處",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "博士生, 國立臺灣師範大學",
+    "source": "中央社"
+  },
   "https://health.ltn.com.tw/article/breakingnews/5524271": {
     "title": "陽明交大攜手禾榮科技 打造苗栗核心醫療產業園區",
     "link": "https://health.ltn.com.tw/article/breakingnews/5524271",
@@ -235,6 +265,21 @@
     "is_target": "True",
     "cn_summary": "影／北市大攜手大理高中 蔣萬安：整合大學資源培育在地人才&nbsp;&nbsp;udn.com",
     "cn_title": "影／北市大攜手大理高中 蔣萬安：整合大學資源培育在地人才 - udn.com",
+    "cn_classes": "在地連結與社會責任（USR）",
+    "cn_tags": "台北市立大學, 大學",
+    "source": "UDN 文教"
+  },
+  "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9aTThjQ1NmanAxZ1F2XzU0UllHRUJUaFhxUnpuUFBvam45TERrc19fcGN1UW04WWlXYnRzaENZeHBkTkh2eDctMHRn?oc=5": {
+    "title": "影／北市大攜手大理高中蔣萬安：整合大學資源培育在地人才| 時事 - 聯合影音",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9aTThjQ1NmanAxZ1F2XzU0UllHRUJUaFhxUnpuUFBvam45TERrc19fcGN1UW04WWlXYnRzaENZeHBkTkh2eDctMHRn?oc=5",
+    "published": "2026-07-31 13:51",
+    "images": [],
+    "summary": "影／北市大攜手大理高中蔣萬安：整合大學資源培育在地人才| 時事&nbsp;&nbsp;聯合影音",
+    "tags": "台北市立大學, 大學",
+    "classes": "在地連結與社會責任（USR）",
+    "is_target": "True",
+    "cn_summary": "影／北市大攜手大理高中蔣萬安：整合大學資源培育在地人才| 時事&nbsp;&nbsp;聯合影音",
+    "cn_title": "影／北市大攜手大理高中蔣萬安：整合大學資源培育在地人才| 時事 - 聯合影音",
     "cn_classes": "在地連結與社會責任（USR）",
     "cn_tags": "台北市立大學, 大學",
     "source": "UDN 文教"
@@ -3553,50 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "義守大學",
     "source": "風傳媒"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZM3JmeUtyUEo3RUo1VVJZZ0Q0UEZlaTBKSG9YQ3ZPaDMzbFFMZ1hIV0Q0QlZDQjM2MmxfV3JhZTlQTzg0NHNqdDZjRWsxYkQ40gFWQVVfeXFMTnFoRC0wX0pvNkpwN2ZFTDBVajZPdnA1ZHlmbkdyUEJpbXZuWjdpS1V2OEtYU3QxY1dXQ2JQTExxWW51dWE5ckVaRFNRU1ZXR0k4MHRyR0E?oc=5": {
-    "title": "中美晶、環球晶、續升綠能攜手IC之音與玄奘大學舉辦公益科普營 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZM3JmeUtyUEo3RUo1VVJZZ0Q0UEZlaTBKSG9YQ3ZPaDMzbFFMZ1hIV0Q0QlZDQjM2MmxfV3JhZTlQTzg0NHNqdDZjRWsxYkQ40gFWQVVfeXFMTnFoRC0wX0pvNkpwN2ZFTDBVajZPdnA1ZHlmbkdyUEJpbXZuWjdpS1V2OEtYU3QxY1dXQ2JQTExxWW51dWE5ckVaRFNRU1ZXR0k4MHRyR0E?oc=5",
-    "published": "2026-07-23 17:59",
-    "images": [],
-    "summary": "中美晶、環球晶、續升綠能攜手IC之音與玄奘大學舉辦公益科普營&nbsp;&nbsp;UDN",
-    "tags": "玄奘大學",
-    "classes": "在地連結與社會責任（USR）",
-    "is_target": "True",
-    "cn_summary": "中美晶、環球晶、續升綠能攜手IC之音與玄奘大學舉辦公益科普營&nbsp;&nbsp;UDN",
-    "cn_title": "中美晶、環球晶、續升綠能攜手IC之音與玄奘大學舉辦公益科普營 - UDN",
-    "cn_classes": "在地連結與社會責任（USR）",
-    "cn_tags": "玄奘大學",
-    "source": "UDN 文教"
-  },
-  "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMmk3UDVtenVSNm9UZmFud0pucjBNUU9SbWJoMzE1RWJaV2dXRW15Z1pWNFRlWmJVdEh4R3JsTndZRWlXaE5uYWNFSUsydEEzdnRhV3dtaXBmMjg0QU05WDJtZ1RfeUJMb0JIWUxfNE1vdFZjYzJveTR0dkxqU3lIWElzTFcwcmhxNDg5Q1ZVRC1KRjJod2c?oc=5": {
-    "title": "大學生購屋平均總價為何能突破千萬？ - 遠見雜誌",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMmk3UDVtenVSNm9UZmFud0pucjBNUU9SbWJoMzE1RWJaV2dXRW15Z1pWNFRlWmJVdEh4R3JsTndZRWlXaE5uYWNFSUsydEEzdnRhV3dtaXBmMjg0QU05WDJtZ1RfeUJMb0JIWUxfNE1vdFZjYzJveTR0dkxqU3lIWElzTFcwcmhxNDg5Q1ZVRC1KRjJod2c?oc=5",
-    "published": "2026-07-23 16:52",
-    "images": [],
-    "summary": "大學生購屋平均總價為何能突破千萬？&nbsp;&nbsp;遠見雜誌",
-    "tags": "大學生",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "大學生購屋平均總價為何能突破千萬？&nbsp;&nbsp;遠見雜誌",
-    "cn_title": "大學生購屋平均總價為何能突破千萬？ - 遠見雜誌",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "大學生",
-    "source": "遠見雜誌"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Qb2hjTlc4ZVZGM3JfY1RRcU4xYjJHc1BHZ1doV1VZdElERTNlaDJRU2UyZEh1QVZPNjVwN0xKRGRXdzhjenRSblBaZ3lNbTZr?oc=5": {
-    "title": "拆除溫州街日式宿舍群監院糾正台大校方：建物非文資、依法辦理| 大學考招| 文教 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Qb2hjTlc4ZVZGM3JfY1RRcU4xYjJHc1BHZ1doV1VZdElERTNlaDJRU2UyZEh1QVZPNjVwN0xKRGRXdzhjenRSblBaZ3lNbTZr?oc=5",
-    "published": "2026-07-23 16:31",
-    "images": [],
-    "summary": "拆除溫州街日式宿舍群監院糾正台大校方：建物非文資、依法辦理| 大學考招| 文教&nbsp;&nbsp;UDN",
-    "tags": "大學, 國立臺灣大學",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "拆除溫州街日式宿舍群監院糾正台大校方：建物非文資、依法辦理| 大學考招| 文教&nbsp;&nbsp;UDN",
-    "cn_title": "拆除溫州街日式宿舍群監院糾正台大校方：建物非文資、依法辦理| 大學考招| 文教 - UDN",
-    "cn_classes": "其他",
-    "cn_tags": "大學, 國立臺灣大學",
-    "source": "UDN 文教"
   }
 }
