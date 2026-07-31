@@ -1,4 +1,34 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5523837": {
+    "title": "騎驢找馬？清大校長高為元任內參與國外校長遴選挨轟 校方回應了",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5523837",
+    "published": "2026-07-31 10:24",
+    "images": [],
+    "summary": "清華大學校長高為元去年3月19日獲學校教授與副教授過半數同意續任，續任任期從今年5月1日到2030年4月30日，但今天傳出高為元通過續任後3天，就赴美參與國外學校校長的遴選，外...…",
+    "tags": "國立清華大學, 教授",
+    "classes": "校務治理與管理",
+    "is_target": "True",
+    "cn_summary": "清華大學校長高為元去年3月19日獲學校教授與副教授過半數同意續任，續任任期從今年5月1日到2030年4月30日，但今天傳出高為元通過續任後3天，就赴美參與國外學校校長的遴選，外...…",
+    "cn_title": "騎驢找馬？清大校長高為元任內參與國外校長遴選挨轟 校方回應了",
+    "cn_classes": "校務治理與管理",
+    "cn_tags": "國立清華大學, 教授",
+    "source": "自由時報"
+  },
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85ZExCZWtwVnZPcVo4U29TUk1LRnlGMEZvTXlCaVZaQ0dIRHJsZF9KT3JUclI5NnlweWNQbmVIczgyNTVrNWFkdDBCS0JCMTlyZHhUUGVLcHNQZw?oc=5": {
+    "title": "深耕AI教育與親子教養 方榮久獲聘美國大學客座教授 | 熱門亮點 | 商情 - 經濟日報",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85ZExCZWtwVnZPcVo4U29TUk1LRnlGMEZvTXlCaVZaQ0dIRHJsZF9KT3JUclI5NnlweWNQbmVIczgyNTVrNWFkdDBCS0JCMTlyZHhUUGVLcHNQZw?oc=5",
+    "published": "2026-07-31 10:03",
+    "images": [],
+    "summary": "深耕AI教育與親子教養 方榮久獲聘美國大學客座教授 | 熱門亮點 | 商情&nbsp;&nbsp;經濟日報",
+    "tags": "大學, 教授",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "深耕AI教育與親子教養 方榮久獲聘美國大學客座教授 | 熱門亮點 | 商情&nbsp;&nbsp;經濟日報",
+    "cn_title": "深耕AI教育與親子教養 方榮久獲聘美國大學客座教授 | 熱門亮點 | 商情 - 經濟日報",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "大學, 教授",
+    "source": "UDN 文教"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5523736": {
     "title": "獨家》罕見！清大校長高為元續任3天後  卻赴美角逐大學校長落選",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5523736",
@@ -3568,35 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuU0NSSHNaZHZiWFVDTzN6cUYzckhRc1ktTmVGalZmd2dXR1Bfb1pCZ3d4cDBzTTVwRW5vV0NZYWZFbkhjN2Y5RlprOEIydnY3?oc=5": {
-    "title": "黃仁勳夫婦捐7500萬 給范德堡大學舊金山分校設旗艦學院 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuU0NSSHNaZHZiWFVDTzN6cUYzckhRc1ktTmVGalZmd2dXR1Bfb1pCZ3d4cDBzTTVwRW5vV0NZYWZFbkhjN2Y5RlprOEIydnY3?oc=5",
-    "published": "2026-07-22 14:30",
-    "images": [],
-    "summary": "黃仁勳夫婦捐7500萬 給范德堡大學舊金山分校設旗艦學院&nbsp;&nbsp;UDN",
-    "tags": "大學",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "黃仁勳夫婦捐7500萬 給范德堡大學舊金山分校設旗艦學院&nbsp;&nbsp;UDN",
-    "cn_title": "黃仁勳夫婦捐7500萬 給范德堡大學舊金山分校設旗艦學院 - UDN",
-    "cn_classes": "其他",
-    "cn_tags": "大學",
-    "source": "UDN 文教"
-  },
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PT1BibXhMYzBZWXNDN2dlUzljY0xDR2phU3BtdjNfdkpOeUVHYjhpajVhNlNlVVdybjJNNHNLQ1REOVRMMC12MmZTUF9Ca0Z1REh2a05sbl9PQWk4MHNn0gFkQVVfeXFMTVIzaXB3VVBMV3J6STVTU2Q1QnFfRTQwUHlKRVE5QWxwSC1hYzRlSjMzdXBxNE5VblBBRzVjVWxvcDlkXzNKVGVyUEg3dnREWDZ2MXdIdFZ3elpGMzhVMXJ1WnhJcg?oc=5": {
-    "title": "大學生找不到工作不是AI的錯？「學用落差」才是勞動力短缺的主因 - 倡議家",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PT1BibXhMYzBZWXNDN2dlUzljY0xDR2phU3BtdjNfdkpOeUVHYjhpajVhNlNlVVdybjJNNHNLQ1REOVRMMC12MmZTUF9Ca0Z1REh2a05sbl9PQWk4MHNn0gFkQVVfeXFMTVIzaXB3VVBMV3J6STVTU2Q1QnFfRTQwUHlKRVE5QWxwSC1hYzRlSjMzdXBxNE5VblBBRzVjVWxvcDlkXzNKVGVyUEg3dnREWDZ2MXdIdFZ3elpGMzhVMXJ1WnhJcg?oc=5",
-    "published": "2026-07-22 14:30",
-    "images": [],
-    "summary": "大學生找不到工作不是AI的錯？「學用落差」才是勞動力短缺的主因&nbsp;&nbsp;倡議家",
-    "tags": "大學生",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "大學生找不到工作不是AI的錯？「學用落差」才是勞動力短缺的主因&nbsp;&nbsp;倡議家",
-    "cn_title": "大學生找不到工作不是AI的錯？「學用落差」才是勞動力短缺的主因 - 倡議家",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "大學生",
-    "source": "UDN 文教"
   }
 }
