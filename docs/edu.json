@@ -14,6 +14,21 @@
     "cn_tags": "國立澎湖科技大學, 大專",
     "source": "自由時報"
   },
+  "https://news.ltn.com.tw/news/Penghu/breakingnews/5524476": {
+    "title": "公車入校園！澎科大專車路線8/20設站完成 連帶造福周邊居民、遊客",
+    "link": "https://news.ltn.com.tw/news/Penghu/breakingnews/5524476",
+    "published": "2026-07-31 19:24",
+    "images": [],
+    "summary": "澎湖最高學府國立澎湖科技大學，超過9成5的學生來自台灣本島，多數學生在澎湖並無自有交通工具，長期面臨往返機場、市區購物及就醫交通不便之困境，經過澎湖縣議員莊光大與校長李文熙積極...…",
+    "tags": "國立澎湖科技大學, 大專",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "澎湖最高學府國立澎湖科技大學，超過9成5的學生來自台灣本島，多數學生在澎湖並無自有交通工具，長期面臨往返機場、市區購物及就醫交通不便之困境，經過澎湖縣議員莊光大與校長李文熙積極...…",
+    "cn_title": "公車入校園！澎科大專車路線8/20設站完成 連帶造福周邊居民、遊客",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "國立澎湖科技大學, 大專",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aa29KRUhLX2I5aDdOcUdVNV9Ja2dDa3lYTHEwaUJyNEJyOU5mWEhzYXFFaDdXUjhvdUNOajZPQURpckY3NGVOVmlVUm9LajRr0gFWQVVfeXFMTUNKdXUyN1k1MUhzd0VrOF9iYjQtNk15amI1N2V4anQtTWM1S3RUaHFMRVFoMmdMd1hXTmM4Y3hSN1lIX3prOXNxZEpRS3RGc2JqR1YzaUE?oc=5": {
     "title": "靜宜大學新任校長就職！楊昭順接任打造AI、跨域與永續新世代大學 - udn.com",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aa29KRUhLX2I5aDdOcUdVNV9Ja2dDa3lYTHEwaUJyNEJyOU5mWEhzYXFFaDdXUjhvdUNOajZPQURpckY3NGVOVmlVUm9LajRr0gFWQVVfeXFMTUNKdXUyN1k1MUhzd0VrOF9iYjQtNk15amI1N2V4anQtTWM1S3RUaHFMRVFoMmdMd1hXTmM4Y3hSN1lIX3prOXNxZEpRS3RGc2JqR1YzaUE?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "德明科大, 大學",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/art/breakingnews/5514796": {
-    "title": "國家文化資產保存獎公佈 東海大學路思義教堂獲獎",
-    "link": "https://news.ltn.com.tw/news/art/breakingnews/5514796",
-    "published": "2026-07-23 13:58",
-    "images": [],
-    "summary": "文化部公布第7屆「國家文化資產保存獎」得獎名單，東海大學路思義教堂等14案獲獎，教堂由貝聿銘、陳其寬建築大師設計、1963年落成經歷63年風雨歲月，校方強調，教堂位於校區中心，...…",
-    "tags": "東海大學, 文化",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "文化部公布第7屆「國家文化資產保存獎」得獎名單，東海大學路思義教堂等14案獲獎，教堂由貝聿銘、陳其寬建築大師設計、1963年落成經歷63年風雨歲月，校方強調，教堂位於校區中心，...…",
-    "cn_title": "國家文化資產保存獎公佈 東海大學路思義教堂獲獎",
-    "cn_classes": "其他",
-    "cn_tags": "東海大學, 文化",
-    "source": "自由時報"
   }
 }
