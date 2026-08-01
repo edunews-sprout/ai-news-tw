@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5524972": {
+    "title": "轟清大校長高為元不要臉 朱敬一嗆值得發動學運：林青霞來更好",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5524972",
+    "published": "2026-08-01 11:03",
+    "images": [],
+    "summary": "本報獨家揭露，國立清華大學校長高為元續任校長3天後，即赴美角逐夏威夷大學馬諾阿分校（UH Mānoa）校長職務，最終未獲錄取，引發議論。對此，前任國家科學及技術委員會主任委員朱敬...…",
+    "tags": "國立清華大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "本報獨家揭露，國立清華大學校長高為元續任校長3天後，即赴美角逐夏威夷大學馬諾阿分校（UH Mānoa）校長職務，最終未獲錄取，引發議論。對此，前任國家科學及技術委員會主任委員朱敬...…",
+    "cn_title": "轟清大校長高為元不要臉 朱敬一嗆值得發動學運：林青霞來更好",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立清華大學",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5524931": {
     "title": "陽明交大學生前進矽谷 參與AI、衛星通訊前瞻研究",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5524931",
@@ -3583,20 +3598,5 @@
     "cn_classes": "國際交流與合作",
     "cn_tags": "國立大學, 高教",
     "source": "中央社"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5515981": {
-    "title": "台馬教育交流持續升溫 馬來西亞國立大學訪台",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5515981",
-    "published": "2026-07-24 10:36",
-    "images": [],
-    "summary": "台馬高等教育合作再深化，馬來西亞國立大學（UKM）校長Sufian Jusoh率領4人代表團近日訪台，針對雙聯學位、跨國研究、人才培育及校園永續等議題交流，拓展雙方學術交流與人...…",
-    "tags": "高等教育, 國立大學, 學術, 學位",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "台馬高等教育合作再深化，馬來西亞國立大學（UKM）校長Sufian Jusoh率領4人代表團近日訪台，針對雙聯學位、跨國研究、人才培育及校園永續等議題交流，拓展雙方學術交流與人...…",
-    "cn_title": "台馬教育交流持續升溫 馬來西亞國立大學訪台",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "高等教育, 國立大學, 學術, 學位",
-    "source": "自由時報"
   }
 }
