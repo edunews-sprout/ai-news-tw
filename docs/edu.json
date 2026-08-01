@@ -1,4 +1,34 @@
 {
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdFBvX0pGVnVkX2drNkF5N000ZEZSMFhhUUJXSkc0STB2VGxSUzY1eXotb0pxNDBQYTByM3FXdWthckJHckZwZ3Q5V2RyWmg0RTNlb3pzZ2Uwc18yNTJ2TDZPNG9JV0tlVlBBZlJRSEJiTTNBUjdVQlE1bTU3ZVFWcUNXZXplam5hSEw4eWVFb0V4dkJYZVE?oc=5": {
+    "title": "江安世校長如何定義大學在AI時代的關鍵角色？ - 遠見雜誌",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdFBvX0pGVnVkX2drNkF5N000ZEZSMFhhUUJXSkc0STB2VGxSUzY1eXotb0pxNDBQYTByM3FXdWthckJHckZwZ3Q5V2RyWmg0RTNlb3pzZ2Uwc18yNTJ2TDZPNG9JV0tlVlBBZlJRSEJiTTNBUjdVQlE1bTU3ZVFWcUNXZXplam5hSEw4eWVFb0V4dkJYZVE?oc=5",
+    "published": "2026-08-01 21:18",
+    "images": [],
+    "summary": "江安世校長如何定義大學在AI時代的關鍵角色？&nbsp;&nbsp;遠見雜誌",
+    "tags": "大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "江安世校長如何定義大學在AI時代的關鍵角色？&nbsp;&nbsp;遠見雜誌",
+    "cn_title": "江安世校長如何定義大學在AI時代的關鍵角色？ - 遠見雜誌",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "大學",
+    "source": "遠見雜誌"
+  },
+  "https://www.cna.com.tw/news/aopl/202608010194.aspx": {
+    "title": "越南移工遇熊本強震　5青年勇救老婦、1實習生罹難",
+    "link": "https://www.cna.com.tw/news/aopl/202608010194.aspx",
+    "published": "2026-08-01 20:13",
+    "images": [],
+    "summary": "（中央社記者戴雅真東京1日專電）日本熊本縣週二發生強震，在當地的越南移工留下兩段截然不同的故事：5名越南青年在八代市奮勇救出一名年逾9旬受困婦人；另一名24歲的技能實習生則不幸在甲佐町工廠罹難。",
+    "tags": "",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "（中央社記者戴雅真東京1日專電）日本熊本縣週二發生強震，在當地的越南移工留下兩段截然不同的故事：5名越南青年在八代市奮勇救出一名年逾9旬受困婦人；另一名24歲的技能實習生則不幸在甲佐町工廠罹難。",
+    "cn_title": "越南移工遇熊本強震　5青年勇救老婦、1實習生罹難",
+    "cn_classes": "其他",
+    "cn_tags": "",
+    "source": "中央社"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5525545": {
     "title": "黃昆輝基金會民調過半認同補習 教育部：改變需要時間",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5525545",
@@ -3568,35 +3598,5 @@
     "cn_classes": "教學與課程",
     "cn_tags": "大葉大學",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5516619": {
-    "title": "新北「永續未來學院」培育綠色人才 大學營隊從參訪體驗到提案",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5516619",
-    "published": "2026-07-24 18:57",
-    "images": [],
-    "summary": "新北市環保局舉辦「115年新北永續未來學院─大學體驗營」，3天活動今天結業，今年以「行動有你．地球有力」為主題，招募對環境永續充滿熱忱的大學學子，透過實地參訪永豐餘、榮成紙業及...…",
-    "tags": "大學",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "新北市環保局舉辦「115年新北永續未來學院─大學體驗營」，3天活動今天結業，今年以「行動有你．地球有力」為主題，招募對環境永續充滿熱忱的大學學子，透過實地參訪永豐餘、榮成紙業及...…",
-    "cn_title": "新北「永續未來學院」培育綠色人才 大學營隊從參訪體驗到提案",
-    "cn_classes": "其他",
-    "cn_tags": "大學",
-    "source": "自由時報"
-  },
-  "https://www.cna.com.tw/news/afe/202607240310.aspx": {
-    "title": "鴻海：突破矽光子技術瓶頸　加速AI算力更省電",
-    "link": "https://www.cna.com.tw/news/afe/202607240310.aspx",
-    "published": "2026-07-24 18:40",
-    "images": [],
-    "summary": "（中央社記者鍾榮峰台北24日電）鴻海集團今天宣布，旗下鴻海研究院聯手國立陽明交通大學，成功研發「高容量矽光子發射器」技術，相關研究成果登上全球光學界權威學術期刊Optics Express，相關技術可大幅提升矽光子傳輸速度，相當於1秒鐘可下載完幾千部高畫質電影。",
-    "tags": "國立陽明交通大學, 學術, 學界",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "（中央社記者鍾榮峰台北24日電）鴻海集團今天宣布，旗下鴻海研究院聯手國立陽明交通大學，成功研發「高容量矽光子發射器」技術，相關研究成果登上全球光學界權威學術期刊Optics Express，相關技術可大幅提升矽光子傳輸速度，相當於1秒鐘可下載完幾千部高畫質電影。",
-    "cn_title": "鴻海：突破矽光子技術瓶頸　加速AI算力更省電",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "國立陽明交通大學, 學術, 學界",
-    "source": "中央社"
   }
 }
