@@ -1,4 +1,34 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5526357": {
+    "title": "高為元才續任就到國外面試 清大教授建請史欽泰接任校長",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5526357",
+    "published": "2026-08-02 21:10",
+    "images": [],
+    "summary": "清華大學校長高為元遭爆今年5月1日續任後3天就遠赴美國夏威夷面試其他大學校長職位，此舉遭學術界批評及議論，就連中研院院士朱敬一也喊話值得一場學運；而清大特聘教授周卓煇也在臉書發...…",
+    "tags": "國立清華大學, 學術, 教授",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "清華大學校長高為元遭爆今年5月1日續任後3天就遠赴美國夏威夷面試其他大學校長職位，此舉遭學術界批評及議論，就連中研院院士朱敬一也喊話值得一場學運；而清大特聘教授周卓煇也在臉書發...…",
+    "cn_title": "高為元才續任就到國外面試 清大教授建請史欽泰接任校長",
+    "cn_classes": "其他",
+    "cn_tags": "國立清華大學, 學術, 教授",
+    "source": "自由時報"
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5526310": {
+    "title": "全球佛教青年僧眾座談 聚焦AI與國際弘法發展",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5526310",
+    "published": "2026-08-02 20:34",
+    "images": [],
+    "summary": "為深化國際佛教交流，促進青年僧才培育與全球弘法合作，泰國最具代表性的皇家佛教高等學府—摩訶朱拉隆功大學（Mahachulalongkornrajavidyalaya Unive...…",
+    "tags": "大學",
+    "classes": "國際交流與合作",
+    "is_target": "True",
+    "cn_summary": "為深化國際佛教交流，促進青年僧才培育與全球弘法合作，泰國最具代表性的皇家佛教高等學府—摩訶朱拉隆功大學（Mahachulalongkornrajavidyalaya Unive...…",
+    "cn_title": "全球佛教青年僧眾座談 聚焦AI與國際弘法發展",
+    "cn_classes": "國際交流與合作",
+    "cn_tags": "大學",
+    "source": "自由時報"
+  },
   "https://sports.ltn.com.tw/news/breakingnews/5526260": {
     "title": "佛光盃》陳子威特地南下督軍 政大「七壯士」不敵筑波大學拿第4名",
     "link": "https://sports.ltn.com.tw/news/breakingnews/5526260",
@@ -1168,6 +1198,21 @@
     "cn_classes": "校務治理與管理",
     "cn_tags": "大學, 大專",
     "source": "自由時報"
+  },
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54VWtEQmcxU3VwMkpBek1uTE9lMXVvOUUxdWluOFE2c3BpXzI2TnRhdUZKdXBCSlBCNFc4T1drbDhCZ05UT0QxQW5FTnYybThm0gFWQVVfeXFMTW5FOWhQbmxIZHZGOHF0dTJxeHdrZDFfcXZlc19BVnpfM2NJTnRUWWNzUWRTaEg4NFAza3BndmF4cUVTSTg3UFlPcGNSeWM0eWs3V0lBSlE?oc=5": {
+    "title": "南應大學生作品展現深度與價值 獲紅點設計4項大獎 - UDN",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54VWtEQmcxU3VwMkpBek1uTE9lMXVvOUUxdWluOFE2c3BpXzI2TnRhdUZKdXBCSlBCNFc4T1drbDhCZ05UT0QxQW5FTnYybThm0gFWQVVfeXFMTW5FOWhQbmxIZHZGOHF0dTJxeHdrZDFfcXZlc19BVnpfM2NJTnRUWWNzUWRTaEg4NFAza3BndmF4cUVTSTg3UFlPcGNSeWM0eWs3V0lBSlE?oc=5",
+    "published": "2026-07-31 10:41",
+    "images": [],
+    "summary": "南應大學生作品展現深度與價值 獲紅點設計4項大獎&nbsp;&nbsp;UDN",
+    "tags": "大學生, 南應大",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "南應大學生作品展現深度與價值 獲紅點設計4項大獎&nbsp;&nbsp;UDN",
+    "cn_title": "南應大學生作品展現深度與價值 獲紅點設計4項大獎 - UDN",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "大學生, 南應大",
+    "source": "UDN 文教"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5523864": {
     "title": "苗栗家扶女學生逆境奮鬥 考取公費赴美攻讀博士",
@@ -3553,50 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "東海大學",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/art/breakingnews/5517720": {
-    "title": "高師大校友劉人仁征服世界音樂大賽  成首位獲金指揮棒台灣指揮家",
-    "link": "https://news.ltn.com.tw/news/art/breakingnews/5517720",
-    "published": "2026-07-25 21:45",
-    "images": [],
-    "summary": "國立高雄師範大學音樂學系校友劉人仁（Jen-Jen Liu），參加今年7月在荷蘭科爾克拉德（Kerkrade）舉行的「世界音樂大賽」（World Music Contes...…",
-    "tags": "國立高雄師範大學",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "國立高雄師範大學音樂學系校友劉人仁（Jen-Jen Liu），參加今年7月在荷蘭科爾克拉德（Kerkrade）舉行的「世界音樂大賽」（World Music Contes...…",
-    "cn_title": "高師大校友劉人仁征服世界音樂大賽  成首位獲金指揮棒台灣指揮家",
-    "cn_classes": "其他",
-    "cn_tags": "國立高雄師範大學",
-    "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52ZHRzUTc4Z1kzcFlhRkNCeFVPQmFHbXVHOGJSUHNGZkJRSWJwLXFyVHNld2NrNTVyeF84R2kzbVVWV3Fpdjl1VVhBRlRYWlYx?oc=5": {
-    "title": "電競人才荒？政大攜手中信飛牡蠣「LUC大專聯賽」7/27開打， 完整賽程與學校名單曝光 - 風傳媒",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52ZHRzUTc4Z1kzcFlhRkNCeFVPQmFHbXVHOGJSUHNGZkJRSWJwLXFyVHNld2NrNTVyeF84R2kzbVVWV3Fpdjl1VVhBRlRYWlYx?oc=5",
-    "published": "2026-07-25 21:30",
-    "images": [],
-    "summary": "電競人才荒？政大攜手中信飛牡蠣「LUC大專聯賽」7/27開打， 完整賽程與學校名單曝光&nbsp;&nbsp;風傳媒",
-    "tags": "大專, 國立政治大學",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "電競人才荒？政大攜手中信飛牡蠣「LUC大專聯賽」7/27開打， 完整賽程與學校名單曝光&nbsp;&nbsp;風傳媒",
-    "cn_title": "電競人才荒？政大攜手中信飛牡蠣「LUC大專聯賽」7/27開打， 完整賽程與學校名單曝光 - 風傳媒",
-    "cn_classes": "其他",
-    "cn_tags": "大專, 國立政治大學",
-    "source": "風傳媒"
-  },
-  "https://www.cna.com.tw/news/ahel/202607250165.aspx": {
-    "title": "旺宏金矽獎AI作品參賽踴躍 教部次長勉連結國際",
-    "link": "https://www.cna.com.tw/news/ahel/202607250165.aspx",
-    "published": "2026-07-25 17:57",
-    "images": [],
-    "summary": "（中央社記者陳至中台北25日電）半導體設計與應用競賽「第26屆旺宏金矽獎」今天在台北舉行頒獎典禮，AI作品參賽踴躍，教育部次長劉國偉勉勵學子跨出校園，透過青年百億圓夢計畫等，進一步連結國際舞台。",
-    "tags": "",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "（中央社記者陳至中台北25日電）半導體設計與應用競賽「第26屆旺宏金矽獎」今天在台北舉行頒獎典禮，AI作品參賽踴躍，教育部次長劉國偉勉勵學子跨出校園，透過青年百億圓夢計畫等，進一步連結國際舞台。",
-    "cn_title": "旺宏金矽獎AI作品參賽踴躍 教部次長勉連結國際",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "",
-    "source": "中央社"
   }
 }
