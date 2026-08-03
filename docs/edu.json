@@ -1,4 +1,19 @@
 {
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0NEJZWlJlTEwyUDM0SzhOZGhpdHRKZktfLW1IZEJMNnh5ZDNxdTR3c29zMURVc1NubGZvQkFDYzFWa25HN3RFZ21hQ1A5SmV40gFWQVVfeXFMT3pjbXFlRURsVnUydmN3cjRraVM2emRCcEFRQUVDRi1XM3dzVEJyVi14eVlRY1ZpUEpPWjM3MzBFZnZLX0RQS1c1eWMwUTdXeE9iZWdyaVE?oc=5": {
+    "title": "高科技效應 北高雄校園擴建加速 - UDN",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0NEJZWlJlTEwyUDM0SzhOZGhpdHRKZktfLW1IZEJMNnh5ZDNxdTR3c29zMURVc1NubGZvQkFDYzFWa25HN3RFZ21hQ1A5SmV40gFWQVVfeXFMT3pjbXFlRURsVnUydmN3cjRraVM2emRCcEFRQUVDRi1XM3dzVEJyVi14eVlRY1ZpUEpPWjM3MzBFZnZLX0RQS1c1eWMwUTdXeE9iZWdyaVE?oc=5",
+    "published": "2026-08-04 00:07",
+    "images": [],
+    "summary": "高科技效應 北高雄校園擴建加速&nbsp;&nbsp;UDN",
+    "tags": "",
+    "classes": "校務治理與管理",
+    "is_target": "True",
+    "cn_summary": "高科技效應 北高雄校園擴建加速&nbsp;&nbsp;UDN",
+    "cn_title": "高科技效應 北高雄校園擴建加速 - UDN",
+    "cn_classes": "校務治理與管理",
+    "cn_tags": "",
+    "source": "UDN 文教"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5527406": {
     "title": "金門大學第5任校長洪集輝就職 用AI宣示「永續島嶼」等4大倡議",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5527406",
@@ -3583,20 +3598,5 @@
     "cn_classes": "國際交流與合作",
     "cn_tags": "國立宜蘭大學",
     "source": "UDN 文教"
-  },
-  "https://www.cna.com.tw/news/aipl/202607270043.aspx": {
-    "title": "陽明交大聘中國學者任教評會委員　鄭英耀：有瑕疵應改善",
-    "link": "https://www.cna.com.tw/news/aipl/202607270043.aspx",
-    "published": "2026-07-27 10:34",
-    "images": [],
-    "summary": "（中央社記者林敬殷台北27日電）媒體報導，中國教育部長江學者魏然、中國上海交通大學教授郭良文擔任陽明交大傳播所教評會委員、主席，引發國安疑慮。教育部長鄭英耀今天表示，陽明交大傳播所教評會的成員組成「是真的有瑕疵」，應該改善，高教司也已經在做全面了解。",
-    "tags": "國立陽明交通大學, 高教司, 教授",
-    "classes": "校務治理與管理",
-    "is_target": "True",
-    "cn_summary": "（中央社記者林敬殷台北27日電）媒體報導，中國教育部長江學者魏然、中國上海交通大學教授郭良文擔任陽明交大傳播所教評會委員、主席，引發國安疑慮。教育部長鄭英耀今天表示，陽明交大傳播所教評會的成員組成「是真的有瑕疵」，應該改善，高教司也已經在做全面了解。",
-    "cn_title": "陽明交大聘中國學者任教評會委員　鄭英耀：有瑕疵應改善",
-    "cn_classes": "校務治理與管理",
-    "cn_tags": "國立陽明交通大學, 高教司, 教授",
-    "source": "中央社"
   }
 }
