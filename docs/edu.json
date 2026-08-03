@@ -59,6 +59,21 @@
     "cn_tags": "中原大學, 博士班, 中華, 文化",
     "source": "自由時報"
   },
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcDlpS1RvV1NTaGFKWjJlSks1SFpVUmRsOWtZR18zenlyMExTLUtIanUwOGJuZ1FFWXZuZFlZcS1tMWlmb2tUcF9WVktEajc0S2Q4SVN6dXNBZEhLN25LQ0x4bk43WEtiZEdKQnh5cFpadFFUZ3E4cjUxNzlRbjVGbWVDRE9aeHBpVXhaejZzSG1mbTFmZFE?oc=5": {
+    "title": "大學招生名額創新低，錄取率恐下滑多少？ - 遠見雜誌",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcDlpS1RvV1NTaGFKWjJlSks1SFpVUmRsOWtZR18zenlyMExTLUtIanUwOGJuZ1FFWXZuZFlZcS1tMWlmb2tUcF9WVktEajc0S2Q4SVN6dXNBZEhLN25LQ0x4bk43WEtiZEdKQnh5cFpadFFUZ3E4cjUxNzlRbjVGbWVDRE9aeHBpVXhaejZzSG1mbTFmZFE?oc=5",
+    "published": "2026-08-03 20:34",
+    "images": [],
+    "summary": "大學招生名額創新低，錄取率恐下滑多少？&nbsp;&nbsp;遠見雜誌",
+    "tags": "大學",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "大學招生名額創新低，錄取率恐下滑多少？&nbsp;&nbsp;遠見雜誌",
+    "cn_title": "大學招生名額創新低，錄取率恐下滑多少？ - 遠見雜誌",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "大學",
+    "source": "遠見雜誌"
+  },
   "https://news.ltn.com.tw/news/politics/breakingnews/5527330": {
     "title": "豪砸20億蓋台師大高中！捨環球科大選虎尾「蓋新校」？張麗善回應了",
     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5527330",
@@ -3583,20 +3598,5 @@
     "cn_classes": "校務治理與管理",
     "cn_tags": "國立中山大學",
     "source": "中央社"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5519016": {
-    "title": "中研院攜手宜大打造海洋科研與AI人才平台",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5519016",
-    "published": "2026-07-27 12:37",
-    "images": [],
-    "summary": "中央研究院與國立宜蘭大學深化合作，雙方將共同規劃海洋研究課題、評估合作辦理海洋研究碩博士及國際研究生學程，並擴大人工智慧（AI）無人載具、生質能源等跨領域合作，盼結合中研院科研...…",
-    "tags": "國立宜蘭大學, 研究生",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "中央研究院與國立宜蘭大學深化合作，雙方將共同規劃海洋研究課題、評估合作辦理海洋研究碩博士及國際研究生學程，並擴大人工智慧（AI）無人載具、生質能源等跨領域合作，盼結合中研院科研...…",
-    "cn_title": "中研院攜手宜大打造海洋科研與AI人才平台",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "國立宜蘭大學, 研究生",
-    "source": "自由時報"
   }
 }
