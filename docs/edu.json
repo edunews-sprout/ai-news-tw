@@ -1,4 +1,34 @@
 {
+  "https://sports.ltn.com.tw/news/breakingnews/5527032": {
+    "title": "SBL選秀》只選3人平最低紀錄！政大莫斯塔發成黑鳶狀元、郭嘉安再度獲選",
+    "link": "https://sports.ltn.com.tw/news/breakingnews/5527032",
+    "published": "2026-08-03 15:16",
+    "images": [],
+    "summary": "2026年SBL超級籃球聯賽新人選秀會今天登場，握有狀元籤的凱薩基隆黑鳶選中206公分、來自政治大學的莫斯塔發，台啤則在首輪第3順位挑了國立體大的郭嘉安，他同時獲得TPB...…",
+    "tags": "國立政治大學, 國立體育大學",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "2026年SBL超級籃球聯賽新人選秀會今天登場，握有狀元籤的凱薩基隆黑鳶選中206公分、來自政治大學的莫斯塔發，台啤則在首輪第3順位挑了國立體大的郭嘉安，他同時獲得TPB...…",
+    "cn_title": "SBL選秀》只選3人平最低紀錄！政大莫斯塔發成黑鳶狀元、郭嘉安再度獲選",
+    "cn_classes": "其他",
+    "cn_tags": "國立政治大學, 國立體育大學",
+    "source": "自由時報"
+  },
+  "https://sports.ltn.com.tw/news/breakingnews/5526994": {
+    "title": "WSBL選秀》狀元出爐！世大運國手蔡佑蓮成台電狀元、共6人獲選",
+    "link": "https://sports.ltn.com.tw/news/breakingnews/5526994",
+    "published": "2026-08-03 14:46",
+    "images": [],
+    "summary": "WSBL女子超級籃球聯賽選秀會今天登場，共有6名球員獲選。握有狀元籤的台電挑中世新大學的冠軍球員蔡佑蓮，台元的榜眼則是旅外的邱昱珺，電信則用探花籤選了來自佛光大學的李宜樺...…",
+    "tags": "世新大學, 佛光大學",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "WSBL女子超級籃球聯賽選秀會今天登場，共有6名球員獲選。握有狀元籤的台電挑中世新大學的冠軍球員蔡佑蓮，台元的榜眼則是旅外的邱昱珺，電信則用探花籤選了來自佛光大學的李宜樺...…",
+    "cn_title": "WSBL選秀》狀元出爐！世大運國手蔡佑蓮成台電狀元、共6人獲選",
+    "cn_classes": "其他",
+    "cn_tags": "世新大學, 佛光大學",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5526946": {
     "title": "太空科技邁向新里程碑 台灣「石虎一號」成功傳回訊號",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5526946",
@@ -29,6 +59,21 @@
     "cn_tags": "大專",
     "source": "UDN 文教"
   },
+  "https://www.cna.com.tw/news/acn/202608030120.aspx": {
+    "title": "兩岸學生交流不對等　陸委會將強化大陸識讀教育",
+    "link": "https://www.cna.com.tw/news/acn/202608030120.aspx",
+    "published": "2026-08-03 13:34",
+    "images": [],
+    "summary": "（中央社記者張淑伶台北3日電）監委日前提出報告，指兩岸青年學子交流形成單向不對等現象，且學校漏報學生赴陸資訊，引發輿論關注。陸委會表示，將輔導各級學校，強化中國大陸識讀教育，提醒赴陸風險及兩岸學術教育交流應注意事項。",
+    "tags": "學術",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "（中央社記者張淑伶台北3日電）監委日前提出報告，指兩岸青年學子交流形成單向不對等現象，且學校漏報學生赴陸資訊，引發輿論關注。陸委會表示，將輔導各級學校，強化中國大陸識讀教育，提醒赴陸風險及兩岸學術教育交流應注意事項。",
+    "cn_title": "兩岸學生交流不對等　陸委會將強化大陸識讀教育",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "學術",
+    "source": "中央社"
+  },
   "https://news.ltn.com.tw/news/society/breakingnews/5526868": {
     "title": "長髮美女警官考取鑑識研究所  高雄警界罕見",
     "link": "https://news.ltn.com.tw/news/society/breakingnews/5526868",
@@ -43,6 +88,21 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "研究所, 大學",
     "source": "自由時報"
+  },
+  "https://www.cna.com.tw/news/ahel/202608030106.aspx": {
+    "title": "大專資訊應用競賽創新報名開跑　聚焦資安、AI",
+    "link": "https://www.cna.com.tw/news/ahel/202608030106.aspx",
+    "published": "2026-08-03 12:49",
+    "images": [],
+    "summary": "（中央社記者許秩維台北3日電）教育部與數發部主辦的2026大專校院資訊應用服務創新競賽即日起開放報名，競賽分為「資安應用組」、「教育AI組」等4主題，鼓勵學生發展創新服務與應用成果。",
+    "tags": "大專",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "（中央社記者許秩維台北3日電）教育部與數發部主辦的2026大專校院資訊應用服務創新競賽即日起開放報名，競賽分為「資安應用組」、「教育AI組」等4主題，鼓勵學生發展創新服務與應用成果。",
+    "cn_title": "大專資訊應用競賽創新報名開跑　聚焦資安、AI",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "大專",
+    "source": "中央社"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5526769": {
     "title": "清大校長續任3天赴美覓職惹議 旅美教授陳時奮籲辭職「置之死地而後生」",
@@ -3538,65 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "大學",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5518565": {
-    "title": "陽明交大涉聘中國長江學者恐有國安疑慮 校方回應了",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5518565",
-    "published": "2026-07-26 22:16",
-    "images": [],
-    "summary": "針對外界對陽明交大傳播研究所教師評審委員會成員疑涉國安疑慮，校方回應提到，學校傳播研究所教師評審委員會成員是依《教師評審委員會設置辦法》組成。因教授級推選委員人數不足，由所長依...…",
-    "tags": "國立陽明交通大學, 研究所, 教授",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "針對外界對陽明交大傳播研究所教師評審委員會成員疑涉國安疑慮，校方回應提到，學校傳播研究所教師評審委員會成員是依《教師評審委員會設置辦法》組成。因教授級推選委員人數不足，由所長依...…",
-    "cn_title": "陽明交大涉聘中國長江學者恐有國安疑慮 校方回應了",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "國立陽明交通大學, 研究所, 教授",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/politics/breakingnews/5518519": {
-    "title": "教部拚無人機人才！藍白刪凍預算 恐影響競賽、考照訓練",
-    "link": "https://news.ltn.com.tw/news/politics/breakingnews/5518519",
-    "published": "2026-07-26 22:12",
-    "images": [],
-    "summary": "教育部規劃自今年起推動高中職及大專校院無人機人才培育，原擬補助學校採購無人機設備、培訓師資及發展課程，本報獨家披露藍白提案大幅刪凍預算。教育部表示，民眾黨團提案刪除高中職採購無...…",
-    "tags": "大專",
-    "classes": "在地連結與社會責任（USR）",
-    "is_target": "True",
-    "cn_summary": "教育部規劃自今年起推動高中職及大專校院無人機人才培育，原擬補助學校採購無人機設備、培訓師資及發展課程，本報獨家披露藍白提案大幅刪凍預算。教育部表示，民眾黨團提案刪除高中職採購無...…",
-    "cn_title": "教部拚無人機人才！藍白刪凍預算 恐影響競賽、考照訓練",
-    "cn_classes": "在地連結與社會責任（USR）",
-    "cn_tags": "大專",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/politics/breakingnews/5518517": {
-    "title": "獨家》陽交大爆國安疑慮！中國「長江學者」任傳播所教評會委員",
-    "link": "https://news.ltn.com.tw/news/politics/breakingnews/5518517",
-    "published": "2026-07-26 21:10",
-    "images": [],
-    "summary": "獲政府一年挹注約數十億元，國立陽明交通大學教評會爆出重大國安疑慮。中國教育部「長江學者」及現任中國上海交通大學教授，竟擔任陽明交大傳播所教評會委員及主席，主控我國立頂尖大學教師...…",
-    "tags": "國立陽明交通大學, 教授",
-    "classes": "校務治理與管理",
-    "is_target": "True",
-    "cn_summary": "獲政府一年挹注約數十億元，國立陽明交通大學教評會爆出重大國安疑慮。中國教育部「長江學者」及現任中國上海交通大學教授，竟擔任陽明交大傳播所教評會委員及主席，主控我國立頂尖大學教師...…",
-    "cn_title": "獨家》陽交大爆國安疑慮！中國「長江學者」任傳播所教評會委員",
-    "cn_classes": "校務治理與管理",
-    "cn_tags": "國立陽明交通大學, 教授",
-    "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUXpleWhjMG42ZTFWTDRjaExlN1JKck9DZ1N3cTh5R1Znb0hmMU92ZG5CNy15Mmo0UVhDUFZ5b1hJZlpvTHRpMTV6LUVRdnVlVExYNjZMSG5sOFZEVjdKakJjYjhmSTE1elNockRUSHNqMzBkM3d2aFpDSFpFRFdZS0todGFuR01JNGl5ZHBhRFBrOXJjZHc?oc=5": {
-    "title": "金門大學轉型為國立大學的歷史意義為何？ - 遠見雜誌",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUXpleWhjMG42ZTFWTDRjaExlN1JKck9DZ1N3cTh5R1Znb0hmMU92ZG5CNy15Mmo0UVhDUFZ5b1hJZlpvTHRpMTV6LUVRdnVlVExYNjZMSG5sOFZEVjdKakJjYjhmSTE1elNockRUSHNqMzBkM3d2aFpDSFpFRFdZS0todGFuR01JNGl5ZHBhRFBrOXJjZHc?oc=5",
-    "published": "2026-07-26 20:25",
-    "images": [],
-    "summary": "金門大學轉型為國立大學的歷史意義為何？&nbsp;&nbsp;遠見雜誌",
-    "tags": "國立大學, 國立金門大學",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "金門大學轉型為國立大學的歷史意義為何？&nbsp;&nbsp;遠見雜誌",
-    "cn_title": "金門大學轉型為國立大學的歷史意義為何？ - 遠見雜誌",
-    "cn_classes": "其他",
-    "cn_tags": "國立大學, 國立金門大學",
-    "source": "遠見雜誌"
   }
 }
