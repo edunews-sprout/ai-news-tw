@@ -14,6 +14,21 @@
     "cn_tags": "大學, 學分",
     "source": "自由時報"
   },
+  "https://www.cna.com.tw/news/ahel/202608030201.aspx": {
+    "title": "中大石虎一號立方衛星升空　完成光纖陀螺儀驗證",
+    "link": "https://www.cna.com.tw/news/ahel/202608030201.aspx",
+    "published": "2026-08-03 16:24",
+    "images": [],
+    "summary": "（中央社記者許秩維台北3日電）中央大學太空研究中心、太空系等單位合作研製的立方衛星「石虎一號」，不但順利升空，近日更接收到訊號，驗證台灣自主研發的光纖陀螺儀可於太空環境穩定運作。",
+    "tags": "國立中央大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "（中央社記者許秩維台北3日電）中央大學太空研究中心、太空系等單位合作研製的立方衛星「石虎一號」，不但順利升空，近日更接收到訊號，驗證台灣自主研發的光纖陀螺儀可於太空環境穩定運作。",
+    "cn_title": "中大石虎一號立方衛星升空　完成光纖陀螺儀驗證",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立中央大學",
+    "source": "中央社"
+  },
   "https://sports.ltn.com.tw/news/breakingnews/5527121": {
     "title": "WSBL選秀》「即使生病也無條件支持我」蔡佑蓮成狀元談媽媽紅了眼眶",
     "link": "https://sports.ltn.com.tw/news/breakingnews/5527121",
@@ -223,6 +238,21 @@
     "cn_classes": "其他",
     "cn_tags": "國立清華大學, 學術, 教授",
     "source": "自由時報"
+  },
+  "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBfcTVVZEFELTJNdnlPcHcxeG5veXBLN21iR2xhTDh6dmVlbWpzQ3FOYmJpakZqRmpwdDhieE9mSmxEMUc3bUdYVVpB?oc=5": {
+    "title": "台灣近四分之一大學生嘆選錯系新北攜手北聯大四校提前探索找目標| 綜合 - 聯合影音",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBfcTVVZEFELTJNdnlPcHcxeG5veXBLN21iR2xhTDh6dmVlbWpzQ3FOYmJpakZqRmpwdDhieE9mSmxEMUc3bUdYVVpB?oc=5",
+    "published": "2026-08-03 11:45",
+    "images": [],
+    "summary": "台灣近四分之一大學生嘆選錯系新北攜手北聯大四校提前探索找目標| 綜合&nbsp;&nbsp;聯合影音",
+    "tags": "大學生, 大四, 國立聯合大學",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "台灣近四分之一大學生嘆選錯系新北攜手北聯大四校提前探索找目標| 綜合&nbsp;&nbsp;聯合影音",
+    "cn_title": "台灣近四分之一大學生嘆選錯系新北攜手北聯大四校提前探索找目標| 綜合 - 聯合影音",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "大學生, 大四, 國立聯合大學",
+    "source": "UDN 文教"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5526719": {
     "title": "新北市教育局攜手4大學開課 高中職生提前探索專業",
@@ -3568,35 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "龍華科大",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5518781": {
-    "title": "募款手勢影響捐款意願 學者研究「伸出援手」學問大",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5518781",
-    "published": "2026-07-27 10:01",
-    "images": [],
-    "summary": "公益廣告常見「伸出援手」的兩手交握畫面，中山大學企業管理學系特聘教授張純端研究團隊發現，看似不起眼的手部位置、手勢，甚至與文案的搭配方式，都會影響民眾的捐款意願。 張純端表...…",
-    "tags": "國立中山大學, 教授",
-    "classes": "校務治理與管理",
-    "is_target": "True",
-    "cn_summary": "公益廣告常見「伸出援手」的兩手交握畫面，中山大學企業管理學系特聘教授張純端研究團隊發現，看似不起眼的手部位置、手勢，甚至與文案的搭配方式，都會影響民眾的捐款意願。 張純端表...…",
-    "cn_title": "募款手勢影響捐款意願 學者研究「伸出援手」學問大",
-    "cn_classes": "校務治理與管理",
-    "cn_tags": "國立中山大學, 教授",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5518739": {
-    "title": "台科大攜手文曄科技合開AI半導體課 10名業師進班授課",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5518739",
-    "published": "2026-07-27 09:43",
-    "images": [],
-    "summary": "為縮短學用落差，國立台灣科技大學機械工程系與全球半導體電子零組件通路商文曄科技合作開設「半導體人工智慧商務應用」課程，由企業派出10名來自應用工程、業務及人力資源等部門主管與資...…",
-    "tags": "科技大學, 國立臺灣科技大學",
-    "classes": "教學與課程",
-    "is_target": "True",
-    "cn_summary": "為縮短學用落差，國立台灣科技大學機械工程系與全球半導體電子零組件通路商文曄科技合作開設「半導體人工智慧商務應用」課程，由企業派出10名來自應用工程、業務及人力資源等部門主管與資...…",
-    "cn_title": "台科大攜手文曄科技合開AI半導體課 10名業師進班授課",
-    "cn_classes": "教學與課程",
-    "cn_tags": "科技大學, 國立臺灣科技大學",
-    "source": "自由時報"
   }
 }
