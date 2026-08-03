@@ -29,6 +29,21 @@
     "cn_tags": "研究所, 大學",
     "source": "UDN 文教"
   },
+  "https://www.cna.com.tw/news/ahel/202608030256.aspx": {
+    "title": "洪集輝掌金大 打造兼具在地特色與國際視野永續大學",
+    "link": "https://www.cna.com.tw/news/ahel/202608030256.aspx",
+    "published": "2026-08-03 18:05",
+    "images": [],
+    "summary": "（中央社記者張已亷金門縣3日電）國立金門大學今天舉行第5任校長就職典禮，新任校長洪集輝就任，洪集輝提出「樂齡生活」、「海洋治理」、「僑鄉大學」及「永續島嶼」四大倡議，作為未來校務發展重點。",
+    "tags": "國立金門大學",
+    "classes": "校務治理與管理",
+    "is_target": "True",
+    "cn_summary": "（中央社記者張已亷金門縣3日電）國立金門大學今天舉行第5任校長就職典禮，新任校長洪集輝就任，洪集輝提出「樂齡生活」、「海洋治理」、「僑鄉大學」及「永續島嶼」四大倡議，作為未來校務發展重點。",
+    "cn_title": "洪集輝掌金大 打造兼具在地特色與國際視野永續大學",
+    "cn_classes": "校務治理與管理",
+    "cn_tags": "國立金門大學",
+    "source": "中央社"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5527234": {
     "title": "大學分科測驗公布成績 羅東高中5人勇奪6科滿級分",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5527234",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立臺灣科技大學",
     "source": "中央社"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5518789": {
-    "title": "找到校長啦！國立基中校長出缺 蘭陽女中教務主任簡森乙出線",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5518789",
-    "published": "2026-07-27 10:12",
-    "images": [],
-    "summary": "國立基隆高中（以下簡稱基中）校長鍾定先於8月1日轉任國立新竹高工校長，基中校長出缺。日前本報獨家報導基中校長遴選進入複試的4人，無一人票數過半，造成剩下不到1個月，基中仍找不到...…",
-    "tags": "",
-    "classes": "校務治理與管理",
-    "is_target": "True",
-    "cn_summary": "國立基隆高中（以下簡稱基中）校長鍾定先於8月1日轉任國立新竹高工校長，基中校長出缺。日前本報獨家報導基中校長遴選進入複試的4人，無一人票數過半，造成剩下不到1個月，基中仍找不到...…",
-    "cn_title": "找到校長啦！國立基中校長出缺 蘭陽女中教務主任簡森乙出線",
-    "cn_classes": "校務治理與管理",
-    "cn_tags": "",
-    "source": "自由時報"
   }
 }
