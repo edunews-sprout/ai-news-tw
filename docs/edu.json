@@ -1,4 +1,34 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5526946": {
+    "title": "太空科技邁向新里程碑 台灣「石虎一號」成功傳回訊號",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5526946",
+    "published": "2026-08-03 14:22",
+    "images": [],
+    "summary": "台灣太空科技再傳捷報。由中央大學太空科學與科技研究中心、太空科學與科技學系、光電科學與工程學系及光電科學中心，攜手互宇向量（Aegiverse）公司與印度太空新創HEX...…",
+    "tags": "國立中央大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "台灣太空科技再傳捷報。由中央大學太空科學與科技研究中心、太空科學與科技學系、光電科學與工程學系及光電科學中心，攜手互宇向量（Aegiverse）公司與印度太空新創HEX...…",
+    "cn_title": "太空科技邁向新里程碑 台灣「石虎一號」成功傳回訊號",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立中央大學",
+    "source": "自由時報"
+  },
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxcjZlV1lUbmFNbXd5cUxxSUtUZVllSXRkdFFSSzd2bGZjaUhFekZtd3RoaUphNjRaUFdjM1VkcFk1RU5uLXgxemtrS05rdGFW?oc=5": {
+    "title": "大專資訊應用競賽創新報名開跑 聚焦資安、AI - UDN",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxcjZlV1lUbmFNbXd5cUxxSUtUZVllSXRkdFFSSzd2bGZjaUhFekZtd3RoaUphNjRaUFdjM1VkcFk1RU5uLXgxemtrS05rdGFW?oc=5",
+    "published": "2026-08-03 13:59",
+    "images": [],
+    "summary": "大專資訊應用競賽創新報名開跑 聚焦資安、AI&nbsp;&nbsp;UDN",
+    "tags": "大專",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "大專資訊應用競賽創新報名開跑 聚焦資安、AI&nbsp;&nbsp;UDN",
+    "cn_title": "大專資訊應用競賽創新報名開跑 聚焦資安、AI - UDN",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "大專",
+    "source": "UDN 文教"
+  },
   "https://news.ltn.com.tw/news/society/breakingnews/5526868": {
     "title": "長髮美女警官考取鑑識研究所  高雄警界罕見",
     "link": "https://news.ltn.com.tw/news/society/breakingnews/5526868",
@@ -3568,35 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "國立大學, 國立金門大學",
     "source": "遠見雜誌"
-  },
-  "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeHhhaTFUcGdGM0NOZHZ0M1ZGWG9pMXFQY0tneElUYkZhWUVCdGRxcXNTbUFyeUZ0WjNPSXNnaU9Oa2JkSDVHUjZ6VjctRXZQMDFmWGY2MEYxTkFOT2dWcGF6b29BVDdtamhGOE5mX19ZN3AzeU1DRlJUbWNNZ3czWDJtbmpRQktqcXlJX00tT1VZSnB1VXc?oc=5": {
-    "title": "金門大學前身如何肩負離島學生的升學責任？ - 遠見雜誌",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeHhhaTFUcGdGM0NOZHZ0M1ZGWG9pMXFQY0tneElUYkZhWUVCdGRxcXNTbUFyeUZ0WjNPSXNnaU9Oa2JkSDVHUjZ6VjctRXZQMDFmWGY2MEYxTkFOT2dWcGF6b29BVDdtamhGOE5mX19ZN3AzeU1DRlJUbWNNZ3czWDJtbmpRQktqcXlJX00tT1VZSnB1VXc?oc=5",
-    "published": "2026-07-26 20:25",
-    "images": [],
-    "summary": "金門大學前身如何肩負離島學生的升學責任？&nbsp;&nbsp;遠見雜誌",
-    "tags": "國立金門大學",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "金門大學前身如何肩負離島學生的升學責任？&nbsp;&nbsp;遠見雜誌",
-    "cn_title": "金門大學前身如何肩負離島學生的升學責任？ - 遠見雜誌",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "國立金門大學",
-    "source": "遠見雜誌"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5518407": {
-    "title": "華語教學能力認證考試落幕 1874人報考 9月15日放榜",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5518407",
-    "published": "2026-07-26 19:31",
-    "images": [],
-    "summary": "今（2026）年教育部對外華語教學能力認證考試今日在國立台灣大學舉行，共有1874人報考，考試分兩天進行，昨天首日辦理「國文」、「漢語語言學」、「華語文教學」及「華人社會與文化...…",
-    "tags": "國立臺灣大學, 文化",
-    "classes": "教學與課程",
-    "is_target": "True",
-    "cn_summary": "今（2026）年教育部對外華語教學能力認證考試今日在國立台灣大學舉行，共有1874人報考，考試分兩天進行，昨天首日辦理「國文」、「漢語語言學」、「華語文教學」及「華人社會與文化...…",
-    "cn_title": "華語教學能力認證考試落幕 1874人報考 9月15日放榜",
-    "cn_classes": "教學與課程",
-    "cn_tags": "國立臺灣大學, 文化",
-    "source": "自由時報"
   }
 }
