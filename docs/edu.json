@@ -254,6 +254,21 @@
     "cn_tags": "大學生, 學位, 國立臺灣大學",
     "source": "自由時報"
   },
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PWjR5VDZqX1ZvQy10X2REZjE5YzdWOEZTejQtZlQwQXNIX2JHaVFSN2NMZ1JZQ0dDX1MwRFlmMWlLRFE2c3BYQ3J0X0VvSy04aThzQTlLLTBSQdIBX0FVX3lxTE96WXZDRkp2SUxIRS1YLWQ1OEhEcXFXQWxtYTBqN184Ti1fVzZ6bExoTnZXVkVGQ2x1OWIwbHFhZ1A4M3U1X19pLWt0YXFEY1JIa0FNRW1Ydl8zMDhBcVU4?oc=5": {
+    "title": "上海同濟大學破教職鐵飯碗　遭批影響創新研究 - 經濟日報",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PWjR5VDZqX1ZvQy10X2REZjE5YzdWOEZTejQtZlQwQXNIX2JHaVFSN2NMZ1JZQ0dDX1MwRFlmMWlLRFE2c3BYQ3J0X0VvSy04aThzQTlLLTBSQdIBX0FVX3lxTE96WXZDRkp2SUxIRS1YLWQ1OEhEcXFXQWxtYTBqN184Ti1fVzZ6bExoTnZXVkVGQ2x1OWIwbHFhZ1A4M3U1X19pLWt0YXFEY1JIa0FNRW1Ydl8zMDhBcVU4?oc=5",
+    "published": "2026-08-04 10:36",
+    "images": [],
+    "summary": "上海同濟大學破教職鐵飯碗 遭批影響創新研究&nbsp;&nbsp;經濟日報",
+    "tags": "大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "上海同濟大學破教職鐵飯碗 遭批影響創新研究&nbsp;&nbsp;經濟日報",
+    "cn_title": "上海同濟大學破教職鐵飯碗　遭批影響創新研究 - 經濟日報",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "大學",
+    "source": "UDN 文教"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5527714": {
     "title": "台灣接掌UMAP主席國 主辦亞太大學交流理事會議",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5527714",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "大學",
     "source": "UDN 文教"
-  },
-  "https://sports.ltn.com.tw/news/breakingnews/5519546": {
-    "title": "2026佛光盃國際大學籃球邀請賽 高雄巨蛋熱血開打",
-    "link": "https://sports.ltn.com.tw/news/breakingnews/5519546",
-    "published": "2026-07-27 19:01",
-    "images": [],
-    "summary": "暑期大專籃球盛事登場，「2026佛光盃國際大學籃球邀請賽」明（28）日起於高雄巨蛋球場開打，展開為期6天的對決，共有來自海內外共16支勁旅，分男子、女子組競賽，各隊均為一...…",
-    "tags": "大學, 大專, 佛光",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "暑期大專籃球盛事登場，「2026佛光盃國際大學籃球邀請賽」明（28）日起於高雄巨蛋球場開打，展開為期6天的對決，共有來自海內外共16支勁旅，分男子、女子組競賽，各隊均為一...…",
-    "cn_title": "2026佛光盃國際大學籃球邀請賽 高雄巨蛋熱血開打",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "大學, 大專, 佛光",
-    "source": "自由時報"
   }
 }
