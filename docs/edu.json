@@ -14,6 +14,21 @@
     "cn_tags": "大葉大學",
     "source": "UDN 文教"
   },
+  "https://www.cna.com.tw/news/ahel/202608050194.aspx": {
+    "title": "陽明交大攜手40家企業　培育AI即戰力",
+    "link": "https://www.cna.com.tw/news/ahel/202608050194.aspx",
+    "published": "2026-08-05 15:42",
+    "images": [],
+    "summary": "（中央社記者魯鋼駿新竹市5日電）全球產業對AI（人工智慧）人才需求攀升，國立陽明交通大學在經濟部「AI新秀計畫」支持下，攜手超過40家企業，共同打造兼具理論、實作與企業接軌的AI人才培育模式。",
+    "tags": "國立陽明交通大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "（中央社記者魯鋼駿新竹市5日電）全球產業對AI（人工智慧）人才需求攀升，國立陽明交通大學在經濟部「AI新秀計畫」支持下，攜手超過40家企業，共同打造兼具理論、實作與企業接軌的AI人才培育模式。",
+    "cn_title": "陽明交大攜手40家企業　培育AI即戰力",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立陽明交通大學",
+    "source": "中央社"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5529393": {
     "title": "覺珮瑜接任高師大附中校長 將持續擦亮優質品牌",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5529393",
@@ -3583,20 +3598,5 @@
     "cn_classes": "政策與法規",
     "cn_tags": "",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMZXl1cFFDNV83eWlGR3VZQUlNeDhMRHNHRGQtVHVFMVNTX0NjajNtNXJ6Z1JYOEl6ZXQ5S1ZvLW0taTIyVzVnWEYyTVpPNWYyVWtIR0hMNURwdw?oc=5": {
-    "title": "淡江大學與勤業眾信締結合作 推動 AI、永續發展與數位人才培育 | 產學研訓 | 商情 - 經濟日報",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMZXl1cFFDNV83eWlGR3VZQUlNeDhMRHNHRGQtVHVFMVNTX0NjajNtNXJ6Z1JYOEl6ZXQ5S1ZvLW0taTIyVzVnWEYyTVpPNWYyVWtIR0hMNURwdw?oc=5",
-    "published": "2026-07-28 17:00",
-    "images": [],
-    "summary": "淡江大學與勤業眾信締結合作 推動 AI、永續發展與數位人才培育 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
-    "tags": "淡江大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "淡江大學與勤業眾信締結合作 推動 AI、永續發展與數位人才培育 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
-    "cn_title": "淡江大學與勤業眾信締結合作 推動 AI、永續發展與數位人才培育 | 產學研訓 | 商情 - 經濟日報",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "淡江大學",
-    "source": "UDN 文教"
   }
 }
