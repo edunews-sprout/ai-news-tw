@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5529185": {
+    "title": "清大校長剛續任又找國外工作 立委促檢討制度、簽「誠信承諾書」",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5529185",
+    "published": "2026-08-05 12:57",
+    "images": [],
+    "summary": "清大校長高為元續任校長後還參與國外大學校長決選，引發外界討論，立委今天批評有嚴重誠信問題，將影響領導威信，要求教育部檢討遴選與資訊揭露相關制度，要求參與大學校長遴選者簽署誠信承...…",
+    "tags": "大學, 國立清華大學",
+    "classes": "校務治理與管理",
+    "is_target": "True",
+    "cn_summary": "清大校長高為元續任校長後還參與國外大學校長決選，引發外界討論，立委今天批評有嚴重誠信問題，將影響領導威信，要求教育部檢討遴選與資訊揭露相關制度，要求參與大學校長遴選者簽署誠信承...…",
+    "cn_title": "清大校長剛續任又找國外工作 立委促檢討制度、簽「誠信承諾書」",
+    "cn_classes": "校務治理與管理",
+    "cn_tags": "大學, 國立清華大學",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SMnBrR09jTkQxMlYxMGFlQUtuejNLdUFLa09RNWN4Z2xBekhyZVdFSmhhMmtpTV81TGxBU3F5ZGtDWHhnNU5QcHBnZlplMEJL?oc=5": {
     "title": "政大辦浸潤式工作坊實驗教育師齊聚花蓮共學| 大學研究所| 文教 - UDN",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SMnBrR09jTkQxMlYxMGFlQUtuejNLdUFLa09RNWN4Z2xBekhyZVdFSmhhMmtpTV81TGxBU3F5ZGtDWHhnNU5QcHBnZlplMEJL?oc=5",
@@ -13,6 +28,36 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "研究所, 大學, 國立政治大學",
     "source": "UDN 文教"
+  },
+  "https://www.cna.com.tw/news/aloc/202608050089.aspx": {
+    "title": "竹縣社會創新基地招募團隊　提供創業輔導",
+    "link": "https://www.cna.com.tw/news/aloc/202608050089.aspx",
+    "published": "2026-08-05 11:45",
+    "images": [],
+    "summary": "（中央社記者郭宣彣新竹縣5日電）新竹縣政府今天表示，與明新科技大學合作推動的新竹社會創新基地啟動115年度進駐團隊招募，提供創業輔導、空間及資源媒合，盼培育青年創業及社會創新團隊。",
+    "tags": "明新科技大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "（中央社記者郭宣彣新竹縣5日電）新竹縣政府今天表示，與明新科技大學合作推動的新竹社會創新基地啟動115年度進駐團隊招募，提供創業輔導、空間及資源媒合，盼培育青年創業及社會創新團隊。",
+    "cn_title": "竹縣社會創新基地招募團隊　提供創業輔導",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "明新科技大學",
+    "source": "中央社"
+  },
+  "https://www.cna.com.tw/news/ahel/202608050085.aspx": {
+    "title": "大學生開學返校　高鐵再加開28班5折優惠列車",
+    "link": "https://www.cna.com.tw/news/ahel/202608050085.aspx",
+    "published": "2026-08-05 11:37",
+    "images": [],
+    "summary": "（中央社記者黃巧雯台北5日電）台灣高鐵今天宣布，9月3至9日除原有大學生優惠專案可適用車次外，每日再加碼提供南下、北上各2班次、停靠各站「大學生開學返校5折優惠列車」，總計提供28班次，明起開放訂票。",
+    "tags": "大學生",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "（中央社記者黃巧雯台北5日電）台灣高鐵今天宣布，9月3至9日除原有大學生優惠專案可適用車次外，每日再加碼提供南下、北上各2班次、停靠各站「大學生開學返校5折優惠列車」，總計提供28班次，明起開放訂票。",
+    "cn_title": "大學生開學返校　高鐵再加開28班5折優惠列車",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "大學生",
+    "source": "中央社"
   },
   "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xcjlWWGhFMmxkWC1ZNklyNW5YbTNTVmRfOC1pUGNOeWctbmJIYlpBM3EyOE9pSFZmTnp5alJ0bGU0SUxFUVVlbzhzaUdqdVhHbUhreVFBUDZFQlpOajRoUUNRWjZVN0tGdVBUUVJ6VEptNGFuaVJQejNiUQ?oc=5": {
     "title": "製茶不僅是技術中興大學團隊將茶藝術帶進印度| 大學研究所| 文教 - UDN",
@@ -3552,51 +3597,6 @@
     "cn_title": "中正大學、致理科大攜手ICAEA 辦高峰論壇 聚焦AI治理新趨勢 | 產學研訓 | 商情 - 經濟日報",
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立中正大學, 致理科大",
-    "source": "UDN 文教"
-  },
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mMXdETzlRTGRIYTNDQnVKWEVxNmFqc0JRZ2hZa1lZMlNwbFFWdDZoREE4Ymd0M2JZWm5QeDljelV1SGNWQ1JmM2lsazJINVotN0ltbk1ubXZoQQ?oc=5": {
-    "title": "AI驅動產業升級 大葉大學培育即戰力人才 | 產學研訓 | 商情 - 經濟日報",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mMXdETzlRTGRIYTNDQnVKWEVxNmFqc0JRZ2hZa1lZMlNwbFFWdDZoREE4Ymd0M2JZWm5QeDljelV1SGNWQ1JmM2lsazJINVotN0ltbk1ubXZoQQ?oc=5",
-    "published": "2026-07-28 10:01",
-    "images": [],
-    "summary": "AI驅動產業升級 大葉大學培育即戰力人才 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
-    "tags": "大葉大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "AI驅動產業升級 大葉大學培育即戰力人才 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
-    "cn_title": "AI驅動產業升級 大葉大學培育即戰力人才 | 產學研訓 | 商情 - 經濟日報",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "大葉大學",
-    "source": "UDN 文教"
-  },
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9odzhpYllVMkI0d2FTWTRqLWtaRDVFSWhTSDZMR3N3VzgzOVYwSnF1ZGp6MjB1Yk11Rm1IbW1BUXgtLUdadkxsRS1tMmxwQ2FSTm5GdWRTZ2x6UQ?oc=5": {
-    "title": "國立暨南國際大學115學年度「30+大學」巡迴招生說明會啟動打造第二專長與精彩人生| 產學研訓| 商情 - 經濟日報",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9odzhpYllVMkI0d2FTWTRqLWtaRDVFSWhTSDZMR3N3VzgzOVYwSnF1ZGp6MjB1Yk11Rm1IbW1BUXgtLUdadkxsRS1tMmxwQ2FSTm5GdWRTZ2x6UQ?oc=5",
-    "published": "2026-07-28 10:01",
-    "images": [],
-    "summary": "國立暨南國際大學115學年度「30+大學」巡迴招生說明會啟動打造第二專長與精彩人生| 產學研訓| 商情&nbsp;&nbsp;經濟日報",
-    "tags": "國立暨南國際大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "國立暨南國際大學115學年度「30+大學」巡迴招生說明會啟動打造第二專長與精彩人生| 產學研訓| 商情&nbsp;&nbsp;經濟日報",
-    "cn_title": "國立暨南國際大學115學年度「30+大學」巡迴招生說明會啟動打造第二專長與精彩人生| 產學研訓| 商情 - 經濟日報",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "國立暨南國際大學",
-    "source": "UDN 文教"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOWnRQWmJ3NmhpRzFreUdSbUxwZUMzMENBNWxfZjdhVHdLWnlsVHJQWGtWQld5bFIyclBNSHBZcXBoTWZuSXdnUEFaNU8waWp30gFWQVVfeXFMTldMTHp4dUJXM1pzSU84REp4U3d3MHVZRTJNbVQwREZLX0h5WFM1cFBVMTdmWTVDSlVnM3E2djQ2SHZLZDRqQXp6aWhzNDFGQ3JNcjlYeXc?oc=5": {
-    "title": "中原大學國際量子教育 菲律賓T.I.P.教師來研習量子演算、人工智慧 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOWnRQWmJ3NmhpRzFreUdSbUxwZUMzMENBNWxfZjdhVHdLWnlsVHJQWGtWQld5bFIyclBNSHBZcXBoTWZuSXdnUEFaNU8waWp30gFWQVVfeXFMTldMTHp4dUJXM1pzSU84REp4U3d3MHVZRTJNbVQwREZLX0h5WFM1cFBVMTdmWTVDSlVnM3E2djQ2SHZLZDRqQXp6aWhzNDFGQ3JNcjlYeXc?oc=5",
-    "published": "2026-07-28 10:00",
-    "images": [],
-    "summary": "中原大學國際量子教育 菲律賓T.I.P.教師來研習量子演算、人工智慧&nbsp;&nbsp;UDN",
-    "tags": "中原大學",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "中原大學國際量子教育 菲律賓T.I.P.教師來研習量子演算、人工智慧&nbsp;&nbsp;UDN",
-    "cn_title": "中原大學國際量子教育 菲律賓T.I.P.教師來研習量子演算、人工智慧 - UDN",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "中原大學",
     "source": "UDN 文教"
   }
 }
