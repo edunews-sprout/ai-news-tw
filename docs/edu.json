@@ -1,4 +1,19 @@
 {
+  "https://www.cna.com.tw/news/aipl/202608050346.aspx": {
+    "title": "造山者阿根廷首映　觀眾從台半導體經驗思考產業轉型",
+    "link": "https://www.cna.com.tw/news/aipl/202608050346.aspx",
+    "published": "2026-08-05 22:03",
+    "images": [],
+    "summary": "（中央社記者黃韻如布宜諾斯艾利斯5日專電）台灣半導體紀錄片「造山者－世紀的賭注」4日晚間在阿根廷首映，吸引逾200人觀影。阿根廷公民外交基金會主席李昂（Fernando León）表示，台灣半導體經驗可作為面對阿根廷製造業競爭與工廠關閉狀況，思考當地工業、醫療及大學轉型的參考。",
+    "tags": "大學",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "（中央社記者黃韻如布宜諾斯艾利斯5日專電）台灣半導體紀錄片「造山者－世紀的賭注」4日晚間在阿根廷首映，吸引逾200人觀影。阿根廷公民外交基金會主席李昂（Fernando León）表示，台灣半導體經驗可作為面對阿根廷製造業競爭與工廠關閉狀況，思考當地工業、醫療及大學轉型的參考。",
+    "cn_title": "造山者阿根廷首映　觀眾從台半導體經驗思考產業轉型",
+    "cn_classes": "其他",
+    "cn_tags": "大學",
+    "source": "中央社"
+  },
   "https://news.ltn.com.tw/news/world/breakingnews/5529616": {
     "title": "不爽學生AI作弊！美教授考題暗藏「陷阱指令」 9成學生中招",
     "link": "https://news.ltn.com.tw/news/world/breakingnews/5529616",
@@ -3583,20 +3598,5 @@
     "cn_classes": "校務治理與管理",
     "cn_tags": "國立臺南大學",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3dENDa3o0UXVjNzNhRU9VY1ZCWEZVcGtteWFLN0F2X21rV0YyR0hMX2pmNTVDV2EzbnFqWFU1Mjd3S2NXdWQ2UzNvUGlBZw?oc=5": {
-    "title": "2026佛光盃國際大學籃球賽高雄點燃戰火 16支勁旅齊聚高雄巨蛋競技交流 | 徐炳文 | 地方新聞 - 風傳媒",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3dENDa3o0UXVjNzNhRU9VY1ZCWEZVcGtteWFLN0F2X21rV0YyR0hMX2pmNTVDV2EzbnFqWFU1Mjd3S2NXdWQ2UzNvUGlBZw?oc=5",
-    "published": "2026-07-28 19:20",
-    "images": [],
-    "summary": "2026佛光盃國際大學籃球賽高雄點燃戰火 16支勁旅齊聚高雄巨蛋競技交流 | 徐炳文 | 地方新聞&nbsp;&nbsp;風傳媒",
-    "tags": "大學, 佛光",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "2026佛光盃國際大學籃球賽高雄點燃戰火 16支勁旅齊聚高雄巨蛋競技交流 | 徐炳文 | 地方新聞&nbsp;&nbsp;風傳媒",
-    "cn_title": "2026佛光盃國際大學籃球賽高雄點燃戰火 16支勁旅齊聚高雄巨蛋競技交流 | 徐炳文 | 地方新聞 - 風傳媒",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "大學, 佛光",
-    "source": "風傳媒"
   }
 }
