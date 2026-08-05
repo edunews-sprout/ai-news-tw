@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5528860": {
+    "title": "高雄科技大廠布局低軌衛星   大港實習計畫助攻人才培育",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5528860",
+    "published": "2026-08-05 09:00",
+    "images": [],
+    "summary": "高市青年局長林楷軒率團拜訪佐茂股份有限公司，探訪其在低軌衛星與儲能科技布局與人才培育，同時了解大港實習計畫成效，盼透過產官聯手，把優秀青年留在高雄關鍵產業鏈，實現「實習即就業」...…",
+    "tags": "",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "高市青年局長林楷軒率團拜訪佐茂股份有限公司，探訪其在低軌衛星與儲能科技布局與人才培育，同時了解大港實習計畫成效，盼透過產官聯手，把優秀青年留在高雄關鍵產業鏈，實現「實習即就業」...…",
+    "cn_title": "高雄科技大廠布局低軌衛星   大港實習計畫助攻人才培育",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/paper/1765369": {
     "title": "高中職校長會議 教長勉培養駕馭AI人才",
     "link": "https://news.ltn.com.tw/news/life/paper/1765369",
@@ -3583,20 +3598,5 @@
     "cn_classes": "校務治理與管理",
     "cn_tags": "",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kR2QzaDFVQXl6Uk5GMVotaEdvSlVMUUhiQTNuSnNiVmNjaERrTlktb2tOcEJVbTdXczVfZmNUMVdvQW1uMENFbHdJV0tsR3pwUldvd1hGeEdGZ9IBX0FVX3lxTE5zaXF4VTNpX2pTdXoxSEhmOFNUSEttVkIxNEIxSEx0Q21LbFpneTA0Q095eHRFRnRUdlFudURQSTdtYUw4a1AyOWs0azhIUDMwMENQSV9aT3FDZGZnZEVv?oc=5": {
-    "title": "美大學教授出妙招揪AI作弊 學生「沒檢查釀禍」幾乎全落網 - 經濟日報",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kR2QzaDFVQXl6Uk5GMVotaEdvSlVMUUhiQTNuSnNiVmNjaERrTlktb2tOcEJVbTdXczVfZmNUMVdvQW1uMENFbHdJV0tsR3pwUldvd1hGeEdGZ9IBX0FVX3lxTE5zaXF4VTNpX2pTdXoxSEhmOFNUSEttVkIxNEIxSEx0Q21LbFpneTA0Q095eHRFRnRUdlFudURQSTdtYUw4a1AyOWs0azhIUDMwMENQSV9aT3FDZGZnZEVv?oc=5",
-    "published": "2026-07-27 22:30",
-    "images": [],
-    "summary": "美大學教授出妙招揪AI作弊 學生「沒檢查釀禍」幾乎全落網&nbsp;&nbsp;經濟日報",
-    "tags": "大學, 教授",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "美大學教授出妙招揪AI作弊 學生「沒檢查釀禍」幾乎全落網&nbsp;&nbsp;經濟日報",
-    "cn_title": "美大學教授出妙招揪AI作弊 學生「沒檢查釀禍」幾乎全落網 - 經濟日報",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "大學, 教授",
-    "source": "UDN 文教"
   }
 }
