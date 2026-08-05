@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5529793": {
+    "title": "新型火箭發動機驗證成功 成大學生創設公司獲國發基金力挺",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5529793",
+    "published": "2026-08-05 20:08",
+    "images": [],
+    "summary": "成大航太系再傳捷報！國立成功大學航空太空工程學系教授吳志勇帶領的「燃燒與推進實驗室」，成功完成新型火箭發動機「Arete-KS-2000N」驗證，不僅代表團隊歷經近兩年研發的成...…",
+    "tags": "國立成功大學, 大學生, 教授",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "成大航太系再傳捷報！國立成功大學航空太空工程學系教授吳志勇帶領的「燃燒與推進實驗室」，成功完成新型火箭發動機「Arete-KS-2000N」驗證，不僅代表團隊歷經近兩年研發的成...…",
+    "cn_title": "新型火箭發動機驗證成功 成大學生創設公司獲國發基金力挺",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立成功大學, 大學生, 教授",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qRjFvSEtiME50clpNMUJ6YTdXd2MtWW1zTmkxa0hnVjRWLVBXdmQtSjNmUkRHZWVMNXRMVmRaZTBHTTBGVUU3MUdWX1NVS18yeGJteVRPNFhTbnl4d3ZXRXZOV21UOGtwRW9F?oc=5": {
     "title": "2026年「企業最愛大學排行調查」中，哪個大學在「整體職場表現」方面獲得冠軍？ - 遠見雜誌",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qRjFvSEtiME50clpNMUJ6YTdXd2MtWW1zTmkxa0hnVjRWLVBXdmQtSjNmUkRHZWVMNXRMVmRaZTBHTTBGVUU3MUdWX1NVS18yeGJteVRPNFhTbnl4d3ZXRXZOV21UOGtwRW9F?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "大學",
     "source": "中央社"
-  },
-  "https://sports.ltn.com.tw/news/breakingnews/5520749": {
-    "title": "佛光盃》莊杰閎轟29分驚艷日本強權 筑波大學教頭大讚頂尖後衛",
-    "link": "https://sports.ltn.com.tw/news/breakingnews/5520749",
-    "published": "2026-07-28 18:25",
-    "images": [],
-    "summary": "2026佛光盃國際大學籃球邀請賽今在高雄巨蛋盛大登場，就讀台灣師大的莊杰閎這次以借將身分代表澳門昊駿出戰，雖球隊延長賽78：82不敵日本傳統強權筑波大學，但他單場29分表...…",
-    "tags": "大學, 國立臺灣師範大學, 佛光",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "2026佛光盃國際大學籃球邀請賽今在高雄巨蛋盛大登場，就讀台灣師大的莊杰閎這次以借將身分代表澳門昊駿出戰，雖球隊延長賽78：82不敵日本傳統強權筑波大學，但他單場29分表...…",
-    "cn_title": "佛光盃》莊杰閎轟29分驚艷日本強權 筑波大學教頭大讚頂尖後衛",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "大學, 國立臺灣師範大學, 佛光",
-    "source": "自由時報"
   }
 }
