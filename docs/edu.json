@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/world/breakingnews/5529616": {
+    "title": "不爽學生AI作弊！美教授考題暗藏「陷阱指令」 9成學生中招",
+    "link": "https://news.ltn.com.tw/news/world/breakingnews/5529616",
+    "published": "2026-08-05 20:37",
+    "images": [],
+    "summary": "隨著生成式AI普及，校園中不少學生出現透過AI寫作業甚至作弊的現象。美國密西西比州一名大學教授，因不滿學生大量使用AI撰寫作業，竟在題目中偷偷藏入「陷阱指令」，結果全班35人中有...…",
+    "tags": "大學, 教授",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "隨著生成式AI普及，校園中不少學生出現透過AI寫作業甚至作弊的現象。美國密西西比州一名大學教授，因不滿學生大量使用AI撰寫作業，竟在題目中偷偷藏入「陷阱指令」，結果全班35人中有...…",
+    "cn_title": "不爽學生AI作弊！美教授考題暗藏「陷阱指令」 9成學生中招",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "大學, 教授",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5529793": {
     "title": "新型火箭發動機驗證成功 成大學生創設公司獲國發基金力挺",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5529793",
@@ -3583,20 +3598,5 @@
     "cn_classes": "國際交流與合作",
     "cn_tags": "大學, 佛光",
     "source": "風傳媒"
-  },
-  "https://www.cna.com.tw/news/aloc/202607280302.aspx": {
-    "title": "生蠔研究採購案涉圖利　連江4公務員1審無罪",
-    "link": "https://www.cna.com.tw/news/aloc/202607280302.aspx",
-    "published": "2026-07-28 19:20",
-    "images": [],
-    "summary": "（中央社記者潘欣彤連江縣28日電）時任連江縣府產發處長劉德全等4名公務員於2019年涉放水通過驗收海洋大學得標的生蠔掛養研究計畫採購案，檢方依違反貪污治罪條例圖利等罪起訴。連江地院一審判決4人無罪，可上訴。",
-    "tags": "大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "（中央社記者潘欣彤連江縣28日電）時任連江縣府產發處長劉德全等4名公務員於2019年涉放水通過驗收海洋大學得標的生蠔掛養研究計畫採購案，檢方依違反貪污治罪條例圖利等罪起訴。連江地院一審判決4人無罪，可上訴。",
-    "cn_title": "生蠔研究採購案涉圖利　連江4公務員1審無罪",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "大學",
-    "source": "中央社"
   }
 }
