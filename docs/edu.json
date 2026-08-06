@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/paper/1765681": {
+    "title": "AI識別母豬發情 嘉大獲國際發明金牌",
+    "link": "https://news.ltn.com.tw/news/life/paper/1765681",
+    "published": "2026-08-07 05:30",
+    "images": [],
+    "summary": "〔記者王善嬿／嘉義報導〕國立嘉義大學動物科學系師生開發以AI人工智慧識別母豬發情「慧眼識情」系統，可協助養殖人員掌握母豬行為與生理徵象，提升配種判定的準確性與繁殖管理效率，日前參加正修科技大學與國際發明學會舉辦的第八屆綠點子國際發明暨設計競賽，獲發明類社會組金牌獎。 嘉大動物科學系助理教授陳俊…",
+    "tags": "國立嘉義大學, 正修科技大學, 教授",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "〔記者王善嬿／嘉義報導〕國立嘉義大學動物科學系師生開發以AI人工智慧識別母豬發情「慧眼識情」系統，可協助養殖人員掌握母豬行為與生理徵象，提升配種判定的準確性與繁殖管理效率，日前參加正修科技大學與國際發明學會舉辦的第八屆綠點子國際發明暨設計競賽，獲發明類社會組金牌獎。 嘉大動物科學系助理教授陳俊…",
+    "cn_title": "AI識別母豬發情 嘉大獲國際發明金牌",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立嘉義大學, 正修科技大學, 教授",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWWpNRHBmRGxNdEpLN0dfRGZwZUhPN2J1YTg0dU1EQTdPM29LdG5Tbnl2UzE1d1l0NDF2VXNjVUtjQUU5T3E0NFhyWDJnVS1yRG82cW1ycEt4czBnWWdDY1c2WXFYcFdKMWRyMU50Z0J6NVpMbFU1dnlnN1o4alM4eVNqQV9nYnNZM0NHem1RSjR0bDVYNHc?oc=5": {
     "title": "科技發展與人文關懷如何平衡於大學教育中？ - 遠見雜誌",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWWpNRHBmRGxNdEpLN0dfRGZwZUhPN2J1YTg0dU1EQTdPM29LdG5Tbnl2UzE1d1l0NDF2VXNjVUtjQUU5T3E0NFhyWDJnVS1yRG82cW1ycEt4czBnWWdDY1c2WXFYcFdKMWRyMU50Z0J6NVpMbFU1dnlnN1o4alM4eVNqQV9nYnNZM0NHem1RSjR0bDVYNHc?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "教學與課程",
     "cn_tags": "國立臺灣大學, 大學生",
     "source": "中央社"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5521564": {
-    "title": "國家首度主導籌設台灣科學實中 首屆招30名科學潛力學子",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5521564",
-    "published": "2026-07-29 13:36",
-    "images": [],
-    "summary": "實驗教育三法修正通過後，首次由教育部主導的國家力量，決定成立「國立台灣科學實驗高級中等學校」（台灣實中），將集結台成清交4所頂尖大學力量，加上中央研究院資源，要招收30名具有科...…",
-    "tags": "大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "實驗教育三法修正通過後，首次由教育部主導的國家力量，決定成立「國立台灣科學實驗高級中等學校」（台灣實中），將集結台成清交4所頂尖大學力量，加上中央研究院資源，要招收30名具有科...…",
-    "cn_title": "國家首度主導籌設台灣科學實中 首屆招30名科學潛力學子",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "大學",
-    "source": "自由時報"
   }
 }
