@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5531209": {
+    "title": "集結跨領域科研團隊  中央大學領軍首度自主啟航北極",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5531209",
+    "published": "2026-08-06 20:23",
+    "images": [],
+    "summary": "首次由台灣科學團隊自主規劃的極地研究船航次今夏啟程！由中央大學台灣極地研究中心統籌的跨領域團隊，搭乘1艘具破冰／耐冰能力的 ice-class 研究船，前往北極斯瓦爾巴群島西側...…",
+    "tags": "國立中央大學",
+    "classes": "教學與課程",
+    "is_target": "True",
+    "cn_summary": "首次由台灣科學團隊自主規劃的極地研究船航次今夏啟程！由中央大學台灣極地研究中心統籌的跨領域團隊，搭乘1艘具破冰／耐冰能力的 ice-class 研究船，前往北極斯瓦爾巴群島西側...…",
+    "cn_title": "集結跨領域科研團隊  中央大學領軍首度自主啟航北極",
+    "cn_classes": "教學與課程",
+    "cn_tags": "國立中央大學",
+    "source": "自由時報"
+  },
   "https://talk.ltn.com.tw/article/breakingnews/5526300": {
     "title": "李忠憲的思考》校長當然可以探索職涯  但公共承諾也不能被探索掉 ——從德爾菲三句箴言談高為元校長事件",
     "link": "https://talk.ltn.com.tw/article/breakingnews/5526300",
@@ -3583,20 +3598,5 @@
     "cn_classes": "政策與法規",
     "cn_tags": "科技大學, 技職",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWnJlQmE0bTF1dmt3QkhOS3ZITDA5RENYNllIbWNfTG5faktxYl9JbmxuUkt0cTcyZEJTanZoOXFIak05TzZpWENGRDRzZDlTY0JEc2p6c3pVbDZDcXQwWkdoS0lRa3o1SXRPZkg3WFNlNDBoZXdCblVjNXVuXzFkR3RTN2w2RVAwQmJOQjhyUzUtTnVLOUE?oc=5": {
-    "title": "長庚大學記憶體碩士專班的獎學金與津貼細節為何？ - 遠見雜誌",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWnJlQmE0bTF1dmt3QkhOS3ZITDA5RENYNllIbWNfTG5faktxYl9JbmxuUkt0cTcyZEJTanZoOXFIak05TzZpWENGRDRzZDlTY0JEc2p6c3pVbDZDcXQwWkdoS0lRa3o1SXRPZkg3WFNlNDBoZXdCblVjNXVuXzFkR3RTN2w2RVAwQmJOQjhyUzUtTnVLOUE?oc=5",
-    "published": "2026-07-29 12:40",
-    "images": [],
-    "summary": "長庚大學記憶體碩士專班的獎學金與津貼細節為何？&nbsp;&nbsp;遠見雜誌",
-    "tags": "長庚大學, 碩士",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "長庚大學記憶體碩士專班的獎學金與津貼細節為何？&nbsp;&nbsp;遠見雜誌",
-    "cn_title": "長庚大學記憶體碩士專班的獎學金與津貼細節為何？ - 遠見雜誌",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "長庚大學, 碩士",
-    "source": "遠見雜誌"
   }
 }
