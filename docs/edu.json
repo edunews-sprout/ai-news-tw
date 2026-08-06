@@ -1,4 +1,19 @@
 {
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWWpNRHBmRGxNdEpLN0dfRGZwZUhPN2J1YTg0dU1EQTdPM29LdG5Tbnl2UzE1d1l0NDF2VXNjVUtjQUU5T3E0NFhyWDJnVS1yRG82cW1ycEt4czBnWWdDY1c2WXFYcFdKMWRyMU50Z0J6NVpMbFU1dnlnN1o4alM4eVNqQV9nYnNZM0NHem1RSjR0bDVYNHc?oc=5": {
+    "title": "科技發展與人文關懷如何平衡於大學教育中？ - 遠見雜誌",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWWpNRHBmRGxNdEpLN0dfRGZwZUhPN2J1YTg0dU1EQTdPM29LdG5Tbnl2UzE1d1l0NDF2VXNjVUtjQUU5T3E0NFhyWDJnVS1yRG82cW1ycEt4czBnWWdDY1c2WXFYcFdKMWRyMU50Z0J6NVpMbFU1dnlnN1o4alM4eVNqQV9nYnNZM0NHem1RSjR0bDVYNHc?oc=5",
+    "published": "2026-08-07 01:22",
+    "images": [],
+    "summary": "科技發展與人文關懷如何平衡於大學教育中？&nbsp;&nbsp;遠見雜誌",
+    "tags": "大學",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "科技發展與人文關懷如何平衡於大學教育中？&nbsp;&nbsp;遠見雜誌",
+    "cn_title": "科技發展與人文關懷如何平衡於大學教育中？ - 遠見雜誌",
+    "cn_classes": "其他",
+    "cn_tags": "大學",
+    "source": "遠見雜誌"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5531209": {
     "title": "集結跨領域科研團隊  中央大學領軍首度自主啟航北極",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5531209",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "大學",
     "source": "自由時報"
-  },
-  "https://www.cna.com.tw/news/aloc/202607290136.aspx": {
-    "title": "高捷黃線Y8站聯開計畫案通過　打造科技產學基地",
-    "link": "https://www.cna.com.tw/news/aloc/202607290136.aspx",
-    "published": "2026-07-29 13:33",
-    "images": [],
-    "summary": "（中央社記者蔡孟妤高雄29日電）高雄市都市計畫委員會今天審議通過捷運黃線Y8站聯合開發案，盼透過都市計畫變更及聯合開發，串聯高雄科技大學與高雄高工，打造結合大學、技職教育與軌道建設的科技產學基地。",
-    "tags": "科技大學, 技職",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "（中央社記者蔡孟妤高雄29日電）高雄市都市計畫委員會今天審議通過捷運黃線Y8站聯合開發案，盼透過都市計畫變更及聯合開發，串聯高雄科技大學與高雄高工，打造結合大學、技職教育與軌道建設的科技產學基地。",
-    "cn_title": "高捷黃線Y8站聯開計畫案通過　打造科技產學基地",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "科技大學, 技職",
-    "source": "中央社"
   }
 }
