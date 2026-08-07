@@ -1,4 +1,34 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5531578": {
+    "title": "新進教師逾8千人投入校園 教育部啟動3層支持系統",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5531578",
+    "published": "2026-08-07 10:43",
+    "images": [],
+    "summary": "中小學將在8月31日開學，全國將有8000多名新進教師投入中小學校園，面對人工智慧（AI）融入教學、跨領域課程、融合教育及親師溝通等新挑戰，教育部啟動新進教師支持政策，除透過中...…",
+    "tags": "",
+    "classes": "教學與課程",
+    "is_target": "True",
+    "cn_summary": "中小學將在8月31日開學，全國將有8000多名新進教師投入中小學校園，面對人工智慧（AI）融入教學、跨領域課程、融合教育及親師溝通等新挑戰，教育部啟動新進教師支持政策，除透過中...…",
+    "cn_title": "新進教師逾8千人投入校園 教育部啟動3層支持系統",
+    "cn_classes": "教學與課程",
+    "cn_tags": "",
+    "source": "自由時報"
+  },
+  "https://www.cna.com.tw/news/aloc/202608070025.aspx": {
+    "title": "勞動部高分署推企業預聘　助青年AI人才畢業即就業",
+    "link": "https://www.cna.com.tw/news/aloc/202608070025.aspx",
+    "published": "2026-08-07 08:51",
+    "images": [],
+    "summary": "（中央社記者林巧璉高雄7日電）勞動部勞動力發展署高屏澎東分署推動「補助大專校院就業學程企業預聘青年計畫」，讓青年在學期間進入職場培訓，提前累積實務經驗，打造「畢業即就業」的人才培育模式。",
+    "tags": "大專",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "（中央社記者林巧璉高雄7日電）勞動部勞動力發展署高屏澎東分署推動「補助大專校院就業學程企業預聘青年計畫」，讓青年在學期間進入職場培訓，提前累積實務經驗，打造「畢業即就業」的人才培育模式。",
+    "cn_title": "勞動部高分署推企業預聘　助青年AI人才畢業即就業",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "大專",
+    "source": "中央社"
+  },
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5USFRrWENRRU02c3IwXzB3Z2xnOV9kclFZSFBUa2xod3NVd3NjRFF2Vkw0elpKQVBKOEViMVhhWUI5ZXJoY3J3NkVkWUtkaGJ1V0lhQ2tINWdsN2pOZXNOMmpYWl_SAWRBVV95cUxOVEhUa1hDUUVNNnNyMF8wd2dsZzlfZHJRWUhQVGtsaHdzVXdzY0RRdlZMNHpaSkFQSjhFYjFYYVlCOWVyaGNydzZFZFlLZGhidVdJYUNrSDVnbDdqTmVzTjJqWFpf?oc=5": {
     "title": "校園毒品問題嚴重 教育部擬導入「唾液快篩」落實藥物防制 - 倡議家",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5USFRrWENRRU02c3IwXzB3Z2xnOV9kclFZSFBUa2xod3NVd3NjRFF2Vkw0elpKQVBKOEViMVhhWUI5ZXJoY3J3NkVkWUtkaGJ1V0lhQ2tINWdsN2pOZXNOMmpYWl_SAWRBVV95cUxOVEhUa1hDUUVNNnNyMF8wd2dsZzlfZHJRWUhQVGtsaHdzVXdzY0RRdlZMNHpaSkFQSjhFYjFYYVlCOWVyaGNydzZFZFlLZGhidVdJYUNrSDVnbDdqTmVzTjJqWFpf?oc=5",
@@ -3568,35 +3598,5 @@
     "cn_classes": "國際交流與合作",
     "cn_tags": "",
     "source": "自由時報"
-  },
-  "https://www.cna.com.tw/news/afe/202607290227.aspx": {
-    "title": "台電與大甲高工辦產學合作班　首度加入無人機課程",
-    "link": "https://www.cna.com.tw/news/afe/202607290227.aspx",
-    "published": "2026-07-29 16:15",
-    "images": [],
-    "summary": "（中央社記者謝怡璇台北29日電）台電近年於配電、輸電與發電系統導入無人機技術，為培養專業人才，台電攜手大甲高工開辦產學合作專班，首度加入無人機應用課程。台電表示，盼結合學校資源，深植機電專業及無人機操作技能，培養國家關鍵基礎設施專業人力。",
-    "tags": "產學合作",
-    "classes": "產學合作",
-    "is_target": "True",
-    "cn_summary": "（中央社記者謝怡璇台北29日電）台電近年於配電、輸電與發電系統導入無人機技術，為培養專業人才，台電攜手大甲高工開辦產學合作專班，首度加入無人機應用課程。台電表示，盼結合學校資源，深植機電專業及無人機操作技能，培養國家關鍵基礎設施專業人力。",
-    "cn_title": "台電與大甲高工辦產學合作班　首度加入無人機課程",
-    "cn_classes": "產學合作",
-    "cn_tags": "產學合作",
-    "source": "中央社"
-  },
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aU1FCT0JzeWk1dHF3Mi1GVnBmLTl4dEhqU0IwLW9UYmZKNUhmWS1jR2o0QWNxbVdlU3V2U2JIdEhsYzNpZld3TkplSGhCQzlsOXp5THlETlFrQQ?oc=5": {
-    "title": "臺東大學攜手工研院 推動原鄉產業AI智慧轉型 | 產學研訓 | 商情 - 經濟日報",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aU1FCT0JzeWk1dHF3Mi1GVnBmLTl4dEhqU0IwLW9UYmZKNUhmWS1jR2o0QWNxbVdlU3V2U2JIdEhsYzNpZld3TkplSGhCQzlsOXp5THlETlFrQQ?oc=5",
-    "published": "2026-07-29 16:01",
-    "images": [],
-    "summary": "臺東大學攜手工研院 推動原鄉產業AI智慧轉型 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
-    "tags": "臺東大學",
-    "classes": "產學合作",
-    "is_target": "True",
-    "cn_summary": "臺東大學攜手工研院 推動原鄉產業AI智慧轉型 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
-    "cn_title": "臺東大學攜手工研院 推動原鄉產業AI智慧轉型 | 產學研訓 | 商情 - 經濟日報",
-    "cn_classes": "產學合作",
-    "cn_tags": "臺東大學",
-    "source": "UDN 文教"
   }
 }
