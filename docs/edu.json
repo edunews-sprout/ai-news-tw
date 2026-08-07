@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5531989": {
+    "title": "成大研發500微米鋁包銅導線 AI、電動車高功率傳輸更耐用",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5531989",
+    "published": "2026-08-07 15:24",
+    "images": [],
+    "summary": "隨著人工智慧（AI）、電動車及儲能設備快速發展，高功率電子元件對大電流傳輸需求大增。國立成功大學材料系洪飛義特聘教授率領團隊，成功研發直徑500微米鋁包銅導線（Al-clad ...…",
+    "tags": "國立成功大學, 教授",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "隨著人工智慧（AI）、電動車及儲能設備快速發展，高功率電子元件對大電流傳輸需求大增。國立成功大學材料系洪飛義特聘教授率領團隊，成功研發直徑500微米鋁包銅導線（Al-clad ...…",
+    "cn_title": "成大研發500微米鋁包銅導線 AI、電動車高功率傳輸更耐用",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立成功大學, 教授",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5531836": {
     "title": "大學會計系值得讀嗎？網友分享職涯經驗掀討論",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5531836",
@@ -3582,21 +3597,6 @@
     "cn_title": "集結中研院、台成清交頂大資源／教部籌設台灣實中 招收30名科學新星",
     "cn_classes": "學術研究與創新",
     "cn_tags": "大學, 頂大",
-    "source": "自由時報"
-  },
-  "https://estate.ltn.com.tw/article/28539": {
-    "title": "1.24公頃學校用地變更！高捷Y8站聯開案通過 3.8萬坪開發量體曝光",
-    "link": "https://estate.ltn.com.tw/article/28539",
-    "published": "2026-07-29 23:31",
-    "images": [],
-    "summary": "高雄市都市計畫委員會29日審議通過捷運黃線Y8站聯合開發案，透過都市計畫變更及捷運聯合開發，串聯高雄科技大學與高雄高工教育資源，打造結合大學、技職教育與軌道建設的科技產學基地。…",
-    "tags": "科技大學, 技職",
-    "classes": "校務治理與管理",
-    "is_target": "True",
-    "cn_summary": "高雄市都市計畫委員會29日審議通過捷運黃線Y8站聯合開發案，透過都市計畫變更及捷運聯合開發，串聯高雄科技大學與高雄高工教育資源，打造結合大學、技職教育與軌道建設的科技產學基地。…",
-    "cn_title": "1.24公頃學校用地變更！高捷Y8站聯開案通過 3.8萬坪開發量體曝光",
-    "cn_classes": "校務治理與管理",
-    "cn_tags": "科技大學, 技職",
     "source": "自由時報"
   }
 }
