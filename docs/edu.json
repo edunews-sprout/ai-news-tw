@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5531836": {
+    "title": "大學會計系值得讀嗎？網友分享職涯經驗掀討論",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5531836",
+    "published": "2026-08-07 13:43",
+    "images": [],
+    "summary": "大學選系攸關未來職涯，一名網友在Dcard發文，以自身對會計職涯的觀察詢問，從事會計或相關產業是否薪資較不如預期，即使曾在四大會計師事務所工作2年，如果可以重來，「在座的各位會...…",
+    "tags": "大學",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "大學選系攸關未來職涯，一名網友在Dcard發文，以自身對會計職涯的觀察詢問，從事會計或相關產業是否薪資較不如預期，即使曾在四大會計師事務所工作2年，如果可以重來，「在座的各位會...…",
+    "cn_title": "大學會計系值得讀嗎？網友分享職涯經驗掀討論",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "大學",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5531683": {
     "title": "熱浪致山區野火增加？中正大學研究發現「雲霧帶」為關鍵角色",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5531683",
@@ -58,6 +73,36 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "大學",
     "source": "中央社"
+  },
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMFpzX1BHcVdtV2Q1NHh6ZEpiNXByRXVfbGpYNWg1ZVVtRDJnNzFzcWViTDhMUFRMSXZJNHdudWliZ1IzSFpvRzhjWjFqYWZzZFRPUDZ6SndDQQ?oc=5": {
+    "title": "2026《遠見》臺灣最佳大學排行榜 雲科大躍居技專第3 | 產學研訓 | 商情 - 經濟日報",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMFpzX1BHcVdtV2Q1NHh6ZEpiNXByRXVfbGpYNWg1ZVVtRDJnNzFzcWViTDhMUFRMSXZJNHdudWliZ1IzSFpvRzhjWjFqYWZzZFRPUDZ6SndDQQ?oc=5",
+    "published": "2026-08-07 10:01",
+    "images": [],
+    "summary": "2026《遠見》臺灣最佳大學排行榜 雲科大躍居技專第3 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
+    "tags": "國立雲林科技大學, 大學, 技專",
+    "classes": "產學合作",
+    "is_target": "True",
+    "cn_summary": "2026《遠見》臺灣最佳大學排行榜 雲科大躍居技專第3 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
+    "cn_title": "2026《遠見》臺灣最佳大學排行榜 雲科大躍居技專第3 | 產學研訓 | 商情 - 經濟日報",
+    "cn_classes": "產學合作",
+    "cn_tags": "國立雲林科技大學, 大學, 技專",
+    "source": "UDN 文教"
+  },
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EVUF2TS1ocG1uWmI5dWFOTk1Ma3FzakVtcDBXRnJZT3RqRGtmbV9OTmhPQS1PUnB0NHlULUtPQnB5dnJVWTQtUktwMG1SWGJHam01aVlEODEyZw?oc=5": {
+    "title": "深化醫護教育交流 日本國際醫療福祉大學師生訪元培 | 產學研訓 | 商情 - 經濟日報",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EVUF2TS1ocG1uWmI5dWFOTk1Ma3FzakVtcDBXRnJZT3RqRGtmbV9OTmhPQS1PUnB0NHlULUtPQnB5dnJVWTQtUktwMG1SWGJHam01aVlEODEyZw?oc=5",
+    "published": "2026-08-07 10:01",
+    "images": [],
+    "summary": "深化醫護教育交流 日本國際醫療福祉大學師生訪元培 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
+    "tags": "大學",
+    "classes": "國際交流與合作",
+    "is_target": "True",
+    "cn_summary": "深化醫護教育交流 日本國際醫療福祉大學師生訪元培 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
+    "cn_title": "深化醫護教育交流 日本國際醫療福祉大學師生訪元培 | 產學研訓 | 商情 - 經濟日報",
+    "cn_classes": "國際交流與合作",
+    "cn_tags": "大學",
+    "source": "UDN 文教"
   },
   "https://www.cna.com.tw/news/aloc/202608070025.aspx": {
     "title": "勞動部高分署推企業預聘　助青年AI人才畢業即就業",
@@ -3553,50 +3598,5 @@
     "cn_classes": "校務治理與管理",
     "cn_tags": "科技大學, 技職",
     "source": "自由時報"
-  },
-  "https://sports.ltn.com.tw/news/breakingnews/5522289": {
-    "title": "佛光盃》沒有外籍生的「宇宙政大」 23分差大勝強勢開胡",
-    "link": "https://sports.ltn.com.tw/news/breakingnews/5522289",
-    "published": "2026-07-29 22:11",
-    "images": [],
-    "summary": "佛光盃國際大學籃球邀請賽今進入第２天賽事，女子組台灣師大、佛光山佛光大學成功取得連勝，面對加拿大約克大學，「陽明F4」合攻55分助台師大80：61取勝，佛光全員皆兵，95...…",
-    "tags": "佛光大學, 國立政治大學, 國立臺灣師範大學, 國立陽明交通大學",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "佛光盃國際大學籃球邀請賽今進入第２天賽事，女子組台灣師大、佛光山佛光大學成功取得連勝，面對加拿大約克大學，「陽明F4」合攻55分助台師大80：61取勝，佛光全員皆兵，95...…",
-    "cn_title": "佛光盃》沒有外籍生的「宇宙政大」 23分差大勝強勢開胡",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "佛光大學, 國立政治大學, 國立臺灣師範大學, 國立陽明交通大學",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/politics/breakingnews/5522175": {
-    "title": "監院報告：赴中交流大專32校次有疏失 東海漏報5次最多",
-    "link": "https://news.ltn.com.tw/news/politics/breakingnews/5522175",
-    "published": "2026-07-29 19:44",
-    "images": [],
-    "summary": "監察院內政及族群、教育及文化委員會聯席會議近日通過監委林文程、田秋堇所提「學生赴陸教育交流案」調查報告，內容今（29）日公告上網。監委除點出兩岸青年交流單向失衡，報告附表也完整...…",
-    "tags": "大專, 東海, 文化",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "監察院內政及族群、教育及文化委員會聯席會議近日通過監委林文程、田秋堇所提「學生赴陸教育交流案」調查報告，內容今（29）日公告上網。監委除點出兩岸青年交流單向失衡，報告附表也完整...…",
-    "cn_title": "監院報告：赴中交流大專32校次有疏失 東海漏報5次最多",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "大專, 東海, 文化",
-    "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9leVl5Qm56aUN2UGh0Y3ZHNXA0TE5rQU5MQ29nSklOczIwWFYtNVB2SnNjWlBweUtibkdSNkVTSElLVld4eGxkU1RWaEhNV0lpOHJUYUpRYXdLV0410gFiQVVfeXFMTktFdzJLbGxORzlkNWczLXpIMzR6V0pKaktqTExHM1U1d1dYaDJKYWNtdUYtWllPaWNrZUpEV0lPcVd0d0Q4a0V6SG9QS291RGlaV05fZHNkVWc2QXZwaTlvOXc?oc=5": {
-    "title": "雲林智慧農業大學開課 240小時課程導入AI培育人才 - 經濟日報",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9leVl5Qm56aUN2UGh0Y3ZHNXA0TE5rQU5MQ29nSklOczIwWFYtNVB2SnNjWlBweUtibkdSNkVTSElLVld4eGxkU1RWaEhNV0lpOHJUYUpRYXdLV0410gFiQVVfeXFMTktFdzJLbGxORzlkNWczLXpIMzR6V0pKaktqTExHM1U1d1dYaDJKYWNtdUYtWllPaWNrZUpEV0lPcVd0d0Q4a0V6SG9QS291RGlaV05fZHNkVWc2QXZwaTlvOXc?oc=5",
-    "published": "2026-07-29 18:09",
-    "images": [],
-    "summary": "雲林智慧農業大學開課 240小時課程導入AI培育人才&nbsp;&nbsp;經濟日報",
-    "tags": "大學",
-    "classes": "教學與課程",
-    "is_target": "True",
-    "cn_summary": "雲林智慧農業大學開課 240小時課程導入AI培育人才&nbsp;&nbsp;經濟日報",
-    "cn_title": "雲林智慧農業大學開課 240小時課程導入AI培育人才 - 經濟日報",
-    "cn_classes": "教學與課程",
-    "cn_tags": "大學",
-    "source": "UDN 文教"
   }
 }
