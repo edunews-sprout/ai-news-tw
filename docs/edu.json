@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/world/paper/1765769": {
+    "title": "首例AI合成病毒 釀生物武器隱憂",
+    "link": "https://news.ltn.com.tw/news/world/paper/1765769",
+    "published": "2026-08-08 05:30",
+    "images": [],
+    "summary": "〔編譯管淑平／綜合報導〕美國史丹佛大學研究人員利用生成式人工智慧（AI）技術，設計出可消滅大腸桿菌的合成病毒，為首見AI創造出自然界不存在的病毒，雖增添醫藥進展希望，但也引發此技術遭濫用製造危險病原體甚至生物武器的憂慮。 AI自行生成 可消滅大腸桿菌 史丹佛大學與加州研究機構Arc In…",
+    "tags": "大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "〔編譯管淑平／綜合報導〕美國史丹佛大學研究人員利用生成式人工智慧（AI）技術，設計出可消滅大腸桿菌的合成病毒，為首見AI創造出自然界不存在的病毒，雖增添醫藥進展希望，但也引發此技術遭濫用製造危險病原體甚至生物武器的憂慮。 AI自行生成 可消滅大腸桿菌 史丹佛大學與加州研究機構Arc In…",
+    "cn_title": "首例AI合成病毒 釀生物武器隱憂",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "大學",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSmE3RzRwQkg4WVJfZDJxajFScmtfV2pScXZ4TG14aElMRTlSZE80cVNpRzdOY0ZCUHhqcU1kNVNROXF2TXFCXzlHbUdKelVPVDhRQnlZRWR3UTFSQXc4UWRjSTh5WUF0b3BJSGVoOENmLWdaanRRbnYyZDl2ejhSaDJnejdGZHlXRU9fSXYxU1FMOGNVZ2c?oc=5": {
     "title": "淡江大學如何連結AI課程與學生的職涯發展？ - 遠見雜誌",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSmE3RzRwQkg4WVJfZDJxajFScmtfV2pScXZ4TG14aElMRTlSZE80cVNpRzdOY0ZCUHhqcU1kNVNROXF2TXFCXzlHbUdKelVPVDhRQnlZRWR3UTFSQXc4UWRjSTh5WUF0b3BJSGVoOENmLWdaanRRbnYyZDl2ejhSaDJnejdGZHlXRU9fSXYxU1FMOGNVZ2c?oc=5",
@@ -88,6 +103,21 @@
     "cn_classes": "其他",
     "cn_tags": "靜宜大學",
     "source": "中國時報"
+  },
+  "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEWkg1YW5DbF96ejYtMC0yUGZsMkN1djVKNkNvemRQY25BUzhZTzhVckx6RmVtV2p2VTlTNjVsTEl4aVhISERJeTRKSnBRY0g5azQ3RnkzTkZFV2l5WHfSAUtBVV95cUxNTVA2c2pnVzZLb3pJZld0SU5iRm04TWZMN3FMSWp6c1pYTU5EUy1XVmk4V0d3bmJkQ2JFQzdiNEV3YkxkYjhCRTZOOUk?oc=5": {
+    "title": "兩岸大學生領袖營分享會　140名學生從蚵仔煎聊到智慧汽車城 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEWkg1YW5DbF96ejYtMC0yUGZsMkN1djVKNkNvemRQY25BUzhZTzhVckx6RmVtV2p2VTlTNjVsTEl4aVhISERJeTRKSnBRY0g5azQ3RnkzTkZFV2l5WHfSAUtBVV95cUxNTVA2c2pnVzZLb3pJZld0SU5iRm04TWZMN3FMSWp6c1pYTU5EUy1XVmk4V0d3bmJkQ2JFQzdiNEV3YkxkYjhCRTZOOUk?oc=5",
+    "published": "2026-08-07 16:52",
+    "images": [],
+    "summary": "兩岸大學生領袖營分享會 140名學生從蚵仔煎聊到智慧汽車城&nbsp;&nbsp;ETtoday新聞雲",
+    "tags": "大學生",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "兩岸大學生領袖營分享會 140名學生從蚵仔煎聊到智慧汽車城&nbsp;&nbsp;ETtoday新聞雲",
+    "cn_title": "兩岸大學生領袖營分享會　140名學生從蚵仔煎聊到智慧汽車城 - ETtoday新聞雲",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "大學生",
+    "source": "ETtoday"
   },
   "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5N0o0em5qYjljcW1lbG5mYVBCak9sbFVUMDcxWlBKSF8xa0p2SkJhblJuU3lNSmlhVUtJMlpTQ2ZOeDlsbkRsUjBOTjFaQUhSaVp0bV9ZWVZ6RndqQjhuRVNKU1NuZUVqcXBhWGNPTnlUWHlBenZrTXNQUFk?oc=5": {
     "title": "義守大學跨域AI創新 綠點子國際發明競賽奪六獎 | 產學研訓 | 商情 - 經濟日報",
@@ -3568,35 +3598,5 @@
     "cn_classes": "國際交流與合作",
     "cn_tags": "國立中央大學, 實踐",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPbVRmcE1jUGxlZjJsMDd5UHBYQjk4QVlPb1ItSExLeFlINlNsRDlxTjlhQm10Wk9QemcyYWVESmlhOVJoWEp5ODViU1k4dUhU?oc=5": {
-    "title": "校園唾液快篩待修法上路鎖定5類人篩檢教育部：不是普篩| 文教新訊| 文教 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPbVRmcE1jUGxlZjJsMDd5UHBYQjk4QVlPb1ItSExLeFlINlNsRDlxTjlhQm10Wk9QemcyYWVESmlhOVJoWEp5ODViU1k4dUhU?oc=5",
-    "published": "2026-07-30 11:32",
-    "images": [],
-    "summary": "校園唾液快篩待修法上路鎖定5類人篩檢教育部：不是普篩| 文教新訊| 文教&nbsp;&nbsp;UDN",
-    "tags": "",
-    "classes": "政策與法規",
-    "is_target": "True",
-    "cn_summary": "校園唾液快篩待修法上路鎖定5類人篩檢教育部：不是普篩| 文教新訊| 文教&nbsp;&nbsp;UDN",
-    "cn_title": "校園唾液快篩待修法上路鎖定5類人篩檢教育部：不是普篩| 文教新訊| 文教 - UDN",
-    "cn_classes": "政策與法規",
-    "cn_tags": "",
-    "source": "UDN 文教"
-  },
-  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10T2lUMUltWDFqbWpjT2puVldSbmtPanlrVU9tZml4WE5hQVR1WEVrQUE2QTJJaEJ2WkNqSV9vblZxa2E0SG0wd2V6azVjNWttQkxJ0gFYQVVfeXFMTkJNMi1EU0pYMGVWNXdaM0VRRnYtOHR4UURpT0tYN3VjR05weE5xamRkYkJhMm4yYmJranhnb01WUkM3c29hY2Z0MTV5NFV3UmwxZ2xreVVFYQ?oc=5": {
-    "title": "校園唾液快篩待修法上路「鎖定5類人」 教育部：不是普篩 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10T2lUMUltWDFqbWpjT2puVldSbmtPanlrVU9tZml4WE5hQVR1WEVrQUE2QTJJaEJ2WkNqSV9vblZxa2E0SG0wd2V6azVjNWttQkxJ0gFYQVVfeXFMTkJNMi1EU0pYMGVWNXdaM0VRRnYtOHR4UURpT0tYN3VjR05weE5xamRkYkJhMm4yYmJranhnb01WUkM3c29hY2Z0MTV5NFV3UmwxZ2xreVVFYQ?oc=5",
-    "published": "2026-07-30 11:32",
-    "images": [],
-    "summary": "校園唾液快篩待修法上路「鎖定5類人」 教育部：不是普篩&nbsp;&nbsp;UDN",
-    "tags": "",
-    "classes": "政策與法規",
-    "is_target": "True",
-    "cn_summary": "校園唾液快篩待修法上路「鎖定5類人」 教育部：不是普篩&nbsp;&nbsp;UDN",
-    "cn_title": "校園唾液快篩待修法上路「鎖定5類人」 教育部：不是普篩 - UDN",
-    "cn_classes": "政策與法規",
-    "cn_tags": "",
-    "source": "UDN 文教"
   }
 }
