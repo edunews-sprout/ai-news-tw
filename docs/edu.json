@@ -1,4 +1,19 @@
 {
+  "https://www.cna.com.tw/news/aloc/202608070251.aspx": {
+    "title": "新北攜手農科院、台大　培育AI農業跨域人才",
+    "link": "https://www.cna.com.tw/news/aloc/202608070251.aspx",
+    "published": "2026-08-07 18:00",
+    "images": [],
+    "summary": "（中央社記者黃旭昇新北7日電）因應AI（人工智慧）、淨零永續及糧食安全趨勢，新北市教育局今天表示，攜手農業科技研究院及台灣大學生物資源暨農學院，帶領學生走進實驗室與研究場域，培育跨域科技人才。",
+    "tags": "國立臺灣大學, 大學生",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "（中央社記者黃旭昇新北7日電）因應AI（人工智慧）、淨零永續及糧食安全趨勢，新北市教育局今天表示，攜手農業科技研究院及台灣大學生物資源暨農學院，帶領學生走進實驗室與研究場域，培育跨域科技人才。",
+    "cn_title": "新北攜手農科院、台大　培育AI農業跨域人才",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立臺灣大學, 大學生",
+    "source": "中央社"
+  },
   "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWTdmYnhhWXBKU3l5TzF3MFFHXzkxZm5WMDZUbFJFODJJZy1hQVFRMTZvZE1WQUZPcEVyMWlVOVhRek52NEY4LVN4bXVlOXZmekNBRDNmT2oybnVzR1c0WUpIeTRDRUU3QXg2LUNLMGs5SEFFUDJuTy1vOV9GN2NSU2VDWW5VVkk?oc=5": {
     "title": "靜宜大學再創佳績獲教育部「學海惜珠」補助總額全國第二、私校第一- 新消息- Campus - 中時新聞網",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWTdmYnhhWXBKU3l5TzF3MFFHXzkxZm5WMDZUbFJFODJJZy1hQVFRMTZvZE1WQUZPcEVyMWlVOVhRek52NEY4LVN4bXVlOXZmekNBRDNmT2oybnVzR1c0WUpIeTRDRUU3QXg2LUNLMGs5SEFFUDJuTy1vOV9GN2NSU2VDWW5VVkk?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "產學合作",
     "source": "中央社"
-  },
-  "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc0NtOWdLc3N0V2Q5ZXV0NWhJSHJueEpmYjNwNXBGUmNNSnBfUEIzN0J0SDQ0djNkVUcxMjBWM1FkaWZmSF9ONER4bEY5RkVTSllyVzRWdjhLTllPR1BybzUzRXJRMjhkOFpiSE9hZk1JZk94a1JXRE1nb2JlelFjTlRraFRqZHdKWVdidkh2c01zTTBWclE?oc=5": {
-    "title": "中央大學的太空系所如何克服學歷歧視？ - 遠見雜誌",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc0NtOWdLc3N0V2Q5ZXV0NWhJSHJueEpmYjNwNXBGUmNNSnBfUEIzN0J0SDQ0djNkVUcxMjBWM1FkaWZmSF9ONER4bEY5RkVTSllyVzRWdjhLTllPR1BybzUzRXJRMjhkOFpiSE9hZk1JZk94a1JXRE1nb2JlelFjTlRraFRqZHdKWVdidkh2c01zTTBWclE?oc=5",
-    "published": "2026-07-30 07:41",
-    "images": [],
-    "summary": "中央大學的太空系所如何克服學歷歧視？&nbsp;&nbsp;遠見雜誌",
-    "tags": "國立中央大學",
-    "classes": "教學與課程",
-    "is_target": "True",
-    "cn_summary": "中央大學的太空系所如何克服學歷歧視？&nbsp;&nbsp;遠見雜誌",
-    "cn_title": "中央大學的太空系所如何克服學歷歧視？ - 遠見雜誌",
-    "cn_classes": "教學與課程",
-    "cn_tags": "國立中央大學",
-    "source": "遠見雜誌"
   }
 }
