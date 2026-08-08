@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5533054": {
+    "title": "卑詩理工學院「青年百億計劃」 八十二名台灣學員結業",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5533054",
+    "published": "2026-08-08 16:21",
+    "images": [],
+    "summary": "卑詩理工學院（BCIT）8月7日為今年暑假參加「青年百億計劃」學生舉行結業式。這些年齡在18歲至30歲的「青年百億計劃」學生背景多元，有剛從剛被台大資工系錄取的大學新...…",
+    "tags": "大學, 國立臺灣大學",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "卑詩理工學院（BCIT）8月7日為今年暑假參加「青年百億計劃」學生舉行結業式。這些年齡在18歲至30歲的「青年百億計劃」學生背景多元，有剛從剛被台大資工系錄取的大學新...…",
+    "cn_title": "卑詩理工學院「青年百億計劃」 八十二名台灣學員結業",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "大學, 國立臺灣大學",
+    "source": "自由時報"
+  },
   "https://health.ltn.com.tw/article/breakingnews/5532814": {
     "title": "AI看基因、2分鐘認知篩檢 中山醫大攜加拿大交流智慧醫療",
     "link": "https://health.ltn.com.tw/article/breakingnews/5532814",
@@ -3582,21 +3597,6 @@
     "cn_title": "文化大學推動AI跨域學習從課堂到實作拓展多元應用- 新消息- Campus - 中時新聞網",
     "cn_classes": "學術研究與創新",
     "cn_tags": "大學, 文化",
-    "source": "中國時報"
-  },
-  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GenBNWnBYamhFSURIZnNUcGVHRTJ2eVRNQ1Nkb09lM1JkQkw4ZXZvVk5iRE1XbjBONTRWR1ZxeXB2cXl1cl95cEtMRjVwZEdaVE04TU4zd1dYQnhlSlhyT3BPSFA5UQ?oc=5": {
-    "title": "台灣大學生湖南廣電實習圓滿落幕 直呼「想留大陸發展」 - 中時新聞網",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GenBNWnBYamhFSURIZnNUcGVHRTJ2eVRNQ1Nkb09lM1JkQkw4ZXZvVk5iRE1XbjBONTRWR1ZxeXB2cXl1cl95cEtMRjVwZEdaVE04TU4zd1dYQnhlSlhyT3BPSFA5UQ?oc=5",
-    "published": "2026-07-30 14:22",
-    "images": [],
-    "summary": "台灣大學生湖南廣電實習圓滿落幕 直呼「想留大陸發展」&nbsp;&nbsp;中時新聞網",
-    "tags": "國立臺灣大學, 大學生",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "台灣大學生湖南廣電實習圓滿落幕 直呼「想留大陸發展」&nbsp;&nbsp;中時新聞網",
-    "cn_title": "台灣大學生湖南廣電實習圓滿落幕 直呼「想留大陸發展」 - 中時新聞網",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "國立臺灣大學, 大學生",
     "source": "中國時報"
   }
 }
