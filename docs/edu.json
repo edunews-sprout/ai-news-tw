@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5532649": {
+    "title": "從趴地寫功課到發明大王 林永禎獲教育家人物典範",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5532649",
+    "published": "2026-08-08 09:23",
+    "images": [],
+    "summary": "從小家中沒有書桌，只能趴在地上寫作業，大學時才擁有人生第1件新褲子，如今卻擁有52件美、台、中專利、拿下72個國際創新發明獎。明新科技大學榮譽講座教授林永禎有「發明大王」之稱，...…",
+    "tags": "明新科技大學, 教授",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "從小家中沒有書桌，只能趴在地上寫作業，大學時才擁有人生第1件新褲子，如今卻擁有52件美、台、中專利、拿下72個國際創新發明獎。明新科技大學榮譽講座教授林永禎有「發明大王」之稱，...…",
+    "cn_title": "從趴地寫功課到發明大王 林永禎獲教育家人物典範",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "明新科技大學, 教授",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5532621": {
     "title": "海平面1世紀曾暴升5公尺 台大團隊揭劇烈暖化關鍵",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5532621",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "",
     "source": "UDN 文教"
-  },
-  "https://www.cna.com.tw/news/ahel/202607300110.aspx": {
-    "title": "校園增列唾液快篩　教育部澄清從未規劃普篩",
-    "link": "https://www.cna.com.tw/news/ahel/202607300110.aspx",
-    "published": "2026-07-30 12:20",
-    "images": [],
-    "summary": "（中央社記者陳至中台北30日電）依托咪酯（Etomidate）等新興毒品代謝速度快，光靠尿檢難以檢查出來，教育部規劃將「唾液快篩」引入校園，但澄清從未規劃「普篩」，而是針對高風險的特定人員。",
-    "tags": "",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "（中央社記者陳至中台北30日電）依托咪酯（Etomidate）等新興毒品代謝速度快，光靠尿檢難以檢查出來，教育部規劃將「唾液快篩」引入校園，但澄清從未規劃「普篩」，而是針對高風險的特定人員。",
-    "cn_title": "校園增列唾液快篩　教育部澄清從未規劃普篩",
-    "cn_classes": "其他",
-    "cn_tags": "",
-    "source": "中央社"
   }
 }
