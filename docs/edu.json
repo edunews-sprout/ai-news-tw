@@ -269,6 +269,21 @@
     "cn_tags": "國立中正大學",
     "source": "自由時報"
   },
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JYTFhTTBDdHlidHpUc21jODBhbHh2OGRLZWpfNDU3ekZqXzJwUnM0djJoZE14S2pYQ3JSQlc4emZjMXVSaV9XV2VKbVF5X3RD?oc=5": {
+    "title": "文大商學院續獲ACCBE認證校長倡AI全面融入教學| 大學研究所| 文教 - UDN",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JYTFhTTBDdHlidHpUc21jODBhbHh2OGRLZWpfNDU3ekZqXzJwUnM0djJoZE14S2pYQ3JSQlc4emZjMXVSaV9XV2VKbVF5X3RD?oc=5",
+    "published": "2026-08-07 12:01",
+    "images": [],
+    "summary": "文大商學院續獲ACCBE認證校長倡AI全面融入教學| 大學研究所| 文教&nbsp;&nbsp;UDN",
+    "tags": "研究所, 大學, 中國文化大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "文大商學院續獲ACCBE認證校長倡AI全面融入教學| 大學研究所| 文教&nbsp;&nbsp;UDN",
+    "cn_title": "文大商學院續獲ACCBE認證校長倡AI全面融入教學| 大學研究所| 文教 - UDN",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "研究所, 大學, 中國文化大學",
+    "source": "UDN 文教"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5531644": {
     "title": "提升校園霸凌處理一致性 教育部強化分流調查程序",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5531644",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "大學",
     "source": "UDN 文教"
-  },
-  "https://www.cna.com.tw/news/ahel/202607300216.aspx": {
-    "title": "台師大雲林高鐵特區設學校  最快119學年度招生",
-    "link": "https://www.cna.com.tw/news/ahel/202607300216.aspx",
-    "published": "2026-07-30 15:46",
-    "images": [],
-    "summary": "（中央社記者陳至中台北30日電）台灣師範大學與雲林縣政府合作，將於高鐵特定區設立「雲林縣立台灣師大高級中等學校」，規劃36班、900名學生規模，涵蓋國小、國中、高中學制，最快119學年度開始招生。",
-    "tags": "大學, 國立臺灣師範大學",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "（中央社記者陳至中台北30日電）台灣師範大學與雲林縣政府合作，將於高鐵特定區設立「雲林縣立台灣師大高級中等學校」，規劃36班、900名學生規模，涵蓋國小、國中、高中學制，最快119學年度開始招生。",
-    "cn_title": "台師大雲林高鐵特區設學校  最快119學年度招生",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "大學, 國立臺灣師範大學",
-    "source": "中央社"
   }
 }
