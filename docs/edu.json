@@ -644,6 +644,21 @@
     "cn_tags": "國立中央大學",
     "source": "中央社"
   },
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91Y1RBTXFPTzl0MHBjaVZ5NE5TMmRVSzlfVUNQRkJHaDZTVWh3OVA5c0dteXYzbUhfZVN2Tk1hMTZUV08xWE9KUVJ3WmxOOFZJ0gFWQVVfeXFMTkJXMzZJLVZrYjAwN3ZYVDZCaUdrcUY5RlVUSVFTQVFTWFJGbzQ4VVhMNWVVWUdRdW80SFFBRmpTdzYxTENEck9EaEtVeUlQbEZTVXltOGc?oc=5": {
+    "title": "會把脈也懂AI！長庚大學中醫系推「中西醫雙修」 培訓制 - udn.com",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91Y1RBTXFPTzl0MHBjaVZ5NE5TMmRVSzlfVUNQRkJHaDZTVWh3OVA5c0dteXYzbUhfZVN2Tk1hMTZUV08xWE9KUVJ3WmxOOFZJ0gFWQVVfeXFMTkJXMzZJLVZrYjAwN3ZYVDZCaUdrcUY5RlVUSVFTQVFTWFJGbzQ4VVhMNWVVWUdRdW80SFFBRmpTdzYxTENEck9EaEtVeUlQbEZTVXltOGc?oc=5",
+    "published": "2026-08-06 12:00",
+    "images": [],
+    "summary": "會把脈也懂AI！長庚大學中醫系推「中西醫雙修」 培訓制&nbsp;&nbsp;udn.com",
+    "tags": "長庚大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "會把脈也懂AI！長庚大學中醫系推「中西醫雙修」 培訓制&nbsp;&nbsp;udn.com",
+    "cn_title": "會把脈也懂AI！長庚大學中醫系推「中西醫雙修」 培訓制 - udn.com",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "長庚大學",
+    "source": "UDN 文教"
+  },
   "https://www.cna.com.tw/news/ahel/202608060071.aspx": {
     "title": "師培教學實踐研究加碼　每案最高補助32萬元",
     "link": "https://www.cna.com.tw/news/ahel/202608060071.aspx",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學生事務與生活",
     "cn_tags": "大學, 國立臺灣師範大學",
     "source": "中央社"
-  },
-  "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZd3VKMUpacndQNlB5U0Q5Ync1aThwN1ZwYmhKOGZKcUx1bWZZVk56RW01bzU3Z3pBbVR0M0NWOXQtMmZ5YzZJR3VZR292VFFxSS1TbTRDQUdYLWkzT0IycTVJWHpfUQ?oc=5": {
-    "title": "文化大學推動AI跨域學習從課堂到實作拓展多元應用- 新消息- Campus - 中時新聞網",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZd3VKMUpacndQNlB5U0Q5Ync1aThwN1ZwYmhKOGZKcUx1bWZZVk56RW01bzU3Z3pBbVR0M0NWOXQtMmZ5YzZJR3VZR292VFFxSS1TbTRDQUdYLWkzT0IycTVJWHpfUQ?oc=5",
-    "published": "2026-07-30 15:01",
-    "images": [],
-    "summary": "文化大學推動AI跨域學習從課堂到實作拓展多元應用- 新消息- Campus&nbsp;&nbsp;中時新聞網",
-    "tags": "大學, 文化",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "文化大學推動AI跨域學習從課堂到實作拓展多元應用- 新消息- Campus&nbsp;&nbsp;中時新聞網",
-    "cn_title": "文化大學推動AI跨域學習從課堂到實作拓展多元應用- 新消息- Campus - 中時新聞網",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "大學, 文化",
-    "source": "中國時報"
   }
 }
