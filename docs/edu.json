@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5532621": {
+    "title": "海平面1世紀曾暴升5公尺 台大團隊揭劇烈暖化關鍵",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5532621",
+    "published": "2026-08-08 08:23",
+    "images": [],
+    "summary": "如果海平面在100年間上升近5公尺，世界會變成什麼模樣？國立台灣大學地質科學系教授沈川洲率領亞歐國際團隊，研究距今約34萬年前地球一次劇烈暖化與海平面急升事件，當時海平面上升速...…",
+    "tags": "國立臺灣大學, 教授",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "如果海平面在100年間上升近5公尺，世界會變成什麼模樣？國立台灣大學地質科學系教授沈川洲率領亞歐國際團隊，研究距今約34萬年前地球一次劇烈暖化與海平面急升事件，當時海平面上升速...…",
+    "cn_title": "海平面1世紀曾暴升5公尺 台大團隊揭劇烈暖化關鍵",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立臺灣大學, 教授",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/world/paper/1765769": {
     "title": "首例AI合成病毒 釀生物武器隱憂",
     "link": "https://news.ltn.com.tw/news/world/paper/1765769",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "",
     "source": "中央社"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5522724": {
-    "title": "中央大學攜手日本洗足音樂大學打造校園導覽遊戲App 8月底前上架",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5522724",
-    "published": "2026-07-30 11:56",
-    "images": [],
-    "summary": "國立中央大學國際事務處鼓勵學生走向國際、跨域合作並實踐創新構想，自去年推動「學生跨國合作築夢計畫」，鼓勵學生透過國際交流實現創意與夢想，計畫邁入第二屆，今年由來自資工、資管、經...…",
-    "tags": "國立中央大學, 實踐",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "國立中央大學國際事務處鼓勵學生走向國際、跨域合作並實踐創新構想，自去年推動「學生跨國合作築夢計畫」，鼓勵學生透過國際交流實現創意與夢想，計畫邁入第二屆，今年由來自資工、資管、經...…",
-    "cn_title": "中央大學攜手日本洗足音樂大學打造校園導覽遊戲App 8月底前上架",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "國立中央大學, 實踐",
-    "source": "自由時報"
   }
 }
