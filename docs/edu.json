@@ -14,6 +14,21 @@
     "cn_tags": "",
     "source": "遠見雜誌"
   },
+  "https://www.cna.com.tw/news/ahel/202608090198.aspx": {
+    "title": "高為元續任後參與國外校長遴選惹議 發信致歉清華人",
+    "link": "https://www.cna.com.tw/news/ahel/202608090198.aspx",
+    "published": "2026-08-09 21:44",
+    "images": [],
+    "summary": "（中央社記者魯鋼駿新竹市9日電）國立清大校長高為元今年續任後，卻赴美參與國外大學校長遴選，引發議論。高為元今天透過電子信件向全校師生致歉，並稱此機會的確引發他的好奇，坦言他對東西方職場文化差異理解不足。",
+    "tags": "大學, 國立清華大學, 文化",
+    "classes": "校務治理與管理",
+    "is_target": "True",
+    "cn_summary": "（中央社記者魯鋼駿新竹市9日電）國立清大校長高為元今年續任後，卻赴美參與國外大學校長遴選，引發議論。高為元今天透過電子信件向全校師生致歉，並稱此機會的確引發他的好奇，坦言他對東西方職場文化差異理解不足。",
+    "cn_title": "高為元續任後參與國外校長遴選惹議 發信致歉清華人",
+    "cn_classes": "校務治理與管理",
+    "cn_tags": "大學, 國立清華大學, 文化",
+    "source": "中央社"
+  },
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pcnF0TFpUQ3liMDBMNk1FSnNQSG5XWmZXQ1UtYVU4dHpacVh5U3RVQW9SNkxvcWlibERJcGVOaVlKNDNDR1AyeVdHdWVleWdZ?oc=5": {
     "title": "學生拖熊進宿舍剝皮取肉 康乃爾大學新規禁校內處理野味 - UDN",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pcnF0TFpUQ3liMDBMNk1FSnNQSG5XWmZXQ1UtYVU4dHpacVh5U3RVQW9SNkxvcWlibERJcGVOaVlKNDNDR1AyeVdHdWVleWdZ?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學生事務與生活",
     "cn_tags": "國立臺灣師範大學, 大學",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oWHZaY3lQUEE3UW5ITmNCMTNiaGZjZ09sRmc3S0FxbnBtR2tocDdIS1lDd3FjTUJDR3h4Z3ViUG1NZWRiOUwyTVU4U1VnZW1seVNUZDRGSHQ2UlVjdi1qM3pROHlxSnZrNHNj?oc=5": {
-    "title": "在 AI 時代，大學科系該如何布局才能避免被淘汰？ - 遠見雜誌",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oWHZaY3lQUEE3UW5ITmNCMTNiaGZjZ09sRmc3S0FxbnBtR2tocDdIS1lDd3FjTUJDR3h4Z3ViUG1NZWRiOUwyTVU4U1VnZW1seVNUZDRGSHQ2UlVjdi1qM3pROHlxSnZrNHNj?oc=5",
-    "published": "2026-07-31 05:04",
-    "images": [],
-    "summary": "在 AI 時代，大學科系該如何布局才能避免被淘汰？&nbsp;&nbsp;遠見雜誌",
-    "tags": "大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "在 AI 時代，大學科系該如何布局才能避免被淘汰？&nbsp;&nbsp;遠見雜誌",
-    "cn_title": "在 AI 時代，大學科系該如何布局才能避免被淘汰？ - 遠見雜誌",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "大學",
-    "source": "遠見雜誌"
   }
 }
