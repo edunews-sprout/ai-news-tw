@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5533675": {
+    "title": "教育部補助22縣市改善學校無障礙設施 提升學習環境安全與包容性",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5533675",
+    "published": "2026-08-09 13:54",
+    "images": [],
+    "summary": "讓校園生活更無阻礙！教育部近日已完成全國校園無障礙設施設備初步盤點，並依盤點結果，分階段補助各校辦理改善工程，同時每年定期檢視並控管各校改善情形。教育部表示，將持續與各直轄市、...…",
+    "tags": "",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "讓校園生活更無阻礙！教育部近日已完成全國校園無障礙設施設備初步盤點，並依盤點結果，分階段補助各校辦理改善工程，同時每年定期檢視並控管各校改善情形。教育部表示，將持續與各直轄市、...…",
+    "cn_title": "教育部補助22縣市改善學校無障礙設施 提升學習環境安全與包容性",
+    "cn_classes": "其他",
+    "cn_tags": "",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/paper/1765901": {
     "title": "產業界看鬆綁：提升教學環境 讓業師願意來 還能留下來",
     "link": "https://news.ltn.com.tw/news/life/paper/1765901",
@@ -3583,20 +3598,5 @@
     "cn_classes": "產學合作",
     "cn_tags": "大學, 國立臺灣大學",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5523418": {
-    "title": "校園毒品唾液快篩僅限特定人員 教育部：從未規劃全校普篩",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5523418",
-    "published": "2026-07-30 18:59",
-    "images": [],
-    "summary": "校園唾液快篩引發外界關注，教育部今（30）日強調，從未規劃對全校學生實施普篩，未來將比照現行尿液篩檢制度，僅針對曾涉毒、有具體施用毒品事實或經學校評估有必要的高風險特定人員實施...…",
-    "tags": "",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "校園唾液快篩引發外界關注，教育部今（30）日強調，從未規劃對全校學生實施普篩，未來將比照現行尿液篩檢制度，僅針對曾涉毒、有具體施用毒品事實或經學校評估有必要的高風險特定人員實施...…",
-    "cn_title": "校園毒品唾液快篩僅限特定人員 教育部：從未規劃全校普篩",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "",
-    "source": "自由時報"
   }
 }
