@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5534237": {
+    "title": "獨家》防狼師改名重返校園 教育部修法強化身分查核機制",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5534237",
+    "published": "2026-08-10 08:19",
+    "images": [],
+    "summary": "防堵「狼師」等不適任教育人員改名或變更身分資料後重返校園，教育部修正「不適任教育人員之通報資訊蒐集及查詢處理利用辦法」，強化不適任教育人員資料庫身分核對機制，明定教育部可向戶政...…",
+    "tags": "",
+    "classes": "政策與法規",
+    "is_target": "True",
+    "cn_summary": "防堵「狼師」等不適任教育人員改名或變更身分資料後重返校園，教育部修正「不適任教育人員之通報資訊蒐集及查詢處理利用辦法」，強化不適任教育人員資料庫身分核對機制，明定教育部可向戶政...…",
+    "cn_title": "獨家》防狼師改名重返校園 教育部修法強化身分查核機制",
+    "cn_classes": "政策與法規",
+    "cn_tags": "",
+    "source": "自由時報"
+  },
   "https://sports.ltn.com.tw/news/paper/1766020": {
     "title": "長耀盃》林睿軒扛國體大隊長 拚UBA奪冠",
     "link": "https://sports.ltn.com.tw/news/paper/1766020",
@@ -3583,20 +3598,5 @@
     "cn_classes": "校園爭議與事件",
     "cn_tags": "國立清華大學",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQmFHTVMzMlBxSnFkUTdBYnp2LWpuTEdjS1ZFS0ExQ3hSX25Ra0szSXBfVjZwRHRxQlNkWFNQLVBOeDgzZlk4V0hkQURRcjk4ZU05ZXBJSFRpdWJDT1JKZDhnQVZJQWxrM2Vac25SWkNGNHBPOGtMUTlR?oc=5": {
-    "title": "高教階級牆／籌500萬留學輸文化資本學一代仍難翻身| 高教視窗 - 聯合報數位版",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQmFHTVMzMlBxSnFkUTdBYnp2LWpuTEdjS1ZFS0ExQ3hSX25Ra0szSXBfVjZwRHRxQlNkWFNQLVBOeDgzZlk4V0hkQURRcjk4ZU05ZXBJSFRpdWJDT1JKZDhnQVZJQWxrM2Vac25SWkNGNHBPOGtMUTlR?oc=5",
-    "published": "2026-07-31 07:30",
-    "images": [],
-    "summary": "高教階級牆／籌500萬留學輸文化資本學一代仍難翻身| 高教視窗&nbsp;&nbsp;聯合報數位版",
-    "tags": "高教, 文化",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "高教階級牆／籌500萬留學輸文化資本學一代仍難翻身| 高教視窗&nbsp;&nbsp;聯合報數位版",
-    "cn_title": "高教階級牆／籌500萬留學輸文化資本學一代仍難翻身| 高教視窗 - 聯合報數位版",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "高教, 文化",
-    "source": "UDN 文教"
   }
 }
