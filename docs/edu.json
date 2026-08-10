@@ -1,4 +1,34 @@
 {
+  "https://news.ltn.com.tw/news/society/breakingnews/5534411": {
+    "title": "差0.99分！ 清大師升教授夢碎 提行政訴訟再吞敗",
+    "link": "https://news.ltn.com.tw/news/society/breakingnews/5534411",
+    "published": "2026-08-10 11:03",
+    "images": [],
+    "summary": "國立清華大學與國立新竹教育大學2016年合校後，原竹教大應用科學系副教授黃琇珍申請升等教授案，也因系所整併改由過渡機制審查。黃女最終以0.99分之差，未能達到升等門檻。黃女主張...…",
+    "tags": "國立清華大學, 教授",
+    "classes": "校務治理與管理",
+    "is_target": "True",
+    "cn_summary": "國立清華大學與國立新竹教育大學2016年合校後，原竹教大應用科學系副教授黃琇珍申請升等教授案，也因系所整併改由過渡機制審查。黃女最終以0.99分之差，未能達到升等門檻。黃女主張...…",
+    "cn_title": "差0.99分！ 清大師升教授夢碎 提行政訴訟再吞敗",
+    "cn_classes": "校務治理與管理",
+    "cn_tags": "國立清華大學, 教授",
+    "source": "自由時報"
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5534396": {
+    "title": "北科大攜PSA砸5000萬元  培育主權AI人才",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5534396",
+    "published": "2026-08-10 10:54",
+    "images": [],
+    "summary": "AI人才成為產業搶才焦點，國立台北科技大學今（10）日與PSA華科事業群啟動總經費5000萬元、為期3年的產學合作，鎖定主權AI（Sovereign AI）及自主型AI（Age...…",
+    "tags": "科技大學, 產學合作, 國立臺北科技大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "AI人才成為產業搶才焦點，國立台北科技大學今（10）日與PSA華科事業群啟動總經費5000萬元、為期3年的產學合作，鎖定主權AI（Sovereign AI）及自主型AI（Age...…",
+    "cn_title": "北科大攜PSA砸5000萬元  培育主權AI人才",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "科技大學, 產學合作, 國立臺北科技大學",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5534306": {
     "title": "颱風來了生態系如何撐住？ 台大研究解謎",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5534306",
@@ -3568,35 +3598,5 @@
     "cn_classes": "校務治理與管理",
     "cn_tags": "淡江大學",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5523931": {
-    "title": "清大校長高為元續任又赴美面試大學校長  教育部：未違法",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5523931",
-    "published": "2026-07-31 11:32",
-    "images": [],
-    "summary": "本報獨家揭露，國立清華大學校長高為元續任校長3天後，即赴美角逐夏威夷大學馬諾阿分校（UH Mānoa）校長職務，最終未獲錄取，引發議論。教育部今（31）日回應表示，高為元參加國...…",
-    "tags": "國立清華大學",
-    "classes": "校園爭議與事件",
-    "is_target": "True",
-    "cn_summary": "本報獨家揭露，國立清華大學校長高為元續任校長3天後，即赴美角逐夏威夷大學馬諾阿分校（UH Mānoa）校長職務，最終未獲錄取，引發議論。教育部今（31）日回應表示，高為元參加國...…",
-    "cn_title": "清大校長高為元續任又赴美面試大學校長  教育部：未違法",
-    "cn_classes": "校園爭議與事件",
-    "cn_tags": "國立清華大學",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5523906": {
-    "title": "獨家》卸下運動部政次職務 鄭世忠回國立體育大學出任副校長",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5523906",
-    "published": "2026-07-31 11:07",
-    "images": [],
-    "summary": "運動部首任政務次長鄭世忠請辭返校任教後，新職務曝光。據本報獨家掌握，國立體育大學新任校長黃東治將於8月1日上任，已延攬鄭世忠出任副校長，協助推動校務發展。 鄭世忠歷經國立...…",
-    "tags": "國立體育大學",
-    "classes": "校務治理與管理",
-    "is_target": "True",
-    "cn_summary": "運動部首任政務次長鄭世忠請辭返校任教後，新職務曝光。據本報獨家掌握，國立體育大學新任校長黃東治將於8月1日上任，已延攬鄭世忠出任副校長，協助推動校務發展。 鄭世忠歷經國立...…",
-    "cn_title": "獨家》卸下運動部政次職務 鄭世忠回國立體育大學出任副校長",
-    "cn_classes": "校務治理與管理",
-    "cn_tags": "國立體育大學",
-    "source": "自由時報"
   }
 }
