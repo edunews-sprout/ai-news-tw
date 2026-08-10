@@ -29,6 +29,21 @@
     "cn_tags": "大學",
     "source": "UDN 文教"
   },
+  "https://www.cna.com.tw/news/ahel/202608100275.aspx": {
+    "title": "陽明交大醫院擴建　原603床完工後估增至892床",
+    "link": "https://www.cna.com.tw/news/ahel/202608100275.aspx",
+    "published": "2026-08-10 19:29",
+    "images": [],
+    "summary": "（中央社記者王朝鈺宜蘭10日電）立法院社會福利及衛生環境委員會今天前往宜蘭，考察「國立陽明交通大學附設醫院第2期擴建計畫」，醫療大樓部分，預估明年9月完工，總床數將從603床擴增至892床。",
+    "tags": "國立陽明交通大學",
+    "classes": "政策與法規",
+    "is_target": "True",
+    "cn_summary": "（中央社記者王朝鈺宜蘭10日電）立法院社會福利及衛生環境委員會今天前往宜蘭，考察「國立陽明交通大學附設醫院第2期擴建計畫」，醫療大樓部分，預估明年9月完工，總床數將從603床擴增至892床。",
+    "cn_title": "陽明交大醫院擴建　原603床完工後估增至892床",
+    "cn_classes": "政策與法規",
+    "cn_tags": "國立陽明交通大學",
+    "source": "中央社"
+  },
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YVjlGamZVeUdwLVlJb2pBMG9XU2QtWDdJRzVDaGVhNnZyaXI4UE1DWk5LdWVOb1hNZTB4Vk1XVThXTE1EamZVZHlvTXNLVF9W?oc=5": {
     "title": "紙箱搭展間哈佛大學設計學院展覽移師台北| 文教新訊| 文教 - UDN",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YVjlGamZVeUdwLVlJb2pBMG9XU2QtWDdJRzVDaGVhNnZyaXI4UE1DWk5LdWVOb1hNZTB4Vk1XVThXTE1EamZVZHlvTXNLVF9W?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "中山醫學大學",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YekhYMWtiaUVES0x4TVlyNjktNVFEUmNKWTZhN1pwZmMwVXZpdkRwc2lsb1NRdm1UaTUtbE1mbkxKVU5YV3I0MTNsaVNFZVhUa2k5Z0tIZFdGUmttbTVsV1pfRF9QaEJmcVN5TFBaQVBYSWxNMWpz?oc=5": {
-    "title": "從實驗室邁向高科技產業：東海大學化學系以「五大優勢」培育新世代科技菁英 | 熱門亮點 | 商情 - 經濟日報",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YekhYMWtiaUVES0x4TVlyNjktNVFEUmNKWTZhN1pwZmMwVXZpdkRwc2lsb1NRdm1UaTUtbE1mbkxKVU5YV3I0MTNsaVNFZVhUa2k5Z0tIZFdGUmttbTVsV1pfRF9QaEJmcVN5TFBaQVBYSWxNMWpz?oc=5",
-    "published": "2026-07-31 15:51",
-    "images": [],
-    "summary": "從實驗室邁向高科技產業：東海大學化學系以「五大優勢」培育新世代科技菁英 | 熱門亮點 | 商情&nbsp;&nbsp;經濟日報",
-    "tags": "東海大學",
-    "classes": "教學與課程",
-    "is_target": "True",
-    "cn_summary": "從實驗室邁向高科技產業：東海大學化學系以「五大優勢」培育新世代科技菁英 | 熱門亮點 | 商情&nbsp;&nbsp;經濟日報",
-    "cn_title": "從實驗室邁向高科技產業：東海大學化學系以「五大優勢」培育新世代科技菁英 | 熱門亮點 | 商情 - 經濟日報",
-    "cn_classes": "教學與課程",
-    "cn_tags": "東海大學",
-    "source": "UDN 文教"
   }
 }
