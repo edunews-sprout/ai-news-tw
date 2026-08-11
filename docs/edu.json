@@ -1,4 +1,19 @@
 {
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNUUxhTDR0ZXZBUU5NQ3lzQ0NBYy1aeTlPRUJrMldZMFlIdjVvRXlPZmRnWk9nb0lfVFo4UjRnd19tQms4anhYZ1NqVTlSUQ?oc=5": {
+    "title": "AI串聯臺泰傳播教育 義守大學赴泰深化國際研究合作 | 徐炳文 | 地方新聞 - 風傳媒",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNUUxhTDR0ZXZBUU5NQ3lzQ0NBYy1aeTlPRUJrMldZMFlIdjVvRXlPZmRnWk9nb0lfVFo4UjRnd19tQms4anhYZ1NqVTlSUQ?oc=5",
+    "published": "2026-08-11 23:13",
+    "images": [],
+    "summary": "AI串聯臺泰傳播教育 義守大學赴泰深化國際研究合作 | 徐炳文 | 地方新聞&nbsp;&nbsp;風傳媒",
+    "tags": "義守大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "AI串聯臺泰傳播教育 義守大學赴泰深化國際研究合作 | 徐炳文 | 地方新聞&nbsp;&nbsp;風傳媒",
+    "cn_title": "AI串聯臺泰傳播教育 義守大學赴泰深化國際研究合作 | 徐炳文 | 地方新聞 - 風傳媒",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "義守大學",
+    "source": "風傳媒"
+  },
   "https://www.cna.com.tw/news/ait/202608110372.aspx": {
     "title": "芬蘭團隊攜手亞洲學者　AI模型解密人類閱讀機制",
     "link": "https://www.cna.com.tw/news/ait/202608110372.aspx",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "大學",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5525257": {
-    "title": "心不在了？高為元連任校長3天後騎驢找馬另謀他職 再爆清大多項工程延宕",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5525257",
-    "published": "2026-08-01 14:55",
-    "images": [],
-    "summary": "清華大學校長高為元被爆出今年5月1日續任後3天就飛到美國另覓國外大學教職是「騎驢找馬」，且將清華大學當成備胎，有資深特聘教授也質疑高為元除對清華失去誠信，高為元任內學校多項計畫...…",
-    "tags": "國立清華大學, 教授",
-    "classes": "校園爭議與事件",
-    "is_target": "True",
-    "cn_summary": "清華大學校長高為元被爆出今年5月1日續任後3天就飛到美國另覓國外大學教職是「騎驢找馬」，且將清華大學當成備胎，有資深特聘教授也質疑高為元除對清華失去誠信，高為元任內學校多項計畫...…",
-    "cn_title": "心不在了？高為元連任校長3天後騎驢找馬另謀他職 再爆清大多項工程延宕",
-    "cn_classes": "校園爭議與事件",
-    "cn_tags": "國立清華大學, 教授",
-    "source": "自由時報"
   }
 }
