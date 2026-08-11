@@ -1,4 +1,34 @@
 {
+  "https://www.cna.com.tw/news/ahel/202608110352.aspx": {
+    "title": "台灣童軍赴印尼交流　融入當地課堂深化教育合作",
+    "link": "https://www.cna.com.tw/news/ahel/202608110352.aspx",
+    "published": "2026-08-11 20:56",
+    "images": [],
+    "summary": "（中央社記者羅薇佳、實習記者黃鈺涵雅加達11日專電）台灣北極星童軍團18名青年近日赴印尼教育交流，副總團長賴春如今天受訪表示，團隊依過去經驗及學校需求，配合當地學校在原有課程安排童軍教學，貼近印尼學生的學習現場。",
+    "tags": "",
+    "classes": "教學與課程",
+    "is_target": "True",
+    "cn_summary": "（中央社記者羅薇佳、實習記者黃鈺涵雅加達11日專電）台灣北極星童軍團18名青年近日赴印尼教育交流，副總團長賴春如今天受訪表示，團隊依過去經驗及學校需求，配合當地學校在原有課程安排童軍教學，貼近印尼學生的學習現場。",
+    "cn_title": "台灣童軍赴印尼交流　融入當地課堂深化教育合作",
+    "cn_classes": "教學與課程",
+    "cn_tags": "",
+    "source": "中央社"
+  },
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wVUQwVlk2aGx1OG5oWTBlVTN0V2FiWnc3SlhORVVvVnRZSFBZUXdLN0hFV2UzM2RfcklCRVM0UEgwMmFHMDdaSEJmeVA5Zw?oc=5": {
+    "title": "端教育大禮包！蘇巧慧：全國遊學＋AI技職＋校園專責辦公室做師生最強後盾| 徐炳文 | 地方新聞 - 風傳媒",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wVUQwVlk2aGx1OG5oWTBlVTN0V2FiWnc3SlhORVVvVnRZSFBZUXdLN0hFV2UzM2RfcklCRVM0UEgwMmFHMDdaSEJmeVA5Zw?oc=5",
+    "published": "2026-08-11 20:53",
+    "images": [],
+    "summary": "端教育大禮包！蘇巧慧：全國遊學＋AI技職＋校園專責辦公室做師生最強後盾| 徐炳文 | 地方新聞&nbsp;&nbsp;風傳媒",
+    "tags": "技職",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "端教育大禮包！蘇巧慧：全國遊學＋AI技職＋校園專責辦公室做師生最強後盾| 徐炳文 | 地方新聞&nbsp;&nbsp;風傳媒",
+    "cn_title": "端教育大禮包！蘇巧慧：全國遊學＋AI技職＋校園專責辦公室做師生最強後盾| 徐炳文 | 地方新聞 - 風傳媒",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "技職",
+    "source": "風傳媒"
+  },
   "https://news.ltn.com.tw/news/politics/breakingnews/5536411": {
     "title": "蘇巧慧提教育政見 串連產學資源、做師生最強後盾",
     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5536411",
@@ -13,6 +43,21 @@
     "cn_classes": "政策與法規",
     "cn_tags": "",
     "source": "自由時報"
+  },
+  "https://www.cna.com.tw/news/ahel/202608110320.aspx": {
+    "title": "台大醫院傳承安寧緩和經驗　設亞太首座訓練中心",
+    "link": "https://www.cna.com.tw/news/ahel/202608110320.aspx",
+    "published": "2026-08-11 19:32",
+    "images": [],
+    "summary": "（中央社記者沈佩瑤台北11日電）國立台灣大學醫學院附設醫院今天透過新聞稿表示，成立亞太首座「安寧緩和醫療研究及臨床教育訓練中心」，7月20日揭牌，系統性傳承經驗，培育安寧緩和醫療人才。",
+    "tags": "國立臺灣大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "（中央社記者沈佩瑤台北11日電）國立台灣大學醫學院附設醫院今天透過新聞稿表示，成立亞太首座「安寧緩和醫療研究及臨床教育訓練中心」，7月20日揭牌，系統性傳承經驗，培育安寧緩和醫療人才。",
+    "cn_title": "台大醫院傳承安寧緩和經驗　設亞太首座訓練中心",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立臺灣大學",
+    "source": "中央社"
   },
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yRWVHaFY1cFdxWUVManhXMDFnOTZIdEtZMTBtd1hJTWNDLVFMamtGSXNRcDIyNXJoTHlZUDhSaXVtUl9GblJ1N2tPdUhIUkxJ0gFYQVVfeXFMTWJpejBtam5DWGhUYTV5TDJBUl9kME9FNGNlODF0MDNORVFBeVFzOHFISFBQVGhvbUZjSTVwQ2pJTkVKb3pCMFZWUW1VVnkxVUk2WEVmYnVweQ?oc=5": {
     "title": "蘇巧慧教育座談會提政見 校園案件設立專責辦公室 - UDN",
@@ -3553,50 +3598,5 @@
     "cn_classes": "校園爭議與事件",
     "cn_tags": "國立清華大學",
     "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/Taipei/breakingnews/5525228": {
-    "title": "轟清大校長高為元「渣男」林楚茵：教育部聲明一句譴責都沒有是鼓勵騎驢找馬？",
-    "link": "https://news.ltn.com.tw/news/Taipei/breakingnews/5525228",
-    "published": "2026-08-01 14:28",
-    "images": [],
-    "summary": "清華大學校長高為元第二任任期才剛開始，就赴美角逐夏威夷大學馬諾阿分校（UH Mānoa）校長。民進黨立委林楚茵今（1日）抨擊，這根本是渣男行徑，就算法律沒禁止，也早已徹底失去對...…",
-    "tags": "國立清華大學",
-    "classes": "校園爭議與事件",
-    "is_target": "True",
-    "cn_summary": "清華大學校長高為元第二任任期才剛開始，就赴美角逐夏威夷大學馬諾阿分校（UH Mānoa）校長。民進黨立委林楚茵今（1日）抨擊，這根本是渣男行徑，就算法律沒禁止，也早已徹底失去對...…",
-    "cn_title": "轟清大校長高為元「渣男」林楚茵：教育部聲明一句譴責都沒有是鼓勵騎驢找馬？",
-    "cn_classes": "校園爭議與事件",
-    "cn_tags": "國立清華大學",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/society/breakingnews/5525192": {
-    "title": "陽明交大教授砍死連襟今辦追思會  死者岳母首發聲",
-    "link": "https://news.ltn.com.tw/news/society/breakingnews/5525192",
-    "published": "2026-08-01 14:05",
-    "images": [],
-    "summary": "新竹市巨城商圈三民路知名音樂教室7月14日發生陽明交大電機學院教授林詩淳持藍波刀砍殺紀姓連襟的重大命案，林嫌遭警開槍制伏戒護送醫後，日前已出院並由檢方聲押獲准。而亡者紀姓店長的...…",
-    "tags": "國立陽明交通大學, 教授",
-    "classes": "校園爭議與事件",
-    "is_target": "True",
-    "cn_summary": "新竹市巨城商圈三民路知名音樂教室7月14日發生陽明交大電機學院教授林詩淳持藍波刀砍殺紀姓連襟的重大命案，林嫌遭警開槍制伏戒護送醫後，日前已出院並由檢方聲押獲准。而亡者紀姓店長的...…",
-    "cn_title": "陽明交大教授砍死連襟今辦追思會  死者岳母首發聲",
-    "cn_classes": "校園爭議與事件",
-    "cn_tags": "國立陽明交通大學, 教授",
-    "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wWDVVUUUzS210Q3Fad2piNzVwNE54ZXhMSEJWUktoRGRoTldTcFYyUEtDdktzaWxheElCQ0Z0UzFUREFPbmZRWGdsbUlhYkx30gFWQVVfeXFMTlZXd3k0enRoQ3dSTDVPOWlyY3pRVnRkYjUxYVBhakZnYzdWMW5Bd0pMMzZJa1hKX0w4dXVuNl9Ja1ZfX190TmFJbTZBY0NpLWZVR0ZkNkE?oc=5": {
-    "title": "走進世界頂尖實驗室 陽明交大電機系學生赴北加州實習2個月 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wWDVVUUUzS210Q3Fad2piNzVwNE54ZXhMSEJWUktoRGRoTldTcFYyUEtDdktzaWxheElCQ0Z0UzFUREFPbmZRWGdsbUlhYkx30gFWQVVfeXFMTlZXd3k0enRoQ3dSTDVPOWlyY3pRVnRkYjUxYVBhakZnYzdWMW5Bd0pMMzZJa1hKX0w4dXVuNl9Ja1ZfX190TmFJbTZBY0NpLWZVR0ZkNkE?oc=5",
-    "published": "2026-08-01 13:04",
-    "images": [],
-    "summary": "走進世界頂尖實驗室 陽明交大電機系學生赴北加州實習2個月&nbsp;&nbsp;UDN",
-    "tags": "國立陽明交通大學",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "走進世界頂尖實驗室 陽明交大電機系學生赴北加州實習2個月&nbsp;&nbsp;UDN",
-    "cn_title": "走進世界頂尖實驗室 陽明交大電機系學生赴北加州實習2個月 - UDN",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "國立陽明交通大學",
-    "source": "UDN 文教"
   }
 }
