@@ -1,4 +1,19 @@
 {
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeTA5alp5bDRYUWtNS1NaOENJOE1XLVhkak9QbHBfV3NEVzFlSWlqMzRIVi1rVS1WM0NLeHFDaFRaUC1pMC1wai1QUFVxNnJhR0Iwc0dCSDM2clNyZTZ5bFNvbnNaUDJiM2NEeWhvSzBkOWkzcjFXQW0yUkw5MngwSnpfbldZU2JRc0Zicy1XUjdMdHNoNnc?oc=5": {
+    "title": "亞洲大學如何透過腦波偵測提供失智症照護？ - 遠見雜誌",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeTA5alp5bDRYUWtNS1NaOENJOE1XLVhkak9QbHBfV3NEVzFlSWlqMzRIVi1rVS1WM0NLeHFDaFRaUC1pMC1wai1QUFVxNnJhR0Iwc0dCSDM2clNyZTZ5bFNvbnNaUDJiM2NEeWhvSzBkOWkzcjFXQW0yUkw5MngwSnpfbldZU2JRc0Zicy1XUjdMdHNoNnc?oc=5",
+    "published": "2026-08-12 17:08",
+    "images": [],
+    "summary": "亞洲大學如何透過腦波偵測提供失智症照護？&nbsp;&nbsp;遠見雜誌",
+    "tags": "亞洲大學",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "亞洲大學如何透過腦波偵測提供失智症照護？&nbsp;&nbsp;遠見雜誌",
+    "cn_title": "亞洲大學如何透過腦波偵測提供失智症照護？ - 遠見雜誌",
+    "cn_classes": "其他",
+    "cn_tags": "亞洲大學",
+    "source": "遠見雜誌"
+  },
   "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYUJSOFBDWEpudmtrUkVhMXVZRTc0cWZBdFpORklaY2tuZHJfNTJ1T1Ayckk2eWwtYU5tSF90QlRpX1N0SnhBR0F2c2VJcEctM2xHV2U2QVB4VEpfSFpoWHE0b21lLWljY0JoMzh5ei1IMDA2NURTbVJvaktzc1JqNg?oc=5": {
     "title": "24歲台大學霸為何淪為暗網毒梟？ - 遠見雜誌",
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYUJSOFBDWEpudmtrUkVhMXVZRTc0cWZBdFpORklaY2tuZHJfNTJ1T1Ayckk2eWwtYU5tSF90QlRpX1N0SnhBR0F2c2VJcEctM2xHV2U2QVB4VEpfSFpoWHE0b21lLWljY0JoMzh5ei1IMDA2NURTbVJvaktzc1JqNg?oc=5",
@@ -118,6 +133,21 @@
     "cn_classes": "校園爭議與事件",
     "cn_tags": "國立臺灣大學",
     "source": "自由時報"
+  },
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Jc2R3MDhPdEFMWFc5VnRaNkFXb0pkWjQ3cTh5Y29CMTd5aFdmVFZYb0ZJUmtvci1Vc3FzQ0QwdHRzcm9Fd3hpWm0zaS1PSzFP0gFWQVVfeXFMTVFLU21qWmZhVlA1ZlV3WUtWZE5MdnBsRW5WUnFfZF85VTJnM1M3Qi01YThZZjIzSTFHTktOZEg3Yk1MdmdQVkdXb3pnQk1UZkJlUXNDcEE?oc=5": {
+    "title": "北京聯合大學校長：大專院校是推進兩岸「心靈契合」重要平台 - UDN",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Jc2R3MDhPdEFMWFc5VnRaNkFXb0pkWjQ3cTh5Y29CMTd5aFdmVFZYb0ZJUmtvci1Vc3FzQ0QwdHRzcm9Fd3hpWm0zaS1PSzFP0gFWQVVfeXFMTVFLU21qWmZhVlA1ZlV3WUtWZE5MdnBsRW5WUnFfZF85VTJnM1M3Qi01YThZZjIzSTFHTktOZEg3Yk1MdmdQVkdXb3pnQk1UZkJlUXNDcEE?oc=5",
+    "published": "2026-08-12 14:31",
+    "images": [],
+    "summary": "北京聯合大學校長：大專院校是推進兩岸「心靈契合」重要平台&nbsp;&nbsp;UDN",
+    "tags": "聯合大學, 大專",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "北京聯合大學校長：大專院校是推進兩岸「心靈契合」重要平台&nbsp;&nbsp;UDN",
+    "cn_title": "北京聯合大學校長：大專院校是推進兩岸「心靈契合」重要平台 - UDN",
+    "cn_classes": "其他",
+    "cn_tags": "聯合大學, 大專",
+    "source": "UDN 文教"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5537234": {
     "title": "開發多語言模型辨識網路極化言論 陽明交大團隊國際賽獲佳績",
@@ -3568,35 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "大學",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5526357": {
-    "title": "高為元才續任就到國外面試 清大教授建請史欽泰接任校長",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5526357",
-    "published": "2026-08-02 21:10",
-    "images": [],
-    "summary": "清華大學校長高為元遭爆今年5月1日續任後3天就遠赴美國夏威夷面試其他大學校長職位，此舉遭學術界批評及議論，就連中研院院士朱敬一也喊話值得一場學運；而清大特聘教授周卓煇也在臉書發...…",
-    "tags": "國立清華大學, 學術, 教授",
-    "classes": "校園爭議與事件",
-    "is_target": "True",
-    "cn_summary": "清華大學校長高為元遭爆今年5月1日續任後3天就遠赴美國夏威夷面試其他大學校長職位，此舉遭學術界批評及議論，就連中研院院士朱敬一也喊話值得一場學運；而清大特聘教授周卓煇也在臉書發...…",
-    "cn_title": "高為元才續任就到國外面試 清大教授建請史欽泰接任校長",
-    "cn_classes": "校園爭議與事件",
-    "cn_tags": "國立清華大學, 學術, 教授",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5526310": {
-    "title": "全球佛教青年僧眾座談 聚焦AI與國際弘法發展",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5526310",
-    "published": "2026-08-02 20:34",
-    "images": [],
-    "summary": "為深化國際佛教交流，促進青年僧才培育與全球弘法合作，泰國最具代表性的皇家佛教高等學府—摩訶朱拉隆功大學（Mahachulalongkornrajavidyalaya Unive...…",
-    "tags": "大學",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "為深化國際佛教交流，促進青年僧才培育與全球弘法合作，泰國最具代表性的皇家佛教高等學府—摩訶朱拉隆功大學（Mahachulalongkornrajavidyalaya Unive...…",
-    "cn_title": "全球佛教青年僧眾座談 聚焦AI與國際弘法發展",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "大學",
-    "source": "自由時報"
   }
 }
