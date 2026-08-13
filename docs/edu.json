@@ -449,6 +449,21 @@
     "cn_tags": "大學",
     "source": "UDN 文教"
   },
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5sWS1HcjhZdFpPQkFmMzZQXzdWdkQ2VzIwaW53VnBLZ3UzeUR5X0pwT2JHWUZ2aEdOS0xSSEJmMGhaTm9IWm1KUTB2ZEhLUQ?oc=5": {
+    "title": "臺鐵公司產學合作甄試8月6日起報名 釋出42名正、備取名額延攬專業人才 | 何長澤 | 地方新聞 - 風傳媒",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5sWS1HcjhZdFpPQkFmMzZQXzdWdkQ2VzIwaW53VnBLZ3UzeUR5X0pwT2JHWUZ2aEdOS0xSSEJmMGhaTm9IWm1KUTB2ZEhLUQ?oc=5",
+    "published": "2026-08-12 14:46",
+    "images": [],
+    "summary": "臺鐵公司產學合作甄試8月6日起報名 釋出42名正、備取名額延攬專業人才 | 何長澤 | 地方新聞&nbsp;&nbsp;風傳媒",
+    "tags": "產學合作",
+    "classes": "產學合作",
+    "is_target": "True",
+    "cn_summary": "臺鐵公司產學合作甄試8月6日起報名 釋出42名正、備取名額延攬專業人才 | 何長澤 | 地方新聞&nbsp;&nbsp;風傳媒",
+    "cn_title": "臺鐵公司產學合作甄試8月6日起報名 釋出42名正、備取名額延攬專業人才 | 何長澤 | 地方新聞 - 風傳媒",
+    "cn_classes": "產學合作",
+    "cn_tags": "產學合作",
+    "source": "風傳媒"
+  },
   "https://news.ltn.com.tw/news/society/breakingnews/5537247": {
     "title": "台大化學大樓機房冒煙 警消出動人車撲滅無傷",
     "link": "https://news.ltn.com.tw/news/society/breakingnews/5537247",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "研究所, 大學",
     "source": "UDN 文教"
-  },
-  "https://www.cna.com.tw/news/ahel/202608030256.aspx": {
-    "title": "洪集輝掌金大 打造兼具在地特色與國際視野永續大學",
-    "link": "https://www.cna.com.tw/news/ahel/202608030256.aspx",
-    "published": "2026-08-03 18:05",
-    "images": [],
-    "summary": "（中央社記者張已亷金門縣3日電）國立金門大學今天舉行第5任校長就職典禮，新任校長洪集輝就任，洪集輝提出「樂齡生活」、「海洋治理」、「僑鄉大學」及「永續島嶼」四大倡議，作為未來校務發展重點。",
-    "tags": "國立金門大學",
-    "classes": "校務治理與管理",
-    "is_target": "True",
-    "cn_summary": "（中央社記者張已亷金門縣3日電）國立金門大學今天舉行第5任校長就職典禮，新任校長洪集輝就任，洪集輝提出「樂齡生活」、「海洋治理」、「僑鄉大學」及「永續島嶼」四大倡議，作為未來校務發展重點。",
-    "cn_title": "洪集輝掌金大 打造兼具在地特色與國際視野永續大學",
-    "cn_classes": "校務治理與管理",
-    "cn_tags": "國立金門大學",
-    "source": "中央社"
   }
 }
