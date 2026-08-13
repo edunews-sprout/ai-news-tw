@@ -29,6 +29,21 @@
     "cn_tags": "",
     "source": "自由時報"
   },
+  "https://news.ltn.com.tw/news/Taipei/paper/1766594": {
+    "title": "《北市》校長會議 專題講座聚焦AI",
+    "link": "https://news.ltn.com.tw/news/Taipei/paper/1766594",
+    "published": "2026-08-14 05:30",
+    "images": [],
+    "summary": "〔記者孫唯容／台北報導〕台北市昨舉辦一一五學年度第一學期公私立中等學校校長會議，會議以「共築未來學校：人文．創新．永續」為主題。市長蔣萬安出席會議，勉勵校長教育的本質始終是「育人」，無論時代如何改變，應堅守人文核心價值，培養學生具備同理心、責任感、獨立思考能力與良好品格。 教育局局長湯志民說明，台…",
+    "tags": "",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "〔記者孫唯容／台北報導〕台北市昨舉辦一一五學年度第一學期公私立中等學校校長會議，會議以「共築未來學校：人文．創新．永續」為主題。市長蔣萬安出席會議，勉勵校長教育的本質始終是「育人」，無論時代如何改變，應堅守人文核心價值，培養學生具備同理心、責任感、獨立思考能力與良好品格。 教育局局長湯志民說明，台…",
+    "cn_title": "《北市》校長會議 專題講座聚焦AI",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5QnNqbm1ZVXI4LVN2QS1fczE4NGxFM19wSllVTS15SlVMbVpOU2RwR3c4QUVfQ1hHT1N1UDJZVFc4YXJTZGhnSk5zUl9iSjFy0gFWQVVfeXFMTUhpT1paeUgzVDV4TXpMS2VhNWtTNFlFUlhNcm9XVnoxYjQyZkdERUd3bGZEdTRKR2lTWFM3M0ZfNUJGQjc2aHRydWdGZ1dPc1YtZkFQU0E?oc=5": {
     "title": "創投公會邱德成看金融大回饋：盼大學基金遍地開花 補給科技轉型動能 - UDN",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5QnNqbm1ZVXI4LVN2QS1fczE4NGxFM19wSllVTS15SlVMbVpOU2RwR3c4QUVfQ1hHT1N1UDJZVFc4YXJTZGhnSk5zUl9iSjFy0gFWQVVfeXFMTUhpT1paeUgzVDV4TXpMS2VhNWtTNFlFUlhNcm9XVnoxYjQyZkdERUd3bGZEdTRKR2lTWFM3M0ZfNUJGQjc2aHRydWdGZ1dPc1YtZkFQU0E?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "校務治理與管理",
     "cn_tags": "",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5527406": {
-    "title": "金門大學第5任校長洪集輝就職 用AI宣示「永續島嶼」等4大倡議",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5527406",
-    "published": "2026-08-03 21:59",
-    "images": [],
-    "summary": "國立金門大學今天舉行第5任校長洪集輝就職典禮，他透過AI提出4大倡議作為校務發展重點，將秉持「承載歷史重量，開創永續未來」理念，持續深化大學社會責任（USR），並攜手金門縣政府...…",
-    "tags": "國立金門大學",
-    "classes": "在地連結與社會責任（USR）",
-    "is_target": "True",
-    "cn_summary": "國立金門大學今天舉行第5任校長洪集輝就職典禮，他透過AI提出4大倡議作為校務發展重點，將秉持「承載歷史重量，開創永續未來」理念，持續深化大學社會責任（USR），並攜手金門縣政府...…",
-    "cn_title": "金門大學第5任校長洪集輝就職 用AI宣示「永續島嶼」等4大倡議",
-    "cn_classes": "在地連結與社會責任（USR）",
-    "cn_tags": "國立金門大學",
-    "source": "自由時報"
   }
 }
