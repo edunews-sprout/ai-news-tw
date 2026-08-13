@@ -1,4 +1,19 @@
 {
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1Y3FRcTQwQ3dzN2djLWJicm0tekFPRElEM2tFeTVLODk4Ml92NDJoemhCYnRBaXF6azBOUE01RjJoUVpwanhlNk9jZjVLeGloUklsY09wVGNodw?oc=5": {
+    "title": "全球最佳大學排名U.S. News評鑑出爐 雲科大電腦科學居臺灣技職第1 | 產學研訓 | 商情 - 經濟日報",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1Y3FRcTQwQ3dzN2djLWJicm0tekFPRElEM2tFeTVLODk4Ml92NDJoemhCYnRBaXF6azBOUE01RjJoUVpwanhlNk9jZjVLeGloUklsY09wVGNodw?oc=5",
+    "published": "2026-08-13 10:01",
+    "images": [],
+    "summary": "全球最佳大學排名U.S. News評鑑出爐 雲科大電腦科學居臺灣技職第1 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
+    "tags": "國立雲林科技大學, 大學, 技職",
+    "classes": "校務治理與管理",
+    "is_target": "True",
+    "cn_summary": "全球最佳大學排名U.S. News評鑑出爐 雲科大電腦科學居臺灣技職第1 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
+    "cn_title": "全球最佳大學排名U.S. News評鑑出爐 雲科大電腦科學居臺灣技職第1 | 產學研訓 | 商情 - 經濟日報",
+    "cn_classes": "校務治理與管理",
+    "cn_tags": "國立雲林科技大學, 大學, 技職",
+    "source": "UDN 文教"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5538076": {
     "title": "少見！國教院研究員借調擔任技專校長",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5538076",
@@ -3582,21 +3597,6 @@
     "cn_title": "新北市教育局攜手4大學開課 高中職生提前探索專業",
     "cn_classes": "在地連結與社會責任（USR）",
     "cn_tags": "科技大學, 國立臺北大學, 聯合大學, 北科",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5526634": {
-    "title": "培育數位人才 教育部攜手數發部合推AI與資安競賽起跑",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5526634",
-    "published": "2026-08-03 11:22",
-    "images": [],
-    "summary": "培育AI與數位創新人才的重要競賽開跑。由教育部與數位發展部共同主辦的「2026第31屆大專校院資訊應用服務創新競賽」今（3）日起開放報名，受理至10月5日下午4時截止。 ...…",
-    "tags": "大專",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "培育AI與數位創新人才的重要競賽開跑。由教育部與數位發展部共同主辦的「2026第31屆大專校院資訊應用服務創新競賽」今（3）日起開放報名，受理至10月5日下午4時截止。 ...…",
-    "cn_title": "培育數位人才 教育部攜手數發部合推AI與資安競賽起跑",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "大專",
     "source": "自由時報"
   }
 }
