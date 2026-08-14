@@ -284,6 +284,21 @@
     "cn_tags": "大葉大學",
     "source": "自由時報"
   },
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zTUFQYy1kSncyeG9LXzJSUVMzRFpEQmRsS282U0lnV0pHZGljUU9KRGN1aDJ6enItVVZxcFZDckFXRWxpMDBlamhCY3VtYzBX0gFWQVVfeXFMTWZHRDdXWnJsZEdTTUhhUkd6eXd6eGl2WGtvV2cxaWE1LTltMlBVQXNDSDZ1Qm43dG9zSWtmbmxqaXV4Y3V2VkxiY1dGbEN1Vzl0ZFFzOHc?oc=5": {
+    "title": "AI衝擊高等教育 政大X學院赴美交流籲學習者擊破6道牆 - UDN",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zTUFQYy1kSncyeG9LXzJSUVMzRFpEQmRsS282U0lnV0pHZGljUU9KRGN1aDJ6enItVVZxcFZDckFXRWxpMDBlamhCY3VtYzBX0gFWQVVfeXFMTWZHRDdXWnJsZEdTTUhhUkd6eXd6eGl2WGtvV2cxaWE1LTltMlBVQXNDSDZ1Qm43dG9zSWtmbmxqaXV4Y3V2VkxiY1dGbEN1Vzl0ZFFzOHc?oc=5",
+    "published": "2026-08-13 11:01",
+    "images": [],
+    "summary": "AI衝擊高等教育 政大X學院赴美交流籲學習者擊破6道牆&nbsp;&nbsp;UDN",
+    "tags": "高等教育, 國立政治大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "AI衝擊高等教育 政大X學院赴美交流籲學習者擊破6道牆&nbsp;&nbsp;UDN",
+    "cn_title": "AI衝擊高等教育 政大X學院赴美交流籲學習者擊破6道牆 - UDN",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "高等教育, 國立政治大學",
+    "source": "UDN 文教"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5538228": {
     "title": "清大校長高為元續任赴美覓職爭議延燒 前幕僚籲教師會校監會該出手了",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5538228",
@@ -3582,21 +3597,6 @@
     "cn_title": "亞洲大學攜手2企業 開半導體專班 - UDN",
     "cn_classes": "產學合作",
     "cn_tags": "亞洲大學",
-    "source": "UDN 文教"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0NEJZWlJlTEwyUDM0SzhOZGhpdHRKZktfLW1IZEJMNnh5ZDNxdTR3c29zMURVc1NubGZvQkFDYzFWa25HN3RFZ21hQ1A5SmV40gFWQVVfeXFMT3pjbXFlRURsVnUydmN3cjRraVM2emRCcEFRQUVDRi1XM3dzVEJyVi14eVlRY1ZpUEpPWjM3MzBFZnZLX0RQS1c1eWMwUTdXeE9iZWdyaVE?oc=5": {
-    "title": "高科技效應 北高雄校園擴建加速 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0NEJZWlJlTEwyUDM0SzhOZGhpdHRKZktfLW1IZEJMNnh5ZDNxdTR3c29zMURVc1NubGZvQkFDYzFWa25HN3RFZ21hQ1A5SmV40gFWQVVfeXFMT3pjbXFlRURsVnUydmN3cjRraVM2emRCcEFRQUVDRi1XM3dzVEJyVi14eVlRY1ZpUEpPWjM3MzBFZnZLX0RQS1c1eWMwUTdXeE9iZWdyaVE?oc=5",
-    "published": "2026-08-04 00:07",
-    "images": [],
-    "summary": "高科技效應 北高雄校園擴建加速&nbsp;&nbsp;UDN",
-    "tags": "",
-    "classes": "校務治理與管理",
-    "is_target": "True",
-    "cn_summary": "高科技效應 北高雄校園擴建加速&nbsp;&nbsp;UDN",
-    "cn_title": "高科技效應 北高雄校園擴建加速 - UDN",
-    "cn_classes": "校務治理與管理",
-    "cn_tags": "",
     "source": "UDN 文教"
   }
 }
