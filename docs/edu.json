@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5539833": {
+    "title": "耗時11個月打造3.5米火箭！ 虎科大勇奪台灣盃3K組冠軍",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5539833",
+    "published": "2026-08-14 15:06",
+    "images": [],
+    "summary": "我國布局「五大信賴產業」與前瞻科技人才培育，國立虎尾科技大學飛機工程系主任呂文祺及教授吳文忠，與12名學生組成團隊，耗時11個月打造3.5公尺火箭，日前參加「2026台灣盃火箭...…",
+    "tags": "國立虎尾科技大學, 教授",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "我國布局「五大信賴產業」與前瞻科技人才培育，國立虎尾科技大學飛機工程系主任呂文祺及教授吳文忠，與12名學生組成團隊，耗時11個月打造3.5公尺火箭，日前參加「2026台灣盃火箭...…",
+    "cn_title": "耗時11個月打造3.5米火箭！ 虎科大勇奪台灣盃3K組冠軍",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "國立虎尾科技大學, 教授",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5539788": {
     "title": "校園多一雙救命手 教育部擴大教職員EMT-1訓練",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5539788",
@@ -3583,20 +3598,5 @@
     "cn_classes": "國際交流與合作",
     "cn_tags": "大學",
     "source": "UDN 文教"
-  },
-  "https://www.cna.com.tw/news/ahel/202608040045.aspx": {
-    "title": "亞太大學交流會理事會台北登場　台灣擔任主席國",
-    "link": "https://www.cna.com.tw/news/ahel/202608040045.aspx",
-    "published": "2026-08-04 11:01",
-    "images": [],
-    "summary": "（中央社記者陳至中台北4日電）亞太大學交流會（UMAP）理事會議於7月底在台北舉行。台灣以主席國身分主辦會議，超過40名來自各會員國的代表以實體或線上方式與會，共同討論亞太區域的未來教育發展。",
-    "tags": "大學",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "（中央社記者陳至中台北4日電）亞太大學交流會（UMAP）理事會議於7月底在台北舉行。台灣以主席國身分主辦會議，超過40名來自各會員國的代表以實體或線上方式與會，共同討論亞太區域的未來教育發展。",
-    "cn_title": "亞太大學交流會理事會台北登場　台灣擔任主席國",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "大學",
-    "source": "中央社"
   }
 }
