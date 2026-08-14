@@ -1,4 +1,34 @@
 {
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HcWtqRmJ4TVlPR2lfcEN6RWJOWUNnNnNPbUVfb0JLLUVDNFFxdDBOVkhWbTRtZWVVVTFRYkJyOVBBaWkxYVJMRGRIVTZVdzhh0gFWQVVfeXFMUGYwZXFwTHVRR0NhdnhkOVJ2VnhKVGVQRDN0bGw5N05kcm55emM2Vm5OamU0QmloSks5M0FQRXF4bThDaGZ6ckJLeWc4cTRuZzR4ZVk3b0E?oc=5": {
+    "title": "東吳大學攜手故宮博物院　5校學生玩AI讓文物動起來 - UDN",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HcWtqRmJ4TVlPR2lfcEN6RWJOWUNnNnNPbUVfb0JLLUVDNFFxdDBOVkhWbTRtZWVVVTFRYkJyOVBBaWkxYVJMRGRIVTZVdzhh0gFWQVVfeXFMUGYwZXFwTHVRR0NhdnhkOVJ2VnhKVGVQRDN0bGw5N05kcm55emM2Vm5OamU0QmloSks5M0FQRXF4bThDaGZ6ckJLeWc4cTRuZzR4ZVk3b0E?oc=5",
+    "published": "2026-08-14 15:49",
+    "images": [],
+    "summary": "東吳大學攜手故宮博物院 5校學生玩AI讓文物動起來&nbsp;&nbsp;UDN",
+    "tags": "東吳大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "東吳大學攜手故宮博物院 5校學生玩AI讓文物動起來&nbsp;&nbsp;UDN",
+    "cn_title": "東吳大學攜手故宮博物院　5校學生玩AI讓文物動起來 - UDN",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "東吳大學",
+    "source": "UDN 文教"
+  },
+  "https://news.ltn.com.tw/news/Taoyuan/breakingnews/5539923": {
+    "title": "蕭美琴參訪中央大學 聚焦太空產業、科技發展",
+    "link": "https://news.ltn.com.tw/news/Taoyuan/breakingnews/5539923",
+    "published": "2026-08-14 15:43",
+    "images": [],
+    "summary": "副總統蕭美琴今天參訪國立中央大學，了解中央大學在衛星科技、太空人才培育、國土環境監測以及地震防災等領域的研究成果；她表示，面對全球太空產業及科技快速發展，政府將整合國防、產業、...…",
+    "tags": "國立中央大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "副總統蕭美琴今天參訪國立中央大學，了解中央大學在衛星科技、太空人才培育、國土環境監測以及地震防災等領域的研究成果；她表示，面對全球太空產業及科技快速發展，政府將整合國防、產業、...…",
+    "cn_title": "蕭美琴參訪中央大學 聚焦太空產業、科技發展",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立中央大學",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5539833": {
     "title": "耗時11個月打造3.5米火箭！ 虎科大勇奪台灣盃3K組冠軍",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5539833",
@@ -13,6 +43,21 @@
     "cn_classes": "學生事務與生活",
     "cn_tags": "國立虎尾科技大學, 教授",
     "source": "自由時報"
+  },
+  "https://www.cna.com.tw/news/aipl/202608140155.aspx": {
+    "title": "蕭副總統盼產官學研推動太空發展　厚植台灣科技人才",
+    "link": "https://www.cna.com.tw/news/aipl/202608140155.aspx",
+    "published": "2026-08-14 14:51",
+    "images": [],
+    "summary": "（中央社記者葉素萍台北14日電）副總統蕭美琴今天參訪中央大學時表示，面對全球太空產業及科技快速發展，政府將整合國防、產業、科學研究及人才培育等領域，共同推動國家太空發展，並持續厚植台灣太空科技及人才基礎，把握國際合作機會。",
+    "tags": "國立中央大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "（中央社記者葉素萍台北14日電）副總統蕭美琴今天參訪中央大學時表示，面對全球太空產業及科技快速發展，政府將整合國防、產業、科學研究及人才培育等領域，共同推動國家太空發展，並持續厚植台灣太空科技及人才基礎，把握國際合作機會。",
+    "cn_title": "蕭副總統盼產官學研推動太空發展　厚植台灣科技人才",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立中央大學",
+    "source": "中央社"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5539788": {
     "title": "校園多一雙救命手 教育部擴大教職員EMT-1訓練",
@@ -3551,51 +3596,6 @@
     "cn_summary": "布朗大學校長辭職 爭取撥款反DEI惹議&nbsp;&nbsp;UDN",
     "cn_title": "布朗大學校長辭職 爭取撥款反DEI惹議 - UDN",
     "cn_classes": "其他",
-    "cn_tags": "大學",
-    "source": "UDN 文教"
-  },
-  "https://www.cna.com.tw/news/ahel/202608040065.aspx": {
-    "title": "28名大專師赴美EMI培訓　學用生成式AI寫教案",
-    "link": "https://www.cna.com.tw/news/ahel/202608040065.aspx",
-    "published": "2026-08-04 11:45",
-    "images": [],
-    "summary": "（中央社記者許秩維台北4日電）台師大EMI教學資源中心辦理教師移地培訓，全台28名大專教師赴美學習，今年還加入生成式AI課程，帶領教師用AI寫教案、發展教材等，希望將研習經驗轉化為可實踐的教學策略。",
-    "tags": "大專, 國立臺灣師範大學, 實踐",
-    "classes": "教學與課程",
-    "is_target": "True",
-    "cn_summary": "（中央社記者許秩維台北4日電）台師大EMI教學資源中心辦理教師移地培訓，全台28名大專教師赴美學習，今年還加入生成式AI課程，帶領教師用AI寫教案、發展教材等，希望將研習經驗轉化為可實踐的教學策略。",
-    "cn_title": "28名大專師赴美EMI培訓　學用生成式AI寫教案",
-    "cn_classes": "教學與課程",
-    "cn_tags": "大專, 國立臺灣師範大學, 實踐",
-    "source": "中央社"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnVng5NnBhZFN3bDFFUHRvSklGV2kyOUtyODZaSklGS1lnS2FEdjJUVUhubVpreEQwd0JqTDJpWkExWnptV0tmVnlpSkthZnBx?oc=5": {
-    "title": "亞太大學交流會理事會台北登場台灣擔任主席國| 文教新訊| 文教 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnVng5NnBhZFN3bDFFUHRvSklGV2kyOUtyODZaSklGS1lnS2FEdjJUVUhubVpreEQwd0JqTDJpWkExWnptV0tmVnlpSkthZnBx?oc=5",
-    "published": "2026-08-04 11:23",
-    "images": [],
-    "summary": "亞太大學交流會理事會台北登場台灣擔任主席國| 文教新訊| 文教&nbsp;&nbsp;UDN",
-    "tags": "大學",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "亞太大學交流會理事會台北登場台灣擔任主席國| 文教新訊| 文教&nbsp;&nbsp;UDN",
-    "cn_title": "亞太大學交流會理事會台北登場台灣擔任主席國| 文教新訊| 文教 - UDN",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "大學",
-    "source": "UDN 文教"
-  },
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PTUZTWHhWMlhRaEhGdUdlamptRnRmai1jQlNIeWJGNE5BZU1HMDNVSmtBdEFlM1p3NjBMNTRTREdOeGlNSS04amJ4eXU3dm5IbDhlRTU5ZnFJQdIBX0FVX3lxTE0xOFdiZm5Qb2l4RmpsUjZCMktHUWFmbHlwU0Q2cC1ISVhWbkx0UkxBNFZtc09tTEg1YnVOd2hSQUQ2cTRETURBTGpkR1lxQ2Q0LUkzS1lzVnRydUNTU3Vn?oc=5": {
-    "title": "亞太大學交流會理事會台北登場　台灣擔任主席國 - 經濟日報",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PTUZTWHhWMlhRaEhGdUdlamptRnRmai1jQlNIeWJGNE5BZU1HMDNVSmtBdEFlM1p3NjBMNTRTREdOeGlNSS04amJ4eXU3dm5IbDhlRTU5ZnFJQdIBX0FVX3lxTE0xOFdiZm5Qb2l4RmpsUjZCMktHUWFmbHlwU0Q2cC1ISVhWbkx0UkxBNFZtc09tTEg1YnVOd2hSQUQ2cTRETURBTGpkR1lxQ2Q0LUkzS1lzVnRydUNTU3Vn?oc=5",
-    "published": "2026-08-04 11:12",
-    "images": [],
-    "summary": "亞太大學交流會理事會台北登場 台灣擔任主席國&nbsp;&nbsp;經濟日報",
-    "tags": "大學",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "亞太大學交流會理事會台北登場 台灣擔任主席國&nbsp;&nbsp;經濟日報",
-    "cn_title": "亞太大學交流會理事會台北登場　台灣擔任主席國 - 經濟日報",
-    "cn_classes": "國際交流與合作",
     "cn_tags": "大學",
     "source": "UDN 文教"
   }
