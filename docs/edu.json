@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5541210": {
+    "title": "亞洲青年論壇登場 5國6校師生齊聚中山大學附中交流",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5541210",
+    "published": "2026-08-15 21:11",
+    "images": [],
+    "summary": "國立中山大學附屬國光高中主辦的「2026亞洲青年論壇」8月14至20日登場，今（15日）正式開幕，共有5國6校共37位師生參與交流，各國學生將透過主題發表、專題講座、工作坊、成...…",
+    "tags": "國立中山大學",
+    "classes": "國際交流與合作",
+    "is_target": "True",
+    "cn_summary": "國立中山大學附屬國光高中主辦的「2026亞洲青年論壇」8月14至20日登場，今（15日）正式開幕，共有5國6校共37位師生參與交流，各國學生將透過主題發表、專題講座、工作坊、成...…",
+    "cn_title": "亞洲青年論壇登場 5國6校師生齊聚中山大學附中交流",
+    "cn_classes": "國際交流與合作",
+    "cn_tags": "國立中山大學",
+    "source": "自由時報"
+  },
   "https://www.cna.com.tw/news/afe/202608150186.aspx": {
     "title": "泰國布局人工智慧　泰達電聚焦AI與資料中心",
     "link": "https://www.cna.com.tw/news/afe/202608150186.aspx",
@@ -3583,20 +3598,5 @@
     "cn_classes": "校務治理與管理",
     "cn_tags": "大學, 國立清華大學",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SMnBrR09jTkQxMlYxMGFlQUtuejNLdUFLa09RNWN4Z2xBekhyZVdFSmhhMmtpTV81TGxBU3F5ZGtDWHhnNU5QcHBnZlplMEJL?oc=5": {
-    "title": "政大辦浸潤式工作坊實驗教育師齊聚花蓮共學| 大學研究所| 文教 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SMnBrR09jTkQxMlYxMGFlQUtuejNLdUFLa09RNWN4Z2xBekhyZVdFSmhhMmtpTV81TGxBU3F5ZGtDWHhnNU5QcHBnZlplMEJL?oc=5",
-    "published": "2026-08-05 11:54",
-    "images": [],
-    "summary": "政大辦浸潤式工作坊實驗教育師齊聚花蓮共學| 大學研究所| 文教&nbsp;&nbsp;UDN",
-    "tags": "研究所, 大學, 國立政治大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "政大辦浸潤式工作坊實驗教育師齊聚花蓮共學| 大學研究所| 文教&nbsp;&nbsp;UDN",
-    "cn_title": "政大辦浸潤式工作坊實驗教育師齊聚花蓮共學| 大學研究所| 文教 - UDN",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "研究所, 大學, 國立政治大學",
-    "source": "UDN 文教"
   }
 }
