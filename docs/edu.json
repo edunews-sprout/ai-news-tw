@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/world/breakingnews/5540498": {
+    "title": "劍橋大學最年輕黑人教授捲抄襲爭議 辭職一週後陳屍住處",
+    "link": "https://news.ltn.com.tw/news/world/breakingnews/5540498",
+    "published": "2026-08-15 08:13",
+    "images": [],
+    "summary": "英國劍橋大學教授阿戴（Jason Arday）近期捲入學術抄襲爭議，上週辭去教育社會學教授職務後，週五（14日）被發現陳屍倫敦住處，享年41歲。 綜合外媒報導，倫敦救護人員...…",
+    "tags": "大學, 學術, 教授",
+    "classes": "校園爭議與事件",
+    "is_target": "True",
+    "cn_summary": "英國劍橋大學教授阿戴（Jason Arday）近期捲入學術抄襲爭議，上週辭去教育社會學教授職務後，週五（14日）被發現陳屍倫敦住處，享年41歲。 綜合外媒報導，倫敦救護人員...…",
+    "cn_title": "劍橋大學最年輕黑人教授捲抄襲爭議 辭職一週後陳屍住處",
+    "cn_classes": "校園爭議與事件",
+    "cn_tags": "大學, 學術, 教授",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/paper/1766752": {
     "title": "研發11個月 虎科大奪火箭賽3K組冠軍",
     "link": "https://news.ltn.com.tw/news/life/paper/1766752",
@@ -3583,20 +3598,5 @@
     "cn_classes": "教學與課程",
     "cn_tags": "大學, 大專, 國立臺灣師範大學, 實踐",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpSUZVeklfSEUxSDU0OVRSbU1qVVY5VExrcE05SUZCR3ZuWVdzbFhfM3RJN0JJSDU1bmdrTldZeEVkcXRsZEoxVnhaRlBmek5w?oc=5": {
-    "title": "外國青年來台蹲點赴大葉大學觀摩智慧醫療研究| 大學研究所| 文教 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpSUZVeklfSEUxSDU0OVRSbU1qVVY5VExrcE05SUZCR3ZuWVdzbFhfM3RJN0JJSDU1bmdrTldZeEVkcXRsZEoxVnhaRlBmek5w?oc=5",
-    "published": "2026-08-04 17:06",
-    "images": [],
-    "summary": "外國青年來台蹲點赴大葉大學觀摩智慧醫療研究| 大學研究所| 文教&nbsp;&nbsp;UDN",
-    "tags": "大葉大學, 研究所",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "外國青年來台蹲點赴大葉大學觀摩智慧醫療研究| 大學研究所| 文教&nbsp;&nbsp;UDN",
-    "cn_title": "外國青年來台蹲點赴大葉大學觀摩智慧醫療研究| 大學研究所| 文教 - UDN",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "大葉大學, 研究所",
-    "source": "UDN 文教"
   }
 }
