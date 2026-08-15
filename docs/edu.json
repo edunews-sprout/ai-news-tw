@@ -1,4 +1,19 @@
 {
+  "https://www.cna.com.tw/news/afe/202608150186.aspx": {
+    "title": "泰國布局人工智慧　泰達電聚焦AI與資料中心",
+    "link": "https://www.cna.com.tw/news/afe/202608150186.aspx",
+    "published": "2026-08-15 19:39",
+    "images": [],
+    "summary": "（中央社記者李宗憲曼谷15日專電）泰達電昨天舉辦產業高峰會，聚焦AI、電力基礎建設、資料中心與工業自動化等議題，表示AI與資料中心已成為公司成長的主要引擎。泰國工業部長沃拉伍致詞表示，政府發展AI必須與產學界合作，並加速提升勞工技能。",
+    "tags": "學界",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "（中央社記者李宗憲曼谷15日專電）泰達電昨天舉辦產業高峰會，聚焦AI、電力基礎建設、資料中心與工業自動化等議題，表示AI與資料中心已成為公司成長的主要引擎。泰國工業部長沃拉伍致詞表示，政府發展AI必須與產學界合作，並加速提升勞工技能。",
+    "cn_title": "泰國布局人工智慧　泰達電聚焦AI與資料中心",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "學界",
+    "source": "中央社"
+  },
   "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Xb3dwSVZCaFVoS0dXR2tjbUo1dERra0ZTNzhOTmg3SU55Smp5MElaRWM1MXBQMzlUbUlsYm9VVFk3c3ZERXVqa25MS2tyQ1BDOTU3cm9tNFJtQ1o30gFiQVVfeXFMUFJxeVNydkZZbXhEUlBSWDAzWHc1RE1rb1daNUx1MmwzSUlaSVRFU1pVMVpseWpWQ0ljdGdTQzdzb243MDA0Q1F6ank0VlNFZXdlTUp3R3R1QjdLQjJicmMydFE?oc=5": {
     "title": "嶺南大學在2026年軟科世界大學學術排名攀升300位 本港八所資助大學中升幅最大 排名躍居第六位 - 經濟日報",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Xb3dwSVZCaFVoS0dXR2tjbUo1dERra0ZTNzhOTmg3SU55Smp5MElaRWM1MXBQMzlUbUlsYm9VVFk3c3ZERXVqa25MS2tyQ1BDOTU3cm9tNFJtQ1o30gFiQVVfeXFMUFJxeVNydkZZbXhEUlBSWDAzWHc1RE1rb1daNUx1MmwzSUlaSVRFU1pVMVpseWpWQ0ljdGdTQzdzb243MDA0Q1F6ank0VlNFZXdlTUp3R3R1QjdLQjJicmMydFE?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "研究所, 大學, 國立政治大學",
     "source": "UDN 文教"
-  },
-  "https://www.cna.com.tw/news/aloc/202608050089.aspx": {
-    "title": "竹縣社會創新基地招募團隊　提供創業輔導",
-    "link": "https://www.cna.com.tw/news/aloc/202608050089.aspx",
-    "published": "2026-08-05 11:45",
-    "images": [],
-    "summary": "（中央社記者郭宣彣新竹縣5日電）新竹縣政府今天表示，與明新科技大學合作推動的新竹社會創新基地啟動115年度進駐團隊招募，提供創業輔導、空間及資源媒合，盼培育青年創業及社會創新團隊。",
-    "tags": "明新科技大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "（中央社記者郭宣彣新竹縣5日電）新竹縣政府今天表示，與明新科技大學合作推動的新竹社會創新基地啟動115年度進駐團隊招募，提供創業輔導、空間及資源媒合，盼培育青年創業及社會創新團隊。",
-    "cn_title": "竹縣社會創新基地招募團隊　提供創業輔導",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "明新科技大學",
-    "source": "中央社"
   }
 }
