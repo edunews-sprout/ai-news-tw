@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5541335": {
+    "title": "台大團隊突破半導體檢測瓶頸 首次直接量測2奈米載子轉移長度",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5541335",
+    "published": "2026-08-16 08:22",
+    "images": [],
+    "summary": "晶片愈做愈小，電子從金屬進入半導體後究竟要走多遠，過去主要靠模型間接推算，現在竟可以「直接量」。國立台灣大學物理系特聘教授邱雅萍研究團隊研發「臨場剖面掃描穿隧顯微半導體檢測技術...…",
+    "tags": "國立臺灣大學, 教授",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "晶片愈做愈小，電子從金屬進入半導體後究竟要走多遠，過去主要靠模型間接推算，現在竟可以「直接量」。國立台灣大學物理系特聘教授邱雅萍研究團隊研發「臨場剖面掃描穿隧顯微半導體檢測技術...…",
+    "cn_title": "台大團隊突破半導體檢測瓶頸 首次直接量測2奈米載子轉移長度",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立臺灣大學, 教授",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MR29LVFFXeTBic2t3ZXdWUTBFOWR2QWw5MGVEeldubTBkUjRZQ0toNkJtSDI3QmxsaXg0SUZvb003Q3BnUXg0Q21RaWFmdzRv?oc=5": {
     "title": "校園新鮮事／屏東大學攜手智青輕鬆「打開」總圖| 文教新訊| 文教 - udn.com",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MR29LVFFXeTBic2t3ZXdWUTBFOWR2QWw5MGVEeldubTBkUjRZQ0toNkJtSDI3QmxsaXg0SUZvb003Q3BnUXg0Q21RaWFmdzRv?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "政策與法規",
     "cn_tags": "大學, 文化",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ETXhPT3gydS1WTjZGWmtiVXc2T3Nma3ZLNFJlRDhjcVp0Vno4ZndDcE5FNk0zRXFVdHhyS3dJb29IOG13Yllvam5FME9kbUVpTUNoM0hn0gFWQVVfeXFMTURNeE9PeDJ1LVZONkZaa2JVdzZPc2Zrdks0UmVEOGNxWnRWejhmd0NwTkU2TTNFcVV0eHJLd0lvb0g4bXdiWW9qbkUwT2RtRWlNQ2gzSGc?oc=5": {
-    "title": "公私立大學攜手突圍少子化 輔仁與宜蘭大學簽MOU跨域合作 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ETXhPT3gydS1WTjZGWmtiVXc2T3Nma3ZLNFJlRDhjcVp0Vno4ZndDcE5FNk0zRXFVdHhyS3dJb29IOG13Yllvam5FME9kbUVpTUNoM0hn0gFWQVVfeXFMTURNeE9PeDJ1LVZONkZaa2JVdzZPc2Zrdks0UmVEOGNxWnRWejhmd0NwTkU2TTNFcVV0eHJLd0lvb0g4bXdiWW9qbkUwT2RtRWlNQ2gzSGc?oc=5",
-    "published": "2026-08-05 13:33",
-    "images": [],
-    "summary": "公私立大學攜手突圍少子化 輔仁與宜蘭大學簽MOU跨域合作&nbsp;&nbsp;UDN",
-    "tags": "私立大學, 國立宜蘭大學, 輔仁大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "公私立大學攜手突圍少子化 輔仁與宜蘭大學簽MOU跨域合作&nbsp;&nbsp;UDN",
-    "cn_title": "公私立大學攜手突圍少子化 輔仁與宜蘭大學簽MOU跨域合作 - UDN",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "私立大學, 國立宜蘭大學, 輔仁大學",
-    "source": "UDN 文教"
   }
 }
