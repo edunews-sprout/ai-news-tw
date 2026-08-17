@@ -1,4 +1,19 @@
 {
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CaTRBS0g4bWM1RFRXNTZkYnJpdHdwQTFPZHh3TjBLaWpHbnZvdld1Nm1jZU5iV09aTXlFeHBVbTFaS09Ob0lHalo2TXdabElv?oc=5": {
+    "title": "大學分發熱門校系電機、材料往前衝| 大學考招| 文教 - UDN",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CaTRBS0g4bWM1RFRXNTZkYnJpdHdwQTFPZHh3TjBLaWpHbnZvdld1Nm1jZU5iV09aTXlFeHBVbTFaS09Ob0lHalo2TXdabElv?oc=5",
+    "published": "2026-08-18 00:00",
+    "images": [],
+    "summary": "大學分發熱門校系電機、材料往前衝| 大學考招| 文教&nbsp;&nbsp;UDN",
+    "tags": "大學, 學分",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "大學分發熱門校系電機、材料往前衝| 大學考招| 文教&nbsp;&nbsp;UDN",
+    "cn_title": "大學分發熱門校系電機、材料往前衝| 大學考招| 文教 - UDN",
+    "cn_classes": "其他",
+    "cn_tags": "大學, 學分",
+    "source": "UDN 文教"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5543044": {
     "title": "培養淨零綠領人才 成大攜15校成立「南區培育中心」",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5543044",
@@ -3582,21 +3597,6 @@
     "cn_title": "海平面1世紀曾暴升5公尺 台大團隊揭劇烈暖化關鍵",
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立臺灣大學, 教授",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/world/paper/1765769": {
-    "title": "首例AI合成病毒 釀生物武器隱憂",
-    "link": "https://news.ltn.com.tw/news/world/paper/1765769",
-    "published": "2026-08-08 05:30",
-    "images": [],
-    "summary": "〔編譯管淑平／綜合報導〕美國史丹佛大學研究人員利用生成式人工智慧（AI）技術，設計出可消滅大腸桿菌的合成病毒，為首見AI創造出自然界不存在的病毒，雖增添醫藥進展希望，但也引發此技術遭濫用製造危險病原體甚至生物武器的憂慮。 AI自行生成 可消滅大腸桿菌 史丹佛大學與加州研究機構Arc In…",
-    "tags": "大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "〔編譯管淑平／綜合報導〕美國史丹佛大學研究人員利用生成式人工智慧（AI）技術，設計出可消滅大腸桿菌的合成病毒，為首見AI創造出自然界不存在的病毒，雖增添醫藥進展希望，但也引發此技術遭濫用製造危險病原體甚至生物武器的憂慮。 AI自行生成 可消滅大腸桿菌 史丹佛大學與加州研究機構Arc In…",
-    "cn_title": "首例AI合成病毒 釀生物武器隱憂",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "大學",
     "source": "自由時報"
   }
 }
