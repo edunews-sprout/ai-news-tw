@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5542198": {
+    "title": "AI會教也會騙！各國校園迎戰學習、深偽與隱私風險",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5542198",
+    "published": "2026-08-17 08:38",
+    "images": [],
+    "summary": "人工智慧（AI）快速進入校園，能幫學生找職涯方向、練語言，甚至判讀閱讀能力，但也可能讓學生習慣「走捷徑」，衍生深偽影像、作弊、偏見及個資外洩等問題。國家教育研究院教育制度及政策...…",
+    "tags": "",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "人工智慧（AI）快速進入校園，能幫學生找職涯方向、練語言，甚至判讀閱讀能力，但也可能讓學生習慣「走捷徑」，衍生深偽影像、作弊、偏見及個資外洩等問題。國家教育研究院教育制度及政策...…",
+    "cn_title": "AI會教也會騙！各國校園迎戰學習、深偽與隱私風險",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5542193": {
     "title": "教育部鬆綁私校賸餘款投資限制 單一標的上限提高至25％",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5542193",
@@ -3583,20 +3598,5 @@
     "cn_classes": "在地連結與社會責任（USR）",
     "cn_tags": "國立屏東大學",
     "source": "天下雜誌"
-  },
-  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ISmo1UExrWklCSENVcXdsYk00dERFRVdlcEdvaVVCaENVN1lsTDRGazIydVBMTDc2TzVjWnlHdHNlTmRTVmtGQWo0Y2dJbXFiOTdldFNR0gFWQVVfeXFMTUhKajVQTGtaSUJIQ1Vxd2xiTTR0REVFV2VwR29pVUJoQ1U3WWxMNEZrMjJ1UExMNzZPNWNaeUd0c2VOZFNWa0ZBajRjZ0ltcWI5N2V0U1E?oc=5": {
-    "title": "國立大學校長另覓職 教部允檢討 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ISmo1UExrWklCSENVcXdsYk00dERFRVdlcEdvaVVCaENVN1lsTDRGazIydVBMTDc2TzVjWnlHdHNlTmRTVmtGQWo0Y2dJbXFiOTdldFNR0gFWQVVfeXFMTUhKajVQTGtaSUJIQ1Vxd2xiTTR0REVFV2VwR29pVUJoQ1U3WWxMNEZrMjJ1UExMNzZPNWNaeUd0c2VOZFNWa0ZBajRjZ0ltcWI5N2V0U1E?oc=5",
-    "published": "2026-08-06 00:39",
-    "images": [],
-    "summary": "國立大學校長另覓職 教部允檢討&nbsp;&nbsp;UDN",
-    "tags": "國立大學",
-    "classes": "校園爭議與事件",
-    "is_target": "True",
-    "cn_summary": "國立大學校長另覓職 教部允檢討&nbsp;&nbsp;UDN",
-    "cn_title": "國立大學校長另覓職 教部允檢討 - UDN",
-    "cn_classes": "校園爭議與事件",
-    "cn_tags": "國立大學",
-    "source": "UDN 文教"
   }
 }
