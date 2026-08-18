@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5544393": {
+    "title": "中山大學與海軍官校簽署策略聯盟 學生可跨校雙主修",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5544393",
+    "published": "2026-08-18 22:00",
+    "images": [],
+    "summary": "國立中山大學為深化高等教育跨校合作，攜手海軍官校頂尖文武結盟，開創「跨校雙學位」，中山大學校長李志鵬與海軍官校校長劉岱瑞攜手推動創新人才培育模式，兩校今（18）日簽署策略聯盟協...…",
+    "tags": "國立中山大學, 高等教育, 學位",
+    "classes": "產學合作",
+    "is_target": "True",
+    "cn_summary": "國立中山大學為深化高等教育跨校合作，攜手海軍官校頂尖文武結盟，開創「跨校雙學位」，中山大學校長李志鵬與海軍官校校長劉岱瑞攜手推動創新人才培育模式，兩校今（18）日簽署策略聯盟協...…",
+    "cn_title": "中山大學與海軍官校簽署策略聯盟 學生可跨校雙主修",
+    "cn_classes": "產學合作",
+    "cn_tags": "國立中山大學, 高等教育, 學位",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByY2JJSV9KT2NJY013b01uR0thbXFfcjUwZTYwaTNyZkNIdDFkX0RIWTFpc09jUEsyY1EtOFEwVzNFRVFHRk1HaUplczhVU010?oc=5": {
     "title": "高雄大學越南交流將跨域整合課堂延伸至國際場域| 大學研究所| 文教 - udn.com",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByY2JJSV9KT2NJY013b01uR0thbXFfcjUwZTYwaTNyZkNIdDFkX0RIWTFpc09jUEsyY1EtOFEwVzNFRVFHRk1HaUplczhVU010?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "產學合作",
     "cn_tags": "產學合作, 學術研究, 國立臺北科技大學",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CdGh6VGJpdnhTc1JGMDlTN3FDZlFweEhmejNCcG1lMlh1N1NmTzBlWmg2aFV3T2JxZ1pWS2FDUGtDRWRuQ2VuLXVYT1A2U0xv?oc=5": {
-    "title": "清大整併中華大學創「清華²科技園」今揭牌培育下世代獨角獸| 大學研究所| 文教 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CdGh6VGJpdnhTc1JGMDlTN3FDZlFweEhmejNCcG1lMlh1N1NmTzBlWmg2aFV3T2JxZ1pWS2FDUGtDRWRuQ2VuLXVYT1A2U0xv?oc=5",
-    "published": "2026-08-10 14:27",
-    "images": [],
-    "summary": "清大整併中華大學創「清華²科技園」今揭牌培育下世代獨角獸| 大學研究所| 文教&nbsp;&nbsp;UDN",
-    "tags": "中華大學, 研究所, 國立清華大學",
-    "classes": "校務治理與管理",
-    "is_target": "True",
-    "cn_summary": "清大整併中華大學創「清華²科技園」今揭牌培育下世代獨角獸| 大學研究所| 文教&nbsp;&nbsp;UDN",
-    "cn_title": "清大整併中華大學創「清華²科技園」今揭牌培育下世代獨角獸| 大學研究所| 文教 - UDN",
-    "cn_classes": "校務治理與管理",
-    "cn_tags": "中華大學, 研究所, 國立清華大學",
-    "source": "UDN 文教"
   }
 }
