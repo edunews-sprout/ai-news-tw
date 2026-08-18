@@ -1,4 +1,19 @@
 {
+  "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTDhBbWNIeGhreDJHamRYTVNUeXVpM1BDc0JXVHQzMER0aHJMTENZV25QcDNMQW5BMGJfQXRIYm80alQ4cks3ZTJ2MjBZNFZnWlZiSFNUOUVpVG14RmFQaXU1X3hMdllYekdBdUJHNHZVWjRQZWRuekNpekxvYzd1dQ?oc=5": {
+    "title": "AI趨勢如何重塑大學科系志願選擇與錄取排名？ - 遠見雜誌",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTDhBbWNIeGhreDJHamRYTVNUeXVpM1BDc0JXVHQzMER0aHJMTENZV25QcDNMQW5BMGJfQXRIYm80alQ4cks3ZTJ2MjBZNFZnWlZiSFNUOUVpVG14RmFQaXU1X3hMdllYekdBdUJHNHZVWjRQZWRuekNpekxvYzd1dQ?oc=5",
+    "published": "2026-08-18 22:54",
+    "images": [],
+    "summary": "AI趨勢如何重塑大學科系志願選擇與錄取排名？&nbsp;&nbsp;遠見雜誌",
+    "tags": "大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "AI趨勢如何重塑大學科系志願選擇與錄取排名？&nbsp;&nbsp;遠見雜誌",
+    "cn_title": "AI趨勢如何重塑大學科系志願選擇與錄取排名？ - 遠見雜誌",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "大學",
+    "source": "遠見雜誌"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5544393": {
     "title": "中山大學與海軍官校簽署策略聯盟 學生可跨校雙主修",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5544393",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "大學",
     "source": "遠見雜誌"
-  },
-  "https://ec.ltn.com.tw/article/breakingnews/5534706": {
-    "title": "攜手北科大啟動AI產學合作 華新科董座焦佑衡:想辦法吸引全球人才來台",
-    "link": "https://ec.ltn.com.tw/article/breakingnews/5534706",
-    "published": "2026-08-10 14:33",
-    "images": [],
-    "summary": "PSA華科事業群今日與北科大正式簽署產學合作計畫，宣布啟動為期三年、總投入5000萬元的合作案，雙方將以AI技術研發及人才培育為合作核心，結合企業實務與學術研究能量，共同...…",
-    "tags": "產學合作, 學術研究, 國立臺北科技大學",
-    "classes": "產學合作",
-    "is_target": "True",
-    "cn_summary": "PSA華科事業群今日與北科大正式簽署產學合作計畫，宣布啟動為期三年、總投入5000萬元的合作案，雙方將以AI技術研發及人才培育為合作核心，結合企業實務與學術研究能量，共同...…",
-    "cn_title": "攜手北科大啟動AI產學合作 華新科董座焦佑衡:想辦法吸引全球人才來台",
-    "cn_classes": "產學合作",
-    "cn_tags": "產學合作, 學術研究, 國立臺北科技大學",
-    "source": "自由時報"
   }
 }
