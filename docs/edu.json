@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5544567": {
+    "title": "108人登上國立大學！湖口高中普通科、技職雙軌開花",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5544567",
+    "published": "2026-08-19 07:55",
+    "images": [],
+    "summary": "新竹縣立湖口高中115學年度升學表現亮眼！校方表示，透過繁星推薦、申請入學及四技二專等多元管道，累計199人次錄取國內大專校院，其中錄取國立大學有108人，展現學校兼顧普通科與...…",
+    "tags": "國立大學, 申請入學, 技職, 大專, 繁星, 四技",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "新竹縣立湖口高中115學年度升學表現亮眼！校方表示，透過繁星推薦、申請入學及四技二專等多元管道，累計199人次錄取國內大專校院，其中錄取國立大學有108人，展現學校兼顧普通科與...…",
+    "cn_title": "108人登上國立大學！湖口高中普通科、技職雙軌開花",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "國立大學, 申請入學, 技職, 大專, 繁星, 四技",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/paper/1767272": {
     "title": "環境部推資源循環雙法 雲林開2場座談",
     "link": "https://news.ltn.com.tw/news/life/paper/1767272",
@@ -3583,20 +3598,5 @@
     "cn_classes": "政策與法規",
     "cn_tags": "國立陽明交通大學",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJeTViajBlSmlFcnR4T0FLMUNFanBvMFdHcFBfVURXQ3plQ01DRlBXUUFCdk56azJnNlNLbTBXVl9ZcHpwNkZkOEtJQkYtbjBNZTdqVWpqRGZFUQ?oc=5": {
-    "title": "中原大學主辦2026 ACUCA執委會 亞洲8所大學攜手深化高教合作 | 產學研訓 | 商情 - 經濟日報",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJeTViajBlSmlFcnR4T0FLMUNFanBvMFdHcFBfVURXQ3plQ01DRlBXUUFCdk56azJnNlNLbTBXVl9ZcHpwNkZkOEtJQkYtbjBNZTdqVWpqRGZFUQ?oc=5",
-    "published": "2026-08-10 16:01",
-    "images": [],
-    "summary": "中原大學主辦2026 ACUCA執委會 亞洲8所大學攜手深化高教合作 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
-    "tags": "中原大學, 高教",
-    "classes": "產學合作",
-    "is_target": "True",
-    "cn_summary": "中原大學主辦2026 ACUCA執委會 亞洲8所大學攜手深化高教合作 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
-    "cn_title": "中原大學主辦2026 ACUCA執委會 亞洲8所大學攜手深化高教合作 | 產學研訓 | 商情 - 經濟日報",
-    "cn_classes": "產學合作",
-    "cn_tags": "中原大學, 高教",
-    "source": "UDN 文教"
   }
 }
