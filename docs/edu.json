@@ -44,6 +44,21 @@
     "cn_tags": "國立陽明交通大學, 學分, 國立臺灣大學",
     "source": "自由時報"
   },
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xcXpyWGFGdG5NNjRzOEx4aklJNGVKZnF4ZTBUTGRzbm1wd1dXMTh4eFg1clh2TTNnMUlIbkFDN0dQc005aXhCZHFERE02bUhq?oc=5": {
+    "title": "基隆二信2學生捨建中直升「藍碳研究」班分發入學再添2台大生| 大學考招| 文教 - udn.com",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xcXpyWGFGdG5NNjRzOEx4aklJNGVKZnF4ZTBUTGRzbm1wd1dXMTh4eFg1clh2TTNnMUlIbkFDN0dQc005aXhCZHFERE02bUhq?oc=5",
+    "published": "2026-08-19 09:48",
+    "images": [],
+    "summary": "基隆二信2學生捨建中直升「藍碳研究」班分發入學再添2台大生| 大學考招| 文教&nbsp;&nbsp;udn.com",
+    "tags": "大學, 國立臺灣大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "基隆二信2學生捨建中直升「藍碳研究」班分發入學再添2台大生| 大學考招| 文教&nbsp;&nbsp;udn.com",
+    "cn_title": "基隆二信2學生捨建中直升「藍碳研究」班分發入學再添2台大生| 大學考招| 文教 - udn.com",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "大學, 國立臺灣大學",
+    "source": "UDN 文教"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5544567": {
     "title": "108人登上國立大學！湖口高中普通科、技職雙軌開花",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5544567",
@@ -3583,20 +3598,5 @@
     "cn_classes": "政策與法規",
     "cn_tags": "國立陽明交通大學",
     "source": "中央社"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YVjlGamZVeUdwLVlJb2pBMG9XU2QtWDdJRzVDaGVhNnZyaXI4UE1DWk5LdWVOb1hNZTB4Vk1XVThXTE1EamZVZHlvTXNLVF9W?oc=5": {
-    "title": "紙箱搭展間哈佛大學設計學院展覽移師台北| 文教新訊| 文教 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YVjlGamZVeUdwLVlJb2pBMG9XU2QtWDdJRzVDaGVhNnZyaXI4UE1DWk5LdWVOb1hNZTB4Vk1XVThXTE1EamZVZHlvTXNLVF9W?oc=5",
-    "published": "2026-08-10 19:14",
-    "images": [],
-    "summary": "紙箱搭展間哈佛大學設計學院展覽移師台北| 文教新訊| 文教&nbsp;&nbsp;UDN",
-    "tags": "大學",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "紙箱搭展間哈佛大學設計學院展覽移師台北| 文教新訊| 文教&nbsp;&nbsp;UDN",
-    "cn_title": "紙箱搭展間哈佛大學設計學院展覽移師台北| 文教新訊| 文教 - UDN",
-    "cn_classes": "其他",
-    "cn_tags": "大學",
-    "source": "UDN 文教"
   }
 }
