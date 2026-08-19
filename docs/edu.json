@@ -1,4 +1,19 @@
 {
+  "https://www.cna.com.tw/news/aopl/202608190317.aspx": {
+    "title": "捐贈大體遭盜賣器官　哈佛大學同意付近17億元和解",
+    "link": "https://www.cna.com.tw/news/aopl/202608190317.aspx",
+    "published": "2026-08-19 21:28",
+    "images": [],
+    "summary": "（中央社波士頓18日綜合外電報導）美國哈佛大學醫學院太平間先前傳出捐贈大體的器官或部位遭盜賣醜聞，據報波士頓一間法院今天批准和解方案，該大學同意支付5300萬美元（約新台幣16億9000萬元）和解金。",
+    "tags": "大學",
+    "classes": "校園爭議與事件",
+    "is_target": "True",
+    "cn_summary": "（中央社波士頓18日綜合外電報導）美國哈佛大學醫學院太平間先前傳出捐贈大體的器官或部位遭盜賣醜聞，據報波士頓一間法院今天批准和解方案，該大學同意支付5300萬美元（約新台幣16億9000萬元）和解金。",
+    "cn_title": "捐贈大體遭盜賣器官　哈佛大學同意付近17億元和解",
+    "cn_classes": "校園爭議與事件",
+    "cn_tags": "大學",
+    "source": "中央社"
+  },
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MNjJIWFhGQ2FhYlRpOFdPX3psWkFtc2hqeEtXYWE4SmUzVm1QUlNRNXVhVmxMWGk2WGpwc20wNWNEeFJTM3dYdHpiZGZ0X3ZY?oc=5": {
     "title": "人才培育走出國界！ 高大師生赴越南發表論文接軌產業| 大學研究所| 文教 - UDN",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MNjJIWFhGQ2FhYlRpOFdPX3psWkFtc2hqeEtXYWE4SmUzVm1QUlNRNXVhVmxMWGk2WGpwc20wNWNEeFJTM3dYdHpiZGZ0X3ZY?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "大學, 學位",
     "source": "UDN 文教"
-  },
-  "https://ent.ltn.com.tw/news/breakingnews/5535310": {
-    "title": "天王變博士！劉德華獲頒香港浸大殊榮 校長狂讚：AI也無法取代",
-    "link": "https://ent.ltn.com.tw/news/breakingnews/5535310",
-    "published": "2026-08-11 07:14",
-    "images": [],
-    "summary": "〔娛樂頻道／綜合報導〕影帝「華仔」劉德華再添超有份量的重磅頭銜！香港浸會大學（浸大）於昨（10）日舉行榮譽博士學位頒授典禮，正式頒發「榮譽文學博士」予劉德華，以表彰他在演藝事業上的傑出成就及長期...…",
-    "tags": "大學, 學位",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "〔娛樂頻道／綜合報導〕影帝「華仔」劉德華再添超有份量的重磅頭銜！香港浸會大學（浸大）於昨（10）日舉行榮譽博士學位頒授典禮，正式頒發「榮譽文學博士」予劉德華，以表彰他在演藝事業上的傑出成就及長期...…",
-    "cn_title": "天王變博士！劉德華獲頒香港浸大殊榮 校長狂讚：AI也無法取代",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "大學, 學位",
-    "source": "自由時報"
   }
 }
