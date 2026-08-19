@@ -1,4 +1,34 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5545066": {
+    "title": "高雄381位校長聯席會 朝AI教育新紀元邁進",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5545066",
+    "published": "2026-08-19 13:47",
+    "images": [],
+    "summary": "高雄市公私立各級學校115學年度校長聯席會議今（19）日舉行，全市有381位校（園）長參與，今年以「AI高雄，邁向教育新紀元」為主軸進行交流，共構高雄未來教育發展藍圖。 高...…",
+    "tags": "",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "高雄市公私立各級學校115學年度校長聯席會議今（19）日舉行，全市有381位校（園）長參與，今年以「AI高雄，邁向教育新紀元」為主軸進行交流，共構高雄未來教育發展藍圖。 高...…",
+    "cn_title": "高雄381位校長聯席會 朝AI教育新紀元邁進",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "",
+    "source": "自由時報"
+  },
+  "https://www.cna.com.tw/news/aloc/202608190112.aspx": {
+    "title": "暨大攜手埔里鎮公所　開辦社區長照機構顧長輩",
+    "link": "https://www.cna.com.tw/news/aloc/202608190112.aspx",
+    "published": "2026-08-19 12:22",
+    "images": [],
+    "summary": "（中央社記者蕭博陽南投縣19日電）國立暨南國際大學與埔里鎮公所合作，暨大附設珠仔山社區長照機構今天起可提供60名長輩日間照顧服務；雙方也簽署產學合作備忘錄，包含機構作為暨大相關系所學生實習場域等。",
+    "tags": "國立暨南國際大學, 產學合作",
+    "classes": "產學合作",
+    "is_target": "True",
+    "cn_summary": "（中央社記者蕭博陽南投縣19日電）國立暨南國際大學與埔里鎮公所合作，暨大附設珠仔山社區長照機構今天起可提供60名長輩日間照顧服務；雙方也簽署產學合作備忘錄，包含機構作為暨大相關系所學生實習場域等。",
+    "cn_title": "暨大攜手埔里鎮公所　開辦社區長照機構顧長輩",
+    "cn_classes": "產學合作",
+    "cn_tags": "國立暨南國際大學, 產學合作",
+    "source": "中央社"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5544799": {
     "title": "新北扶植青創建構輔導系統 5年協助募資逾7億元",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5544799",
@@ -3568,35 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "",
     "source": "ETtoday"
-  },
-  "https://news.google.com/rss/articles/CBMickFVX3lxTE44ZGlHRktVblhwNkpWMlc1NkFaWTdTRDUtaEJmbzhQNkNfa1BNR3c3eHluOFo5Vi1udElXckxQTUo5TU9mQkRlcEJ1WTZFaFJhN2lwZDBOSVhNUE9jZ3l2a3BlV2dyY3haSWlCa1J1Q1ZLZ9IBVkFVX3lxTE0tMHVWM1RFR3BYYng1dG5lWHlVWDV5TFliTnpHdHBJeVd1Z2puLUdqaVA4QkhTRm00bU94R3FrTG9UeVFuM09tY0t3Y05DWFRrZ0ZnVk1n?oc=5": {
-    "title": "大學助理好奇校務公文 找到漏洞入侵校務系統遭檢舉被判徒刑 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44ZGlHRktVblhwNkpWMlc1NkFaWTdTRDUtaEJmbzhQNkNfa1BNR3c3eHluOFo5Vi1udElXckxQTUo5TU9mQkRlcEJ1WTZFaFJhN2lwZDBOSVhNUE9jZ3l2a3BlV2dyY3haSWlCa1J1Q1ZLZ9IBVkFVX3lxTE0tMHVWM1RFR3BYYng1dG5lWHlVWDV5TFliTnpHdHBJeVd1Z2puLUdqaVA4QkhTRm00bU94R3FrTG9UeVFuM09tY0t3Y05DWFRrZ0ZnVk1n?oc=5",
-    "published": "2026-08-10 19:58",
-    "images": [],
-    "summary": "大學助理好奇校務公文 找到漏洞入侵校務系統遭檢舉被判徒刑&nbsp;&nbsp;UDN",
-    "tags": "大學",
-    "classes": "校務治理與管理",
-    "is_target": "True",
-    "cn_summary": "大學助理好奇校務公文 找到漏洞入侵校務系統遭檢舉被判徒刑&nbsp;&nbsp;UDN",
-    "cn_title": "大學助理好奇校務公文 找到漏洞入侵校務系統遭檢舉被判徒刑 - UDN",
-    "cn_classes": "校務治理與管理",
-    "cn_tags": "大學",
-    "source": "UDN 文教"
-  },
-  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wLUo2RnpEbGVGYk5RQUJKZkpkRGRKNktMcEpIdGR3eWNNRFFiN05Da3JtMjV6STAxX1ZYR1dLYndYMEREUEsyc3ZsVW50YmhaZnJfdmd3?oc=5": {
-    "title": "大學助理好奇校務公文找到漏洞入侵校務系統遭檢舉被判徒刑| 2026九合一選舉 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wLUo2RnpEbGVGYk5RQUJKZkpkRGRKNktMcEpIdGR3eWNNRFFiN05Da3JtMjV6STAxX1ZYR1dLYndYMEREUEsyc3ZsVW50YmhaZnJfdmd3?oc=5",
-    "published": "2026-08-10 19:58",
-    "images": [],
-    "summary": "大學助理好奇校務公文找到漏洞入侵校務系統遭檢舉被判徒刑| 2026九合一選舉&nbsp;&nbsp;UDN",
-    "tags": "大學",
-    "classes": "校務治理與管理",
-    "is_target": "True",
-    "cn_summary": "大學助理好奇校務公文找到漏洞入侵校務系統遭檢舉被判徒刑| 2026九合一選舉&nbsp;&nbsp;UDN",
-    "cn_title": "大學助理好奇校務公文找到漏洞入侵校務系統遭檢舉被判徒刑| 2026九合一選舉 - UDN",
-    "cn_classes": "校務治理與管理",
-    "cn_tags": "大學",
-    "source": "UDN 文教"
   }
 }
