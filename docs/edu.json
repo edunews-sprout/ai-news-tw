@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5544799": {
+    "title": "新北扶植青創建構輔導系統 5年協助募資逾7億元",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5544799",
+    "published": "2026-08-19 11:41",
+    "images": [],
+    "summary": "新北市2022年成立青年局，針對青年離開校園後各個人生階段發展，建構「職涯服務、創新創業、公共參與、國際交流」青年支持體系，提供創業支持，每年輔導超過100組新創團隊，累計協助...…",
+    "tags": "",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "新北市2022年成立青年局，針對青年離開校園後各個人生階段發展，建構「職涯服務、創新創業、公共參與、國際交流」青年支持體系，提供創業支持，每年輔導超過100組新創團隊，累計協助...…",
+    "cn_title": "新北扶植青創建構輔導系統 5年協助募資逾7億元",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5544723": {
     "title": "大學生嘉縣竹崎灣橋社區陪伴老少 邊打工邊體驗職場",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5544723",
@@ -3583,20 +3598,5 @@
     "cn_classes": "校務治理與管理",
     "cn_tags": "大學",
     "source": "UDN 文教"
-  },
-  "https://www.cna.com.tw/news/ahel/202608100275.aspx": {
-    "title": "陽明交大醫院擴建　原603床完工後估增至892床",
-    "link": "https://www.cna.com.tw/news/ahel/202608100275.aspx",
-    "published": "2026-08-10 19:29",
-    "images": [],
-    "summary": "（中央社記者王朝鈺宜蘭10日電）立法院社會福利及衛生環境委員會今天前往宜蘭，考察「國立陽明交通大學附設醫院第2期擴建計畫」，醫療大樓部分，預估明年9月完工，總床數將從603床擴增至892床。",
-    "tags": "國立陽明交通大學",
-    "classes": "政策與法規",
-    "is_target": "True",
-    "cn_summary": "（中央社記者王朝鈺宜蘭10日電）立法院社會福利及衛生環境委員會今天前往宜蘭，考察「國立陽明交通大學附設醫院第2期擴建計畫」，醫療大樓部分，預估明年9月完工，總床數將從603床擴增至892床。",
-    "cn_title": "陽明交大醫院擴建　原603床完工後估增至892床",
-    "cn_classes": "政策與法規",
-    "cn_tags": "國立陽明交通大學",
-    "source": "中央社"
   }
 }
