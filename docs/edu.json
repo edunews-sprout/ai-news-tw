@@ -1,4 +1,19 @@
 {
+  "https://www.cna.com.tw/news/ait/202608200328.aspx": {
+    "title": "貓尿是「氣味名片」　研究揭貓咪脂肪酸辨識機制",
+    "link": "https://www.cna.com.tw/news/ait/202608200328.aspx",
+    "published": "2026-08-20 21:08",
+    "images": [],
+    "summary": "（中央社東京20日綜合外電報導）日本岩手大學等國際研究團隊今天在國際科學期刊發表，首次發現貓尿中含有個體間種類、比例不同的特殊脂肪酸，貓咪會以這些物質為基礎，透過嗅聞其他貓咪留下的氣味辨識個體。",
+    "tags": "大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "（中央社東京20日綜合外電報導）日本岩手大學等國際研究團隊今天在國際科學期刊發表，首次發現貓尿中含有個體間種類、比例不同的特殊脂肪酸，貓咪會以這些物質為基礎，透過嗅聞其他貓咪留下的氣味辨識個體。",
+    "cn_title": "貓尿是「氣味名片」　研究揭貓咪脂肪酸辨識機制",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "大學",
+    "source": "中央社"
+  },
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81ODFaMGNDRU1rNTQxeFVBb1ZJSXIyREs5eHZHOVM0eUN6VHZlUDJQSVd3RUVSRGpJdzRfby1yOGdncVd6N1R1Sy14TXhKUGpU?oc=5": {
     "title": "中央大學創新氨能發電技術奪淨零排放競賽跨領域總冠軍| 大學研究所| 文教 - UDN",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81ODFaMGNDRU1rNTQxeFVBb1ZJSXIyREs5eHZHOVM0eUN6VHZlUDJQSVd3RUVSRGpJdzRfby1yOGdncVd6N1R1Sy14TXhKUGpU?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "政策與法規",
     "cn_tags": "",
     "source": "自由時報"
-  },
-  "https://www.cna.com.tw/news/ahel/202608110320.aspx": {
-    "title": "台大醫院傳承安寧緩和經驗　設亞太首座訓練中心",
-    "link": "https://www.cna.com.tw/news/ahel/202608110320.aspx",
-    "published": "2026-08-11 19:32",
-    "images": [],
-    "summary": "（中央社記者沈佩瑤台北11日電）國立台灣大學醫學院附設醫院今天透過新聞稿表示，成立亞太首座「安寧緩和醫療研究及臨床教育訓練中心」，7月20日揭牌，系統性傳承經驗，培育安寧緩和醫療人才。",
-    "tags": "國立臺灣大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "（中央社記者沈佩瑤台北11日電）國立台灣大學醫學院附設醫院今天透過新聞稿表示，成立亞太首座「安寧緩和醫療研究及臨床教育訓練中心」，7月20日揭牌，系統性傳承經驗，培育安寧緩和醫療人才。",
-    "cn_title": "台大醫院傳承安寧緩和經驗　設亞太首座訓練中心",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "國立臺灣大學",
-    "source": "中央社"
   }
 }
