@@ -29,6 +29,21 @@
     "cn_tags": "東海大學",
     "source": "中國時報"
   },
+  "https://www.cna.com.tw/news/ahel/202608200106.aspx": {
+    "title": "台師大把實驗室搬進原民部落　鼓勵偏孩子做科學",
+    "link": "https://www.cna.com.tw/news/ahel/202608200106.aspx",
+    "published": "2026-08-20 12:53",
+    "images": [],
+    "summary": "（中央社記者陳至中台北20日電）台灣師範大學化學系名譽教授姚清發帶領團隊，近日把實驗室帶到嘉義縣阿里山鄉達邦國小，鼓勵約50名鄒族學童探索科學的奧秘。",
+    "tags": "大學, 教授, 國立臺灣師範大學",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "（中央社記者陳至中台北20日電）台灣師範大學化學系名譽教授姚清發帶領團隊，近日把實驗室帶到嘉義縣阿里山鄉達邦國小，鼓勵約50名鄒族學童探索科學的奧秘。",
+    "cn_title": "台師大把實驗室搬進原民部落　鼓勵偏孩子做科學",
+    "cn_classes": "其他",
+    "cn_tags": "大學, 教授, 國立臺灣師範大學",
+    "source": "中央社"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5546191": {
     "title": "全國大專全面設原資中心 原民學生校園支持網成形",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5546191",
@@ -3582,21 +3597,6 @@
     "cn_title": "半數學生不瞭解AI使用規範 青年團體倡議：學術倫理納課綱內容",
     "cn_classes": "教學與課程",
     "cn_tags": "學術",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5535916": {
-    "title": "社大財源成挑戰 教育部：地方可適時檢視學分費",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5535916",
-    "published": "2026-08-11 14:35",
-    "images": [],
-    "summary": "台灣邁入超高齡社會，青壯年終身學習需求也增加，全國的社區大學已增至90所，如何維持辦學財源成為新挑戰。教育部政次劉國偉今（11）日表示，提升社大財源是當務之急，除中央既有獎補助...…",
-    "tags": "大學, 學分",
-    "classes": "在地連結與社會責任（USR）",
-    "is_target": "True",
-    "cn_summary": "台灣邁入超高齡社會，青壯年終身學習需求也增加，全國的社區大學已增至90所，如何維持辦學財源成為新挑戰。教育部政次劉國偉今（11）日表示，提升社大財源是當務之急，除中央既有獎補助...…",
-    "cn_title": "社大財源成挑戰 教育部：地方可適時檢視學分費",
-    "cn_classes": "在地連結與社會責任（USR）",
-    "cn_tags": "大學, 學分",
     "source": "自由時報"
   }
 }
