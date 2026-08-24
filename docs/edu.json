@@ -1,4 +1,19 @@
 {
+  "https://health.ltn.com.tw/article/breakingnews/5549996": {
+    "title": "護理之家疑爆菜花群聚 醫：未換手套恐增傳播風險 長照感控須更嚴謹",
+    "link": "https://health.ltn.com.tw/article/breakingnews/5549996",
+    "published": "2026-08-24 10:01",
+    "images": [],
+    "summary": "新北市皇家護理之家遭爆疑似發生尖性濕疣（俗稱菜花）群聚感染，菜花是人類乳突病毒HPV感染所造成的疾病，國立陽明交通大學附設醫院婦產科主任林宜珈受訪表示，HPV可透過接觸...…",
+    "tags": "國立陽明交通大學",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "新北市皇家護理之家遭爆疑似發生尖性濕疣（俗稱菜花）群聚感染，菜花是人類乳突病毒HPV感染所造成的疾病，國立陽明交通大學附設醫院婦產科主任林宜珈受訪表示，HPV可透過接觸...…",
+    "cn_title": "護理之家疑爆菜花群聚 醫：未換手套恐增傳播風險 長照感控須更嚴謹",
+    "cn_classes": "其他",
+    "cn_tags": "國立陽明交通大學",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5549993": {
     "title": "把水變肥料 台科大微藻固碳技術瞄準低碳循環",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5549993",
@@ -3583,20 +3598,5 @@
     "cn_classes": "產學合作",
     "cn_tags": "大學",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5539065": {
-    "title": "校長遭質疑「自行續任」 大葉大學：董事會合法、程序正常",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5539065",
-    "published": "2026-08-13 20:19",
-    "images": [],
-    "summary": "大葉大學校長方文昌任期今年7月底屆滿，8月仍以校長名義發布校務公告及一、二級主管名單，引發校內教師質疑未經合法程序「自行續任」，要求教育部介入調查。大葉大學澄清，董事會依法正常...…",
-    "tags": "大葉大學",
-    "classes": "校務治理與管理",
-    "is_target": "True",
-    "cn_summary": "大葉大學校長方文昌任期今年7月底屆滿，8月仍以校長名義發布校務公告及一、二級主管名單，引發校內教師質疑未經合法程序「自行續任」，要求教育部介入調查。大葉大學澄清，董事會依法正常...…",
-    "cn_title": "校長遭質疑「自行續任」 大葉大學：董事會合法、程序正常",
-    "cn_classes": "校務治理與管理",
-    "cn_tags": "大葉大學",
-    "source": "自由時報"
   }
 }
