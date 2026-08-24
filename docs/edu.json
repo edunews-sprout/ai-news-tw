@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5549993": {
+    "title": "把水變肥料 台科大微藻固碳技術瞄準低碳循環",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5549993",
+    "published": "2026-08-24 09:10",
+    "images": [],
+    "summary": "小小微藻也能成為減碳幫手，國立台灣科技大學機械工程系特聘教授郭俞麟團隊，嘗試用「電漿活性水」幫微藻補充生長所需養分。研究發現，在特定實驗條件下，淡水小球藻的碳固定效率比對照組提...…",
+    "tags": "科技大學, 國立臺灣科技大學, 教授",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "小小微藻也能成為減碳幫手，國立台灣科技大學機械工程系特聘教授郭俞麟團隊，嘗試用「電漿活性水」幫微藻補充生長所需養分。研究發現，在特定實驗條件下，淡水小球藻的碳固定效率比對照組提...…",
+    "cn_title": "把水變肥料 台科大微藻固碳技術瞄準低碳循環",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "科技大學, 國立臺灣科技大學, 教授",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MMGd2T0t4eTJqa1cxWjFSbjZLZmVfei13U0xDLVRzXy1PcWt0VTg2WVNWOGpuZ1Vyb1B4N2VqQnNBLVEzYjdwVEo3am1uUQ?oc=5": {
     "title": "張瑞雄觀點：誰來保護被公審的大學教授？ | 張瑞雄 | 評論 - 風傳媒",
     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MMGd2T0t4eTJqa1cxWjFSbjZLZmVfei13U0xDLVRzXy1PcWt0VTg2WVNWOGpuZ1Vyb1B4N2VqQnNBLVEzYjdwVEo3am1uUQ?oc=5",
@@ -3582,21 +3597,6 @@
     "cn_title": "校長遭質疑「自行續任」 大葉大學：董事會合法、程序正常",
     "cn_classes": "校務治理與管理",
     "cn_tags": "大葉大學",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5539038": {
-    "title": "支持青年就業計畫最高可領4萬8  體適能教練成功轉職咖啡師",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5539038",
-    "published": "2026-08-13 19:59",
-    "images": [],
-    "summary": "23歲的黃震麒，大學就讀休閒保健管理學系，曾投入健身產業，擔任體適能教練，但他熱愛咖啡文化，在勞動部「支援青年就業計畫」的協助下，順利轉職，成為咖啡師，更領到一筆就業獎勵金。 ...…",
-    "tags": "大學, 文化",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "23歲的黃震麒，大學就讀休閒保健管理學系，曾投入健身產業，擔任體適能教練，但他熱愛咖啡文化，在勞動部「支援青年就業計畫」的協助下，順利轉職，成為咖啡師，更領到一筆就業獎勵金。 ...…",
-    "cn_title": "支持青年就業計畫最高可領4萬8  體適能教練成功轉職咖啡師",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "大學, 文化",
     "source": "自由時報"
   }
 }
