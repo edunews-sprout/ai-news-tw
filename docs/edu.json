@@ -1,4 +1,19 @@
 {
+  "https://www.cna.com.tw/news/ahel/202608250243.aspx": {
+    "title": "陽明交大啟動NYCU50計畫　扶植50家校內新創走向商業化",
+    "link": "https://www.cna.com.tw/news/ahel/202608250243.aspx",
+    "published": "2026-08-25 17:02",
+    "images": [],
+    "summary": "（中央社記者郭宣彣新竹市25日電）陽明交通大學今天宣布啟動「NYCU 50」計畫，預計年底前集結50家具代表性的校內衍生新創，串聯企業、醫院、校友及國際市場資源，協助科研成果從實驗室走向商業化。",
+    "tags": "國立陽明交通大學",
+    "classes": "國際交流與合作",
+    "is_target": "True",
+    "cn_summary": "（中央社記者郭宣彣新竹市25日電）陽明交通大學今天宣布啟動「NYCU 50」計畫，預計年底前集結50家具代表性的校內衍生新創，串聯企業、醫院、校友及國際市場資源，協助科研成果從實驗室走向商業化。",
+    "cn_title": "陽明交大啟動NYCU50計畫　扶植50家校內新創走向商業化",
+    "cn_classes": "國際交流與合作",
+    "cn_tags": "國立陽明交通大學",
+    "source": "中央社"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5551728": {
     "title": "擁教育部AI學分證書業界喊「隨時報到」 TAICA新學年擴至63校增10門課",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5551728",
@@ -3582,21 +3597,6 @@
     "cn_title": "涉抄襲請辭後身亡！前劍橋大學黑人教授事件 英相柏南籲各界省思",
     "cn_classes": "校園爭議與事件",
     "cn_tags": "大學, 教授",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5541210": {
-    "title": "亞洲青年論壇登場 5國6校師生齊聚中山大學附中交流",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5541210",
-    "published": "2026-08-15 21:11",
-    "images": [],
-    "summary": "國立中山大學附屬國光高中主辦的「2026亞洲青年論壇」8月14至20日登場，今（15日）正式開幕，共有5國6校共37位師生參與交流，各國學生將透過主題發表、專題講座、工作坊、成...…",
-    "tags": "國立中山大學",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "國立中山大學附屬國光高中主辦的「2026亞洲青年論壇」8月14至20日登場，今（15日）正式開幕，共有5國6校共37位師生參與交流，各國學生將透過主題發表、專題講座、工作坊、成...…",
-    "cn_title": "亞洲青年論壇登場 5國6校師生齊聚中山大學附中交流",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "國立中山大學",
     "source": "自由時報"
   }
 }
