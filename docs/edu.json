@@ -1,4 +1,19 @@
 {
+  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XZk80T3NRTk8xNnNlam9HYjhpaEZOWWZUNzVMTTNSV2JKclJrZ3A2RGEyQ2ZQUlpfNzZGZE81UlFvekJQXzBpbmo2Wkd0VDZlTDdDa2c4cTgyR0N60gFiQVVfeXFMTmloZVY4OEZuNWd2Y3NRX2xneTc2RjhPTzlabGlTdlRDLXlKZ1Y5Z1c0NFV2X0RTbkZJQUFkS0ROUmh6VjZmYW5GcDNEVlNBLTRZa0lrSmRNNHg3RFBFUDNXdHc?oc=5": {
+    "title": "西江大學為首爾國際STEM研究生開闢全額學費資助通道 - 經濟日報",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XZk80T3NRTk8xNnNlam9HYjhpaEZOWWZUNzVMTTNSV2JKclJrZ3A2RGEyQ2ZQUlpfNzZGZE81UlFvekJQXzBpbmo2Wkd0VDZlTDdDa2c4cTgyR0N60gFiQVVfeXFMTmloZVY4OEZuNWd2Y3NRX2xneTc2RjhPTzlabGlTdlRDLXlKZ1Y5Z1c0NFV2X0RTbkZJQUFkS0ROUmh6VjZmYW5GcDNEVlNBLTRZa0lrSmRNNHg3RFBFUDNXdHc?oc=5",
+    "published": "2026-08-25 08:00",
+    "images": [],
+    "summary": "西江大學為首爾國際STEM研究生開闢全額學費資助通道&nbsp;&nbsp;經濟日報",
+    "tags": "研究生, 大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "西江大學為首爾國際STEM研究生開闢全額學費資助通道&nbsp;&nbsp;經濟日報",
+    "cn_title": "西江大學為首爾國際STEM研究生開闢全額學費資助通道 - 經濟日報",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "研究生, 大學",
+    "source": "UDN 文教"
+  },
   "https://news.ltn.com.tw/news/life/paper/1767977": {
     "title": "無懼風雨「 雙發」寫紀錄 陽明交大火箭旭海升空",
     "link": "https://news.ltn.com.tw/news/life/paper/1767977",
@@ -3583,20 +3598,5 @@
     "cn_classes": "教學與課程",
     "cn_tags": "大學, 學士, 學位",
     "source": "中央社"
-  },
-  "https://sports.ltn.com.tw/news/breakingnews/5540285": {
-    "title": "瓊斯盃》遭美國大學震撼教育！台灣白首戰慘輸21分 高國豪21分無用",
-    "link": "https://sports.ltn.com.tw/news/breakingnews/5540285",
-    "published": "2026-08-14 19:44",
-    "images": [],
-    "summary": "第45屆威廉瓊斯盃國際籃球邀請賽男子組今天在新莊體育館點燃戰火，台灣白隊今以67、88不敵美國加州大學爾灣分校，TPBL新竹攻城獅一哥高國豪拿下全場最高21分。 台灣...…",
-    "tags": "大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "第45屆威廉瓊斯盃國際籃球邀請賽男子組今天在新莊體育館點燃戰火，台灣白隊今以67、88不敵美國加州大學爾灣分校，TPBL新竹攻城獅一哥高國豪拿下全場最高21分。 台灣...…",
-    "cn_title": "瓊斯盃》遭美國大學震撼教育！台灣白首戰慘輸21分 高國豪21分無用",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "大學",
-    "source": "自由時報"
   }
 }
