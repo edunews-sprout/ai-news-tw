@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5551983": {
+    "title": "范雲邀學團與教育部對話 推動大學法修法保障學生權益",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5551983",
+    "published": "2026-08-25 19:24",
+    "images": [],
+    "summary": "民進黨立委范雲昨偕同黨內立委吳沛憶、郭昱晴，與台灣學生聯合會在立院召開「學生會與教育部次長有約」。現場來自全國80多個學生代表，30個學生會和學團，向教育部次長朱俊彰等官員討論...…",
+    "tags": "大學",
+    "classes": "政策與法規",
+    "is_target": "True",
+    "cn_summary": "民進黨立委范雲昨偕同黨內立委吳沛憶、郭昱晴，與台灣學生聯合會在立院召開「學生會與教育部次長有約」。現場來自全國80多個學生代表，30個學生會和學團，向教育部次長朱俊彰等官員討論...…",
+    "cn_title": "范雲邀學團與教育部對話 推動大學法修法保障學生權益",
+    "cn_classes": "政策與法規",
+    "cn_tags": "大學",
+    "source": "自由時報"
+  },
   "https://www.cna.com.tw/news/ahel/202608250243.aspx": {
     "title": "陽明交大啟動NYCU50計畫　扶植50家校內新創走向商業化",
     "link": "https://www.cna.com.tw/news/ahel/202608250243.aspx",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "國立屏東大學",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/world/breakingnews/5541282": {
-    "title": "涉抄襲請辭後身亡！前劍橋大學黑人教授事件 英相柏南籲各界省思",
-    "link": "https://news.ltn.com.tw/news/world/breakingnews/5541282",
-    "published": "2026-08-15 23:30",
-    "images": [],
-    "summary": "針對因被控抄襲而辭去教職的英國黑人學者阿戴伊（Jason Arday）之死，他過去任教的劍橋大學與報導此事的媒體飽受批評，英國首相柏南（Andy Burnham）15日呼籲各界...…",
-    "tags": "大學, 教授",
-    "classes": "校園爭議與事件",
-    "is_target": "True",
-    "cn_summary": "針對因被控抄襲而辭去教職的英國黑人學者阿戴伊（Jason Arday）之死，他過去任教的劍橋大學與報導此事的媒體飽受批評，英國首相柏南（Andy Burnham）15日呼籲各界...…",
-    "cn_title": "涉抄襲請辭後身亡！前劍橋大學黑人教授事件 英相柏南籲各界省思",
-    "cn_classes": "校園爭議與事件",
-    "cn_tags": "大學, 教授",
-    "source": "自由時報"
   }
 }
