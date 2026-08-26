@@ -1,4 +1,19 @@
 {
+  "https://ec.ltn.com.tw/article/breakingnews/5552813": {
+    "title": "AI機器人時代育才 上銀智慧機器手競賽18屆累計5173人次參賽",
+    "link": "https://ec.ltn.com.tw/article/breakingnews/5552813",
+    "published": "2026-08-26 13:46",
+    "images": [],
+    "summary": "AI與機器人浪潮席捲全球，台灣智慧製造人才培育也加速向「實作」靠攏。上銀科技第18屆「上銀智慧機器手實作競賽」於8月19日至22日在南港展覽館舉行，吸引大專校院及技職學生...…",
+    "tags": "技職, 大專",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "AI與機器人浪潮席捲全球，台灣智慧製造人才培育也加速向「實作」靠攏。上銀科技第18屆「上銀智慧機器手實作競賽」於8月19日至22日在南港展覽館舉行，吸引大專校院及技職學生...…",
+    "cn_title": "AI機器人時代育才 上銀智慧機器手競賽18屆累計5173人次參賽",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "技職, 大專",
+    "source": "自由時報"
+  },
   "https://www.cna.com.tw/news/ahel/202608260117.aspx": {
     "title": "性別友善宿舍手冊出爐　介紹同層分房、不分性別案例",
     "link": "https://www.cna.com.tw/news/ahel/202608260117.aspx",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學生事務與生活",
     "cn_tags": "大專",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa3plN2RDRlo5SFpiZVJ5VUxBYzVQd2R3QTFCNG5OZTVhZWlUcmlQRW1UY3M1SVU0cER3ZEwyYW9xR01Ca3pNVTYteFlqdnZ4MUt1V0Z6bXBsOWJHcEdQZXlqUlJuMkU1LXhfVnp1OHFQc00wR2NUR2gwWHhpRjVGZ2FkcGVWY19iaHFIX0Z0anp0STBOQ2c?oc=5": {
-    "title": "頂尖大學也出現缺額，這對高等教育有何啟示？ - 遠見雜誌",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa3plN2RDRlo5SFpiZVJ5VUxBYzVQd2R3QTFCNG5OZTVhZWlUcmlQRW1UY3M1SVU0cER3ZEwyYW9xR01Ca3pNVTYteFlqdnZ4MUt1V0Z6bXBsOWJHcEdQZXlqUlJuMkU1LXhfVnp1OHFQc00wR2NUR2gwWHhpRjVGZ2FkcGVWY19iaHFIX0Z0anp0STBOQ2c?oc=5",
-    "published": "2026-08-17 05:22",
-    "images": [],
-    "summary": "頂尖大學也出現缺額，這對高等教育有何啟示？&nbsp;&nbsp;遠見雜誌",
-    "tags": "高等教育, 大學",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "頂尖大學也出現缺額，這對高等教育有何啟示？&nbsp;&nbsp;遠見雜誌",
-    "cn_title": "頂尖大學也出現缺額，這對高等教育有何啟示？ - 遠見雜誌",
-    "cn_classes": "其他",
-    "cn_tags": "高等教育, 大學",
-    "source": "遠見雜誌"
   }
 }
