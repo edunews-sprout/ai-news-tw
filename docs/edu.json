@@ -1,4 +1,19 @@
 {
+  "https://www.cna.com.tw/news/ahel/202608260117.aspx": {
+    "title": "性別友善宿舍手冊出爐　介紹同層分房、不分性別案例",
+    "link": "https://www.cna.com.tw/news/ahel/202608260117.aspx",
+    "published": "2026-08-26 12:51",
+    "images": [],
+    "summary": "（中央社記者陳至中台北26日電）教育部今天發布大專校院性別友善宿舍建置參考手冊，介紹多種住宿模式案例，包括台灣師範大學的「不分性別同層分房」，以及政治大學的「不分性別的戶型宿舍」等。",
+    "tags": "國立政治大學, 大專",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "（中央社記者陳至中台北26日電）教育部今天發布大專校院性別友善宿舍建置參考手冊，介紹多種住宿模式案例，包括台灣師範大學的「不分性別同層分房」，以及政治大學的「不分性別的戶型宿舍」等。",
+    "cn_title": "性別友善宿舍手冊出爐　介紹同層分房、不分性別案例",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "國立政治大學, 大專",
+    "source": "中央社"
+  },
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hOHZhaDJ1ZVdadk8wZ01OQ0xCWGpmd0tnUjBybWFVQ1RfNmtpUG01dTItYjNMVVVHS0JJbjl6ZVQzVngtYWZ4QkI5RkhXQXdk?oc=5": {
     "title": "響應國際蝙蝠之夜台師大揭蝙蝠防凍機制、糞便重金屬| 大學研究所| 文教 - UDN",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hOHZhaDJ1ZVdadk8wZ01OQ0xCWGpmd0tnUjBybWFVQ1RfNmtpUG01dTItYjNMVVVHS0JJbjl6ZVQzVngtYWZ4QkI5RkhXQXdk?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "高等教育, 大學",
     "source": "遠見雜誌"
-  },
-  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vWW1PMHpNUjd3OV9wbHZrX2RVaklYNXVQLVNDZGJ0dzFHLXkxbUVoYm5YQWU0VTFNSm1sSy0xeWVMUmZiblp4dkpDN0c0MFVjWU5yZGdCVnVYZ3Br0gFiQVVfeXFMT29pSkRBTmgtS2tHVVpRSnR3eW9PNm5JOGNvNDVzVlpRY054UnBJVnY0QXRuZzlwY2NCYnRZMUlUbEFPWlp3bnRycEdzM0EycnRTNW1kSnp2MkxobXhhSkdsemc?oc=5": {
-    "title": "頂尖陣容匯聚全球優秀學子！香港大學、騰訊光子工作室群與Tencent WeTech Academy 攜手以AI創作探索中華文化 - 經濟日報",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vWW1PMHpNUjd3OV9wbHZrX2RVaklYNXVQLVNDZGJ0dzFHLXkxbUVoYm5YQWU0VTFNSm1sSy0xeWVMUmZiblp4dkpDN0c0MFVjWU5yZGdCVnVYZ3Br0gFiQVVfeXFMT29pSkRBTmgtS2tHVVpRSnR3eW9PNm5JOGNvNDVzVlpRY054UnBJVnY0QXRuZzlwY2NCYnRZMUlUbEFPWlp3bnRycEdzM0EycnRTNW1kSnp2MkxobXhhSkdsemc?oc=5",
-    "published": "2026-08-16 21:00",
-    "images": [],
-    "summary": "頂尖陣容匯聚全球優秀學子！香港大學、騰訊光子工作室群與Tencent WeTech Academy 攜手以AI創作探索中華文化&nbsp;&nbsp;經濟日報",
-    "tags": "大學, 中華, 文化",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "頂尖陣容匯聚全球優秀學子！香港大學、騰訊光子工作室群與Tencent WeTech Academy 攜手以AI創作探索中華文化&nbsp;&nbsp;經濟日報",
-    "cn_title": "頂尖陣容匯聚全球優秀學子！香港大學、騰訊光子工作室群與Tencent WeTech Academy 攜手以AI創作探索中華文化 - 經濟日報",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "大學, 中華, 文化",
-    "source": "UDN 文教"
   }
 }
