@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5553685": {
+    "title": "大學畢業迷惘待業多年 斗六26歲青年靠就業計畫找到職場定錨點",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5553685",
+    "published": "2026-08-27 08:25",
+    "images": [],
+    "summary": "勞動部因應待業青年身分推動「支援青年就業計畫」及「青年職得好評計畫」，提供就業諮詢及職業輔導等服務，其中家住雲林斗六的阿良，大學畢業後因對職涯迷惘、居家待業多年，前往斗六就業中...…",
+    "tags": "大學",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "勞動部因應待業青年身分推動「支援青年就業計畫」及「青年職得好評計畫」，提供就業諮詢及職業輔導等服務，其中家住雲林斗六的阿良，大學畢業後因對職涯迷惘、居家待業多年，前往斗六就業中...…",
+    "cn_title": "大學畢業迷惘待業多年 斗六26歲青年靠就業計畫找到職場定錨點",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "大學",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcFNleFhmbDZfYTBTMm5yN0J4VmswejBESVVGQkJwZGFsQjBuTmtNTUt1aVdOXzZCTVlPN3hxSEkydjFWYmpRbVcwUEhvMkdVOFVDdERrb1NsNkZjejR2RkRhSUZLRWpHYUZKN080Y2ZycmJDeEx3VkRtTTNRZ2Q0akl6d3pVZWpITW1v?oc=5": {
     "title": "東吳大學與ASU雷鳥全球管理學院的雙聯學制為何？ - 遠見雜誌",
     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcFNleFhmbDZfYTBTMm5yN0J4VmswejBESVVGQkJwZGFsQjBuTmtNTUt1aVdOXzZCTVlPN3hxSEkydjFWYmpRbVcwUEhvMkdVOFVDdERrb1NsNkZjejR2RkRhSUZLRWpHYUZKN080Y2ZycmJDeEx3VkRtTTNRZ2Q0akl6d3pVZWpITW1v?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學生事務與生活",
     "cn_tags": "國立大學, 學分, 國立暨南國際大學",
     "source": "自由時報"
-  },
-  "https://www.cna.com.tw/news/ahel/202608170113.aspx": {
-    "title": "台科大暑期材料營攜國際大廠　引進AI、半導體實作模擬",
-    "link": "https://www.cna.com.tw/news/ahel/202608170113.aspx",
-    "published": "2026-08-17 13:49",
-    "images": [],
-    "summary": "（中央社記者許秩維台北17日電）台科大材料系為高中職生舉辦暑期營隊，並展開產學跨界合作，攜手國際大廠導入VR與AI，讓學員體驗未來半導體應用，並親自動手實驗，參與半導體實作模擬。",
-    "tags": "國立臺灣科技大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "（中央社記者許秩維台北17日電）台科大材料系為高中職生舉辦暑期營隊，並展開產學跨界合作，攜手國際大廠導入VR與AI，讓學員體驗未來半導體應用，並親自動手實驗，參與半導體實作模擬。",
-    "cn_title": "台科大暑期材料營攜國際大廠　引進AI、半導體實作模擬",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "國立臺灣科技大學",
-    "source": "中央社"
   }
 }
