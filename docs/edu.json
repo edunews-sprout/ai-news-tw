@@ -1,4 +1,19 @@
 {
+  "https://estate.ltn.com.tw/article/28733": {
+    "title": "【高雄】台積電效應發酵！高大特區「百萬里」成形房市轉向科技家庭",
+    "link": "https://estate.ltn.com.tw/article/28733",
+    "published": "2026-08-29 04:20",
+    "images": [],
+    "summary": "高雄北高雄房市版圖近年持續變化，其中高大特區兼具科技產業、重劃開發與大學城生活等條件，隨著台積電進駐楠梓科技園區、橋頭科學園區陸續推進，產業人口與家庭客層持續移入，區域也從早期重劃開發階段，逐步走向人口與生活機能同步成長的聚落，成為北高雄科技人才及家庭客置產…",
+    "tags": "大學, 國立高雄大學",
+    "classes": "產學合作",
+    "is_target": "True",
+    "cn_summary": "高雄北高雄房市版圖近年持續變化，其中高大特區兼具科技產業、重劃開發與大學城生活等條件，隨著台積電進駐楠梓科技園區、橋頭科學園區陸續推進，產業人口與家庭客層持續移入，區域也從早期重劃開發階段，逐步走向人口與生活機能同步成長的聚落，成為北高雄科技人才及家庭客置產…",
+    "cn_title": "【高雄】台積電效應發酵！高大特區「百萬里」成形房市轉向科技家庭",
+    "cn_classes": "產學合作",
+    "cn_tags": "大學, 國立高雄大學",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mM0w4YmpsNUJFNmlMSTM1aV9sdmRqWjVtalRJTmJNRzhubVhWYWJ5UndLbHp3andCOUJhU1hoelJrVmJHVDlRdEMxRm5hSUFI?oc=5": {
     "title": "紐時賞析／申請大學考試回歸短文退場| 放學微素養| 文教 - UDN",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mM0w4YmpsNUJFNmlMSTM1aV9sdmRqWjVtalRJTmJNRzhubVhWYWJ5UndLbHp3andCOUJhU1hoelJrVmJHVDlRdEMxRm5hSUFI?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "大學, 教授",
     "source": "天下雜誌"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5543044": {
-    "title": "培養淨零綠領人才 成大攜15校成立「南區培育中心」",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5543044",
-    "published": "2026-08-17 22:37",
-    "images": [],
-    "summary": "國立成功大學承接環境部淨零綠領人才培育計畫，匯聚15所大專院校發展「南區培育中心」今日舉行揭牌，環境部與成大簽署MOU，串聯產官學研資源開設淨零綠領人才培育基礎課程及資源循環、...…",
-    "tags": "國立成功大學, 大專",
-    "classes": "產學合作",
-    "is_target": "True",
-    "cn_summary": "國立成功大學承接環境部淨零綠領人才培育計畫，匯聚15所大專院校發展「南區培育中心」今日舉行揭牌，環境部與成大簽署MOU，串聯產官學研資源開設淨零綠領人才培育基礎課程及資源循環、...…",
-    "cn_title": "培養淨零綠領人才 成大攜15校成立「南區培育中心」",
-    "cn_classes": "產學合作",
-    "cn_tags": "國立成功大學, 大專",
-    "source": "自由時報"
   }
 }
