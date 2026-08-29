@@ -44,6 +44,21 @@
     "cn_tags": "研究所, 大學, 碩士",
     "source": "自由時報"
   },
+  "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iOTJjdWdfSnRfMDV2R25EWklteUlrYTlMTEZ4dEFheUtKNjJZam9maHMtZU5IQmtHUUZnRGlNa0RGbl8xY0I1QzBQOTdnbFJXZG16SThWNHJvUmhrN1BRd2s5WQ?oc=5": {
+    "title": "鋼琴夢未曾消失，她從紅磚牆外走向大學講台| 迷創作 - 琅琅悅讀",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iOTJjdWdfSnRfMDV2R25EWklteUlrYTlMTEZ4dEFheUtKNjJZam9maHMtZU5IQmtHUUZnRGlNa0RGbl8xY0I1QzBQOTdnbFJXZG16SThWNHJvUmhrN1BRd2s5WQ?oc=5",
+    "published": "2026-08-29 10:10",
+    "images": [],
+    "summary": "鋼琴夢未曾消失，她從紅磚牆外走向大學講台| 迷創作&nbsp;&nbsp;琅琅悅讀",
+    "tags": "大學",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "鋼琴夢未曾消失，她從紅磚牆外走向大學講台| 迷創作&nbsp;&nbsp;琅琅悅讀",
+    "cn_title": "鋼琴夢未曾消失，她從紅磚牆外走向大學講台| 迷創作 - 琅琅悅讀",
+    "cn_classes": "其他",
+    "cn_tags": "大學",
+    "source": "UDN 文教"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5556148": {
     "title": "高雄大學前進「亞灣新創大南方」 AI智慧教育、次世代太陽能展現科研創新",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5556148",
@@ -3583,20 +3598,5 @@
     "cn_classes": "校園爭議與事件",
     "cn_tags": "大學, 國立陽明交通大學",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyc25YaDhQd2ltZGtZWUlqNjJXY1BpSTFFOFZsYkE5YUp4YnF5WWY4c3RSLUsySTVLNlFWck1UUFFrc2ttUTJOTmJweFZYR2pf0gFWQVVfeXFMTzlwNFpqQVFKV1JyWUxlYjhtQ1VKWHNVa0MwRFhfQzVFZmVkZVZaM0F1X2dnTDdva1REcl9XSERhUWkwTldIQURtbV9RYWNVY2ZMMXR4SWc?oc=5": {
-    "title": "AI世代贏家！韓17歲高中生獲三星聘用 不讀大學年薪6位數美元 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyc25YaDhQd2ltZGtZWUlqNjJXY1BpSTFFOFZsYkE5YUp4YnF5WWY4c3RSLUsySTVLNlFWck1UUFFrc2ttUTJOTmJweFZYR2pf0gFWQVVfeXFMTzlwNFpqQVFKV1JyWUxlYjhtQ1VKWHNVa0MwRFhfQzVFZmVkZVZaM0F1X2dnTDdva1REcl9XSERhUWkwTldIQURtbV9RYWNVY2ZMMXR4SWc?oc=5",
-    "published": "2026-08-18 08:39",
-    "images": [],
-    "summary": "AI世代贏家！韓17歲高中生獲三星聘用 不讀大學年薪6位數美元&nbsp;&nbsp;UDN",
-    "tags": "大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "AI世代贏家！韓17歲高中生獲三星聘用 不讀大學年薪6位數美元&nbsp;&nbsp;UDN",
-    "cn_title": "AI世代贏家！韓17歲高中生獲三星聘用 不讀大學年薪6位數美元 - UDN",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "大學",
-    "source": "UDN 文教"
   }
 }
