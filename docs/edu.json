@@ -14,6 +14,21 @@
     "cn_tags": "龍華科技大學, 龍華科大, 五專",
     "source": "自由時報"
   },
+  "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zTEV5eTAtYk95WE9wNjNyNVhOWXd3NWxxdmlvdzE3d01Ocm8ta19xUzQ1T0tuWURDZ196RVlaUlRaRkI0QWxxYTJIR05vWGVWc0JZV0Q1YnBiZXdDamhsY25kMA?oc=5": {
+    "title": "大學迎新活動變調！夜間直擊水庫榕樹下的那抹詭影| 迷創作 - 琅琅悅讀",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zTEV5eTAtYk95WE9wNjNyNVhOWXd3NWxxdmlvdzE3d01Ocm8ta19xUzQ1T0tuWURDZ196RVlaUlRaRkI0QWxxYTJIR05vWGVWc0JZV0Q1YnBiZXdDamhsY25kMA?oc=5",
+    "published": "2026-08-30 10:00",
+    "images": [],
+    "summary": "大學迎新活動變調！夜間直擊水庫榕樹下的那抹詭影| 迷創作&nbsp;&nbsp;琅琅悅讀",
+    "tags": "大學",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "大學迎新活動變調！夜間直擊水庫榕樹下的那抹詭影| 迷創作&nbsp;&nbsp;琅琅悅讀",
+    "cn_title": "大學迎新活動變調！夜間直擊水庫榕樹下的那抹詭影| 迷創作 - 琅琅悅讀",
+    "cn_classes": "其他",
+    "cn_tags": "大學",
+    "source": "UDN 文教"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5556891": {
     "title": "高雄大學志工團冒雨深入山區  陪伴學童學數學、玩科技",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5556891",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "靜宜大學",
     "source": "UDN 文教"
-  },
-  "https://www.cna.com.tw/news/ahel/202608180135.aspx": {
-    "title": "深化生醫研究合作　中研院攜手中醫大布局前瞻研究",
-    "link": "https://www.cna.com.tw/news/ahel/202608180135.aspx",
-    "published": "2026-08-18 13:34",
-    "images": [],
-    "summary": "（中央社記者吳欣紜台北18日電）中國醫藥大學團隊昨天拜訪中研院，雙方就AI神經連結體、針灸得氣與痠痛治療、次世代癌症精準及免疫治療等深入交流，中研院今天表示，未來將結合基礎研究與臨床優勢推動合作。",
-    "tags": "中國醫藥大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "（中央社記者吳欣紜台北18日電）中國醫藥大學團隊昨天拜訪中研院，雙方就AI神經連結體、針灸得氣與痠痛治療、次世代癌症精準及免疫治療等深入交流，中研院今天表示，未來將結合基礎研究與臨床優勢推動合作。",
-    "cn_title": "深化生醫研究合作　中研院攜手中醫大布局前瞻研究",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "中國醫藥大學",
-    "source": "中央社"
   }
 }
