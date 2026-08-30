@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5556891": {
+    "title": "高雄大學志工團冒雨深入山區  陪伴學童學數學、玩科技",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5556891",
+    "published": "2026-08-30 09:48",
+    "images": [],
+    "summary": "國立高雄大學「e-Eureka資訊志工團」不畏豪雨，深入高雄市茂林山區多納國小，帶領山區24名學童學數學、玩VR虛擬實境、操作機器人，體驗科技的樂趣。 高大人工智慧研究中心「...…",
+    "tags": "國立高雄大學",
+    "classes": "在地連結與社會責任（USR）",
+    "is_target": "True",
+    "cn_summary": "國立高雄大學「e-Eureka資訊志工團」不畏豪雨，深入高雄市茂林山區多納國小，帶領山區24名學童學數學、玩VR虛擬實境、操作機器人，體驗科技的樂趣。 高大人工智慧研究中心「...…",
+    "cn_title": "高雄大學志工團冒雨深入山區  陪伴學童學數學、玩科技",
+    "cn_classes": "在地連結與社會責任（USR）",
+    "cn_tags": "國立高雄大學",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/paper/1768603": {
     "title": "學者轟立委 搞不清楚別亂刪預算",
     "link": "https://news.ltn.com.tw/news/life/paper/1768603",
@@ -3582,21 +3597,6 @@
     "cn_title": "清大校長高為元赴美覓職風波未歇 教授徐文光籲自行請辭",
     "cn_classes": "校園爭議與事件",
     "cn_tags": "教授, 國立清華大學, 文化",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5543685": {
-    "title": "中研院與中國醫藥大學深化生醫研究合作 攜手布局前瞻研究",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5543685",
-    "published": "2026-08-18 12:48",
-    "images": [],
-    "summary": "中國醫藥大學董事長蔡長海昨率團隊拜訪中研院，雙方就AI神經連結體、針灸得氣與痠痛治療、靶向粒線體治療、次世代癌症精準及免疫治療、基因體醫學及多體學健康研究等領域深入交流，院方表...…",
-    "tags": "中國醫藥大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "中國醫藥大學董事長蔡長海昨率團隊拜訪中研院，雙方就AI神經連結體、針灸得氣與痠痛治療、靶向粒線體治療、次世代癌症精準及免疫治療、基因體醫學及多體學健康研究等領域深入交流，院方表...…",
-    "cn_title": "中研院與中國醫藥大學深化生醫研究合作 攜手布局前瞻研究",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "中國醫藥大學",
     "source": "自由時報"
   }
 }
