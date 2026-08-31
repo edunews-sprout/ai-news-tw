@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/society/breakingnews/5558601": {
+    "title": "聯合大學驚傳電箱爆炸 學生一度受困電梯",
+    "link": "https://news.ltn.com.tw/news/society/breakingnews/5558601",
+    "published": "2026-08-31 22:49",
+    "images": [],
+    "summary": "今日為國立聯合大學新生訓練第一天，不料卻驚傳電箱跳電發生爆炸，更傳出一度有學生受困於電梯內。 據了解，今晚聯合大學二坪山校區電箱疑似發生爆炸，導致全校大跳電，現場煙霧迷漫，...…",
+    "tags": "國立聯合大學",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "今日為國立聯合大學新生訓練第一天，不料卻驚傳電箱跳電發生爆炸，更傳出一度有學生受困於電梯內。 據了解，今晚聯合大學二坪山校區電箱疑似發生爆炸，導致全校大跳電，現場煙霧迷漫，...…",
+    "cn_title": "聯合大學驚傳電箱爆炸 學生一度受困電梯",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "國立聯合大學",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10Nk9tZF84ZHNnTzVJbXFySzJ5RmU5ajNGLWpsM3RVa2swYkRBY0tkM2t2QV9XLWtyUnZvSVFWSTFxOWFsS3o1OVN1Q3RLY2JG0gFWQVVfeXFMTVZxMnFSbkF5WnJRY3EzM3FsLTItR01vZ0EzeFRRak81aUtib0hrbVZWM1g5WlZiRE9NMnI2aHhIQTRZOXUtRWUxaXN1YktmTUYzWVQ4VEE?oc=5": {
     "title": "開學住宿新舊差很大！屏東大學宿舍蕙蘭樓設備老舊 窗戶破裂、壁癌還冒草 - UDN",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10Nk9tZF84ZHNnTzVJbXFySzJ5RmU5ajNGLWpsM3RVa2swYkRBY0tkM2t2QV9XLWtyUnZvSVFWSTFxOWFsS3o1OVN1Q3RLY2JG0gFWQVVfeXFMTVZxMnFSbkF5WnJRY3EzM3FsLTItR01vZ0EzeFRRak81aUtib0hrbVZWM1g5WlZiRE9NMnI2aHhIQTRZOXUtRWUxaXN1YktmTUYzWVQ4VEE?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "在地連結與社會責任（USR）",
     "cn_tags": "亞洲大學, 國立中正大學, 大學生",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82cVRnNGl4b21OOWZpc3FMLUd2MWlHVGYzWTRteHlCVWFCMW53TEJ5dXhUbmFXWDBPT3c4Q3M0aTZvSWhMc2dKSXRMT0t3M2pMa3FUei1UWDRfdw?oc=5": {
-    "title": "分科放榜淡江大學滿招 迎接全國最多新鮮人入學 | 產學研訓 | 商情 - 經濟日報",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82cVRnNGl4b21OOWZpc3FMLUd2MWlHVGYzWTRteHlCVWFCMW53TEJ5dXhUbmFXWDBPT3c4Q3M0aTZvSWhMc2dKSXRMT0t3M2pMa3FUei1UWDRfdw?oc=5",
-    "published": "2026-08-19 10:17",
-    "images": [],
-    "summary": "分科放榜淡江大學滿招 迎接全國最多新鮮人入學 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
-    "tags": "淡江大學",
-    "classes": "產學合作",
-    "is_target": "True",
-    "cn_summary": "分科放榜淡江大學滿招 迎接全國最多新鮮人入學 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
-    "cn_title": "分科放榜淡江大學滿招 迎接全國最多新鮮人入學 | 產學研訓 | 商情 - 經濟日報",
-    "cn_classes": "產學合作",
-    "cn_tags": "淡江大學",
-    "source": "UDN 文教"
   }
 }
