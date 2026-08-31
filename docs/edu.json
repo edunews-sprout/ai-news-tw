@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5557833": {
+    "title": "教育部擬鬆綁高中職雜費用途 最多20％可支應教學設備",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5557833",
+    "published": "2026-08-31 11:21",
+    "images": [],
+    "summary": "全國中小學今（31）日開學，少子化、校園安全、設備更新及教學需求等大小事，都考驗校長治校能力，如何把有限經費用在最需要的地方也是一大挑戰。教育部研擬修正「高級中等學校向學生收取...…",
+    "tags": "",
+    "classes": "在地連結與社會責任（USR）",
+    "is_target": "True",
+    "cn_summary": "全國中小學今（31）日開學，少子化、校園安全、設備更新及教學需求等大小事，都考驗校長治校能力，如何把有限經費用在最需要的地方也是一大挑戰。教育部研擬修正「高級中等學校向學生收取...…",
+    "cn_title": "教育部擬鬆綁高中職雜費用途 最多20％可支應教學設備",
+    "cn_classes": "在地連結與社會責任（USR）",
+    "cn_tags": "",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05dzFxWTZOend0Zy1ldDNHd2xuLWNQcDdnSG0wUVROZ2dnOWVha3UycS1HZUUzdXV0SXZNVFVGWk1TN1ZQdUNtZHFGd1hZN3ZvS2hzMlU5dlVCQQ?oc=5": {
     "title": "臺北科大攜手全球第12名新加坡南洋理工大學打造區塊鏈國際人才培育新里程碑| 產學研訓| 商情 - 經濟日報",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05dzFxWTZOend0Zy1ldDNHd2xuLWNQcDdnSG0wUVROZ2dnOWVha3UycS1HZUUzdXV0SXZNVFVGWk1TN1ZQdUNtZHFGd1hZN3ZvS2hzMlU5dlVCQQ?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "產學合作",
     "cn_tags": "長庚大學",
     "source": "UDN 文教"
-  },
-  "https://www.cna.com.tw/news/aloc/202608180176.aspx": {
-    "title": "中山、海軍官校首推跨校雙主修　培育跨域人才",
-    "link": "https://www.cna.com.tw/news/aloc/202608180176.aspx",
-    "published": "2026-08-18 15:33",
-    "images": [],
-    "summary": "（中央社記者林巧璉高雄18日電）國立中山大學與海軍軍官學校今天簽策略聯盟協議，首度推動跨校雙主修合作，學生跨校符合標準後可取得雙學士學位，培育兼具科技、軍事與跨域能力新世代人才。",
-    "tags": "國立中山大學, 學士, 學位",
-    "classes": "產學合作",
-    "is_target": "True",
-    "cn_summary": "（中央社記者林巧璉高雄18日電）國立中山大學與海軍軍官學校今天簽策略聯盟協議，首度推動跨校雙主修合作，學生跨校符合標準後可取得雙學士學位，培育兼具科技、軍事與跨域能力新世代人才。",
-    "cn_title": "中山、海軍官校首推跨校雙主修　培育跨域人才",
-    "cn_classes": "產學合作",
-    "cn_tags": "國立中山大學, 學士, 學位",
-    "source": "中央社"
   }
 }
