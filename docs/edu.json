@@ -1,4 +1,19 @@
 {
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jS3dvc250V3ZCdkxFTVVYY25wWmdOUEZGU05vS3VSNFF3blZkVnJYSTJqLThtNnJVYkcxVEFqazctRVRQUEFjZWppRXBYZw?oc=5": {
+    "title": "台積電三路扶植歐洲晶片新創！教材進80所大學、合作150名教授，1,200名學生完成培訓| 魏鑫陽 | 財經 - Storm.mg",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jS3dvc250V3ZCdkxFTVVYY25wWmdOUEZGU05vS3VSNFF3blZkVnJYSTJqLThtNnJVYkcxVEFqazctRVRQUEFjZWppRXBYZw?oc=5",
+    "published": "2026-09-02 06:15",
+    "images": [],
+    "summary": "台積電三路扶植歐洲晶片新創！教材進80所大學、合作150名教授，1,200名學生完成培訓| 魏鑫陽 | 財經&nbsp;&nbsp;Storm.mg",
+    "tags": "大學, 教授",
+    "classes": "產學合作",
+    "is_target": "True",
+    "cn_summary": "台積電三路扶植歐洲晶片新創！教材進80所大學、合作150名教授，1,200名學生完成培訓| 魏鑫陽 | 財經&nbsp;&nbsp;Storm.mg",
+    "cn_title": "台積電三路扶植歐洲晶片新創！教材進80所大學、合作150名教授，1,200名學生完成培訓| 魏鑫陽 | 財經 - Storm.mg",
+    "cn_classes": "產學合作",
+    "cn_tags": "大學, 教授",
+    "source": "風傳媒"
+  },
   "https://news.ltn.com.tw/news/society/breakingnews/5559925": {
     "title": "濃煙陣陣！屏科大校門口火燒車   用路人誤以為「普渡燒很旺」",
     "link": "https://news.ltn.com.tw/news/society/breakingnews/5559925",
@@ -3583,20 +3598,5 @@
     "cn_classes": "產學合作",
     "cn_tags": "產學合作, 中原大學",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5546504": {
-    "title": "AI進入大學社團 教育部要求提升資安與判斷力",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5546504",
-    "published": "2026-08-20 16:04",
-    "images": [],
-    "summary": "生成式AI快速進入大學生學習與校園生活，學生社團也面臨科技帶來的新機會與挑戰。教育部今（20）日表示，面對AI時代，大專校院課外活動輔導也須跟著轉型，不只要協助學生善用AI，更...…",
-    "tags": "大學生, 大專",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "生成式AI快速進入大學生學習與校園生活，學生社團也面臨科技帶來的新機會與挑戰。教育部今（20）日表示，面對AI時代，大專校院課外活動輔導也須跟著轉型，不只要協助學生善用AI，更...…",
-    "cn_title": "AI進入大學社團 教育部要求提升資安與判斷力",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "大學生, 大專",
-    "source": "自由時報"
   }
 }
