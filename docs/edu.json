@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/politics/breakingnews/5561253": {
+    "title": "陽明交大設院計畫過關 張善政稱上任後才「轉向」 黃世杰批剽竊政績",
+    "link": "https://news.ltn.com.tw/news/politics/breakingnews/5561253",
+    "published": "2026-09-02 21:59",
+    "images": [],
+    "summary": "桃園市長張善政今天在臉書發文，宣布陽明交通大學在青埔設立醫院的計畫已於8月通過市府衛生局審查，民進黨桃園市長參選人黃世杰表示，張在文中指陽明交大青埔土地「2019年劃撥時以教育...…",
+    "tags": "國立陽明交通大學",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "桃園市長張善政今天在臉書發文，宣布陽明交通大學在青埔設立醫院的計畫已於8月通過市府衛生局審查，民進黨桃園市長參選人黃世杰表示，張在文中指陽明交大青埔土地「2019年劃撥時以教育...…",
+    "cn_title": "陽明交大設院計畫過關 張善政稱上任後才「轉向」 黃世杰批剽竊政績",
+    "cn_classes": "其他",
+    "cn_tags": "國立陽明交通大學",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5561054": {
     "title": "1路公車進校園  澎科大交通更便利",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5561054",
@@ -3582,21 +3597,6 @@
     "cn_title": "安圖斯科技 助力南洋理工大學失智症研究中心 - UDN",
     "cn_classes": "學術研究與創新",
     "cn_tags": "大學",
-    "source": "UDN 文教"
-  },
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PakxacGdzcENBa2d5TTdjbXBXd3M1bnc5MXdwaml1V0JFSjRxWEktSXNwVmFLSXhVeVVpckFlT2hWdDc2V2VyNzFJcWlFRDdfRFpXclg3eERoQQ?oc=5": {
-    "title": "台日學生跨域共創自製光譜儀 明志科大攜手福岡工業大學深化國際工程教育 | 產學研訓 | 商情 - 經濟日報",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PakxacGdzcENBa2d5TTdjbXBXd3M1bnc5MXdwaml1V0JFSjRxWEktSXNwVmFLSXhVeVVpckFlT2hWdDc2V2VyNzFJcWlFRDdfRFpXclg3eERoQQ?oc=5",
-    "published": "2026-08-21 16:29",
-    "images": [],
-    "summary": "台日學生跨域共創自製光譜儀 明志科大攜手福岡工業大學深化國際工程教育 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
-    "tags": "明志科大, 大學",
-    "classes": "產學合作",
-    "is_target": "True",
-    "cn_summary": "台日學生跨域共創自製光譜儀 明志科大攜手福岡工業大學深化國際工程教育 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
-    "cn_title": "台日學生跨域共創自製光譜儀 明志科大攜手福岡工業大學深化國際工程教育 | 產學研訓 | 商情 - 經濟日報",
-    "cn_classes": "產學合作",
-    "cn_tags": "明志科大, 大學",
     "source": "UDN 文教"
   }
 }
