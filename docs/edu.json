@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/world/breakingnews/5561285": {
+    "title": "香港大學醫學院去港化？入學「需具良好粵語能力」變中文",
+    "link": "https://news.ltn.com.tw/news/world/breakingnews/5561285",
+    "published": "2026-09-02 23:07",
+    "images": [],
+    "summary": "香港大學醫學院近日更新2027／2028學年度招生資訊，將原先「需具良好粵語能力」的入學門檻，改為「需具良好中文能力」，意味著申請人可使用漢語（普通話）面試，引發外界對於漢語...…",
+    "tags": "大學",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "香港大學醫學院近日更新2027／2028學年度招生資訊，將原先「需具良好粵語能力」的入學門檻，改為「需具良好中文能力」，意味著申請人可使用漢語（普通話）面試，引發外界對於漢語...…",
+    "cn_title": "香港大學醫學院去港化？入學「需具良好粵語能力」變中文",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "大學",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/politics/breakingnews/5561253": {
     "title": "陽明交大設院計畫過關 張善政稱上任後才「轉向」 黃世杰批剽竊政績",
     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5561253",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學生事務與生活",
     "cn_tags": "",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MVlVJaHRpVlRLNks1UjROWmFKMmRSVEFpMlZvUTBYbk5UdFJBMmpCRl9pcjlRZWZwcWR1QTZmMmVnSTExX0JMaGR0T3dTMWty0gFWQVVfeXFMUERNRFc0dXFzcC1FVDhuX2pDREhOZ1FHZ3YwMTlVQXFEdkVKTnJOdVNmTmJ1c1FxcTFuM1F4eUhNTG1GTFFGZktzN2g5Z2xyckNkM2l0TVE?oc=5": {
-    "title": "安圖斯科技 助力南洋理工大學失智症研究中心 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MVlVJaHRpVlRLNks1UjROWmFKMmRSVEFpMlZvUTBYbk5UdFJBMmpCRl9pcjlRZWZwcWR1QTZmMmVnSTExX0JMaGR0T3dTMWty0gFWQVVfeXFMUERNRFc0dXFzcC1FVDhuX2pDREhOZ1FHZ3YwMTlVQXFEdkVKTnJOdVNmTmJ1c1FxcTFuM1F4eUhNTG1GTFFGZktzN2g5Z2xyckNkM2l0TVE?oc=5",
-    "published": "2026-08-21 16:49",
-    "images": [],
-    "summary": "安圖斯科技 助力南洋理工大學失智症研究中心&nbsp;&nbsp;UDN",
-    "tags": "大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "安圖斯科技 助力南洋理工大學失智症研究中心&nbsp;&nbsp;UDN",
-    "cn_title": "安圖斯科技 助力南洋理工大學失智症研究中心 - UDN",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "大學",
-    "source": "UDN 文教"
   }
 }
