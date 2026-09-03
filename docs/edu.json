@@ -1,4 +1,34 @@
 {
+  "https://udn.com/news/story/6928/9733474": {
+    "title": "亞大攜手美國學院 培育半導體人才",
+    "link": "https://udn.com/news/story/6928/9733474",
+    "published": "2026-09-04 00:23",
+    "images": [],
+    "summary": "亞洲大學二日與美國亞利桑那西部學院簽訂合作備忘錄，未來兩校將透過「台美半導體教育聯盟」教育部平台，進行半導體、ＡＩ人工智慧及資訊科技等合作。教育部長鄭英耀表示，教育部期待吸引更多美國學生來台學習半導體，並創造台灣學生赴美研習ＡＩ及新興科技機會。",
+    "tags": "亞洲大學",
+    "classes": "產學合作",
+    "is_target": "True",
+    "cn_summary": "亞洲大學二日與美國亞利桑那西部學院簽訂合作備忘錄，未來兩校將透過「台美半導體教育聯盟」教育部平台，進行半導體、ＡＩ人工智慧及資訊科技等合作。教育部長鄭英耀表示，教育部期待吸引更多美國學生來台學習半導體，並創造台灣學生赴美研習ＡＩ及新興科技機會。",
+    "cn_title": "亞大攜手美國學院 培育半導體人才",
+    "cn_classes": "產學合作",
+    "cn_tags": "亞洲大學",
+    "source": "UDN 文教"
+  },
+  "https://udn.com/news/story/6885/9733472": {
+    "title": "校事會議研商 教團仍籲廢除 學生團體盼留申訴管道",
+    "link": "https://udn.com/news/story/6885/9733472",
+    "published": "2026-09-04 00:22",
+    "images": [],
+    "summary": "校事會議因投訴門檻低，引發濫訴爭議，立法院七月退回校事會議相關辦法，教育部預計在九月底前完成相關研議與檢討。為此，教育部昨召集親師生等團體開會研商，擬將輔導管教注意事項的「阻卻違法事由」放入解聘辦法不受理事項。",
+    "tags": "",
+    "classes": "政策與法規",
+    "is_target": "True",
+    "cn_summary": "校事會議因投訴門檻低，引發濫訴爭議，立法院七月退回校事會議相關辦法，教育部預計在九月底前完成相關研議與檢討。為此，教育部昨召集親師生等團體開會研商，擬將輔導管教注意事項的「阻卻違法事由」放入解聘辦法不受理事項。",
+    "cn_title": "校事會議研商 教團仍籲廢除 學生團體盼留申訴管道",
+    "cn_classes": "政策與法規",
+    "cn_tags": "",
+    "source": "UDN 文教"
+  },
   "https://udn.com/news/story/6928/9450511": {
     "title": "波波爭議／實習名額明文入法歧視？專家提3項制度設計",
     "link": "https://udn.com/news/story/6928/9450511",
@@ -373,6 +403,21 @@
     "cn_classes": "國際交流與合作",
     "cn_tags": "大專",
     "source": "中央社"
+  },
+  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TS2QxMHpudEJzdFFNeDEzY21rV0c2dGF1aHJITHlXbWJrWlFEaTR2UnRTTHkwSVFST0hLcDFQZ01DNS1tM3hkQnFNZXhwODV2ZTc2Z0hOOEw0bW12bTh3Zg?oc=5": {
+    "title": "TAICA聯盟如何降低大專院校AI教育的校際落差？ - 遠見雜誌",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TS2QxMHpudEJzdFFNeDEzY21rV0c2dGF1aHJITHlXbWJrWlFEaTR2UnRTTHkwSVFST0hLcDFQZ01DNS1tM3hkQnFNZXhwODV2ZTc2Z0hOOEw0bW12bTh3Zg?oc=5",
+    "published": "2026-09-03 08:03",
+    "images": [],
+    "summary": "TAICA聯盟如何降低大專院校AI教育的校際落差？&nbsp;&nbsp;遠見雜誌",
+    "tags": "大專",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "TAICA聯盟如何降低大專院校AI教育的校際落差？&nbsp;&nbsp;遠見雜誌",
+    "cn_title": "TAICA聯盟如何降低大專院校AI教育的校際落差？ - 遠見雜誌",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "大專",
+    "source": "遠見雜誌"
   },
   "https://news.ltn.com.tw/news/world/breakingnews/5561285": {
     "title": "香港大學醫學院去港化？入學「需具良好粵語能力」變中文",
@@ -3552,51 +3597,6 @@
     "cn_title": "安邦生技與東京大學簽署合作研究協議 加速拓展ABT-301人類臨床適應症 - UDN",
     "cn_classes": "學術研究與創新",
     "cn_tags": "大學",
-    "source": "UDN 文教"
-  },
-  "https://health.ltn.com.tw/article/breakingnews/5549996": {
-    "title": "護理之家疑爆菜花群聚 醫：未換手套恐增傳播風險 長照感控須更嚴謹",
-    "link": "https://health.ltn.com.tw/article/breakingnews/5549996",
-    "published": "2026-08-24 10:01",
-    "images": [],
-    "summary": "新北市皇家護理之家遭爆疑似發生尖性濕疣（俗稱菜花）群聚感染，菜花是人類乳突病毒HPV感染所造成的疾病，國立陽明交通大學附設醫院婦產科主任林宜珈受訪表示，HPV可透過接觸...…",
-    "tags": "國立陽明交通大學",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "新北市皇家護理之家遭爆疑似發生尖性濕疣（俗稱菜花）群聚感染，菜花是人類乳突病毒HPV感染所造成的疾病，國立陽明交通大學附設醫院婦產科主任林宜珈受訪表示，HPV可透過接觸...…",
-    "cn_title": "護理之家疑爆菜花群聚 醫：未換手套恐增傳播風險 長照感控須更嚴謹",
-    "cn_classes": "其他",
-    "cn_tags": "國立陽明交通大學",
-    "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12RWpIcDNfbnVKbG5nX3dBNmxSUTl2c3NtSXBkWXRpY3dWamtaV1FrNVNiSXZRYVRsZXdrTGxtYld2Q3dCUUJVOE9tWnZqWHpL0gFWQVVfeXFMT0pnYzNLSW8tMTdPenUzUkVXaGJ4LVctTWNrWmVfeFc0RW5YU20zenUxWUlxYVNRMEg5S1VSdnh0MzVXcHYwYk9KU0lRX1BBcl92SW82WVE?oc=5": {
-    "title": "打造低碳循環 台科大研發永續微藻碳固定平台 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12RWpIcDNfbnVKbG5nX3dBNmxSUTl2c3NtSXBkWXRpY3dWamtaV1FrNVNiSXZRYVRsZXdrTGxtYld2Q3dCUUJVOE9tWnZqWHpL0gFWQVVfeXFMT0pnYzNLSW8tMTdPenUzUkVXaGJ4LVctTWNrWmVfeFc0RW5YU20zenUxWUlxYVNRMEg5S1VSdnh0MzVXcHYwYk9KU0lRX1BBcl92SW82WVE?oc=5",
-    "published": "2026-08-24 09:21",
-    "images": [],
-    "summary": "打造低碳循環 台科大研發永續微藻碳固定平台&nbsp;&nbsp;UDN",
-    "tags": "國立臺灣科技大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "打造低碳循環 台科大研發永續微藻碳固定平台&nbsp;&nbsp;UDN",
-    "cn_title": "打造低碳循環 台科大研發永續微藻碳固定平台 - UDN",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "國立臺灣科技大學",
-    "source": "UDN 文教"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12RWpIcDNfbnVKbG5nX3dBNmxSUTl2c3NtSXBkWXRpY3dWamtaV1FrNVNiSXZRYVRsZXdrTGxtYld2Q3dCUUJVOE9tWnZqWHpL?oc=5": {
-    "title": "打造低碳循環台科大研發永續微藻碳固定平台| 大學研究所| 文教 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12RWpIcDNfbnVKbG5nX3dBNmxSUTl2c3NtSXBkWXRpY3dWamtaV1FrNVNiSXZRYVRsZXdrTGxtYld2Q3dCUUJVOE9tWnZqWHpL?oc=5",
-    "published": "2026-08-24 09:21",
-    "images": [],
-    "summary": "打造低碳循環台科大研發永續微藻碳固定平台| 大學研究所| 文教&nbsp;&nbsp;UDN",
-    "tags": "研究所, 國立臺灣科技大學, 大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "打造低碳循環台科大研發永續微藻碳固定平台| 大學研究所| 文教&nbsp;&nbsp;UDN",
-    "cn_title": "打造低碳循環台科大研發永續微藻碳固定平台| 大學研究所| 文教 - UDN",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "研究所, 國立臺灣科技大學, 大學",
     "source": "UDN 文教"
   }
 }
