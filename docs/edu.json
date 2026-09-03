@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5561656": {
+    "title": "AI深偽進校園 技職教育強化資訊辨識",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5561656",
+    "published": "2026-09-03 12:02",
+    "images": [],
+    "summary": "AI生成內容愈來愈真假難辨，技職學生除了學專業技術，也要學會判斷眼前資訊是真是假。教育部今（3）日指出，隨著生成式AI、深偽技術及社群演算法快速發展，媒體素養已不只是通識教育，...…",
+    "tags": "技職, 通識",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "AI生成內容愈來愈真假難辨，技職學生除了學專業技術，也要學會判斷眼前資訊是真是假。教育部今（3）日指出，隨著生成式AI、深偽技術及社群演算法快速發展，媒體素養已不只是通識教育，...…",
+    "cn_title": "AI深偽進校園 技職教育強化資訊辨識",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "技職, 通識",
+    "source": "自由時報"
+  },
   "https://udn.com/news/story/6885/9731668": {
     "title": "教師荒開學首周9成教師超鐘點 教育部公布7措施：中央和地方共同努力",
     "link": "https://udn.com/news/story/6885/9731668",
@@ -3583,20 +3598,5 @@
     "cn_classes": "國際交流與合作",
     "cn_tags": "",
     "source": "中央社"
-  },
-  "https://health.ltn.com.tw/article/breakingnews/5548241": {
-    "title": "難治卵巢癌治療露曙光 台大繪全球首個卵巢亮細胞癌空間圖譜",
-    "link": "https://health.ltn.com.tw/article/breakingnews/5548241",
-    "published": "2026-08-22 10:10",
-    "images": [],
-    "summary": "卵巢亮細胞癌（OCCC）在東亞女性族群中具較高盛行率，且因具高度化療抗藥性，臨床預後往往不佳。為突破治療瓶頸，國立台灣大學醫學系教授黃韻如攜手台大醫師魏凌鴻、江盈澄等專家...…",
-    "tags": "國立臺灣大學, 教授",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "卵巢亮細胞癌（OCCC）在東亞女性族群中具較高盛行率，且因具高度化療抗藥性，臨床預後往往不佳。為突破治療瓶頸，國立台灣大學醫學系教授黃韻如攜手台大醫師魏凌鴻、江盈澄等專家...…",
-    "cn_title": "難治卵巢癌治療露曙光 台大繪全球首個卵巢亮細胞癌空間圖譜",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "國立臺灣大學, 教授",
-    "source": "自由時報"
   }
 }
