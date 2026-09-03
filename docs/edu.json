@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/paper/1769298": {
+    "title": "學期週數減 大學生出國自主學習",
+    "link": "https://news.ltn.com.tw/news/life/paper/1769298",
+    "published": "2026-09-04 05:30",
+    "images": [],
+    "summary": "政大外語學院赴西班牙移地教學 台科大與瑞士跨國交流研習 〔記者楊綿傑／台北報導〕台灣各大學陸續縮短學期至十六週，不少大學推動移地教學，促進學生自主學習。政大外語學院今年有十五名跨系所學生參與為期三週的海外移地密集教學，進行西語訓練且與官方交流，還可獲得學分；台科大則與瑞士高教推動雙邊學生交換與互訪…",
+    "tags": "大學生, 國立臺灣科技大學, 高教, 學分, 國立政治大學",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "政大外語學院赴西班牙移地教學 台科大與瑞士跨國交流研習 〔記者楊綿傑／台北報導〕台灣各大學陸續縮短學期至十六週，不少大學推動移地教學，促進學生自主學習。政大外語學院今年有十五名跨系所學生參與為期三週的海外移地密集教學，進行西語訓練且與官方交流，還可獲得學分；台科大則與瑞士高教推動雙邊學生交換與互訪…",
+    "cn_title": "學期週數減 大學生出國自主學習",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "大學生, 國立臺灣科技大學, 高教, 學分, 國立政治大學",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUXRXUzg5MlJEUVZCVlZuMF8yZGZ2RTNzSThVdnZSekxhUXN3YlVGSnZlTHcwNjNRSGZxMHg1YW81aHBLTjViNmJuRzBDczNDdEc0c2NYTjlJUlhBa1FraGlTcFBkV2JpMHk1YTUyZWtXOVlKZng2M0FaN0NsN0xsS25ma0JmbDZzeGlXUC1LSExhZ0VKV3c?oc=5": {
     "title": "台灣高教生源萎縮，將如何影響國家人才培育？ - 遠見雜誌",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUXRXUzg5MlJEUVZCVlZuMF8yZGZ2RTNzSThVdnZSekxhUXN3YlVGSnZlTHcwNjNRSGZxMHg1YW81aHBLTjViNmJuRzBDczNDdEc0c2NYTjlJUlhBa1FraGlTcFBkV2JpMHk1YTUyZWtXOVlKZng2M0FaN0NsN0xsS25ma0JmbDZzeGlXUC1LSExhZ0VKV3c?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "嘉南藥理大學",
     "source": "UDN 文教"
-  },
-  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZNWtHNVpyVXVWbU0wblZ0OVNyWGRQbnZQSlpKb1B3akdSTlRZODludkY0VUVuMGp3YjJNU2pUYTJzdk9sNUNDd2FPYXFOQ3F5UGRIT2VTNmtCNENwMG9lTXRLcXRuQQ?oc=5": {
-    "title": "開南大學AI新視代USR暑期培力落幕多國新住民共創文化新映像- 新消息- Campus - 中時新聞網",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZNWtHNVpyVXVWbU0wblZ0OVNyWGRQbnZQSlpKb1B3akdSTlRZODludkY0VUVuMGp3YjJNU2pUYTJzdk9sNUNDd2FPYXFOQ3F5UGRIT2VTNmtCNENwMG9lTXRLcXRuQQ?oc=5",
-    "published": "2026-08-24 11:14",
-    "images": [],
-    "summary": "開南大學AI新視代USR暑期培力落幕多國新住民共創文化新映像- 新消息- Campus&nbsp;&nbsp;中時新聞網",
-    "tags": "開南大學, 文化",
-    "classes": "在地連結與社會責任（USR）",
-    "is_target": "True",
-    "cn_summary": "開南大學AI新視代USR暑期培力落幕多國新住民共創文化新映像- 新消息- Campus&nbsp;&nbsp;中時新聞網",
-    "cn_title": "開南大學AI新視代USR暑期培力落幕多國新住民共創文化新映像- 新消息- Campus - 中時新聞網",
-    "cn_classes": "在地連結與社會責任（USR）",
-    "cn_tags": "開南大學, 文化",
-    "source": "中國時報"
   }
 }
