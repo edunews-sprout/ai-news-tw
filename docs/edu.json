@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5563672": {
+    "title": "養蝦最怕創傷弧菌 屏科大開發快速檢測可攜裝置",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5563672",
+    "published": "2026-09-04 23:02",
+    "images": [],
+    "summary": "國立屏東科技大學生物機電工程系教授陳志堅的團隊，於「Meet Greater South 亞灣新創大南方」展覽中展示結合生物檢測、光學感測、人工智慧（AI）與物聯網（IoT）技...…",
+    "tags": "國立屏東科技大學, 大學生, 教授",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "國立屏東科技大學生物機電工程系教授陳志堅的團隊，於「Meet Greater South 亞灣新創大南方」展覽中展示結合生物檢測、光學感測、人工智慧（AI）與物聯網（IoT）技...…",
+    "cn_title": "養蝦最怕創傷弧菌 屏科大開發快速檢測可攜裝置",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立屏東科技大學, 大學生, 教授",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5563630": {
     "title": "先練基本功！腦科學專家揭大腦25歲才發育完全  喊話大學生「謹慎使用AI」",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5563630",
@@ -28,6 +43,21 @@
     "cn_classes": "學生事務與生活",
     "cn_tags": "大學",
     "source": "自由時報"
+  },
+  "https://www.cna.com.tw/news/ahel/202609040321.aspx": {
+    "title": "宿舍品質落差惹議　教部：已投入63億元並持續補助",
+    "link": "https://www.cna.com.tw/news/ahel/202609040321.aspx",
+    "published": "2026-09-04 21:16",
+    "images": [],
+    "summary": "（中央社記者陳至中台北4日電）民間團體今天在立法院召開記者會，對大學宿舍品質提出訴求。教育部晚間回應，近年已先後投入新台幣63億元改善住宿環境，將持續鼓勵大學申請，並將評估提高補助比例。",
+    "tags": "大學",
+    "classes": "政策與法規",
+    "is_target": "True",
+    "cn_summary": "（中央社記者陳至中台北4日電）民間團體今天在立法院召開記者會，對大學宿舍品質提出訴求。教育部晚間回應，近年已先後投入新台幣63億元改善住宿環境，將持續鼓勵大學申請，並將評估提高補助比例。",
+    "cn_title": "宿舍品質落差惹議　教部：已投入63億元並持續補助",
+    "cn_classes": "政策與法規",
+    "cn_tags": "大學",
+    "source": "中央社"
   },
   "https://udn.com/news/story/6928/9735418": {
     "title": "社群掀大學宿舍開箱潮！政大被點名「純獄風」 校方發聲了",
@@ -3568,35 +3598,5 @@
     "cn_classes": "教學與課程",
     "cn_tags": "亞東科技大學, 亞東科大",
     "source": "中央社"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51a0pWeEpBMXh1eGJ6RzI1akRFV0VBMmZzMmwyV3c5TkNzbFNKME9DVy1Ja2FxZlhXUElLam1zNjhGR0JZbm43cWcyb1dBcmtY?oc=5": {
-    "title": "教育三法修正弱勢大專生免學費、電腦及網路費也納學貸| 文教新訊| 文教 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51a0pWeEpBMXh1eGJ6RzI1akRFV0VBMmZzMmwyV3c5TkNzbFNKME9DVy1Ja2FxZlhXUElLam1zNjhGR0JZbm43cWcyb1dBcmtY?oc=5",
-    "published": "2026-08-25 10:13",
-    "images": [],
-    "summary": "教育三法修正弱勢大專生免學費、電腦及網路費也納學貸| 文教新訊| 文教&nbsp;&nbsp;UDN",
-    "tags": "大專",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "教育三法修正弱勢大專生免學費、電腦及網路費也納學貸| 文教新訊| 文教&nbsp;&nbsp;UDN",
-    "cn_title": "教育三法修正弱勢大專生免學費、電腦及網路費也納學貸| 文教新訊| 文教 - UDN",
-    "cn_classes": "其他",
-    "cn_tags": "大專",
-    "source": "UDN 文教"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51a0pWeEpBMXh1eGJ6RzI1akRFV0VBMmZzMmwyV3c5TkNzbFNKME9DVy1Ja2FxZlhXUElLam1zNjhGR0JZbm43cWcyb1dBcmtY0gFWQVVfeXFMTWthcnRsUkx5Zk5aTkFIVzc5SjRyOWdDWXFUdTVpUkV3Mk9nMGVjVk5fS2ZGNFhSUXU5UzJXTUJyMmRKeHJoenZNc2V5M1lCZVpORmxXa3c?oc=5": {
-    "title": "教育三法修正 弱勢大專生免學費、電腦及網路費也納學貸 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51a0pWeEpBMXh1eGJ6RzI1akRFV0VBMmZzMmwyV3c5TkNzbFNKME9DVy1Ja2FxZlhXUElLam1zNjhGR0JZbm43cWcyb1dBcmtY0gFWQVVfeXFMTWthcnRsUkx5Zk5aTkFIVzc5SjRyOWdDWXFUdTVpUkV3Mk9nMGVjVk5fS2ZGNFhSUXU5UzJXTUJyMmRKeHJoenZNc2V5M1lCZVpORmxXa3c?oc=5",
-    "published": "2026-08-25 10:13",
-    "images": [],
-    "summary": "教育三法修正 弱勢大專生免學費、電腦及網路費也納學貸&nbsp;&nbsp;UDN",
-    "tags": "大專",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "教育三法修正 弱勢大專生免學費、電腦及網路費也納學貸&nbsp;&nbsp;UDN",
-    "cn_title": "教育三法修正 弱勢大專生免學費、電腦及網路費也納學貸 - UDN",
-    "cn_classes": "其他",
-    "cn_tags": "大專",
-    "source": "UDN 文教"
   }
 }
