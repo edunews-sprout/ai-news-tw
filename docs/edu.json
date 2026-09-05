@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5563850": {
+    "title": "「準老師」實習獎助金首增至1.5萬 鄭英耀寫信：你們絕非孤軍奮戰",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5563850",
+    "published": "2026-09-05 10:22",
+    "images": [],
+    "summary": "中小學開學一週，一群「準老師」走進校園展開教育實習，成為教育實習獎助金提高至每月1萬5000元的首批受惠者。教育部長鄭英耀特別寫信為實習學生打氣，告訴他們「教育實習不是一場測驗...…",
+    "tags": "",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "中小學開學一週，一群「準老師」走進校園展開教育實習，成為教育實習獎助金提高至每月1萬5000元的首批受惠者。教育部長鄭英耀特別寫信為實習學生打氣，告訴他們「教育實習不是一場測驗...…",
+    "cn_title": "「準老師」實習獎助金首增至1.5萬 鄭英耀寫信：你們絕非孤軍奮戰",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5563780": {
     "title": "前進京都大學世界級研究團隊！ 教育部明年選送4名台灣青年",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5563780",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "大專, 學分",
     "source": "中央社"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aR3J6ejladnlDYTdyWms5amp2bkd6d3JYRlZpdWxxVzFlcmg3MnVqQXNkVWx5MHMzb19hejN0am0tcEVNd01xMzZHbnZSelZj?oc=5": {
-    "title": "東吳推高中生AI教學營110人取得輝達完課證書| 大學研究所| 文教 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aR3J6ejladnlDYTdyWms5amp2bkd6d3JYRlZpdWxxVzFlcmg3MnVqQXNkVWx5MHMzb19hejN0am0tcEVNd01xMzZHbnZSelZj?oc=5",
-    "published": "2026-08-25 10:59",
-    "images": [],
-    "summary": "東吳推高中生AI教學營110人取得輝達完課證書| 大學研究所| 文教&nbsp;&nbsp;UDN",
-    "tags": "研究所, 大學, 東吳",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "東吳推高中生AI教學營110人取得輝達完課證書| 大學研究所| 文教&nbsp;&nbsp;UDN",
-    "cn_title": "東吳推高中生AI教學營110人取得輝達完課證書| 大學研究所| 文教 - UDN",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "研究所, 大學, 東吳",
-    "source": "UDN 文教"
   }
 }
