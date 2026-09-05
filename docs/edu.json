@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5563780": {
+    "title": "前進京都大學世界級研究團隊！ 教育部明年選送4名台灣青年",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5563780",
+    "published": "2026-09-05 09:11",
+    "images": [],
+    "summary": "我國青年明年起有機會進入日本京都大學，與世界級研究團隊一起做研究。教育部與京都大學簽署合作協議，「青年百億海外圓夢基金計畫」自2027年起將與京都大學科研平台對接，京都大學首度...…",
+    "tags": "大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "我國青年明年起有機會進入日本京都大學，與世界級研究團隊一起做研究。教育部與京都大學簽署合作協議，「青年百億海外圓夢基金計畫」自2027年起將與京都大學科研平台對接，京都大學首度...…",
+    "cn_title": "前進京都大學世界級研究團隊！ 教育部明年選送4名台灣青年",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "大學",
+    "source": "自由時報"
+  },
   "https://ent.ltn.com.tw/news/breakingnews/5563689": {
     "title": "真的假的！劉寶傑48小時馬拉松直播 《關鍵時刻》黃金班底合體",
     "link": "https://ent.ltn.com.tw/news/breakingnews/5563689",
@@ -3582,21 +3597,6 @@
     "cn_title": "東吳推高中生AI教學營110人取得輝達完課證書| 大學研究所| 文教 - UDN",
     "cn_classes": "學術研究與創新",
     "cn_tags": "研究所, 大學, 東吳",
-    "source": "UDN 文教"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lRDk1MlVXRWxwTUNwMmNjdm50alhIZDU3YmZmeTRnU0FrXzAzS2RWMmhuX0p1LVdEYnF4bEp4dklpZHFXblJtTHB2ei1RWjdN?oc=5": {
-    "title": "亞東科大第4度赴印尼電子課程走進海外台校| 大學研究所| 文教 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lRDk1MlVXRWxwTUNwMmNjdm50alhIZDU3YmZmeTRnU0FrXzAzS2RWMmhuX0p1LVdEYnF4bEp4dklpZHFXblJtTHB2ei1RWjdN?oc=5",
-    "published": "2026-08-25 10:58",
-    "images": [],
-    "summary": "亞東科大第4度赴印尼電子課程走進海外台校| 大學研究所| 文教&nbsp;&nbsp;UDN",
-    "tags": "亞東科大, 研究所, 大學",
-    "classes": "教學與課程",
-    "is_target": "True",
-    "cn_summary": "亞東科大第4度赴印尼電子課程走進海外台校| 大學研究所| 文教&nbsp;&nbsp;UDN",
-    "cn_title": "亞東科大第4度赴印尼電子課程走進海外台校| 大學研究所| 文教 - UDN",
-    "cn_classes": "教學與課程",
-    "cn_tags": "亞東科大, 研究所, 大學",
     "source": "UDN 文教"
   }
 }
