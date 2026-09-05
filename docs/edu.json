@@ -14,6 +14,21 @@
     "cn_tags": "大學, 亞洲大學",
     "source": "自由時報"
   },
+  "https://www.cna.com.tw/news/ahel/202609050112.aspx": {
+    "title": "台師大結合AI辦閱讀競賽　學生成績顯著提升",
+    "link": "https://www.cna.com.tw/news/ahel/202609050112.aspx",
+    "published": "2026-09-05 15:42",
+    "images": [],
+    "summary": "（中央社記者陳至中台北5日電）台灣師範大學舉辦SmartReading適性閱讀跨國競賽，帶動2萬人次參與，AI（人工智慧）技術協助診斷閱讀能力和讀物難度分級，6年級平均後測分數較一般學生提高75分。",
+    "tags": "大學, 國立臺灣師範大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "（中央社記者陳至中台北5日電）台灣師範大學舉辦SmartReading適性閱讀跨國競賽，帶動2萬人次參與，AI（人工智慧）技術協助診斷閱讀能力和讀物難度分級，6年級平均後測分數較一般學生提高75分。",
+    "cn_title": "台師大結合AI辦閱讀競賽　學生成績顯著提升",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "大學, 國立臺灣師範大學",
+    "source": "中央社"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5564026": {
     "title": "基隆豪雨釀60處淹水！預測與實測差近5倍 市府研議多元預警",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5564026",
@@ -3582,21 +3597,6 @@
     "cn_title": "臺北科技大學啟動第三波 AI智慧製造與數位轉型人才培訓班 | 熱門亮點 | 商情 - 經濟日報",
     "cn_classes": "學術研究與創新",
     "cn_tags": "科技大學, 北科",
-    "source": "UDN 文教"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94b0JvYk1hNW1FMU40ZWhrLVdsVDZyV2EzcDZjRUtMcHBVTTFmMHl4TVBCTnZLR0NfVkVsTlNUT2V5aG9hVEgyWVZBN012bFhT0gFWQVVfeXFMTlJySEJvRmdkVG5EMnBZeVhVeTduQ1gxVTN0ZllVX3Q4Rnc5T3N1Z21tZG8yWU1nUGJ5cFhzQ0lwcTlNTWszZVlvaWtfVzIyZVNMWU9sUWc?oc=5": {
-    "title": "NBA／曾與爵士簽雙向合約 聖約翰明星前鋒打破限制確定重返大學賽場 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94b0JvYk1hNW1FMU40ZWhrLVdsVDZyV2EzcDZjRUtMcHBVTTFmMHl4TVBCTnZLR0NfVkVsTlNUT2V5aG9hVEgyWVZBN012bFhT0gFWQVVfeXFMTlJySEJvRmdkVG5EMnBZeVhVeTduQ1gxVTN0ZllVX3Q4Rnc5T3N1Z21tZG8yWU1nUGJ5cFhzQ0lwcTlNTWszZVlvaWtfVzIyZVNMWU9sUWc?oc=5",
-    "published": "2026-08-25 12:55",
-    "images": [],
-    "summary": "NBA／曾與爵士簽雙向合約 聖約翰明星前鋒打破限制確定重返大學賽場&nbsp;&nbsp;UDN",
-    "tags": "大學",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "NBA／曾與爵士簽雙向合約 聖約翰明星前鋒打破限制確定重返大學賽場&nbsp;&nbsp;UDN",
-    "cn_title": "NBA／曾與爵士簽雙向合約 聖約翰明星前鋒打破限制確定重返大學賽場 - UDN",
-    "cn_classes": "其他",
-    "cn_tags": "大學",
     "source": "UDN 文教"
   }
 }
