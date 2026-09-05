@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5563856": {
+    "title": "中山大學大群獼猴垂降宿舍！網友看傻「以為是AI」",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5563856",
+    "published": "2026-09-05 11:26",
+    "images": [],
+    "summary": "迎接開學季，許多學生重返校園。國立中山大學一名大學新鮮人昨（4日）錄製宿舍外一大群獼猴爬牆、垂降畫面，公開影像曝光後震驚全網，貼文發布迄今已超過399.9萬次瀏覽，有網友驚呼「荒...…",
+    "tags": "國立中山大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "迎接開學季，許多學生重返校園。國立中山大學一名大學新鮮人昨（4日）錄製宿舍外一大群獼猴爬牆、垂降畫面，公開影像曝光後震驚全網，貼文發布迄今已超過399.9萬次瀏覽，有網友驚呼「荒...…",
+    "cn_title": "中山大學大群獼猴垂降宿舍！網友看傻「以為是AI」",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立中山大學",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5563850": {
     "title": "「準老師」實習獎助金首增至1.5萬 鄭英耀寫信：你們絕非孤軍奮戰",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5563850",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "",
     "source": "UDN 文教"
-  },
-  "https://www.cna.com.tw/news/ahel/202608250067.aspx": {
-    "title": "大專AI聯盟首批頒證　修課學生8成取得學分",
-    "link": "https://www.cna.com.tw/news/ahel/202608250067.aspx",
-    "published": "2026-08-25 11:24",
-    "images": [],
-    "summary": "（中央社記者陳至中台北25日電）教育部於114年首度推動大專AI聯盟（TAICA），讓跨校學生共同學習AI，今天舉辦首批頒證與成果發表會，修課學生中，6成來自非資通訊學門，在114學年度已有8成順利取得至少一門課的學分。",
-    "tags": "大專, 學分",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "（中央社記者陳至中台北25日電）教育部於114年首度推動大專AI聯盟（TAICA），讓跨校學生共同學習AI，今天舉辦首批頒證與成果發表會，修課學生中，6成來自非資通訊學門，在114學年度已有8成順利取得至少一門課的學分。",
-    "cn_title": "大專AI聯盟首批頒證　修課學生8成取得學分",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "大專, 學分",
-    "source": "中央社"
   }
 }
