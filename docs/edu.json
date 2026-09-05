@@ -1,4 +1,19 @@
 {
+  "https://health.ltn.com.tw/article/breakingnews/5564174": {
+    "title": "肺癌旁竟藏「幫兇」！新發現細胞召來保鏢替腫瘤擋免疫攻擊",
+    "link": "https://health.ltn.com.tw/article/breakingnews/5564174",
+    "published": "2026-09-05 16:00",
+    "images": [],
+    "summary": "肺癌腫瘤周圍竟藏著一群「幫兇」細胞！美國哥倫比亞大學醫學中心研究團隊發現，這些細胞會釋放訊號，把會壓制免疫反應的T細胞招到腫瘤附近，可能讓癌細胞更容易躲過人體免疫攻擊。 ...…",
+    "tags": "大學, 亞洲大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "肺癌腫瘤周圍竟藏著一群「幫兇」細胞！美國哥倫比亞大學醫學中心研究團隊發現，這些細胞會釋放訊號，把會壓制免疫反應的T細胞招到腫瘤附近，可能讓癌細胞更容易躲過人體免疫攻擊。 ...…",
+    "cn_title": "肺癌旁竟藏「幫兇」！新發現細胞召來保鏢替腫瘤擋免疫攻擊",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "大學, 亞洲大學",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5564026": {
     "title": "基隆豪雨釀60處淹水！預測與實測差近5倍 市府研議多元預警",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5564026",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "大學",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/politics/breakingnews/5551456": {
-    "title": "嘉義縣25位校長異動派任 縣長會議翁章梁要求圍堵喪屍煙彈",
-    "link": "https://news.ltn.com.tw/news/politics/breakingnews/5551456",
-    "published": "2026-08-25 12:54",
-    "images": [],
-    "summary": "嘉義縣今年度有11位校長退休、12位校長連任、11位校長異動他校，14位候用校長派任，今天縣府召開校長會議，縣長翁章梁期勉職務異動的校長發揮能力，建立教育正面形象，帶領校園獲取...…",
-    "tags": "",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "嘉義縣今年度有11位校長退休、12位校長連任、11位校長異動他校，14位候用校長派任，今天縣府召開校長會議，縣長翁章梁期勉職務異動的校長發揮能力，建立教育正面形象，帶領校園獲取...…",
-    "cn_title": "嘉義縣25位校長異動派任 縣長會議翁章梁要求圍堵喪屍煙彈",
-    "cn_classes": "其他",
-    "cn_tags": "",
-    "source": "自由時報"
   }
 }
