@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5564378": {
+    "title": "諾貝爾化學獎得主北川進訪中央大學 揭牌大師座椅",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5564378",
+    "published": "2026-09-05 20:18",
+    "images": [],
+    "summary": "2025年諾貝爾化學獎得主、日本京都大學副校長北川進（Susumu Kitagawa）教授今天應「全球未來產學人才培育策略聯盟（UAiTED）」邀請，到國立中央大學出席「202...…",
+    "tags": "國立中央大學, 教授",
+    "classes": "產學合作",
+    "is_target": "True",
+    "cn_summary": "2025年諾貝爾化學獎得主、日本京都大學副校長北川進（Susumu Kitagawa）教授今天應「全球未來產學人才培育策略聯盟（UAiTED）」邀請，到國立中央大學出席「202...…",
+    "cn_title": "諾貝爾化學獎得主北川進訪中央大學 揭牌大師座椅",
+    "cn_classes": "產學合作",
+    "cn_tags": "國立中央大學, 教授",
+    "source": "自由時報"
+  },
   "https://sports.ltn.com.tw/news/breakingnews/5564371": {
     "title": "射箭聯賽》愛山林12點只拿1點 林子翔鼓勵隊友週日贏回來",
     "link": "https://sports.ltn.com.tw/news/breakingnews/5564371",
@@ -3583,20 +3598,5 @@
     "cn_classes": "政策與法規",
     "cn_tags": "大學",
     "source": "自由時報"
-  },
-  "https://www.cna.com.tw/news/ahel/202608250243.aspx": {
-    "title": "陽明交大啟動NYCU50計畫　扶植50家校內新創走向商業化",
-    "link": "https://www.cna.com.tw/news/ahel/202608250243.aspx",
-    "published": "2026-08-25 17:02",
-    "images": [],
-    "summary": "（中央社記者郭宣彣新竹市25日電）陽明交通大學今天宣布啟動「NYCU 50」計畫，預計年底前集結50家具代表性的校內衍生新創，串聯企業、醫院、校友及國際市場資源，協助科研成果從實驗室走向商業化。",
-    "tags": "國立陽明交通大學",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "（中央社記者郭宣彣新竹市25日電）陽明交通大學今天宣布啟動「NYCU 50」計畫，預計年底前集結50家具代表性的校內衍生新創，串聯企業、醫院、校友及國際市場資源，協助科研成果從實驗室走向商業化。",
-    "cn_title": "陽明交大啟動NYCU50計畫　扶植50家校內新創走向商業化",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "國立陽明交通大學",
-    "source": "中央社"
   }
 }
