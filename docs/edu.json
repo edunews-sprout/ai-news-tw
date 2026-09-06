@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5564738": {
+    "title": "陽明交大電機三組搶佔二類科系前五志願 校方分析：具天時地利人和關鍵條件",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5564738",
+    "published": "2026-09-06 12:14",
+    "images": [],
+    "summary": "大學分科測驗日前放榜，今年最受討論的話題之一，莫過於陽明交大電機系三個組的熱門程度力壓其他頂大，尤其陽明交大電機乙、陽明交大電機丙2個組別排名有感提升，使得今年二類組熱門科系前...…",
+    "tags": "國立陽明交通大學, 大學, 頂大, 學分",
+    "classes": "校務治理與管理",
+    "is_target": "True",
+    "cn_summary": "大學分科測驗日前放榜，今年最受討論的話題之一，莫過於陽明交大電機系三個組的熱門程度力壓其他頂大，尤其陽明交大電機乙、陽明交大電機丙2個組別排名有感提升，使得今年二類組熱門科系前...…",
+    "cn_title": "陽明交大電機三組搶佔二類科系前五志願 校方分析：具天時地利人和關鍵條件",
+    "cn_classes": "校務治理與管理",
+    "cn_tags": "國立陽明交通大學, 大學, 頂大, 學分",
+    "source": "自由時報"
+  },
   "https://talk.ltn.com.tw/article/breakingnews/5558329": {
     "title": "自由開講》大學教師聘任，還有哪些條件沒有寫在公告裡？",
     "link": "https://talk.ltn.com.tw/article/breakingnews/5558329",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學生事務與生活",
     "cn_tags": "大學生, 大專",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4bThyeGlzbmRjRThlYksxSkdYMkJ1VGRCTnNreHFiWUpIa2ZRU1VoZXVjZEhSZ1ZrR0xQS3hORV9uNldqM1ZJZEVHd1pHUk9YSWVBTkJsZ19oQQ?oc=5": {
-    "title": "逢甲大學攜手臺中市政府搭起臺德產學合作平台 臺中產業鏈接軌德國 | 產學研訓 | 商情 - 經濟日報",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4bThyeGlzbmRjRThlYksxSkdYMkJ1VGRCTnNreHFiWUpIa2ZRU1VoZXVjZEhSZ1ZrR0xQS3hORV9uNldqM1ZJZEVHd1pHUk9YSWVBTkJsZ19oQQ?oc=5",
-    "published": "2026-08-26 10:02",
-    "images": [],
-    "summary": "逢甲大學攜手臺中市政府搭起臺德產學合作平台 臺中產業鏈接軌德國 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
-    "tags": "產學合作, 逢甲大學",
-    "classes": "產學合作",
-    "is_target": "True",
-    "cn_summary": "逢甲大學攜手臺中市政府搭起臺德產學合作平台 臺中產業鏈接軌德國 | 產學研訓 | 商情&nbsp;&nbsp;經濟日報",
-    "cn_title": "逢甲大學攜手臺中市政府搭起臺德產學合作平台 臺中產業鏈接軌德國 | 產學研訓 | 商情 - 經濟日報",
-    "cn_classes": "產學合作",
-    "cn_tags": "產學合作, 逢甲大學",
-    "source": "UDN 文教"
   }
 }
