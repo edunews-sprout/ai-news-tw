@@ -119,6 +119,21 @@
     "cn_tags": "",
     "source": "自由時報"
   },
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sSzkzYm9VY1ZBYllNdjQ3b2ZzTV80cGYzV2JMUHJHa21LQXRJWWFIWm5pYVhoRGZkZEUxdnZEWDlMbUlpQVVSUXY0a1JFMXByRExaVkJBNjRUNWhjc1B0Zm5HM2R3TkU?oc=5": {
+    "title": "「哥廷根已經沒有數學了」：老師、教室與學生之外，真正讓大學成為大學的是什麼？｜侯勝宗／入世學術 - 獨立評論@天下",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sSzkzYm9VY1ZBYllNdjQ3b2ZzTV80cGYzV2JMUHJHa21LQXRJWWFIWm5pYVhoRGZkZEUxdnZEWDlMbUlpQVVSUXY0a1JFMXByRExaVkJBNjRUNWhjc1B0Zm5HM2R3TkU?oc=5",
+    "published": "2026-09-06 00:00",
+    "images": [],
+    "summary": "「哥廷根已經沒有數學了」：老師、教室與學生之外，真正讓大學成為大學的是什麼？｜侯勝宗／入世學術&nbsp;&nbsp;獨立評論@天下",
+    "tags": "大學, 學術",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "「哥廷根已經沒有數學了」：老師、教室與學生之外，真正讓大學成為大學的是什麼？｜侯勝宗／入世學術&nbsp;&nbsp;獨立評論@天下",
+    "cn_title": "「哥廷根已經沒有數學了」：老師、教室與學生之外，真正讓大學成為大學的是什麼？｜侯勝宗／入世學術 - 獨立評論@天下",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "大學, 學術",
+    "source": "天下雜誌"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5564378": {
     "title": "諾貝爾化學獎得主北川進訪中央大學 揭牌大師座椅",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5564378",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學生事務與生活",
     "cn_tags": "國立政治大學, 大專",
     "source": "中央社"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hOHZhaDJ1ZVdadk8wZ01OQ0xCWGpmd0tnUjBybWFVQ1RfNmtpUG01dTItYjNMVVVHS0JJbjl6ZVQzVngtYWZ4QkI5RkhXQXdk?oc=5": {
-    "title": "響應國際蝙蝠之夜台師大揭蝙蝠防凍機制、糞便重金屬| 大學研究所| 文教 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hOHZhaDJ1ZVdadk8wZ01OQ0xCWGpmd0tnUjBybWFVQ1RfNmtpUG01dTItYjNMVVVHS0JJbjl6ZVQzVngtYWZ4QkI5RkhXQXdk?oc=5",
-    "published": "2026-08-26 12:01",
-    "images": [],
-    "summary": "響應國際蝙蝠之夜台師大揭蝙蝠防凍機制、糞便重金屬| 大學研究所| 文教&nbsp;&nbsp;UDN",
-    "tags": "研究所, 大學, 國立臺灣師範大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "響應國際蝙蝠之夜台師大揭蝙蝠防凍機制、糞便重金屬| 大學研究所| 文教&nbsp;&nbsp;UDN",
-    "cn_title": "響應國際蝙蝠之夜台師大揭蝙蝠防凍機制、糞便重金屬| 大學研究所| 文教 - UDN",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "研究所, 大學, 國立臺灣師範大學",
-    "source": "UDN 文教"
   }
 }
