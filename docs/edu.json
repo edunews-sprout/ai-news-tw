@@ -1,4 +1,19 @@
 {
+  "https://www.cna.com.tw/news/ahel/202609070094.aspx": {
+    "title": "德國百年頂尖學府訪台  推半導體生醫人才培育合作",
+    "link": "https://www.cna.com.tw/news/ahel/202609070094.aspx",
+    "published": "2026-09-07 12:52",
+    "images": [],
+    "summary": "（中央社記者陳婕翎台北7日電）被譽為「量子力學的搖籃」的德國頂尖百年學府萊比錫大學校長首度來台，盼促成台灣與德國半導體材料製程及跨國生醫研究等多項關鍵前沿學術領域的長期夥伴關係，打造雙贏局面。",
+    "tags": "大學, 學術",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "（中央社記者陳婕翎台北7日電）被譽為「量子力學的搖籃」的德國頂尖百年學府萊比錫大學校長首度來台，盼促成台灣與德國半導體材料製程及跨國生醫研究等多項關鍵前沿學術領域的長期夥伴關係，打造雙贏局面。",
+    "cn_title": "德國百年頂尖學府訪台  推半導體生醫人才培育合作",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "大學, 學術",
+    "source": "中央社"
+  },
   "https://udn.com/news/story/6928/9739049": {
     "title": "大學跨域學習正夯 中山醫大學生跨校修讀法律、理工",
     "link": "https://udn.com/news/story/6928/9739049",
@@ -298,6 +313,21 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "大學, 亞洲大學",
     "source": "自由時報"
+  },
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83b3A3THRIODdWTVpOTEF2VE5EVUJZMU9LcHdQSGZiaVpVT3JkM1BMUkZ1Q1g2NDdjci03R0FsejN4OHEwRU4tODRpc3RmZw?oc=5": {
+    "title": "高教授追思會〉張安平憶高希均：在紛擾世局裡，守住丹心一點光 - 遠見雜誌",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83b3A3THRIODdWTVpOTEF2VE5EVUJZMU9LcHdQSGZiaVpVT3JkM1BMUkZ1Q1g2NDdjci03R0FsejN4OHEwRU4tODRpc3RmZw?oc=5",
+    "published": "2026-09-05 15:53",
+    "images": [],
+    "summary": "高教授追思會〉張安平憶高希均：在紛擾世局裡，守住丹心一點光&nbsp;&nbsp;遠見雜誌",
+    "tags": "高教, 教授",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "高教授追思會〉張安平憶高希均：在紛擾世局裡，守住丹心一點光&nbsp;&nbsp;遠見雜誌",
+    "cn_title": "高教授追思會〉張安平憶高希均：在紛擾世局裡，守住丹心一點光 - 遠見雜誌",
+    "cn_classes": "其他",
+    "cn_tags": "高教, 教授",
+    "source": "遠見雜誌"
   },
   "https://www.cna.com.tw/news/ahel/202609050112.aspx": {
     "title": "台師大結合AI辦閱讀競賽　學生成績顯著提升",
@@ -3568,35 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立中央大學, 研究所, 教授, 文化",
     "source": "中央社"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5553285": {
-    "title": "護國神山吸人才 樹谷園區產業協進會與南台科大簽MOU",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5553285",
-    "published": "2026-08-26 18:55",
-    "images": [],
-    "summary": "「護國神山」台積電吸引許多人才，緊鄰南科的樹谷園區產業協進會今（26）日與南台科技大學簽署產學合作備忘錄MOU，將合作產學研究、技術落地與人才培育。 簽約儀式由樹谷園區廠...…",
-    "tags": "科技大學, 產學合作, 國立臺灣科技大學",
-    "classes": "產學合作",
-    "is_target": "True",
-    "cn_summary": "「護國神山」台積電吸引許多人才，緊鄰南科的樹谷園區產業協進會今（26）日與南台科技大學簽署產學合作備忘錄MOU，將合作產學研究、技術落地與人才培育。 簽約儀式由樹谷園區廠...…",
-    "cn_title": "護國神山吸人才 樹谷園區產業協進會與南台科大簽MOU",
-    "cn_classes": "產學合作",
-    "cn_tags": "科技大學, 產學合作, 國立臺灣科技大學",
-    "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yampSa1RkUHlKM3JDRXVRMUJyZ3JOaTNFNUhmNjZCamdfdUhDbEFiTzg5X0Z5RXVyNEIyUVZFa2VKOEs4NkxCQlo5elVDSWc0U19UM2ZCYXBKYlFvZ2U1Tlg0M0gxMl9CVGVkTzJoRHJJZ3d5RVFB0gFfQVVfeXFMTjBVeHgxVWd4Qnp4MEh6aG95eG5hSV8yamR0UktHYlJtNlNvenl5aHUzMUVRVjF3VldQSW9wbVp1SUptbzdkWWY3c3EybU0xVFRwRVdrYTZXOGloUm05bUU?oc=5": {
-    "title": "大學宿舍性別友善 教育部推「同層分房、戶型宿舍」參考手冊出爐 - 經濟日報",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yampSa1RkUHlKM3JDRXVRMUJyZ3JOaTNFNUhmNjZCamdfdUhDbEFiTzg5X0Z5RXVyNEIyUVZFa2VKOEs4NkxCQlo5elVDSWc0U19UM2ZCYXBKYlFvZ2U1Tlg0M0gxMl9CVGVkTzJoRHJJZ3d5RVFB0gFfQVVfeXFMTjBVeHgxVWd4Qnp4MEh6aG95eG5hSV8yamR0UktHYlJtNlNvenl5aHUzMUVRVjF3VldQSW9wbVp1SUptbzdkWWY3c3EybU0xVFRwRVdrYTZXOGloUm05bUU?oc=5",
-    "published": "2026-08-26 17:47",
-    "images": [],
-    "summary": "大學宿舍性別友善 教育部推「同層分房、戶型宿舍」參考手冊出爐&nbsp;&nbsp;經濟日報",
-    "tags": "大學",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "大學宿舍性別友善 教育部推「同層分房、戶型宿舍」參考手冊出爐&nbsp;&nbsp;經濟日報",
-    "cn_title": "大學宿舍性別友善 教育部推「同層分房、戶型宿舍」參考手冊出爐 - 經濟日報",
-    "cn_classes": "其他",
-    "cn_tags": "大學",
-    "source": "UDN 文教"
   }
 }
