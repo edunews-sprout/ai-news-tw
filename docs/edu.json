@@ -1,4 +1,19 @@
 {
+  "https://udn.com/news/story/6885/9738755": {
+    "title": "深化台德科技合作 萊比錫大學校長首度訪台 聚焦半導體、量子科技合作",
+    "link": "https://udn.com/news/story/6885/9738755",
+    "published": "2026-09-07 10:37",
+    "images": [],
+    "summary": "為積極深化台灣與德國在高等教育、關鍵半導體製程與量子科技領域的學術合作，教育部邀請德國頂尖百年學府萊比錫大學（Universität Leipzig）校長Prof. Dr. Eva Inés Obergfell於8月31日首度來台，展開為期5天的學術訪問行程。Obergfell校長在台期間除與教育部交流對談，並訪問台灣多所大學、簽署學術合作備忘錄、推展高階科研人才培育合作計畫。",
+    "tags": "高等教育, 大學, 學術",
+    "classes": "產學合作",
+    "is_target": "True",
+    "cn_summary": "為積極深化台灣與德國在高等教育、關鍵半導體製程與量子科技領域的學術合作，教育部邀請德國頂尖百年學府萊比錫大學（Universität Leipzig）校長Prof. Dr. Eva Inés Obergfell於8月31日首度來台，展開為期5天的學術訪問行程。Obergfell校長在台期間除與教育部交流對談，並訪問台灣多所大學、簽署學術合作備忘錄、推展高階科研人才培育合作計畫。",
+    "cn_title": "深化台德科技合作 萊比錫大學校長首度訪台 聚焦半導體、量子科技合作",
+    "cn_classes": "產學合作",
+    "cn_tags": "高等教育, 大學, 學術",
+    "source": "UDN 文教"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5565446": {
     "title": "台積電赴德設廠帶動效應 萊比錫大學校長首度訪台",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5565446",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "研究所, 大學, 大專",
     "source": "UDN 文教"
-  },
-  "https://health.ltn.com.tw/article/breakingnews/5553075": {
-    "title": "共育優秀護理人才 嘉義基督教醫院與華醫產學合作",
-    "link": "https://health.ltn.com.tw/article/breakingnews/5553075",
-    "published": "2026-08-26 16:26",
-    "images": [],
-    "summary": "因應超高齡社會帶來的醫療照護需求增加，嘉義基督教醫院今（26）日與中華醫事科大簽署合作備忘錄，成為夥伴關係，將透過在職教育、人才交流、臨床教學、學術研究，以及資源共享等面...…",
-    "tags": "產學合作, 學術研究, 科大, 中華",
-    "classes": "產學合作",
-    "is_target": "True",
-    "cn_summary": "因應超高齡社會帶來的醫療照護需求增加，嘉義基督教醫院今（26）日與中華醫事科大簽署合作備忘錄，成為夥伴關係，將透過在職教育、人才交流、臨床教學、學術研究，以及資源共享等面...…",
-    "cn_title": "共育優秀護理人才 嘉義基督教醫院與華醫產學合作",
-    "cn_classes": "產學合作",
-    "cn_tags": "產學合作, 學術研究, 科大, 中華",
-    "source": "自由時報"
   }
 }
