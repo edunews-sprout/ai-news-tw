@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5567029": {
+    "title": "培育未來潛力科技女力 產學攜手推出女科學家營隊",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5567029",
+    "published": "2026-09-08 15:52",
+    "images": [],
+    "summary": "為使科普教育向下扎根，甚至能發掘未來潛力人才，旺宏教育基金會攜手台灣師範大學「數感實驗室」舉辦「小小女科學家培育營」活動，內容包括「旺宏半導體解密神奇之旅」、女性科技人才職涯對...…",
+    "tags": "大學",
+    "classes": "產學合作",
+    "is_target": "True",
+    "cn_summary": "為使科普教育向下扎根，甚至能發掘未來潛力人才，旺宏教育基金會攜手台灣師範大學「數感實驗室」舉辦「小小女科學家培育營」活動，內容包括「旺宏半導體解密神奇之旅」、女性科技人才職涯對...…",
+    "cn_title": "培育未來潛力科技女力 產學攜手推出女科學家營隊",
+    "cn_classes": "產學合作",
+    "cn_tags": "大學",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kMU1DUVFWRGpURmtNUjNOd1Z6dWstTXd6TF9GUF9KSllrS0VsUThLLW1XOTJQNjBYUDR3Q3g2VUtIbmNjM1hXODJzdlppd3g3ZkdWdzRxRHdOeUZ6am5zNXdTdlBEUQ?oc=5": {
     "title": "一支手機就能上手！東海大學曼谷開班 助泰國台商解鎖生成式 AI - 中時新聞網",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kMU1DUVFWRGpURmtNUjNOd1Z6dWstTXd6TF9GUF9KSllrS0VsUThLLW1XOTJQNjBYUDR3Q3g2VUtIbmNjM1hXODJzdlppd3g3ZkdWdzRxRHdOeUZ6am5zNXdTdlBEUQ?oc=5",
@@ -3582,21 +3597,6 @@
     "cn_title": "台灣挪威簽訂合作備忘錄　深化雙邊離岸能源合作",
     "cn_classes": "產學合作",
     "cn_tags": "",
-    "source": "中央社"
-  },
-  "https://www.cna.com.tw/news/aloc/202608270222.aspx": {
-    "title": "興大森林系打造智慧樹木管理平台　城市樹木轉化綠色資產",
-    "link": "https://www.cna.com.tw/news/aloc/202608270222.aspx",
-    "published": "2026-08-27 16:51",
-    "images": [],
-    "summary": "（中央社記者趙麗妍台中27日電）國立中興大學森林學系柳婉郁教授團隊結合森林碳匯專業與3D空間資訊、人工智慧及城市樹木管理技術，建置「嘉森映像樹木管理圖台」，近3萬株城市樹木轉化為可分析的綠色資產。",
-    "tags": "國立中興大學, 教授",
-    "classes": "校務治理與管理",
-    "is_target": "True",
-    "cn_summary": "（中央社記者趙麗妍台中27日電）國立中興大學森林學系柳婉郁教授團隊結合森林碳匯專業與3D空間資訊、人工智慧及城市樹木管理技術，建置「嘉森映像樹木管理圖台」，近3萬株城市樹木轉化為可分析的綠色資產。",
-    "cn_title": "興大森林系打造智慧樹木管理平台　城市樹木轉化綠色資產",
-    "cn_classes": "校務治理與管理",
-    "cn_tags": "國立中興大學, 教授",
     "source": "中央社"
   }
 }
