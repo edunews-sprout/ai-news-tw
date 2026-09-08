@@ -1,4 +1,19 @@
 {
+  "https://www.cna.com.tw/news/aipl/202609080011.aspx": {
+    "title": "台灣與羅德島州續簽教育合作備忘錄  促進人才培育",
+    "link": "https://www.cna.com.tw/news/aipl/202609080011.aspx",
+    "published": "2026-09-08 07:20",
+    "images": [],
+    "summary": "（中央社記者張欣瑜舊金山7日專電）台灣與美國羅德島州日前續簽教育合作備忘錄。羅州州長麥基、駐美代表俞大㵢夫婦、駐波士頓辦事處長廖朝宏見證。俞大㵢致詞表示，羅州擁有優質大學與人才，期待能進一步促進雙方在華語文教育及人才培育更多的交流合作。",
+    "tags": "大學",
+    "classes": "產學合作",
+    "is_target": "True",
+    "cn_summary": "（中央社記者張欣瑜舊金山7日專電）台灣與美國羅德島州日前續簽教育合作備忘錄。羅州州長麥基、駐美代表俞大㵢夫婦、駐波士頓辦事處長廖朝宏見證。俞大㵢致詞表示，羅州擁有優質大學與人才，期待能進一步促進雙方在華語文教育及人才培育更多的交流合作。",
+    "cn_title": "台灣與羅德島州續簽教育合作備忘錄  促進人才培育",
+    "cn_classes": "產學合作",
+    "cn_tags": "大學",
+    "source": "中央社"
+  },
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZNUU2bmhjWXloOHpaeVg5U1ZqWlZDc3pCVklWUkZXVnR2NUU5cEE3Vy1VZk1ybE50RkJmMU9SR3Zfc2pNRVkySXk3TkZJTXpxdWpjWThTbw?oc=5": {
     "title": "S3 EP388 ／【ESG共好圈】大學不只教書，更能翻轉地方？中正大學把倒木變藝術、法律搬進診間守護長者！ ft. 國立中正大學社會責任辦公室執行長施慧玲 - 遠見雜誌",
     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZNUU2bmhjWXloOHpaeVg5U1ZqWlZDc3pCVklWUkZXVnR2NUU5cEE3Vy1VZk1ybE50RkJmMU9SR3Zfc2pNRVkySXk3TkZJTXpxdWpjWThTbw?oc=5",
@@ -3582,21 +3597,6 @@
     "cn_title": "經濟部新人事 能源署副署長廖士煒陞任",
     "cn_classes": "學術研究與創新",
     "cn_tags": "科技大學, 研究所, 碩士, 北科",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5554078": {
-    "title": "中研院院士、中央大學講座教授李孝悌過世 師生同感不捨",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5554078",
-    "published": "2026-08-27 12:49",
-    "images": [],
-    "summary": "中央研究院院士、國立中央大學文學院歷史研究所講座教授李孝悌於8月25日晚間過世，享年72歲，消息傳來，全校師生深感不捨；校方表示，李孝悌為享譽海內外的歷史學大師，研究領域橫跨明...…",
-    "tags": "國立中央大學, 研究所, 教授",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "中央研究院院士、國立中央大學文學院歷史研究所講座教授李孝悌於8月25日晚間過世，享年72歲，消息傳來，全校師生深感不捨；校方表示，李孝悌為享譽海內外的歷史學大師，研究領域橫跨明...…",
-    "cn_title": "中研院院士、中央大學講座教授李孝悌過世 師生同感不捨",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "國立中央大學, 研究所, 教授",
     "source": "自由時報"
   }
 }
