@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5568424": {
+    "title": "為人生再做一次選擇！ 60校開辦「30+大學」開學囉",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5568424",
+    "published": "2026-09-09 16:53",
+    "images": [],
+    "summary": "30歲以後想轉換職涯、學習新專業，甚至完成年輕時沒有實現的大學夢，都有機會重新走進校園。教育部今（2026）年起推動「30+大學試辦計畫」，今（9）日舉行首屆新生聯合開學典禮，...…",
+    "tags": "大學",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "30歲以後想轉換職涯、學習新專業，甚至完成年輕時沒有實現的大學夢，都有機會重新走進校園。教育部今（2026）年起推動「30+大學試辦計畫」，今（9）日舉行首屆新生聯合開學典禮，...…",
+    "cn_title": "為人生再做一次選擇！ 60校開辦「30+大學」開學囉",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "大學",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pRlhIQTZ2blFsMW5CUkNJVm1kdG40YUptUkdvNkVMXzJWMk9XTUJYYzU4M1F2VEdaTlN5eFRqaUR3aklQRFhSdy13UW0zaWQyWDZqOVRsd3JVU0Q2dHNZVTRVbE1wZw?oc=5": {
     "title": "松沢成文議員伉儷訪文化大學深化台日教育文化與人才培育合作- 新消息- Campus - 中時新聞網",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pRlhIQTZ2blFsMW5CUkNJVm1kdG40YUptUkdvNkVMXzJWMk9XTUJYYzU4M1F2VEdaTlN5eFRqaUR3aklQRFhSdy13UW0zaWQyWDZqOVRsd3JVU0Q2dHNZVTRVbE1wZw?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "大學",
     "source": "UDN 文教"
-  },
-  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QcGFfekhsTHM5c00wRU14WDN3X2xsRi1DRDNiOXY2WTBBTzNBRk85Nm9fcHh1WnNKNlg4X3dqYnd5UWlGaFRwdHl5cExEZEg3Um1KczRB?oc=5": {
-    "title": "QS 2024亞洲大學排名揭曉，台灣大學首度跌出20強，原因為何？ - 遠見雜誌",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QcGFfekhsTHM5c00wRU14WDN3X2xsRi1DRDNiOXY2WTBBTzNBRk85Nm9fcHh1WnNKNlg4X3dqYnd5UWlGaFRwdHl5cExEZEg3Um1KczRB?oc=5",
-    "published": "2026-08-28 22:11",
-    "images": [],
-    "summary": "QS 2024亞洲大學排名揭曉，台灣大學首度跌出20強，原因為何？&nbsp;&nbsp;遠見雜誌",
-    "tags": "亞洲大學, 國立臺灣大學",
-    "classes": "校務治理與管理",
-    "is_target": "True",
-    "cn_summary": "QS 2024亞洲大學排名揭曉，台灣大學首度跌出20強，原因為何？&nbsp;&nbsp;遠見雜誌",
-    "cn_title": "QS 2024亞洲大學排名揭曉，台灣大學首度跌出20強，原因為何？ - 遠見雜誌",
-    "cn_classes": "校務治理與管理",
-    "cn_tags": "亞洲大學, 國立臺灣大學",
-    "source": "遠見雜誌"
   }
 }
