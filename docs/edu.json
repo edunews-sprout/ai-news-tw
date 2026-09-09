@@ -1,4 +1,19 @@
 {
+  "https://www.cna.com.tw/news/aipl/202609090312.aspx": {
+    "title": "確保半導體產業領先　國科會：推產學合作研發驅動設備",
+    "link": "https://www.cna.com.tw/news/aipl/202609090312.aspx",
+    "published": "2026-09-09 20:21",
+    "images": [],
+    "summary": "（中央社記者賴于榛台北9日電）國家科學及技術委員會今天表示，台灣半導體產業領先世界，但為維持領先優勢必須不斷投入前瞻研發，預計明年起補助「前瞻研究驅動的設備研發」，鼓勵學研團隊與國內設備業者產學合作，共同開發專屬前瞻設備，帶動本土設備產業升級。",
+    "tags": "產學合作",
+    "classes": "產學合作",
+    "is_target": "True",
+    "cn_summary": "（中央社記者賴于榛台北9日電）國家科學及技術委員會今天表示，台灣半導體產業領先世界，但為維持領先優勢必須不斷投入前瞻研發，預計明年起補助「前瞻研究驅動的設備研發」，鼓勵學研團隊與國內設備業者產學合作，共同開發專屬前瞻設備，帶動本土設備產業升級。",
+    "cn_title": "確保半導體產業領先　國科會：推產學合作研發驅動設備",
+    "cn_classes": "產學合作",
+    "cn_tags": "產學合作",
+    "source": "中央社"
+  },
   "https://udn.com/news/story/6928/9744576": {
     "title": "蔡明忠、張國恩東海開學第一課：做自己 成為AI無法取代的人",
     "link": "https://udn.com/news/story/6928/9744576",
@@ -3583,20 +3598,5 @@
     "cn_classes": "政策與法規",
     "cn_tags": "國立臺北大學, 大學生",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMid0FVX3lxTE50U1pib2FWM0QzODl1N0FVRXg3SVNDUHdEb1U1a0NBQlpUSTF0VHlkTmhhcGpyTjI5d1ZrbTRDQ1QzQktla2pmMngtVnlHemoySE5pVW5DQnIyVWhjcUFyYXFhSlR2R2c4QXlIVmVVd2hqTzhGNUZz0gFfQVVfeXFMUEZxclhDdXZiSE1seFk2SzFPR2lZc0dfczlZV3lVNjBnZG5UY0lQb2hVb1lCQXlwZ2FlYkdNa3VQNDVOUzU5Q0xIY3lYWUR6OTVMdjJWTm1VSFNWSzIxWWM?oc=5": {
-    "title": "芝加哥辦事處攜伊利諾大學播映造山者　加強台美高科技合作動能 - 經濟日報",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50U1pib2FWM0QzODl1N0FVRXg3SVNDUHdEb1U1a0NBQlpUSTF0VHlkTmhhcGpyTjI5d1ZrbTRDQ1QzQktla2pmMngtVnlHemoySE5pVW5DQnIyVWhjcUFyYXFhSlR2R2c4QXlIVmVVd2hqTzhGNUZz0gFfQVVfeXFMUEZxclhDdXZiSE1seFk2SzFPR2lZc0dfczlZV3lVNjBnZG5UY0lQb2hVb1lCQXlwZ2FlYkdNa3VQNDVOUzU5Q0xIY3lYWUR6OTVMdjJWTm1VSFNWSzIxWWM?oc=5",
-    "published": "2026-08-29 09:33",
-    "images": [],
-    "summary": "芝加哥辦事處攜伊利諾大學播映造山者 加強台美高科技合作動能&nbsp;&nbsp;經濟日報",
-    "tags": "大學",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "芝加哥辦事處攜伊利諾大學播映造山者 加強台美高科技合作動能&nbsp;&nbsp;經濟日報",
-    "cn_title": "芝加哥辦事處攜伊利諾大學播映造山者　加強台美高科技合作動能 - 經濟日報",
-    "cn_classes": "其他",
-    "cn_tags": "大學",
-    "source": "UDN 文教"
   }
 }
