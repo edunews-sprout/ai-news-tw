@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5567649": {
+    "title": "屏科大校園測速照相速限30、40公里 明年2/1取締開罰",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5567649",
+    "published": "2026-09-09 07:51",
+    "images": [],
+    "summary": "國立屏東科技大學因為佔地廣大，是國內少數平日即由學生騎機車、開車通勤的校園，不過，上個學年卻屢屢發生車禍，道安引來關注，屏科大校方爭取預算進行校內道安改善，本週開學，許多大學生...…",
+    "tags": "國立屏東科技大學, 大學生",
+    "classes": "校園爭議與事件",
+    "is_target": "True",
+    "cn_summary": "國立屏東科技大學因為佔地廣大，是國內少數平日即由學生騎機車、開車通勤的校園，不過，上個學年卻屢屢發生車禍，道安引來關注，屏科大校方爭取預算進行校內道安改善，本週開學，許多大學生...…",
+    "cn_title": "屏科大校園測速照相速限30、40公里 明年2/1取締開罰",
+    "cn_classes": "校園爭議與事件",
+    "cn_tags": "國立屏東科技大學, 大學生",
+    "source": "自由時報"
+  },
   "https://udn.com/news/story/6885/9742572": {
     "title": "PISA放榜／教團憂雙峰化 籲搶救後段班",
     "link": "https://udn.com/news/story/6885/9742572",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學生事務與生活",
     "cn_tags": "大學, 中國文化大學",
     "source": "UDN 文教"
-  },
-  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uN0p1b3RNOG80MldFbWdZbHZzcFVfNjB1S0U1eXJBTEdxdTVJb3l6RGVKNjl0SUFIUHloSE1hU2NXMU11TVZYalQtQmQxWENlbkFia055VTlnNkppeC1leXZIcy1Xdw?oc=5": {
-    "title": "東海大學永續行動奪四獎攜游榮吉基金會點亮偏鄉教育- 新消息- Campus - 中時新聞網",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uN0p1b3RNOG80MldFbWdZbHZzcFVfNjB1S0U1eXJBTEdxdTVJb3l6RGVKNjl0SUFIUHloSE1hU2NXMU11TVZYalQtQmQxWENlbkFia055VTlnNkppeC1leXZIcy1Xdw?oc=5",
-    "published": "2026-08-28 09:55",
-    "images": [],
-    "summary": "東海大學永續行動奪四獎攜游榮吉基金會點亮偏鄉教育- 新消息- Campus&nbsp;&nbsp;中時新聞網",
-    "tags": "東海大學",
-    "classes": "在地連結與社會責任（USR）",
-    "is_target": "True",
-    "cn_summary": "東海大學永續行動奪四獎攜游榮吉基金會點亮偏鄉教育- 新消息- Campus&nbsp;&nbsp;中時新聞網",
-    "cn_title": "東海大學永續行動奪四獎攜游榮吉基金會點亮偏鄉教育- 新消息- Campus - 中時新聞網",
-    "cn_classes": "在地連結與社會責任（USR）",
-    "cn_tags": "東海大學",
-    "source": "中國時報"
   }
 }
