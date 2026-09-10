@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/politics/breakingnews/5569796": {
+    "title": "彰師大學者拋一國兩制「自治」方案  梁文傑：中共一條都不會答應",
+    "link": "https://news.ltn.com.tw/news/politics/breakingnews/5569796",
+    "published": "2026-09-10 18:24",
+    "images": [],
+    "summary": "彰化師範大學副教授李其澤發表3篇文章，倡議中共所提「一國兩制台灣方案」。中國國台辦昨回應指稱，「祖國統一」是不可阻擋的歷史大勢，對台灣同胞而言，不是選答題，而是必答題；陸委會發...…",
+    "tags": "國立彰化師範大學, 大學, 教授",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "彰化師範大學副教授李其澤發表3篇文章，倡議中共所提「一國兩制台灣方案」。中國國台辦昨回應指稱，「祖國統一」是不可阻擋的歷史大勢，對台灣同胞而言，不是選答題，而是必答題；陸委會發...…",
+    "cn_title": "彰師大學者拋一國兩制「自治」方案  梁文傑：中共一條都不會答應",
+    "cn_classes": "其他",
+    "cn_tags": "國立彰化師範大學, 大學, 教授",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/Taoyuan/breakingnews/5569615": {
     "title": "機捷A16蓋醫院破局！清大轉向科教館、智慧醫療  綠營2議員反對",
     "link": "https://news.ltn.com.tw/news/Taoyuan/breakingnews/5569615",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "大學",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5557212": {
-    "title": "政大攜手日韓越推漢字文化課程 AI翻譯助攻跨國交流",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5557212",
-    "published": "2026-08-30 15:41",
-    "images": [],
-    "summary": "人文社會學科跨國交流，AI能幫大忙！政大組跨系團隊攜手越南文朗大學東亞學系、韓國高麗大學漢文系、日本廣島大學人間社會科學研究科，於暑假舉辦漢字與漢文化交流活動，結合多語教學、A...…",
-    "tags": "大學, 國立政治大學, 文化",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "人文社會學科跨國交流，AI能幫大忙！政大組跨系團隊攜手越南文朗大學東亞學系、韓國高麗大學漢文系、日本廣島大學人間社會科學研究科，於暑假舉辦漢字與漢文化交流活動，結合多語教學、A...…",
-    "cn_title": "政大攜手日韓越推漢字文化課程 AI翻譯助攻跨國交流",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "大學, 國立政治大學, 文化",
-    "source": "自由時報"
   }
 }
