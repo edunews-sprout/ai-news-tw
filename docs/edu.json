@@ -29,6 +29,36 @@
     "cn_tags": "高教, 學術",
     "source": "自由時報"
   },
+  "https://www.cna.com.tw/news/aopl/202609100028.aspx": {
+    "title": "諾貝爾獎風向球  日本4人獲拉斯克獎",
+    "link": "https://www.cna.com.tw/news/aopl/202609100028.aspx",
+    "published": "2026-09-10 08:50",
+    "images": [],
+    "summary": "（中央社記者戴雅真東京10日專電）被譽為美國最具權威醫學獎項之一、也被視為諾貝爾獎風向球的「拉斯克獎」公布今年得主，日本共有4人獲獎。筑波大學教授柳澤正史以發現腦內物質「食慾素」獲頒基礎醫學研究獎；中外製藥3名研究人員則因開發血友病治療藥物，共同獲得臨床醫學研究獎。",
+    "tags": "大學, 教授",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "（中央社記者戴雅真東京10日專電）被譽為美國最具權威醫學獎項之一、也被視為諾貝爾獎風向球的「拉斯克獎」公布今年得主，日本共有4人獲獎。筑波大學教授柳澤正史以發現腦內物質「食慾素」獲頒基礎醫學研究獎；中外製藥3名研究人員則因開發血友病治療藥物，共同獲得臨床醫學研究獎。",
+    "cn_title": "諾貝爾獎風向球  日本4人獲拉斯克獎",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "大學, 教授",
+    "source": "中央社"
+  },
+  "https://www.cna.com.tw/news/afe/202609100027.aspx": {
+    "title": "台歐晶片創新論壇比利時登場　展現台灣技術韌性",
+    "link": "https://www.cna.com.tw/news/afe/202609100027.aspx",
+    "published": "2026-09-10 08:42",
+    "images": [],
+    "summary": "（中央社記者吳柏緯安特衛普9日專電）今年的台歐晶片創新論壇9日在比利時安特衛普登場，吸引數百名各國產學界人士參與。今年論壇擴大至全面性的生態系統合作，國研院下轄的4個中心聯手出擊，向歐洲展現台灣全面的技術韌性。",
+    "tags": "學界",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "（中央社記者吳柏緯安特衛普9日專電）今年的台歐晶片創新論壇9日在比利時安特衛普登場，吸引數百名各國產學界人士參與。今年論壇擴大至全面性的生態系統合作，國研院下轄的4個中心聯手出擊，向歐洲展現台灣全面的技術韌性。",
+    "cn_title": "台歐晶片創新論壇比利時登場　展現台灣技術韌性",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "學界",
+    "source": "中央社"
+  },
   "https://udn.com/news/story/6904/9741385": {
     "title": "科學人／建立跨洲觀測網：TP2m望遠鏡新的起點",
     "link": "https://udn.com/news/story/6904/9741385",
@@ -3567,36 +3597,6 @@
     "cn_title": "台灣磁學研究耀眼國際 台大張慶瑞、曲丹茹獲獎",
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立臺灣大學, 中原大學, 教授",
-    "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGcV93YVhjaWtRanRiaWt0UGRmZGRUQjk2SVR0RnNVRFRaMFY0QTJ2MndrbjNVbVFxWnpDMlZYOWk3eXJKdTZiZ0RxNzNHY2lP?oc=5": {
-    "title": "台大高中生進階課程跨出海外馬來西亞3校加入| 大學研究所| 文教 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGcV93YVhjaWtRanRiaWt0UGRmZGRUQjk2SVR0RnNVRFRaMFY0QTJ2MndrbjNVbVFxWnpDMlZYOWk3eXJKdTZiZ0RxNzNHY2lP?oc=5",
-    "published": "2026-08-29 13:15",
-    "images": [],
-    "summary": "台大高中生進階課程跨出海外馬來西亞3校加入| 大學研究所| 文教&nbsp;&nbsp;UDN",
-    "tags": "研究所, 大學, 國立臺灣大學",
-    "classes": "教學與課程",
-    "is_target": "True",
-    "cn_summary": "台大高中生進階課程跨出海外馬來西亞3校加入| 大學研究所| 文教&nbsp;&nbsp;UDN",
-    "cn_title": "台大高中生進階課程跨出海外馬來西亞3校加入| 大學研究所| 文教 - UDN",
-    "cn_classes": "教學與課程",
-    "cn_tags": "研究所, 大學, 國立臺灣大學",
-    "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5556299": {
-    "title": "助青年求學 嘉義家扶頒發121萬元大專生獎助學金",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5556299",
-    "published": "2026-08-29 12:59",
-    "images": [],
-    "summary": "嘉義家扶中心今天舉辦「2026.08大專生助學金頒發典禮」，共110名大專學生受獎，其中將成為成功大學大一新鮮人的曾少群，因父親離世，母親肩負照顧他及2名姊妹的責任，為減輕母親...…",
-    "tags": "國立成功大學, 大一, 大專",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "嘉義家扶中心今天舉辦「2026.08大專生助學金頒發典禮」，共110名大專學生受獎，其中將成為成功大學大一新鮮人的曾少群，因父親離世，母親肩負照顧他及2名姊妹的責任，為減輕母親...…",
-    "cn_title": "助青年求學 嘉義家扶頒發121萬元大專生獎助學金",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "國立成功大學, 大一, 大專",
     "source": "自由時報"
   }
 }
