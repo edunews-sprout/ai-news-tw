@@ -14,6 +14,21 @@
     "cn_tags": "大學",
     "source": "UDN 文教"
   },
+  "https://www.cna.com.tw/news/ahel/202609100091.aspx": {
+    "title": "教育部發函籲增校務會議學生席次　台學聯盼立院修法",
+    "link": "https://www.cna.com.tw/news/ahel/202609100091.aspx",
+    "published": "2026-09-10 12:32",
+    "images": [],
+    "summary": "（中央社記者陳至中台北10日電）大學陸續開學，教育部近期發函，建議各校將校務會議中的學生代表席次，提升到1/8。台灣學生聯合會今天表示，要達到師生共治理想，應比照歐洲達1/5，盼立院速修「大學法」。",
+    "tags": "大學",
+    "classes": "政策與法規",
+    "is_target": "True",
+    "cn_summary": "（中央社記者陳至中台北10日電）大學陸續開學，教育部近期發函，建議各校將校務會議中的學生代表席次，提升到1/8。台灣學生聯合會今天表示，要達到師生共治理想，應比照歐洲達1/5，盼立院速修「大學法」。",
+    "cn_title": "教育部發函籲增校務會議學生席次　台學聯盼立院修法",
+    "cn_classes": "政策與法規",
+    "cn_tags": "大學",
+    "source": "中央社"
+  },
   "https://udn.com/news/story/6885/9745957": {
     "title": "培育AI跨域人才 教育部向人社領域徵件 最高補助600萬",
     "link": "https://udn.com/news/story/6885/9745957",
@@ -3583,20 +3598,5 @@
     "cn_classes": "校園爭議與事件",
     "cn_tags": "龍華科技大學, 龍華科大, 五專",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zTEV5eTAtYk95WE9wNjNyNVhOWXd3NWxxdmlvdzE3d01Ocm8ta19xUzQ1T0tuWURDZ196RVlaUlRaRkI0QWxxYTJIR05vWGVWc0JZV0Q1YnBiZXdDamhsY25kMA?oc=5": {
-    "title": "大學迎新活動變調！夜間直擊水庫榕樹下的那抹詭影| 迷創作 - 琅琅悅讀",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zTEV5eTAtYk95WE9wNjNyNVhOWXd3NWxxdmlvdzE3d01Ocm8ta19xUzQ1T0tuWURDZ196RVlaUlRaRkI0QWxxYTJIR05vWGVWc0JZV0Q1YnBiZXdDamhsY25kMA?oc=5",
-    "published": "2026-08-30 10:00",
-    "images": [],
-    "summary": "大學迎新活動變調！夜間直擊水庫榕樹下的那抹詭影| 迷創作&nbsp;&nbsp;琅琅悅讀",
-    "tags": "大學",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "大學迎新活動變調！夜間直擊水庫榕樹下的那抹詭影| 迷創作&nbsp;&nbsp;琅琅悅讀",
-    "cn_title": "大學迎新活動變調！夜間直擊水庫榕樹下的那抹詭影| 迷創作 - 琅琅悅讀",
-    "cn_classes": "其他",
-    "cn_tags": "大學",
-    "source": "UDN 文教"
   }
 }
