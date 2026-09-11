@@ -1,4 +1,19 @@
 {
+  "https://talk.ltn.com.tw/article/breakingnews/5570840": {
+    "title": "自由開講》建請教育部正視 清大校長正在凌駕「校監會」",
+    "link": "https://talk.ltn.com.tw/article/breakingnews/5570840",
+    "published": "2026-09-11 19:00",
+    "images": [],
+    "summary": "清華大學校長高為元於2026年5月1日就任，開始第2個4年任期。但他隨即於5月4日「帶職」赴美，參與夏威夷大學馬諾阿分校校長遴選決選，最終未獲選。此事引發校內外批評其撕毀與校方的信任與...…",
+    "tags": "國立清華大學",
+    "classes": "校務治理與管理",
+    "is_target": "True",
+    "cn_summary": "清華大學校長高為元於2026年5月1日就任，開始第2個4年任期。但他隨即於5月4日「帶職」赴美，參與夏威夷大學馬諾阿分校校長遴選決選，最終未獲選。此事引發校內外批評其撕毀與校方的信任與...…",
+    "cn_title": "自由開講》建請教育部正視 清大校長正在凌駕「校監會」",
+    "cn_classes": "校務治理與管理",
+    "cn_tags": "國立清華大學",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/politics/breakingnews/5570929": {
     "title": "把握選前質詢機會  高市議員湯詠瑜財經部門提五建言",
     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5570929",
@@ -29,6 +44,21 @@
     "cn_tags": "國立臺灣大學, 科技大學",
     "source": "自由時報"
   },
+  "https://news.ltn.com.tw/news/Taipei/breakingnews/5570838": {
+    "title": "台大系統跨校選課10年破7萬人次 下一步合推高中先修與AI治理",
+    "link": "https://news.ltn.com.tw/news/Taipei/breakingnews/5570838",
+    "published": "2026-09-11 17:28",
+    "images": [],
+    "summary": "一張學生證跨校修課、借書，甚至雙主修，國立台灣大學、國立台灣師範大學、國立台灣科技大學組成的「國立台灣大學系統」成立滿10年，跨校選課累計達7萬2614人次，跨校進圖書館近37...…",
+    "tags": "國立臺灣大學, 科技大學",
+    "classes": "教學與課程",
+    "is_target": "True",
+    "cn_summary": "一張學生證跨校修課、借書，甚至雙主修，國立台灣大學、國立台灣師範大學、國立台灣科技大學組成的「國立台灣大學系統」成立滿10年，跨校選課累計達7萬2614人次，跨校進圖書館近37...…",
+    "cn_title": "台大系統跨校選課10年破7萬人次 下一步合推高中先修與AI治理",
+    "cn_classes": "教學與課程",
+    "cn_tags": "國立臺灣大學, 科技大學",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5570793": {
     "title": "高雄防災教育有成 獲教育部最高榮譽「營運領航獎」",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5570793",
@@ -43,6 +73,21 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "",
     "source": "自由時報"
+  },
+  "https://www.cna.com.tw/news/ahel/202609110210.aspx": {
+    "title": "AI反突顯「動手做」可貴　台科大校長：技職未來有機會翻轉",
+    "link": "https://www.cna.com.tw/news/ahel/202609110210.aspx",
+    "published": "2026-09-11 16:47",
+    "images": [],
+    "summary": "（中央社記者陳至中台北11日電）少子女化下高職學生人數流失，遠比普通高中明顯。台灣科技大學校長顏家鈺卻認為，在AI（人工智慧）發展下，更突顯技職「動手做」的價值，認為未來情勢有機會翻轉。",
+    "tags": "科技大學, 國立臺灣科技大學, 技職",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "（中央社記者陳至中台北11日電）少子女化下高職學生人數流失，遠比普通高中明顯。台灣科技大學校長顏家鈺卻認為，在AI（人工智慧）發展下，更突顯技職「動手做」的價值，認為未來情勢有機會翻轉。",
+    "cn_title": "AI反突顯「動手做」可貴　台科大校長：技職未來有機會翻轉",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "科技大學, 國立臺灣科技大學, 技職",
+    "source": "中央社"
   },
   "https://udn.com/news/story/6928/9748960": {
     "title": "國立台灣大學系統10周年　台大等3校將整合高中先修課",
@@ -3553,50 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立陽明交通大學",
     "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/society/breakingnews/5558601": {
-    "title": "聯合大學驚傳電箱爆炸 學生一度受困電梯",
-    "link": "https://news.ltn.com.tw/news/society/breakingnews/5558601",
-    "published": "2026-08-31 22:49",
-    "images": [],
-    "summary": "今日為國立聯合大學新生訓練第一天，不料卻驚傳電箱跳電發生爆炸，更傳出一度有學生受困於電梯內。 據了解，今晚聯合大學二坪山校區電箱疑似發生爆炸，導致全校大跳電，現場煙霧迷漫，...…",
-    "tags": "國立聯合大學",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "今日為國立聯合大學新生訓練第一天，不料卻驚傳電箱跳電發生爆炸，更傳出一度有學生受困於電梯內。 據了解，今晚聯合大學二坪山校區電箱疑似發生爆炸，導致全校大跳電，現場煙霧迷漫，...…",
-    "cn_title": "聯合大學驚傳電箱爆炸 學生一度受困電梯",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "國立聯合大學",
-    "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10Nk9tZF84ZHNnTzVJbXFySzJ5RmU5ajNGLWpsM3RVa2swYkRBY0tkM2t2QV9XLWtyUnZvSVFWSTFxOWFsS3o1OVN1Q3RLY2JG0gFWQVVfeXFMTVZxMnFSbkF5WnJRY3EzM3FsLTItR01vZ0EzeFRRak81aUtib0hrbVZWM1g5WlZiRE9NMnI2aHhIQTRZOXUtRWUxaXN1YktmTUYzWVQ4VEE?oc=5": {
-    "title": "開學住宿新舊差很大！屏東大學宿舍蕙蘭樓設備老舊 窗戶破裂、壁癌還冒草 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10Nk9tZF84ZHNnTzVJbXFySzJ5RmU5ajNGLWpsM3RVa2swYkRBY0tkM2t2QV9XLWtyUnZvSVFWSTFxOWFsS3o1OVN1Q3RLY2JG0gFWQVVfeXFMTVZxMnFSbkF5WnJRY3EzM3FsLTItR01vZ0EzeFRRak81aUtib0hrbVZWM1g5WlZiRE9NMnI2aHhIQTRZOXUtRWUxaXN1YktmTUYzWVQ4VEE?oc=5",
-    "published": "2026-08-31 21:30",
-    "images": [],
-    "summary": "開學住宿新舊差很大！屏東大學宿舍蕙蘭樓設備老舊 窗戶破裂、壁癌還冒草&nbsp;&nbsp;UDN",
-    "tags": "國立屏東大學",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "開學住宿新舊差很大！屏東大學宿舍蕙蘭樓設備老舊 窗戶破裂、壁癌還冒草&nbsp;&nbsp;UDN",
-    "cn_title": "開學住宿新舊差很大！屏東大學宿舍蕙蘭樓設備老舊 窗戶破裂、壁癌還冒草 - UDN",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "國立屏東大學",
-    "source": "UDN 文教"
-  },
-  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hQUx3V0ttandVcENFZ2NKNkcwalJsQzRtV284UEtCZzAzUXRGNnJwZXlhaWRrU0MxZjBfdTdaRmlTTGxUVHlIbmNlYnUwaWhSY05mVFBCOA?oc=5": {
-    "title": "S3 EP384 ／【ESG共好圈】不只學AI，更要「X＋AI」！開南大學如何逆勢打造日籍生最愛大學？ ft. 開南大學校長郭鐘達 - 遠見雜誌",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hQUx3V0ttandVcENFZ2NKNkcwalJsQzRtV284UEtCZzAzUXRGNnJwZXlhaWRrU0MxZjBfdTdaRmlTTGxUVHlIbmNlYnUwaWhSY05mVFBCOA?oc=5",
-    "published": "2026-08-31 19:55",
-    "images": [],
-    "summary": "S3 EP384 ／【ESG共好圈】不只學AI，更要「X＋AI」！開南大學如何逆勢打造日籍生最愛大學？ ft. 開南大學校長郭鐘達&nbsp;&nbsp;遠見雜誌",
-    "tags": "開南大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "S3 EP384 ／【ESG共好圈】不只學AI，更要「X＋AI」！開南大學如何逆勢打造日籍生最愛大學？ ft. 開南大學校長郭鐘達&nbsp;&nbsp;遠見雜誌",
-    "cn_title": "S3 EP384 ／【ESG共好圈】不只學AI，更要「X＋AI」！開南大學如何逆勢打造日籍生最愛大學？ ft. 開南大學校長郭鐘達 - 遠見雜誌",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "開南大學",
-    "source": "遠見雜誌"
   }
 }
