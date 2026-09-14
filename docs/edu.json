@@ -1,4 +1,34 @@
 {
+  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iT1B0c3VodzEzSVNPS1Fvb0EzLXhQd2xOTmxXckhNWndqa19hOTMwNUpYSmd1Q29rRFg4TUpLUXljNzhvbVNHYV83MmtHc1RwZEhqX1BkSXFKODNiNC1pczZNMXJ1Zw?oc=5": {
+    "title": "文化大學精進校園交通增設巡迴巴士串聯大眾運輸- 新消息- Campus - 中時新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iT1B0c3VodzEzSVNPS1Fvb0EzLXhQd2xOTmxXckhNWndqa19hOTMwNUpYSmd1Q29rRFg4TUpLUXljNzhvbVNHYV83MmtHc1RwZEhqX1BkSXFKODNiNC1pczZNMXJ1Zw?oc=5",
+    "published": "2026-09-14 15:48",
+    "images": [],
+    "summary": "文化大學精進校園交通增設巡迴巴士串聯大眾運輸- 新消息- Campus&nbsp;&nbsp;中時新聞網",
+    "tags": "大學, 國立聯合大學, 文化",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "文化大學精進校園交通增設巡迴巴士串聯大眾運輸- 新消息- Campus&nbsp;&nbsp;中時新聞網",
+    "cn_title": "文化大學精進校園交通增設巡迴巴士串聯大眾運輸- 新消息- Campus - 中時新聞網",
+    "cn_classes": "其他",
+    "cn_tags": "大學, 國立聯合大學, 文化",
+    "source": "中國時報"
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5573469": {
+    "title": "教育部首辦大學無障礙建築評選 雲科大、彰師大抱回金質獎",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5573469",
+    "published": "2026-09-14 15:29",
+    "images": [],
+    "summary": "教育部首次辦理大專校院優良校園無障礙建築物評選，金質獎每校可獲1000萬元、銀質獎500萬元。教育部次長朱俊彰今（14）日表示，這是他在高教領域多年印象中，教育部各項評選獎勵金...…",
+    "tags": "國立彰化師範大學, 國立雲林科技大學, 大學, 高教, 大專",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "教育部首次辦理大專校院優良校園無障礙建築物評選，金質獎每校可獲1000萬元、銀質獎500萬元。教育部次長朱俊彰今（14）日表示，這是他在高教領域多年印象中，教育部各項評選獎勵金...…",
+    "cn_title": "教育部首辦大學無障礙建築評選 雲科大、彰師大抱回金質獎",
+    "cn_classes": "其他",
+    "cn_tags": "國立彰化師範大學, 國立雲林科技大學, 大學, 高教, 大專",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5573470": {
     "title": "中科實中雙語部辦「中台灣大學博覽會」 吸引逾百所海外名校參展",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5573470",
@@ -13,6 +43,21 @@
     "cn_classes": "國際交流與合作",
     "cn_tags": "國立臺灣大學",
     "source": "自由時報"
+  },
+  "https://www.cna.com.tw/news/ahel/202609140142.aspx": {
+    "title": "台科大5團隊獲未來科技獎　打破綠氫成本天花板",
+    "link": "https://www.cna.com.tw/news/ahel/202609140142.aspx",
+    "published": "2026-09-14 15:08",
+    "images": [],
+    "summary": "（中央社記者陳婕翎台北14日電）國立台灣科技大學今年共有5組團隊榮獲「未來科技獎」，其中包含打破綠氫成本天花板的次世代省電20%雙盈電解產氫系統等，部分成果已技轉或實際應用，盼真正走入民眾生活。",
+    "tags": "科技大學, 國立臺灣科技大學",
+    "classes": "產學合作",
+    "is_target": "True",
+    "cn_summary": "（中央社記者陳婕翎台北14日電）國立台灣科技大學今年共有5組團隊榮獲「未來科技獎」，其中包含打破綠氫成本天花板的次世代省電20%雙盈電解產氫系統等，部分成果已技轉或實際應用，盼真正走入民眾生活。",
+    "cn_title": "台科大5團隊獲未來科技獎　打破綠氫成本天花板",
+    "cn_classes": "產學合作",
+    "cn_tags": "科技大學, 國立臺灣科技大學",
+    "source": "中央社"
   },
   "https://udn.com/news/story/6928/9753650": {
     "title": "文化大學精進交通措施 新學年新增校園巡迴巴士、劍潭接駁",
@@ -3553,50 +3598,5 @@
     "cn_classes": "學生事務與生活",
     "cn_tags": "私立大學, 國立大學",
     "source": "風傳媒"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5561453": {
-    "title": "中正大學「虛擬民雄」建構智慧防災 規劃鏈結全球夥伴驗證",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5561453",
-    "published": "2026-09-03 09:43",
-    "images": [],
-    "summary": "中正大學工學院資訊工程系教授熊博安帶領跨域團隊，依嘉義縣民雄鄉地形、道路、建築、降雨、淹水資訊等進行科技整合，建構涵蓋災害資料、洪水推估、空中感知、避難決策與三維視覺化的整合型...…",
-    "tags": "國立中正大學, 教授",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "中正大學工學院資訊工程系教授熊博安帶領跨域團隊，依嘉義縣民雄鄉地形、道路、建築、降雨、淹水資訊等進行科技整合，建構涵蓋災害資料、洪水推估、空中感知、避難決策與三維視覺化的整合型...…",
-    "cn_title": "中正大學「虛擬民雄」建構智慧防災 規劃鏈結全球夥伴驗證",
-    "cn_classes": "其他",
-    "cn_tags": "國立中正大學, 教授",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/ChiayiCounty/breakingnews/5561453": {
-    "title": "中正大學「虛擬民雄」建構智慧防災 規劃鏈結全球夥伴驗證",
-    "link": "https://news.ltn.com.tw/news/ChiayiCounty/breakingnews/5561453",
-    "published": "2026-09-03 09:43",
-    "images": [],
-    "summary": "中正大學工學院資訊工程系教授熊博安帶領跨域團隊，依嘉義縣民雄鄉地形、道路、建築、降雨、淹水資訊等進行科技整合，建構涵蓋災害資料、洪水推估、空中感知、避難決策與三維視覺化的整合型...…",
-    "tags": "國立中正大學, 教授",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "中正大學工學院資訊工程系教授熊博安帶領跨域團隊，依嘉義縣民雄鄉地形、道路、建築、降雨、淹水資訊等進行科技整合，建構涵蓋災害資料、洪水推估、空中感知、避難決策與三維視覺化的整合型...…",
-    "cn_title": "中正大學「虛擬民雄」建構智慧防災 規劃鏈結全球夥伴驗證",
-    "cn_classes": "其他",
-    "cn_tags": "國立中正大學, 教授",
-    "source": "自由時報"
-  },
-  "https://www.cna.com.tw/news/ahel/202609030025.aspx": {
-    "title": "南非青年馬泰可跨萬里赴台求學　盼成台灣南非交流橋梁",
-    "link": "https://www.cna.com.tw/news/ahel/202609030025.aspx",
-    "published": "2026-09-03 09:12",
-    "images": [],
-    "summary": "（中央社記者李依璇約翰尼斯堡2日專電）台灣大專院校迎來新學年，不少在南非成長的青年跨萬里赴台求學，馬泰可（Gagotheko Matsheka）從5歲接觸中文，到赴台取得獎學金就讀，她說，未來希望結合中文與國際企業專業，成為連結台灣與南非交流的橋梁。",
-    "tags": "大專",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "（中央社記者李依璇約翰尼斯堡2日專電）台灣大專院校迎來新學年，不少在南非成長的青年跨萬里赴台求學，馬泰可（Gagotheko Matsheka）從5歲接觸中文，到赴台取得獎學金就讀，她說，未來希望結合中文與國際企業專業，成為連結台灣與南非交流的橋梁。",
-    "cn_title": "南非青年馬泰可跨萬里赴台求學　盼成台灣南非交流橋梁",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "大專",
-    "source": "中央社"
   }
 }
