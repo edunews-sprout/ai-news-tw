@@ -1,4 +1,19 @@
 {
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9saXo5MEFGdnl2T3lDYTYzQVNjUUJocUEzZTZIbXh3OHVkWmNrTm9hLS1MSS15VXh6UUxSYl8xZEJiTWdQQlE3WWV1MUtjdw?oc=5": {
+    "title": "從玩家變產業人才！中信飛牡蠣攜手政大辦聯賽，企業跨界搶進校園市場 | 下班經濟學 | 財經 - 風傳媒",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9saXo5MEFGdnl2T3lDYTYzQVNjUUJocUEzZTZIbXh3OHVkWmNrTm9hLS1MSS15VXh6UUxSYl8xZEJiTWdQQlE3WWV1MUtjdw?oc=5",
+    "published": "2026-09-14 11:45",
+    "images": [],
+    "summary": "從玩家變產業人才！中信飛牡蠣攜手政大辦聯賽，企業跨界搶進校園市場 | 下班經濟學 | 財經&nbsp;&nbsp;風傳媒",
+    "tags": "國立政治大學",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "從玩家變產業人才！中信飛牡蠣攜手政大辦聯賽，企業跨界搶進校園市場 | 下班經濟學 | 財經&nbsp;&nbsp;風傳媒",
+    "cn_title": "從玩家變產業人才！中信飛牡蠣攜手政大辦聯賽，企業跨界搶進校園市場 | 下班經濟學 | 財經 - 風傳媒",
+    "cn_classes": "其他",
+    "cn_tags": "國立政治大學",
+    "source": "風傳媒"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5573170": {
     "title": "校長王政彥遭爆夜夜笙歌、荒廢校務 高師大駁斥",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5573170",
@@ -3583,20 +3598,5 @@
     "cn_classes": "校園受社會關注事件",
     "cn_tags": "大學, 大專",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaWHQwNkpWeTRUNE1wT2tXTUZBamxwM3ZibE1sVTFOakI4NHMwd1hJTEkxRkhnQ2ZBSmk4bExqc3hUUkkzRDBSa1NNZkhiNWlPRS1zVzhlMGp1aUFwai0tT3RTSGhSdw?oc=5": {
-    "title": "文化大學34位師資生通過教師資格考試扎實師培課程奠定教育專業力- 新消息- Campus - 中時新聞網",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaWHQwNkpWeTRUNE1wT2tXTUZBamxwM3ZibE1sVTFOakI4NHMwd1hJTEkxRkhnQ2ZBSmk4bExqc3hUUkkzRDBSa1NNZkhiNWlPRS1zVzhlMGp1aUFwai0tT3RTSGhSdw?oc=5",
-    "published": "2026-09-02 16:49",
-    "images": [],
-    "summary": "文化大學34位師資生通過教師資格考試扎實師培課程奠定教育專業力- 新消息- Campus&nbsp;&nbsp;中時新聞網",
-    "tags": "大學, 文化",
-    "classes": "教學與課程",
-    "is_target": "True",
-    "cn_summary": "文化大學34位師資生通過教師資格考試扎實師培課程奠定教育專業力- 新消息- Campus&nbsp;&nbsp;中時新聞網",
-    "cn_title": "文化大學34位師資生通過教師資格考試扎實師培課程奠定教育專業力- 新消息- Campus - 中時新聞網",
-    "cn_classes": "教學與課程",
-    "cn_tags": "大學, 文化",
-    "source": "中國時報"
   }
 }
