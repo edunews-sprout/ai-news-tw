@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5575066": {
+    "title": "東吳大學移置蔣介石銅像 校方：依程序凝聚師生共識後為之",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5575066",
+    "published": "2026-09-15 19:59",
+    "images": [],
+    "summary": "東吳大學正式移除校園內蔣介石銅像，被學生認為是踏出轉型正義重要一步。校方今天指出，銅像移置是依照校內程序，召開多次會議凝聚師生共識後所進行，後續已移至圖書館文物典藏室妥善處理。...…",
+    "tags": "東吳大學",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "東吳大學正式移除校園內蔣介石銅像，被學生認為是踏出轉型正義重要一步。校方今天指出，銅像移置是依照校內程序，召開多次會議凝聚師生共識後所進行，後續已移至圖書館文物典藏室妥善處理。...…",
+    "cn_title": "東吳大學移置蔣介石銅像 校方：依程序凝聚師生共識後為之",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "東吳大學",
+    "source": "自由時報"
+  },
   "https://udn.com/news/story/6928/9756424": {
     "title": "東吳大學蔣中正銅像搬離公共空間 改放文物典藏室",
     "link": "https://udn.com/news/story/6928/9756424",
@@ -28,6 +43,21 @@
     "cn_classes": "學生事務與生活",
     "cn_tags": "國立虎尾科技大學",
     "source": "自由時報"
+  },
+  "https://www.cna.com.tw/news/ahel/202609150278.aspx": {
+    "title": "東吳大學蔣中正銅像搬離公共空間　改放文物典藏室",
+    "link": "https://www.cna.com.tw/news/ahel/202609150278.aspx",
+    "published": "2026-09-15 18:05",
+    "images": [],
+    "summary": "（中央社記者陳至中台北15日電）東吳大學近期經校務會議決議，將放置了48年的蔣中正（蔣介石）銅像，從公共空間移置到圖書館文物典藏室。學生團體「東吳島社」表示，這是踏出校園轉型正義的第一步。",
+    "tags": "東吳大學, 國立中正大學",
+    "classes": "校務治理與管理",
+    "is_target": "True",
+    "cn_summary": "（中央社記者陳至中台北15日電）東吳大學近期經校務會議決議，將放置了48年的蔣中正（蔣介石）銅像，從公共空間移置到圖書館文物典藏室。學生團體「東吳島社」表示，這是踏出校園轉型正義的第一步。",
+    "cn_title": "東吳大學蔣中正銅像搬離公共空間　改放文物典藏室",
+    "cn_classes": "校務治理與管理",
+    "cn_tags": "東吳大學, 國立中正大學",
+    "source": "中央社"
   },
   "https://udn.com/news/story/6928/9756388": {
     "title": "反應兩極！圖書館裝KTV、PS5惹議 世新大學：教育內容已不限於紙本",
@@ -3568,35 +3598,5 @@
     "cn_classes": "學生事務與生活",
     "cn_tags": "大學生, 國立臺灣科技大學, 高教, 學分, 國立政治大學",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUXRXUzg5MlJEUVZCVlZuMF8yZGZ2RTNzSThVdnZSekxhUXN3YlVGSnZlTHcwNjNRSGZxMHg1YW81aHBLTjViNmJuRzBDczNDdEc0c2NYTjlJUlhBa1FraGlTcFBkV2JpMHk1YTUyZWtXOVlKZng2M0FaN0NsN0xsS25ma0JmbDZzeGlXUC1LSExhZ0VKV3c?oc=5": {
-    "title": "台灣高教生源萎縮，將如何影響國家人才培育？ - 遠見雜誌",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUXRXUzg5MlJEUVZCVlZuMF8yZGZ2RTNzSThVdnZSekxhUXN3YlVGSnZlTHcwNjNRSGZxMHg1YW81aHBLTjViNmJuRzBDczNDdEc0c2NYTjlJUlhBa1FraGlTcFBkV2JpMHk1YTUyZWtXOVlKZng2M0FaN0NsN0xsS25ma0JmbDZzeGlXUC1LSExhZ0VKV3c?oc=5",
-    "published": "2026-09-04 05:24",
-    "images": [],
-    "summary": "台灣高教生源萎縮，將如何影響國家人才培育？&nbsp;&nbsp;遠見雜誌",
-    "tags": "高教",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "台灣高教生源萎縮，將如何影響國家人才培育？&nbsp;&nbsp;遠見雜誌",
-    "cn_title": "台灣高教生源萎縮，將如何影響國家人才培育？ - 遠見雜誌",
-    "cn_classes": "其他",
-    "cn_tags": "高教",
-    "source": "遠見雜誌"
-  },
-  "https://udn.com/news/story/6928/9733474": {
-    "title": "亞大攜手美國學院 培育半導體人才",
-    "link": "https://udn.com/news/story/6928/9733474",
-    "published": "2026-09-04 00:23",
-    "images": [],
-    "summary": "亞洲大學二日與美國亞利桑那西部學院簽訂合作備忘錄，未來兩校將透過「台美半導體教育聯盟」教育部平台，進行半導體、ＡＩ人工智慧及資訊科技等合作。教育部長鄭英耀表示，教育部期待吸引更多美國學生來台學習半導體，並創造台灣學生赴美研習ＡＩ及新興科技機會。",
-    "tags": "亞洲大學",
-    "classes": "產學合作",
-    "is_target": "True",
-    "cn_summary": "亞洲大學二日與美國亞利桑那西部學院簽訂合作備忘錄，未來兩校將透過「台美半導體教育聯盟」教育部平台，進行半導體、ＡＩ人工智慧及資訊科技等合作。教育部長鄭英耀表示，教育部期待吸引更多美國學生來台學習半導體，並創造台灣學生赴美研習ＡＩ及新興科技機會。",
-    "cn_title": "亞大攜手美國學院 培育半導體人才",
-    "cn_classes": "產學合作",
-    "cn_tags": "亞洲大學",
-    "source": "UDN 文教"
   }
 }
