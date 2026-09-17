@@ -1,4 +1,19 @@
 {
+  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WRVZNamk4MGdHeFRlNnN4MEFBTmVlczNMZmhHS3hRNmZ1dkxEYnRKT0hlU3gwNWxabExzZTZreENDbkgtZk5wOGl1a2psSEF1Y3N5WjRsZ2VNUG5yYkFydEl5R3Q4dw?oc=5": {
+    "title": "文化大學新南向國際男子籃球邀請賽開打跨國球隊齊聚華岡交流- 新消息- Campus - 中時新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WRVZNamk4MGdHeFRlNnN4MEFBTmVlczNMZmhHS3hRNmZ1dkxEYnRKT0hlU3gwNWxabExzZTZreENDbkgtZk5wOGl1a2psSEF1Y3N5WjRsZ2VNUG5yYkFydEl5R3Q4dw?oc=5",
+    "published": "2026-09-17 15:26",
+    "images": [],
+    "summary": "文化大學新南向國際男子籃球邀請賽開打跨國球隊齊聚華岡交流- 新消息- Campus&nbsp;&nbsp;中時新聞網",
+    "tags": "大學, 文化",
+    "classes": "國際交流與合作",
+    "is_target": "True",
+    "cn_summary": "文化大學新南向國際男子籃球邀請賽開打跨國球隊齊聚華岡交流- 新消息- Campus&nbsp;&nbsp;中時新聞網",
+    "cn_title": "文化大學新南向國際男子籃球邀請賽開打跨國球隊齊聚華岡交流- 新消息- Campus - 中時新聞網",
+    "cn_classes": "國際交流與合作",
+    "cn_tags": "大學, 文化",
+    "source": "中國時報"
+  },
   "https://news.ltn.com.tw/news/politics/breakingnews/5576975": {
     "title": "退休教授轉赴中國復旦大學任教 東海大學稱尊重個人生涯規劃",
     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5576975",
@@ -3582,21 +3597,6 @@
     "cn_title": "自由開講》大學教師聘任，還有哪些條件沒有寫在公告裡？",
     "cn_classes": "教學與課程",
     "cn_tags": "高等教育, 大學, 學位",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/life/paper/1769541": {
-    "title": "世界級研究團隊 京都大學提供台灣4名額",
-    "link": "https://news.ltn.com.tw/news/life/paper/1769541",
-    "published": "2026-09-06 05:30",
-    "images": [],
-    "summary": "〔記者林曉雲／台北報導〕我國青年明年起有機會進入日本京都大學，與世界級研究團隊一起做研究！ 對接青年百億海外圓夢基金計畫 教育部與京都大學簽署合作協議，「青年百億海外圓夢基金計畫」自二〇二七年起將與京都大學科研平台對接，京都大學首度提供四個名額，讓台灣優秀青年可赴日進行短期研究實作及研修交流，接…",
-    "tags": "大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "〔記者林曉雲／台北報導〕我國青年明年起有機會進入日本京都大學，與世界級研究團隊一起做研究！ 對接青年百億海外圓夢基金計畫 教育部與京都大學簽署合作協議，「青年百億海外圓夢基金計畫」自二〇二七年起將與京都大學科研平台對接，京都大學首度提供四個名額，讓台灣優秀青年可赴日進行短期研究實作及研修交流，接…",
-    "cn_title": "世界級研究團隊 京都大學提供台灣4名額",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "大學",
     "source": "自由時報"
   }
 }
