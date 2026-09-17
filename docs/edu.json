@@ -584,6 +584,21 @@
     "cn_tags": "弘光科技大學, 學術, 文化",
     "source": "UDN 文教"
   },
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMbm5BRUdZMGZVUE5yREtYR1hzWFY1U1V1Q3ppUGl4Yl8xb2dSVDV0a1R0WGhyemRiVTVwemlTdGZhTXhOdXJic2hWZlJXZ2w1a2hNOXFCQQ?oc=5": {
+    "title": "S3 EP393／【遠見大人物】AI時代不思考，連AI都會跟著變笨？用成大教授洪瀞的「思考城堡」，打造問題解決系統！ ft.國立成功大學土木工程學系教授洪瀞| 遠見ON AIR - 遠見雜誌",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMbm5BRUdZMGZVUE5yREtYR1hzWFY1U1V1Q3ppUGl4Yl8xb2dSVDV0a1R0WGhyemRiVTVwemlTdGZhTXhOdXJic2hWZlJXZ2w1a2hNOXFCQQ?oc=5",
+    "published": "2026-09-16 09:40",
+    "images": [],
+    "summary": "S3 EP393／【遠見大人物】AI時代不思考，連AI都會跟著變笨？用成大教授洪瀞的「思考城堡」，打造問題解決系統！ ft.國立成功大學土木工程學系教授洪瀞| 遠見ON AIR&nbsp;&nbsp;遠見雜誌",
+    "tags": "國立成功大學, 教授",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "S3 EP393／【遠見大人物】AI時代不思考，連AI都會跟著變笨？用成大教授洪瀞的「思考城堡」，打造問題解決系統！ ft.國立成功大學土木工程學系教授洪瀞| 遠見ON AIR&nbsp;&nbsp;遠見雜誌",
+    "cn_title": "S3 EP393／【遠見大人物】AI時代不思考，連AI都會跟著變笨？用成大教授洪瀞的「思考城堡」，打造問題解決系統！ ft.國立成功大學土木工程學系教授洪瀞| 遠見ON AIR - 遠見雜誌",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立成功大學, 教授",
+    "source": "遠見雜誌"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5575382": {
     "title": "國家公園大學有YouBike了！學生校園通勤新選擇",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5575382",
@@ -3583,20 +3598,5 @@
     "cn_classes": "教學與課程",
     "cn_tags": "",
     "source": "中央社"
-  },
-  "https://talk.ltn.com.tw/article/breakingnews/5558329": {
-    "title": "自由開講》大學教師聘任，還有哪些條件沒有寫在公告裡？",
-    "link": "https://talk.ltn.com.tw/article/breakingnews/5558329",
-    "published": "2026-09-06 08:30",
-    "images": [],
-    "summary": "每年都有許多博士投入大學專任教師甄選。研究成果、教學能力、專長領域與博士學位，通常清楚寫在徵才公告中。然而，真正值得高等教育界討論的是：決定一名學者能不能進入面試、甚至獲得聘任的條件，是...…",
-    "tags": "高等教育, 大學, 學位",
-    "classes": "教學與課程",
-    "is_target": "True",
-    "cn_summary": "每年都有許多博士投入大學專任教師甄選。研究成果、教學能力、專長領域與博士學位，通常清楚寫在徵才公告中。然而，真正值得高等教育界討論的是：決定一名學者能不能進入面試、甚至獲得聘任的條件，是...…",
-    "cn_title": "自由開講》大學教師聘任，還有哪些條件沒有寫在公告裡？",
-    "cn_classes": "教學與課程",
-    "cn_tags": "高等教育, 大學, 學位",
-    "source": "自由時報"
   }
 }
