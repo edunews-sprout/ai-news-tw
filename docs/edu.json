@@ -1,4 +1,34 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5578388": {
+    "title": "台大全球人才培育計畫5週年 陪伴逾千名青年走向世界",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5578388",
+    "published": "2026-09-18 16:14",
+    "images": [],
+    "summary": "台大近年陸續推動多項學生出國計畫，5年來幫助逾千名學生到國內外見習或實習，已具初步成果。校方指出，持續響應政府留才政策方向，協助透過計畫來台實習之優秀外籍學生於畢業後留台就業扎...…",
+    "tags": "國立臺灣大學",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "台大近年陸續推動多項學生出國計畫，5年來幫助逾千名學生到國內外見習或實習，已具初步成果。校方指出，持續響應政府留才政策方向，協助透過計畫來台實習之優秀外籍學生於畢業後留台就業扎...…",
+    "cn_title": "台大全球人才培育計畫5週年 陪伴逾千名青年走向世界",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "國立臺灣大學",
+    "source": "自由時報"
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5578346": {
+    "title": "高雄超前部署AI Token bank計畫 年底上線支援高中職",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5578346",
+    "published": "2026-09-18 15:44",
+    "images": [],
+    "summary": "高雄市今（18）日啟動「AI教育算力資源中心（Token bank）計畫」，規劃投入2000萬元全面提升校園AI應用資源，將提供3萬組AI應用服務，升級教師的AI應用工具，同時...…",
+    "tags": "",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "高雄市今（18）日啟動「AI教育算力資源中心（Token bank）計畫」，規劃投入2000萬元全面提升校園AI應用資源，將提供3萬組AI應用服務，升級教師的AI應用工具，同時...…",
+    "cn_title": "高雄超前部署AI Token bank計畫 年底上線支援高中職",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/politics/breakingnews/5578286": {
     "title": "高虹安稱未獲邀市長候選人論壇 清大學生送邀請信到市府",
     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5578286",
@@ -3568,35 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "大學, 學術",
     "source": "中央社"
-  },
-  "https://udn.com/news/story/6928/9739049": {
-    "title": "大學跨域學習正夯 中山醫大學生跨校修讀法律、理工",
-    "link": "https://udn.com/news/story/6928/9739049",
-    "published": "2026-09-07 12:30",
-    "images": [],
-    "summary": "大學跨域學習正加速打破校園與學科藩籬，近年各校透過大學聯盟、校際選課及雙主修、輔系等機制共享資源。台中中山醫學大學除了是中台灣大學系統M6的成員之外，也與國立中興大學、台中教育大學及東海大學推動跨校雙主修、輔系，讓學生跨出醫療專業培養第二專長。",
-    "tags": "國立中興大學, 中山醫學大學, 東海大學, 國立臺灣大學, 大學生",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "大學跨域學習正加速打破校園與學科藩籬，近年各校透過大學聯盟、校際選課及雙主修、輔系等機制共享資源。台中中山醫學大學除了是中台灣大學系統M6的成員之外，也與國立中興大學、台中教育大學及東海大學推動跨校雙主修、輔系，讓學生跨出醫療專業培養第二專長。",
-    "cn_title": "大學跨域學習正夯 中山醫大學生跨校修讀法律、理工",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "國立中興大學, 中山醫學大學, 東海大學, 國立臺灣大學, 大學生",
-    "source": "UDN 文教"
-  },
-  "https://udn.com/news/story/6885/9738755": {
-    "title": "深化台德科技合作 萊比錫大學校長首度訪台 聚焦半導體、量子科技合作",
-    "link": "https://udn.com/news/story/6885/9738755",
-    "published": "2026-09-07 10:37",
-    "images": [],
-    "summary": "為積極深化台灣與德國在高等教育、關鍵半導體製程與量子科技領域的學術合作，教育部邀請德國頂尖百年學府萊比錫大學（Universität Leipzig）校長Prof. Dr. Eva Inés Obergfell於8月31日首度來台，展開為期5天的學術訪問行程。Obergfell校長在台期間除與教育部交流對談，並訪問台灣多所大學、簽署學術合作備忘錄、推展高階科研人才培育合作計畫。",
-    "tags": "高等教育, 大學, 學術",
-    "classes": "產學合作",
-    "is_target": "True",
-    "cn_summary": "為積極深化台灣與德國在高等教育、關鍵半導體製程與量子科技領域的學術合作，教育部邀請德國頂尖百年學府萊比錫大學（Universität Leipzig）校長Prof. Dr. Eva Inés Obergfell於8月31日首度來台，展開為期5天的學術訪問行程。Obergfell校長在台期間除與教育部交流對談，並訪問台灣多所大學、簽署學術合作備忘錄、推展高階科研人才培育合作計畫。",
-    "cn_title": "深化台德科技合作 萊比錫大學校長首度訪台 聚焦半導體、量子科技合作",
-    "cn_classes": "產學合作",
-    "cn_tags": "高等教育, 大學, 學術",
-    "source": "UDN 文教"
   }
 }
