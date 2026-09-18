@@ -59,6 +59,21 @@
     "cn_tags": "",
     "source": "風傳媒"
   },
+  "https://www.cna.com.tw/news/ahel/202609170270.aspx": {
+    "title": "區域產業人才培育基地　每年6千學生投入",
+    "link": "https://www.cna.com.tw/news/ahel/202609170270.aspx",
+    "published": "2026-09-17 18:03",
+    "images": [],
+    "summary": "（中央社記者陳至中台北17日電）產業缺工、學用落差議題受到社會關注，教育部建置「區域產業人才及技術培育基地」，由企業和大學一同規劃課程，每年約有6000名學生參與。",
+    "tags": "大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "（中央社記者陳至中台北17日電）產業缺工、學用落差議題受到社會關注，教育部建置「區域產業人才及技術培育基地」，由企業和大學一同規劃課程，每年約有6000名學生參與。",
+    "cn_title": "區域產業人才培育基地　每年6千學生投入",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "大學",
+    "source": "中央社"
+  },
   "https://www.cna.com.tw/news/aloc/202609170269.aspx": {
     "title": "李驥獲聘東海大學創意總監 將AI融入音樂教學",
     "link": "https://www.cna.com.tw/news/aloc/202609170269.aspx",
@@ -3582,21 +3597,6 @@
     "cn_title": "點教育》從清華大學校長事件，大家學到了教訓嗎？ | 諄筆群 | 評論 - Storm.mg",
     "cn_classes": "其他",
     "cn_tags": "國立清華大學",
-    "source": "風傳媒"
-  },
-  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81ZFNhMk9iNHo0aTJkYWtvcTdTY084QUJOMEhCZHI3bmVOVG5Eb25DS1dGdTgzRWdJdDlpZ3UyMmQ5UzI5OTZscVIzMnRNdw?oc=5": {
-    "title": "鄧鴻源觀點：頂尖大學只是竹科轉運站嗎？ | 鄧鴻源 | 評論 - Storm.mg",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81ZFNhMk9iNHo0aTJkYWtvcTdTY084QUJOMEhCZHI3bmVOVG5Eb25DS1dGdTgzRWdJdDlpZ3UyMmQ5UzI5OTZscVIzMnRNdw?oc=5",
-    "published": "2026-09-07 05:40",
-    "images": [],
-    "summary": "鄧鴻源觀點：頂尖大學只是竹科轉運站嗎？ | 鄧鴻源 | 評論&nbsp;&nbsp;Storm.mg",
-    "tags": "大學",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "鄧鴻源觀點：頂尖大學只是竹科轉運站嗎？ | 鄧鴻源 | 評論&nbsp;&nbsp;Storm.mg",
-    "cn_title": "鄧鴻源觀點：頂尖大學只是竹科轉運站嗎？ | 鄧鴻源 | 評論 - Storm.mg",
-    "cn_classes": "其他",
-    "cn_tags": "大學",
     "source": "風傳媒"
   }
 }
