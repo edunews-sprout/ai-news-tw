@@ -1,4 +1,19 @@
 {
+  "https://udn.com/news/story/6928/9786066": {
+    "title": "THE泰晤士世界大學排名 台大產學合作世界第一",
+    "link": "https://udn.com/news/story/6928/9786066",
+    "published": "2026-09-30 15:57",
+    "images": [],
+    "summary": "2027 泰晤士高等教育世界大學排名（THE）於台灣時間今日上午7時公布。本年度共2297所大學獲得排名，較THE 2026的2191所增加106所；國立台灣大學排名第126名，較上年度第140名進步14名。",
+    "tags": "國立臺灣大學, 高等教育, 產學合作",
+    "classes": "校務治理與管理",
+    "is_target": "True",
+    "cn_summary": "2027 泰晤士高等教育世界大學排名（THE）於台灣時間今日上午7時公布。本年度共2297所大學獲得排名，較THE 2026的2191所增加106所；國立台灣大學排名第126名，較上年度第140名進步14名。",
+    "cn_title": "THE泰晤士世界大學排名 台大產學合作世界第一",
+    "cn_classes": "校務治理與管理",
+    "cn_tags": "國立臺灣大學, 高等教育, 產學合作",
+    "source": "UDN 文教"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5590773": {
     "title": "台灣首批國產自主水下載具亮相   打破技術仰賴國外困境",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5590773",
@@ -3583,20 +3598,5 @@
     "cn_classes": "政策與法規",
     "cn_tags": "",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5576506": {
-    "title": "屏科大YouBike進駐 不到20天破7000人次使用",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5576506",
-    "published": "2026-09-16 22:43",
-    "images": [],
-    "summary": "國立屏東科技大學校區廣大，為提倡校園降速概念，今年引進YouBike 2.0，今天舉辦啟用典禮，屏東縣長周春米致詞時透露，屏科大還沒開學，使用率就已相當驚人，未來每個月應該是穩...…",
-    "tags": "國立屏東科技大學",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "國立屏東科技大學校區廣大，為提倡校園降速概念，今年引進YouBike 2.0，今天舉辦啟用典禮，屏東縣長周春米致詞時透露，屏科大還沒開學，使用率就已相當驚人，未來每個月應該是穩...…",
-    "cn_title": "屏科大YouBike進駐 不到20天破7000人次使用",
-    "cn_classes": "其他",
-    "cn_tags": "國立屏東科技大學",
-    "source": "自由時報"
   }
 }
