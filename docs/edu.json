@@ -359,6 +359,21 @@
     "cn_tags": "國立陽明交通大學, 研究所, 教授",
     "source": "中央社"
   },
+  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wQWdPa1phSnJvdTI3VFFBdlJvdFVISTVkSk8yQXhRdUVLWF9iX1UzNkNRb1AyblZzam5fcENybkx5enRJb24yOTdIYWllaDl6eWdsako3S0hOa1VRdjktbTlESVZIUQ?oc=5": {
+    "title": "靜宜大學全國首創「永續生態學院」揭牌 25年生態教育成辦學特色- 新消息- Campus - 中時新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wQWdPa1phSnJvdTI3VFFBdlJvdFVISTVkSk8yQXhRdUVLWF9iX1UzNkNRb1AyblZzam5fcENybkx5enRJb24yOTdIYWllaDl6eWdsako3S0hOa1VRdjktbTlESVZIUQ?oc=5",
+    "published": "2026-09-29 17:33",
+    "images": [],
+    "summary": "靜宜大學全國首創「永續生態學院」揭牌 25年生態教育成辦學特色- 新消息- Campus&nbsp;&nbsp;中時新聞網",
+    "tags": "靜宜大學",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "靜宜大學全國首創「永續生態學院」揭牌 25年生態教育成辦學特色- 新消息- Campus&nbsp;&nbsp;中時新聞網",
+    "cn_title": "靜宜大學全國首創「永續生態學院」揭牌 25年生態教育成辦學特色- 新消息- Campus - 中時新聞網",
+    "cn_classes": "其他",
+    "cn_tags": "靜宜大學",
+    "source": "中國時報"
+  },
   "https://udn.com/news/story/6928/9783879": {
     "title": "靜宜大學全國首創「永續生態學院」揭牌 25年生態教育辦學特色",
     "link": "https://udn.com/news/story/6928/9783879",
@@ -3582,21 +3597,6 @@
     "cn_title": "台師大串聯北區14大學 共享AI課程資源",
     "cn_classes": "學術研究與創新",
     "cn_tags": "大學生, 高教, 大三, 大四, 國立臺灣師範大學",
-    "source": "自由時報"
-  },
-  "https://ec.ltn.com.tw/article/paper/1770934": {
-    "title": "人生必修學分》大學生瘋投資 美股成長41％超車台股",
-    "link": "https://ec.ltn.com.tw/article/paper/1770934",
-    "published": "2026-09-17 05:30",
-    "images": [],
-    "summary": "〔記者李靚慧／台北報導〕新學期開學，大學生除了忙著選課、搶熱門課程，投資已成為年輕世代的「人生必修學分」。券商最新統計發現，十九至二十二歲大學生投資熱度明顯升溫，二〇二六年大學生台股投資人數較去年成長三十二．二％，美股更大增四十一．九％，大學生已不滿足於「小額存股」，更開始主動挑選個股、ETF，甚至…",
-    "tags": "大學生, 學分",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "〔記者李靚慧／台北報導〕新學期開學，大學生除了忙著選課、搶熱門課程，投資已成為年輕世代的「人生必修學分」。券商最新統計發現，十九至二十二歲大學生投資熱度明顯升溫，二〇二六年大學生台股投資人數較去年成長三十二．二％，美股更大增四十一．九％，大學生已不滿足於「小額存股」，更開始主動挑選個股、ETF，甚至…",
-    "cn_title": "人生必修學分》大學生瘋投資 美股成長41％超車台股",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "大學生, 學分",
     "source": "自由時報"
   }
 }
