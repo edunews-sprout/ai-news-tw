@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5590773": {
+    "title": "台灣首批國產自主水下載具亮相   打破技術仰賴國外困境",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5590773",
+    "published": "2026-09-30 15:20",
+    "images": [],
+    "summary": "為了告別高風險的人工潛水作業，海委會促成高雄科技大學與成功大學跨校合作，打造出台灣首批兼具低阻力與高耐壓特性的國產自主水下載具（AUV）。海委會表示，團隊克服了水下缺乏GPS與...…",
+    "tags": "科技大學, 國立成功大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "為了告別高風險的人工潛水作業，海委會促成高雄科技大學與成功大學跨校合作，打造出台灣首批兼具低阻力與高耐壓特性的國產自主水下載具（AUV）。海委會表示，團隊克服了水下缺乏GPS與...…",
+    "cn_title": "台灣首批國產自主水下載具亮相   打破技術仰賴國外困境",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "科技大學, 國立成功大學",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5590614": {
     "title": "THE世界大學排名清大創5年來最佳 研究生產力與產業指標近滿分",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5590614",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "國立屏東科技大學",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OS0VkOG9mS2U5VGRNWmxLdFZqSkVIRUtJZmdZZm10a2JWMVhTV21tOEtrcjdMbURpWWg3OUVLMjFJUkJBNlN2Rk1vOUU1c3hjV2tPY1FNVGFvdGtsaWJ5MUJJbVR1dw?oc=5": {
-    "title": "靜宜大學師生赴日研習循環經濟手搖茶渣開啟淨零永續新路- 新消息- Campus - 中時新聞網",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OS0VkOG9mS2U5VGRNWmxLdFZqSkVIRUtJZmdZZm10a2JWMVhTV21tOEtrcjdMbURpWWg3OUVLMjFJUkJBNlN2Rk1vOUU1c3hjV2tPY1FNVGFvdGtsaWJ5MUJJbVR1dw?oc=5",
-    "published": "2026-09-16 17:42",
-    "images": [],
-    "summary": "靜宜大學師生赴日研習循環經濟手搖茶渣開啟淨零永續新路- 新消息- Campus&nbsp;&nbsp;中時新聞網",
-    "tags": "靜宜大學",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "靜宜大學師生赴日研習循環經濟手搖茶渣開啟淨零永續新路- 新消息- Campus&nbsp;&nbsp;中時新聞網",
-    "cn_title": "靜宜大學師生赴日研習循環經濟手搖茶渣開啟淨零永續新路- 新消息- Campus - 中時新聞網",
-    "cn_classes": "其他",
-    "cn_tags": "靜宜大學",
-    "source": "中國時報"
   }
 }
