@@ -1,4 +1,34 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5591992": {
+    "title": "教育部分級培訓學務主任 強化校園危機處理能力",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5591992",
+    "published": "2026-10-01 14:23",
+    "images": [],
+    "summary": "學生偏差行為、校園突發事件、運動教練爭議，甚至涉及法律問題，都可能成為高中學務主任必須處理的難題。教育部國教署針對學務主任資歷分級強化實戰能力，初任者著重危機防護，任職1至3年...…",
+    "tags": "",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "學生偏差行為、校園突發事件、運動教練爭議，甚至涉及法律問題，都可能成為高中學務主任必須處理的難題。教育部國教署針對學務主任資歷分級強化實戰能力，初任者著重危機防護，任職1至3年...…",
+    "cn_title": "教育部分級培訓學務主任 強化校園危機處理能力",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "",
+    "source": "自由時報"
+  },
+  "https://ent.ltn.com.tw/news/breakingnews/5591937": {
+    "title": "當年爆紅到美國！左左右右升格大學生 18歲姊姊考上國體大近況曝光",
+    "link": "https://ent.ltn.com.tw/news/breakingnews/5591937",
+    "published": "2026-10-01 13:30",
+    "images": [],
+    "summary": "〔娛樂頻道／綜合報導〕童星出身的雙胞胎女團「左左右右」今年順利升上大學，姊姊「左左」謝佐妮考上國立體育大學，近日加入校內爵士舞蹈團隊，近況曝光後掀起粉絲討論。 「左左右右」當年憑藉可愛模樣與...…",
+    "tags": "國立體育大學, 大學生",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "〔娛樂頻道／綜合報導〕童星出身的雙胞胎女團「左左右右」今年順利升上大學，姊姊「左左」謝佐妮考上國立體育大學，近日加入校內爵士舞蹈團隊，近況曝光後掀起粉絲討論。 「左左右右」當年憑藉可愛模樣與...…",
+    "cn_title": "當年爆紅到美國！左左右右升格大學生 18歲姊姊考上國體大近況曝光",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "國立體育大學, 大學生",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5591831": {
     "title": "台大建置先進半導體製程研究場域 助攻新科研、產學及國際合作發展",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5591831",
@@ -28,6 +58,21 @@
     "cn_classes": "學生事務與生活",
     "cn_tags": "世新大學",
     "source": "UDN 文教"
+  },
+  "https://www.cna.com.tw/news/ahel/202610010103.aspx": {
+    "title": "不用滑鼠可操控電腦　興大材料系開發AI體感智慧衣",
+    "link": "https://www.cna.com.tw/news/ahel/202610010103.aspx",
+    "published": "2026-10-01 12:05",
+    "images": [],
+    "summary": "（中央社記者郝雪卿台中1日電）國立中興大學材料科學與工程學系今天公布開發「AI體感智慧衣」，利用紡織材料與人體活動產生的自然靜電感測動作，不用碰滑鼠、鍵盤，只要揮動手臂就能切換電腦畫面。",
+    "tags": "國立中興大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "（中央社記者郝雪卿台中1日電）國立中興大學材料科學與工程學系今天公布開發「AI體感智慧衣」，利用紡織材料與人體活動產生的自然靜電感測動作，不用碰滑鼠、鍵盤，只要揮動手臂就能切換電腦畫面。",
+    "cn_title": "不用滑鼠可操控電腦　興大材料系開發AI體感智慧衣",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立中興大學",
+    "source": "中央社"
   },
   "https://udn.com/news/story/6928/9787869": {
     "title": "台大打造先進半導體製程場域 無塵室、量測設備開放各校使用",
@@ -3553,50 +3598,5 @@
     "cn_classes": "在地連結與社會責任（USR）",
     "cn_tags": "",
     "source": "風傳媒"
-  },
-  "https://www.cna.com.tw/news/ahel/202609170270.aspx": {
-    "title": "區域產業人才培育基地　每年6千學生投入",
-    "link": "https://www.cna.com.tw/news/ahel/202609170270.aspx",
-    "published": "2026-09-17 18:03",
-    "images": [],
-    "summary": "（中央社記者陳至中台北17日電）產業缺工、學用落差議題受到社會關注，教育部建置「區域產業人才及技術培育基地」，由企業和大學一同規劃課程，每年約有6000名學生參與。",
-    "tags": "大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "（中央社記者陳至中台北17日電）產業缺工、學用落差議題受到社會關注，教育部建置「區域產業人才及技術培育基地」，由企業和大學一同規劃課程，每年約有6000名學生參與。",
-    "cn_title": "區域產業人才培育基地　每年6千學生投入",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "大學",
-    "source": "中央社"
-  },
-  "https://www.cna.com.tw/news/aloc/202609170269.aspx": {
-    "title": "李驥獲聘東海大學創意總監 將AI融入音樂教學",
-    "link": "https://www.cna.com.tw/news/aloc/202609170269.aspx",
-    "published": "2026-09-17 18:02",
-    "images": [],
-    "summary": "（中央社記者趙麗妍台中17日電）音樂人李驥與林志炫以「優客李林」出道，李驥日前獲東海大學邀請擔任產業推廣暨終身學習處創意總監，日前他將AI與創意帶入偏鄉教育現場，未來將AI帶進音樂創作與教學。",
-    "tags": "東海大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "（中央社記者趙麗妍台中17日電）音樂人李驥與林志炫以「優客李林」出道，李驥日前獲東海大學邀請擔任產業推廣暨終身學習處創意總監，日前他將AI與創意帶入偏鄉教育現場，未來將AI帶進音樂創作與教學。",
-    "cn_title": "李驥獲聘東海大學創意總監 將AI融入音樂教學",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "東海大學",
-    "source": "中央社"
-  },
-  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WRVZNamk4MGdHeFRlNnN4MEFBTmVlczNMZmhHS3hRNmZ1dkxEYnRKT0hlU3gwNWxabExzZTZreENDbkgtZk5wOGl1a2psSEF1Y3N5WjRsZ2VNUG5yYkFydEl5R3Q4dw?oc=5": {
-    "title": "文化大學新南向國際男子籃球邀請賽開打跨國球隊齊聚華岡交流- 新消息- Campus - 中時新聞網",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WRVZNamk4MGdHeFRlNnN4MEFBTmVlczNMZmhHS3hRNmZ1dkxEYnRKT0hlU3gwNWxabExzZTZreENDbkgtZk5wOGl1a2psSEF1Y3N5WjRsZ2VNUG5yYkFydEl5R3Q4dw?oc=5",
-    "published": "2026-09-17 15:26",
-    "images": [],
-    "summary": "文化大學新南向國際男子籃球邀請賽開打跨國球隊齊聚華岡交流- 新消息- Campus&nbsp;&nbsp;中時新聞網",
-    "tags": "大學, 文化",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "文化大學新南向國際男子籃球邀請賽開打跨國球隊齊聚華岡交流- 新消息- Campus&nbsp;&nbsp;中時新聞網",
-    "cn_title": "文化大學新南向國際男子籃球邀請賽開打跨國球隊齊聚華岡交流- 新消息- Campus - 中時新聞網",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "大學, 文化",
-    "source": "中國時報"
   }
 }
