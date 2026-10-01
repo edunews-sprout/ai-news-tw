@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5591544": {
+    "title": "教育部校安人力2000計畫上路 國教盟籲強化專業訓練",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5591544",
+    "published": "2026-10-01 09:23",
+    "images": [],
+    "summary": "教育部「校園安全韌性2000－充實國民中學校安人力計畫」今（1）日正式上路，預計將全國國中校安人力由目前620人逐年增加至2000人，涵蓋966所公私立國中，中央每年投入12億...…",
+    "tags": "",
+    "classes": "校園受社會關注事件",
+    "is_target": "True",
+    "cn_summary": "教育部「校園安全韌性2000－充實國民中學校安人力計畫」今（1）日正式上路，預計將全國國中校安人力由目前620人逐年增加至2000人，涵蓋966所公私立國中，中央每年投入12億...…",
+    "cn_title": "教育部校安人力2000計畫上路 國教盟籲強化專業訓練",
+    "cn_classes": "校園受社會關注事件",
+    "cn_tags": "",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/paper/1772756": {
     "title": "罕病截肢 用單腳跑出馴鷹生命路 沈利倩獲選十大傑出青年",
     "link": "https://news.ltn.com.tw/news/life/paper/1772756",
@@ -3572,21 +3587,6 @@
   "https://news.ltn.com.tw/news/life/breakingnews/5576752": {
     "title": "走出課本看科技 高中生親訪國家太空中心、台積創新館收穫良多",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5576752",
-    "published": "2026-09-17 10:31",
-    "images": [],
-    "summary": "桃園市政府教育局攜手國立陽明交通大學，於8、9月辦理3場「桃園市關鍵科技探索實作體驗營」，帶領桃園市的高中職學生，走進國家太空中心、半導體研發場域及智慧機器人產業現場，走出教室...…",
-    "tags": "國立陽明交通大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "桃園市政府教育局攜手國立陽明交通大學，於8、9月辦理3場「桃園市關鍵科技探索實作體驗營」，帶領桃園市的高中職學生，走進國家太空中心、半導體研發場域及智慧機器人產業現場，走出教室...…",
-    "cn_title": "走出課本看科技 高中生親訪國家太空中心、台積創新館收穫良多",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "國立陽明交通大學",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/Taoyuan/breakingnews/5576752": {
-    "title": "走出課本看科技 高中生親訪國家太空中心、台積創新館收穫良多",
-    "link": "https://news.ltn.com.tw/news/Taoyuan/breakingnews/5576752",
     "published": "2026-09-17 10:31",
     "images": [],
     "summary": "桃園市政府教育局攜手國立陽明交通大學，於8、9月辦理3場「桃園市關鍵科技探索實作體驗營」，帶領桃園市的高中職學生，走進國家太空中心、半導體研發場域及智慧機器人產業現場，走出教室...…",
