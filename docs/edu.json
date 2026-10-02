@@ -1,4 +1,19 @@
 {
+  "https://www.cna.com.tw/news/acul/202610020249.aspx": {
+    "title": "東海大學路思義教堂修復工程獲獎　保留古蹟原貌融入現代需求",
+    "link": "https://www.cna.com.tw/news/acul/202610020249.aspx",
+    "published": "2026-10-02 17:45",
+    "images": [],
+    "summary": "（中央社記者趙麗妍台中2日電）東海大學路思義教堂歷經一甲子歲月後，以專業修復結合歷史文化保存與現代使用需求，重現經典建築風華，在第7屆國家文化資產保存獎獲得「保存修復類」獎項。",
+    "tags": "東海大學, 文化",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "（中央社記者趙麗妍台中2日電）東海大學路思義教堂歷經一甲子歲月後，以專業修復結合歷史文化保存與現代使用需求，重現經典建築風華，在第7屆國家文化資產保存獎獲得「保存修復類」獎項。",
+    "cn_title": "東海大學路思義教堂修復工程獲獎　保留古蹟原貌融入現代需求",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "東海大學, 文化",
+    "source": "中央社"
+  },
   "https://udn.com/news/story/6928/9791080": {
     "title": "長榮、陽明交大合推「4+1雙學士」 非理工生搶進半導體業解大廠人才荒",
     "link": "https://udn.com/news/story/6928/9791080",
@@ -3583,20 +3598,5 @@
     "cn_classes": "政策與法規",
     "cn_tags": "高等教育, 大學, 教授, 國立臺灣大學, 文化",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ20zMHhNWkpDSFNWa1dxRzRoRWNCemxzRjEzYWxRa2JzRzk3NVF3SXZ2UkJESVpHNXQ1WEVpZV8ySkFxdGZDZWM2SGZ1dFh0Q0VoOEF3d2o3bUdOWU8zMzAzUjlpSVdtRFhzSFF5MWJydVU0R3E0ZTJsSHlWUnZIUmFCcEozRU5EdlJ1eWdlRWRNN3B6bnc?oc=5": {
-    "title": "高雄科技大學如何整合AI資源以應對少子化挑戰？ - 遠見雜誌",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ20zMHhNWkpDSFNWa1dxRzRoRWNCemxzRjEzYWxRa2JzRzk3NVF3SXZ2UkJESVpHNXQ1WEVpZV8ySkFxdGZDZWM2SGZ1dFh0Q0VoOEF3d2o3bUdOWU8zMzAzUjlpSVdtRFhzSFF5MWJydVU0R3E0ZTJsSHlWUnZIUmFCcEozRU5EdlJ1eWdlRWRNN3B6bnc?oc=5",
-    "published": "2026-09-19 17:58",
-    "images": [],
-    "summary": "高雄科技大學如何整合AI資源以應對少子化挑戰？&nbsp;&nbsp;遠見雜誌",
-    "tags": "科技大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "高雄科技大學如何整合AI資源以應對少子化挑戰？&nbsp;&nbsp;遠見雜誌",
-    "cn_title": "高雄科技大學如何整合AI資源以應對少子化挑戰？ - 遠見雜誌",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "科技大學",
-    "source": "遠見雜誌"
   }
 }
