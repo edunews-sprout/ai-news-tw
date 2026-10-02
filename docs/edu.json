@@ -1,4 +1,19 @@
 {
+  "https://udn.com/news/story/6928/9791080": {
+    "title": "長榮、陽明交大合推「4+1雙學士」 非理工生搶進半導體業解大廠人才荒",
+    "link": "https://udn.com/news/story/6928/9791080",
+    "published": "2026-10-02 16:51",
+    "images": [],
+    "summary": "因應台積電落腳台南、歸仁沙崙南科新園區有龐大人才需求缺口，長榮大學今天與陽明交通大學簽署合作備忘錄，宣布跨校合作，推出「4+1雙學士」跨域培育模式，首度為非理工背景學生，開闢一條「直通半導體與AI產業的升學與就業新通道」。",
+    "tags": "長榮大學, 國立陽明交通大學, 學士",
+    "classes": "產學合作",
+    "is_target": "True",
+    "cn_summary": "因應台積電落腳台南、歸仁沙崙南科新園區有龐大人才需求缺口，長榮大學今天與陽明交通大學簽署合作備忘錄，宣布跨校合作，推出「4+1雙學士」跨域培育模式，首度為非理工背景學生，開闢一條「直通半導體與AI產業的升學與就業新通道」。",
+    "cn_title": "長榮、陽明交大合推「4+1雙學士」 非理工生搶進半導體業解大廠人才荒",
+    "cn_classes": "產學合作",
+    "cn_tags": "長榮大學, 國立陽明交通大學, 學士",
+    "source": "UDN 文教"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5593265": {
     "title": "竹市建功高中攜清大辦AI科技營 高一生打造好眠、穿搭專家系統",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5593265",
@@ -3582,21 +3597,6 @@
     "cn_title": "高雄科技大學如何整合AI資源以應對少子化挑戰？ - 遠見雜誌",
     "cn_classes": "學術研究與創新",
     "cn_tags": "科技大學",
-    "source": "遠見雜誌"
-  },
-  "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdEFIVUFLSkpzbEtiTFNlVmRaV000NHZ5Tl9lRUp6bUdNOUhIWWVfaUlxQ3RHV01fdGh0eXo0TWhsWDkzd0dGdWVpTjhUSnJUWk4zOTY1Tk90VERvRDBxcHNoSmhhMV8yMVQ5aVNOaGMtQ1habjJSOVlWdHpmVk1wWQ?oc=5": {
-    "title": "生成式AI重塑醫療版圖，大學教育如何應對？ - 遠見雜誌",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdEFIVUFLSkpzbEtiTFNlVmRaV000NHZ5Tl9lRUp6bUdNOUhIWWVfaUlxQ3RHV01fdGh0eXo0TWhsWDkzd0dGdWVpTjhUSnJUWk4zOTY1Tk90VERvRDBxcHNoSmhhMV8yMVQ5aVNOaGMtQ1habjJSOVlWdHpmVk1wWQ?oc=5",
-    "published": "2026-09-19 17:30",
-    "images": [],
-    "summary": "生成式AI重塑醫療版圖，大學教育如何應對？&nbsp;&nbsp;遠見雜誌",
-    "tags": "大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "生成式AI重塑醫療版圖，大學教育如何應對？&nbsp;&nbsp;遠見雜誌",
-    "cn_title": "生成式AI重塑醫療版圖，大學教育如何應對？ - 遠見雜誌",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "大學",
     "source": "遠見雜誌"
   }
 }
