@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5593265": {
+    "title": "竹市建功高中攜清大辦AI科技營 高一生打造好眠、穿搭專家系統",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5593265",
+    "published": "2026-10-02 15:28",
+    "images": [],
+    "summary": "新竹市立建功高中與清大材料系教授周卓煇暑假合辦2天的AI科技營，讓高一新生也能從研習營中探索多元學習興趣，且展現團隊合作精神，今天在校內發表運用AI專家系統所做的研習報告，學生...…",
+    "tags": "教授, 國立清華大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "新竹市立建功高中與清大材料系教授周卓煇暑假合辦2天的AI科技營，讓高一新生也能從研習營中探索多元學習興趣，且展現團隊合作精神，今天在校內發表運用AI專家系統所做的研習報告，學生...…",
+    "cn_title": "竹市建功高中攜清大辦AI科技營 高一生打造好眠、穿搭專家系統",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "教授, 國立清華大學",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd3lsc3doWDVXclJfNGZ6aHZzeUZPcUkzR05sbG9tZVFyTmdNN3BfUkh2TjgtbV85bGhxbTVJNEVwOHBTMk1wMWxDSF9JcXA1NFBRdmhhTnVoY2tGdnNvZWV5SnJLMlRicHRrOXkxTnRGdTJaaDVwcmhIYUhhOVk1N1J3LVhNREk?oc=5": {
     "title": "手機直接化身AI隨身秘書！東海大學曼谷開班，董思齊公使與台商同場實作- 新消息- Campus - 中時新聞網",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd3lsc3doWDVXclJfNGZ6aHZzeUZPcUkzR05sbG9tZVFyTmdNN3BfUkh2TjgtbV85bGhxbTVJNEVwOHBTMk1wMWxDSF9JcXA1NFBRdmhhTnVoY2tGdnNvZWV5SnJLMlRicHRrOXkxTnRGdTJaaDVwcmhIYUhhOVk1N1J3LVhNREk?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "大學",
     "source": "遠見雜誌"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5579401": {
-    "title": "成大辦AI影像創作營 全國近百青年思考如何觀看世界、轉化表達",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5579401",
-    "published": "2026-09-19 16:08",
-    "images": [],
-    "summary": "當AI幾秒鐘就能生成1張影像，攝影還剩下什麼？「光影未來：2026全國大專手機攝影與AI影像創作營」今（19）日在成功大學文學院登場，近百名來自全國各大專院校的青年齊聚成大，從...…",
-    "tags": "國立成功大學, 大專",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "當AI幾秒鐘就能生成1張影像，攝影還剩下什麼？「光影未來：2026全國大專手機攝影與AI影像創作營」今（19）日在成功大學文學院登場，近百名來自全國各大專院校的青年齊聚成大，從...…",
-    "cn_title": "成大辦AI影像創作營 全國近百青年思考如何觀看世界、轉化表達",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "國立成功大學, 大專",
-    "source": "自由時報"
   }
 }
