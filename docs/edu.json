@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5595428": {
+    "title": "女學生爆醫學系男師騷擾  陽明交大：涉案師停職已校安通報",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5595428",
+    "published": "2026-10-04 20:04",
+    "images": [],
+    "summary": "陽明交大傳出性平事件！醫學系1名男教師遭女學生指控騷擾。對此，校方表示，已將該師停職，並進行校安通報。 一名女網友近日在社群平台以「#IAmJaneDoe」貼文，指遭醫學...…",
+    "tags": "國立陽明交通大學",
+    "classes": "校園受社會關注事件",
+    "is_target": "True",
+    "cn_summary": "陽明交大傳出性平事件！醫學系1名男教師遭女學生指控騷擾。對此，校方表示，已將該師停職，並進行校安通報。 一名女網友近日在社群平台以「#IAmJaneDoe」貼文，指遭醫學...…",
+    "cn_title": "女學生爆醫學系男師騷擾  陽明交大：涉案師停職已校安通報",
+    "cn_classes": "校園受社會關注事件",
+    "cn_tags": "國立陽明交通大學",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5594855": {
     "title": "微笑單車進駐校園2-2》微笑單車進駐山坡地形起伏大校園 適用性熱議",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5594855",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "元智大學",
     "source": "UDN 文教"
-  },
-  "https://www.cna.com.tw/news/aloc/202609210233.aspx": {
-    "title": "中山醫大啟動台日照護創新合作  支持產業落地",
-    "link": "https://www.cna.com.tw/news/aloc/202609210233.aspx",
-    "published": "2026-09-21 17:54",
-    "images": [],
-    "summary": "（中央社記者趙麗妍台中21日電）因應高齡社會需求，中山醫學大學今天攜手業界簽署合作意願書，啟動台日照護科技創新合作，以「四能整合」和「五力」為核心，建立完整的照護科技產業支持體系。",
-    "tags": "中山醫學大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "（中央社記者趙麗妍台中21日電）因應高齡社會需求，中山醫學大學今天攜手業界簽署合作意願書，啟動台日照護科技創新合作，以「四能整合」和「五力」為核心，建立完整的照護科技產業支持體系。",
-    "cn_title": "中山醫大啟動台日照護創新合作  支持產業落地",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "中山醫學大學",
-    "source": "中央社"
   }
 }
