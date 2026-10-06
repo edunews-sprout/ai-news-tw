@@ -29,6 +29,21 @@
     "cn_tags": "大同",
     "source": "自由時報"
   },
+  "https://www.cna.com.tw/news/ahel/202610060219.aspx": {
+    "title": "政治大學迎接百年　親善大使旗袍改西式制服",
+    "link": "https://www.cna.com.tw/news/ahel/202610060219.aspx",
+    "published": "2026-10-06 16:54",
+    "images": [],
+    "summary": "（中央社記者陳至中台北6日電）政治大學即將迎來創校百年，親善大使「引水人」今天公布新制服，一改過去的旗袍，改為深藍與米白配色的西式制服，並選用回收寶特瓶再製纖維布料，將永續理念融入設計。",
+    "tags": "國立政治大學",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "（中央社記者陳至中台北6日電）政治大學即將迎來創校百年，親善大使「引水人」今天公布新制服，一改過去的旗袍，改為深藍與米白配色的西式制服，並選用回收寶特瓶再製纖維布料，將永續理念融入設計。",
+    "cn_title": "政治大學迎接百年　親善大使旗袍改西式制服",
+    "cn_classes": "其他",
+    "cn_tags": "國立政治大學",
+    "source": "中央社"
+  },
   "https://news.ltn.com.tw/news/society/breakingnews/5597235": {
     "title": "崇右科大修樹釀意外  樹幹倒塌砸中民宅",
     "link": "https://news.ltn.com.tw/news/society/breakingnews/5597235",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學生事務與生活",
     "cn_tags": "大學生",
     "source": "中央社"
-  },
-  "https://ec.ltn.com.tw/article/breakingnews/5584052": {
-    "title": "AI浪潮重塑企業競爭力 高雄國際研討會聚焦轉型契機",
-    "link": "https://ec.ltn.com.tw/article/breakingnews/5584052",
-    "published": "2026-09-23 19:15",
-    "images": [],
-    "summary": "比利時列日大學與香港新華衛管理學院帶領世界台商迎向AI新浪潮，適逢今年世界台灣商會聯合總會活動在高雄舉行，院方也選在高雄林皇宮酒店舉辦第30屆國際學術研討會，活動以「AI...…",
-    "tags": "大學, 學術",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "比利時列日大學與香港新華衛管理學院帶領世界台商迎向AI新浪潮，適逢今年世界台灣商會聯合總會活動在高雄舉行，院方也選在高雄林皇宮酒店舉辦第30屆國際學術研討會，活動以「AI...…",
-    "cn_title": "AI浪潮重塑企業競爭力 高雄國際研討會聚焦轉型契機",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "大學, 學術",
-    "source": "自由時報"
   }
 }
