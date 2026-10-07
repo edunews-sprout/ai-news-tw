@@ -1,4 +1,34 @@
 {
+  "https://udn.com/news/story/6885/9800339": {
+    "title": "從「來台求學」到「留台發展」 僑委會：僑生留台意願逐年提高",
+    "link": "https://udn.com/news/story/6885/9800339",
+    "published": "2026-10-07 13:47",
+    "images": [],
+    "summary": "隨著台灣產業國際化及企業海外布局持續發展，具備多語能力、跨文化溝通能力及專業技能的僑生，逐漸成為企業延攬國際人才的重要來源。僑委會今天指出，相關部會近年攜手挹注資源，辦理就業輔導活動，並放寬僑生留台就業規定，今(115)年《外國專業人才延攬及僱用法》修正實施，更放寬應屆畢業僑生於覓職期間可以自由工作，最長可達2年。第一線僑生輔導師長高度肯定新法修正帶來的實質助益，校園培育數據更具體呈現了留才成效。",
+    "tags": "文化",
+    "classes": "校園受社會關注事件",
+    "is_target": "True",
+    "cn_summary": "隨著台灣產業國際化及企業海外布局持續發展，具備多語能力、跨文化溝通能力及專業技能的僑生，逐漸成為企業延攬國際人才的重要來源。僑委會今天指出，相關部會近年攜手挹注資源，辦理就業輔導活動，並放寬僑生留台就業規定，今(115)年《外國專業人才延攬及僱用法》修正實施，更放寬應屆畢業僑生於覓職期間可以自由工作，最長可達2年。第一線僑生輔導師長高度肯定新法修正帶來的實質助益，校園培育數據更具體呈現了留才成效。",
+    "cn_title": "從「來台求學」到「留台發展」 僑委會：僑生留台意願逐年提高",
+    "cn_classes": "校園受社會關注事件",
+    "cn_tags": "文化",
+    "source": "UDN 文教"
+  },
+  "https://udn.com/news/story/6928/9800331": {
+    "title": "台東大學校長鄭憲宗宣布不續任 任期還有1年多將做好交接",
+    "link": "https://udn.com/news/story/6928/9800331",
+    "published": "2026-10-07 13:41",
+    "images": [],
+    "summary": "國立台東大學校長鄭憲宗接受教育部徵詢續任意願時，正式表明現任校長任期於117年1月31日屆滿後，將不再續任。距離任期結束還有1年多，鄭憲宗表示，卸任前仍會持續推動校務，完成重要建設及交接準備。",
+    "tags": "國立臺東大學",
+    "classes": "校務治理與管理",
+    "is_target": "True",
+    "cn_summary": "國立台東大學校長鄭憲宗接受教育部徵詢續任意願時，正式表明現任校長任期於117年1月31日屆滿後，將不再續任。距離任期結束還有1年多，鄭憲宗表示，卸任前仍會持續推動校務，完成重要建設及交接準備。",
+    "cn_title": "台東大學校長鄭憲宗宣布不續任 任期還有1年多將做好交接",
+    "cn_classes": "校務治理與管理",
+    "cn_tags": "國立臺東大學",
+    "source": "UDN 文教"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5598302": {
     "title": "99所大學已設永續長 環境部攜手教育部加速淨零新引擎",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5598302",
@@ -208,6 +238,21 @@
     "cn_classes": "政策與法規",
     "cn_tags": "淡江大學, 大學生",
     "source": "中央社"
+  },
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83OVFsanNXQXBsTlhYYnZQWXBIQmgxdEF0UmpkanRRQVp2WTE3ckdzREFzMVVldDU1VnFBNmRNVmJoMVpDQnN3M1JRN19uUQ?oc=5": {
+    "title": "世界綠色大學評比是什麼？2026台灣前三名：屏科大、暨大、大葉 - 遠見雜誌",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83OVFsanNXQXBsTlhYYnZQWXBIQmgxdEF0UmpkanRRQVp2WTE3ckdzREFzMVVldDU1VnFBNmRNVmJoMVpDQnN3M1JRN19uUQ?oc=5",
+    "published": "2026-10-06 18:35",
+    "images": [],
+    "summary": "世界綠色大學評比是什麼？2026台灣前三名：屏科大、暨大、大葉&nbsp;&nbsp;遠見雜誌",
+    "tags": "國立屏東科技大學, 大學, 國立暨南國際大學, 大葉",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "世界綠色大學評比是什麼？2026台灣前三名：屏科大、暨大、大葉&nbsp;&nbsp;遠見雜誌",
+    "cn_title": "世界綠色大學評比是什麼？2026台灣前三名：屏科大、暨大、大葉 - 遠見雜誌",
+    "cn_classes": "其他",
+    "cn_tags": "國立屏東科技大學, 大學, 國立暨南國際大學, 大葉",
+    "source": "遠見雜誌"
   },
   "https://udn.com/news/story/6928/9798465": {
     "title": "學生點菜、業界解題 政大攜凱基投信開設現代金融實務課程",
@@ -3552,51 +3597,6 @@
     "cn_title": "自由開講》「兩制台灣方案」背後的國家安全治理藍圖",
     "cn_classes": "學術研究與創新",
     "cn_tags": "大學, 實踐",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5584715": {
-    "title": "老師不再單打獨鬥 教育部投12億增國中校安人力至2000人",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5584715",
-    "published": "2026-09-24 12:24",
-    "images": [],
-    "summary": "國中老師面對學生衝突、情緒或行為失控，不必再單打獨鬥。教育部今（24）日說明，自今（2026）年10月起推動為期3年的「校園安全韌性2000－充實國民中學校安人力計畫」，每年投...…",
-    "tags": "",
-    "classes": "校園受社會關注事件",
-    "is_target": "True",
-    "cn_summary": "國中老師面對學生衝突、情緒或行為失控，不必再單打獨鬥。教育部今（24）日說明，自今（2026）年10月起推動為期3年的「校園安全韌性2000－充實國民中學校安人力計畫」，每年投...…",
-    "cn_title": "老師不再單打獨鬥 教育部投12億增國中校安人力至2000人",
-    "cn_classes": "校園受社會關注事件",
-    "cn_tags": "",
-    "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wWEZEU2xRX0p2S2ZtUWx1UHZyR2h4eWhIcV9rZVdRQ1RWTDFDTTB0WFlQSE8xLTJmU3RvS3NBczR0WlVzVlR6VFBQX2NKYXJSTlQwbkF2YWZ2dFZsMGfSAUtBVV95cUxQck9VODdNMHE4X1ppbmREVHFqRjNBbS1NdE1oRFh3UGVDcWR6aXFTVDh2OEJ0R2pOVWlQYlk3dnlmWUhYdzc2dGpueEk?oc=5": {
-    "title": "誰是雷隊友？九把刀「同組論」評北市　教授提大學經驗：市民要互評 - ETtoday新聞雲",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wWEZEU2xRX0p2S2ZtUWx1UHZyR2h4eWhIcV9rZVdRQ1RWTDFDTTB0WFlQSE8xLTJmU3RvS3NBczR0WlVzVlR6VFBQX2NKYXJSTlQwbkF2YWZ2dFZsMGfSAUtBVV95cUxQck9VODdNMHE4X1ppbmREVHFqRjNBbS1NdE1oRFh3UGVDcWR6aXFTVDh2OEJ0R2pOVWlQYlk3dnlmWUhYdzc2dGpueEk?oc=5",
-    "published": "2026-09-24 12:20",
-    "images": [],
-    "summary": "誰是雷隊友？九把刀「同組論」評北市 教授提大學經驗：市民要互評&nbsp;&nbsp;ETtoday新聞雲",
-    "tags": "大學, 教授",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "誰是雷隊友？九把刀「同組論」評北市 教授提大學經驗：市民要互評&nbsp;&nbsp;ETtoday新聞雲",
-    "cn_title": "誰是雷隊友？九把刀「同組論」評北市　教授提大學經驗：市民要互評 - ETtoday新聞雲",
-    "cn_classes": "其他",
-    "cn_tags": "大學, 教授",
-    "source": "ETtoday"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5584684": {
-    "title": "中研院士連署籲高為元引退 梁賡義：最不能接受拿「東西文化不同」解釋",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5584684",
-    "published": "2026-09-24 12:10",
-    "images": [],
-    "summary": "本報獨家揭露國立清華大學校長高為元第二任續任後赴美參加其他大學校長遴選，引發爭議，曾任清大校長遴選委員會召集人的中研院院士梁賡義等14名學界及產業人士連署，呼籲高為元引退。梁賡...…",
-    "tags": "國立清華大學, 學界, 文化",
-    "classes": "校務治理與管理",
-    "is_target": "True",
-    "cn_summary": "本報獨家揭露國立清華大學校長高為元第二任續任後赴美參加其他大學校長遴選，引發爭議，曾任清大校長遴選委員會召集人的中研院院士梁賡義等14名學界及產業人士連署，呼籲高為元引退。梁賡...…",
-    "cn_title": "中研院士連署籲高為元引退 梁賡義：最不能接受拿「東西文化不同」解釋",
-    "cn_classes": "校務治理與管理",
-    "cn_tags": "國立清華大學, 學界, 文化",
     "source": "自由時報"
   }
 }
