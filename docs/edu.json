@@ -14,6 +14,21 @@
     "cn_tags": "",
     "source": "自由時報"
   },
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pcHlnT3kxR1J6R0ZkeVJQdDRkeHhiVk5KdF9oMDVjLU9CRUhCZFdBVW5Vdi1pR2VyRkhGR3BiUkxLX0p1eXNOUFEzVUp4Zw?oc=5": {
+    "title": "台灣人壽、中國信託產險攜手淡江大學 培育永續保險人才 | 唐可欣 | 品味生活 - Storm.mg",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pcHlnT3kxR1J6R0ZkeVJQdDRkeHhiVk5KdF9oMDVjLU9CRUhCZFdBVW5Vdi1pR2VyRkhGR3BiUkxLX0p1eXNOUFEzVUp4Zw?oc=5",
+    "published": "2026-10-07 18:39",
+    "images": [],
+    "summary": "台灣人壽、中國信託產險攜手淡江大學 培育永續保險人才 | 唐可欣 | 品味生活&nbsp;&nbsp;Storm.mg",
+    "tags": "淡江大學",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "台灣人壽、中國信託產險攜手淡江大學 培育永續保險人才 | 唐可欣 | 品味生活&nbsp;&nbsp;Storm.mg",
+    "cn_title": "台灣人壽、中國信託產險攜手淡江大學 培育永續保險人才 | 唐可欣 | 品味生活 - Storm.mg",
+    "cn_classes": "其他",
+    "cn_tags": "淡江大學",
+    "source": "風傳媒"
+  },
   "https://www.cna.com.tw/news/ahel/202610070295.aspx": {
     "title": "教育部文藝創作獎　AI題材黑色幽默劇本獲特優",
     "link": "https://www.cna.com.tw/news/ahel/202610070295.aspx",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學生事務與生活",
     "cn_tags": "大學, 教授",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5585083": {
-    "title": "教育部公費留考388人報考  5大信賴產業另採書審",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5585083",
-    "published": "2026-09-24 16:19",
-    "images": [],
-    "summary": "教育部今（2026）年公費留學考試將於10月3日在台大舉行筆試，今年共有388人報考；考試分為不含五大信賴產業及五大信賴產業學門2類，前者採先筆試後面試，後者則採先書面審查後面...…",
-    "tags": "國立臺灣大學",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "教育部今（2026）年公費留學考試將於10月3日在台大舉行筆試，今年共有388人報考；考試分為不含五大信賴產業及五大信賴產業學門2類，前者採先筆試後面試，後者則採先書面審查後面...…",
-    "cn_title": "教育部公費留考388人報考  5大信賴產業另採書審",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "國立臺灣大學",
-    "source": "自由時報"
   }
 }
