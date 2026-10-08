@@ -1,4 +1,34 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5600063": {
+    "title": "中研院攜手史丹佛大學 推動台美檔案史料共享",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5600063",
+    "published": "2026-10-08 17:07",
+    "images": [],
+    "summary": "中央研究院近代史研究所今（8日）與美國史丹佛大學胡佛研究所圖書檔案館簽署合作備忘錄，雙方將推動檔案史料共享、學術研究及研究人員互訪，未來更希望將部分檔案複製存放於對方館藏，降低...…",
+    "tags": "學術研究, 研究所, 大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "中央研究院近代史研究所今（8日）與美國史丹佛大學胡佛研究所圖書檔案館簽署合作備忘錄，雙方將推動檔案史料共享、學術研究及研究人員互訪，未來更希望將部分檔案複製存放於對方館藏，降低...…",
+    "cn_title": "中研院攜手史丹佛大學 推動台美檔案史料共享",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "學術研究, 研究所, 大學",
+    "source": "自由時報"
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5600040": {
+    "title": "台灣、瑞典深化醫護教育合作 規劃研究生交換與異地實習",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5600040",
+    "published": "2026-10-08 16:59",
+    "images": [],
+    "summary": "台灣與瑞典醫護教育合作有新進展。瑞典索菲亞護理大學與長庚大學展開線上交流，規劃今年研究生交換及教師互訪，未來也期待推動異地實習。 瑞典索菲亞赫姆醫療基金會執行長歐黛蜜（J...…",
+    "tags": "長庚大學, 研究生",
+    "classes": "國際交流與合作",
+    "is_target": "True",
+    "cn_summary": "台灣與瑞典醫護教育合作有新進展。瑞典索菲亞護理大學與長庚大學展開線上交流，規劃今年研究生交換及教師互訪，未來也期待推動異地實習。 瑞典索菲亞赫姆醫療基金會執行長歐黛蜜（J...…",
+    "cn_title": "台灣、瑞典深化醫護教育合作 規劃研究生交換與異地實習",
+    "cn_classes": "國際交流與合作",
+    "cn_tags": "長庚大學, 研究生",
+    "source": "自由時報"
+  },
   "https://ec.ltn.com.tw/article/breakingnews/5599872": {
     "title": "迎南亞科進駐！屏科大明年設立半導體封裝學程  招收40人",
     "link": "https://ec.ltn.com.tw/article/breakingnews/5599872",
@@ -13,6 +43,21 @@
     "cn_classes": "產學合作",
     "cn_tags": "科技大學, 國立屏東科技大學",
     "source": "自由時報"
+  },
+  "https://www.cna.com.tw/news/aloc/202610080201.aspx": {
+    "title": "屏東高科技產學對接  周春米：將設半導體學程",
+    "link": "https://www.cna.com.tw/news/aloc/202610080201.aspx",
+    "published": "2026-10-08 15:32",
+    "images": [],
+    "summary": "（中央社記者李卉婷屏東縣8日電）台積電率供應鏈及南亞科相繼落腳屏東科學園區，屏東縣議員許馨勻今天在總質詢關切人才培育。屏東縣長周春米表示，屏東科技大學將設立「半導體封裝學士學位學程」，116學年度招生。",
+    "tags": "科技大學, 學士, 學位",
+    "classes": "產學合作",
+    "is_target": "True",
+    "cn_summary": "（中央社記者李卉婷屏東縣8日電）台積電率供應鏈及南亞科相繼落腳屏東科學園區，屏東縣議員許馨勻今天在總質詢關切人才培育。屏東縣長周春米表示，屏東科技大學將設立「半導體封裝學士學位學程」，116學年度招生。",
+    "cn_title": "屏東高科技產學對接  周春米：將設半導體學程",
+    "cn_classes": "產學合作",
+    "cn_tags": "科技大學, 學士, 學位",
+    "source": "中央社"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5599828": {
     "title": "不是只有微笑！她連16年傳授「國慶禮賓學」 新航、華航經驗全用上",
@@ -3553,50 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/art/breakingnews/5586429": {
-    "title": "探索台灣科技藝術的未來藍圖   6組共創成果與國際論壇10月15日登場",
-    "link": "https://news.ltn.com.tw/news/art/breakingnews/5586429",
-    "published": "2026-09-25 23:40",
-    "images": [],
-    "summary": "由文化部主辦的「2026科藝未來沙龍（Future Art &amp; Technology Salon）」，將於10月15日在國立中正紀念堂演藝廳登場。集結產業、學術、藝文界等...…",
-    "tags": "學術, 國立中正大學, 文化",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "由文化部主辦的「2026科藝未來沙龍（Future Art &amp; Technology Salon）」，將於10月15日在國立中正紀念堂演藝廳登場。集結產業、學術、藝文界等...…",
-    "cn_title": "探索台灣科技藝術的未來藍圖   6組共創成果與國際論壇10月15日登場",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "學術, 國立中正大學, 文化",
-    "source": "自由時報"
-  },
-  "https://udn.com/news/story/6928/9777581": {
-    "title": "2026世界綠色大學排名公布 大葉大學中秋節喜獲佳音",
-    "link": "https://udn.com/news/story/6928/9777581",
-    "published": "2026-09-25 14:29",
-    "images": [],
-    "summary": "彰化縣大葉大學依山而建，校園綠意盎然，近年呼應聯合國推動「SDGs校園實踐場域」，將校園環境轉化為永續教育的實作場域，相關成果獲肯定，今中秋節迎來佳音，大葉大學在2026年「UI GreenMetric世界綠色大學排名榮獲全球第四十名，且名列全台私立大學第一。",
-    "tags": "私立大學, 大葉大學, 實踐",
-    "classes": "校務治理與管理",
-    "is_target": "True",
-    "cn_summary": "彰化縣大葉大學依山而建，校園綠意盎然，近年呼應聯合國推動「SDGs校園實踐場域」，將校園環境轉化為永續教育的實作場域，相關成果獲肯定，今中秋節迎來佳音，大葉大學在2026年「UI GreenMetric世界綠色大學排名榮獲全球第四十名，且名列全台私立大學第一。",
-    "cn_title": "2026世界綠色大學排名公布 大葉大學中秋節喜獲佳音",
-    "cn_classes": "校務治理與管理",
-    "cn_tags": "私立大學, 大葉大學, 實踐",
-    "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5585981": {
-    "title": "北科大學生CTF攻防奪冠 獲邀與副總統蕭美琴座談",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5585981",
-    "published": "2026-09-25 14:12",
-    "images": [],
-    "summary": "國科會舉辦第6屆「GiCS科技女婕思」競賽，全國4371名學生競逐桂冠，國立台北科技大學「我們也要打ctf嗎」學生團隊，拿下「資安闖天關」大專校院組全國第1名。獲獎學生近日受邀...…",
-    "tags": "科技大學, 大學生, 國立臺北科技大學, 大專",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "國科會舉辦第6屆「GiCS科技女婕思」競賽，全國4371名學生競逐桂冠，國立台北科技大學「我們也要打ctf嗎」學生團隊，拿下「資安闖天關」大專校院組全國第1名。獲獎學生近日受邀...…",
-    "cn_title": "北科大學生CTF攻防奪冠 獲邀與副總統蕭美琴座談",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "科技大學, 大學生, 國立臺北科技大學, 大專",
-    "source": "自由時報"
   }
 }
