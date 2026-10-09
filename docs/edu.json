@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5600671": {
+    "title": "陽明交大教師涉性平 校方：不排除為去年已處置舊案",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5600671",
+    "published": "2026-10-09 12:49",
+    "images": [],
+    "summary": "陽明交通大學醫學系一名男教師傳出涉及性平事件，校方今天表示，不排除網路指控為去年的個案，性平會已完成調查並做出必要處置。 陽明交大一名女學生近期在社群平台Threads上以#IAmJa...…",
+    "tags": "國立陽明交通大學, 大一",
+    "classes": "校園受社會關注事件",
+    "is_target": "True",
+    "cn_summary": "陽明交通大學醫學系一名男教師傳出涉及性平事件，校方今天表示，不排除網路指控為去年的個案，性平會已完成調查並做出必要處置。 陽明交大一名女學生近期在社群平台Threads上以#IAmJa...…",
+    "cn_title": "陽明交大教師涉性平 校方：不排除為去年已處置舊案",
+    "cn_classes": "校園受社會關注事件",
+    "cn_tags": "國立陽明交通大學, 大一",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcmRocEhEbHdyLVNFdVh6bUNqUWxsY29aQ3B1Yjd3djNZZkw0VTNKdHg5cEpuYXNMNmljaU1EM1pFMU5oMDU1cnVRVEVsUkNCTHhGSHE0OE0tcXFKR2l1ZWZXSjVlbGxabzk0eFJNWVpQR1RYR3FGb3luMk5xWDFoU3VIWGY0MWlVTGV1R1NCc0J3NU52TUk0VVZsTGtaZjFQdzdoWEo3NDY0SGM?oc=5": {
     "title": "陸軍司令呂坤修親赴明新科大開講青年多元職涯與軍旅現代化轉型- 新消息- Campus - 中時新聞網",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcmRocEhEbHdyLVNFdVh6bUNqUWxsY29aQ3B1Yjd3djNZZkw0VTNKdHg5cEpuYXNMNmljaU1EM1pFMU5oMDU1cnVRVEVsUkNCTHhGSHE0OE0tcXFKR2l1ZWZXSjVlbGxabzk0eFJNWVpQR1RYR3FGb3luMk5xWDFoU3VIWGY0MWlVTGV1R1NCc0J3NU52TUk0VVZsTGtaZjFQdzdoWEo3NDY0SGM?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "教學與課程",
     "cn_tags": "學術",
     "source": "自由時報"
-  },
-  "https://udn.com/news/story/6928/9780060": {
-    "title": "棄台積電高薪回母校執教…交大教授親回「為何離職」 網讚：真正的好老師",
-    "link": "https://udn.com/news/story/6928/9780060",
-    "published": "2026-09-27 15:01",
-    "images": [],
-    "summary": "台積電（TSMC）優渥的分紅與薪資待遇，向來是理工頂尖人才趨之若鶩的夢幻首選，但為何有人願意在晉升關鍵期毅然放棄高薪，重返校園執教？現任陽明交通大學助理教授李宗恩親自撰寫長文回應，直言「錢最好的功能是增加選擇，而不是定義一個人的價值」，動人字句迅速在網路上引發轟動。",
-    "tags": "國立陽明交通大學, 教授",
-    "classes": "產學合作",
-    "is_target": "True",
-    "cn_summary": "台積電（TSMC）優渥的分紅與薪資待遇，向來是理工頂尖人才趨之若鶩的夢幻首選，但為何有人願意在晉升關鍵期毅然放棄高薪，重返校園執教？現任陽明交通大學助理教授李宗恩親自撰寫長文回應，直言「錢最好的功能是增加選擇，而不是定義一個人的價值」，動人字句迅速在網路上引發轟動。",
-    "cn_title": "棄台積電高薪回母校執教…交大教授親回「為何離職」 網讚：真正的好老師",
-    "cn_classes": "產學合作",
-    "cn_tags": "國立陽明交通大學, 教授",
-    "source": "UDN 文教"
   }
 }
