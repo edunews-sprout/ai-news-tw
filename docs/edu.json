@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/politics/breakingnews/5600890": {
+    "title": "蔡英文在美演說談領導力：有時「無聊」反而有用",
+    "link": "https://news.ltn.com.tw/news/politics/breakingnews/5600890",
+    "published": "2026-10-09 14:35",
+    "images": [],
+    "summary": "赴美訪問的前總統蔡英文，台灣時間今出席史丹佛大學胡佛研究所舉辦的論壇。蔡英文說，台灣能夠提供的，不只有半導體和科技。跟台灣合作，不只是在幫助台灣。也是在一起強化一個更廣泛的和平...…",
+    "tags": "研究所, 大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "赴美訪問的前總統蔡英文，台灣時間今出席史丹佛大學胡佛研究所舉辦的論壇。蔡英文說，台灣能夠提供的，不只有半導體和科技。跟台灣合作，不只是在幫助台灣。也是在一起強化一個更廣泛的和平...…",
+    "cn_title": "蔡英文在美演說談領導力：有時「無聊」反而有用",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "研究所, 大學",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5600671": {
     "title": "陽明交大教師涉性平 校方：不排除為去年已處置舊案",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5600671",
@@ -3583,20 +3598,5 @@
     "cn_classes": "校園受社會關注事件",
     "cn_tags": "",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5587658": {
-    "title": "外籍英語教學助理深入偏鄉 多元任務體驗讓英語走入生活",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5587658",
-    "published": "2026-09-27 15:11",
-    "images": [],
-    "summary": "為讓偏鄉學生也能享有多元的英語學習與國際交流機會，教育部與學術交流基金會合作，推動「美籍英語教學人員獎學金計畫」（ETF計畫），引進美籍英語教學助理進入校園，結合英語教學、課後...…",
-    "tags": "學術",
-    "classes": "教學與課程",
-    "is_target": "True",
-    "cn_summary": "為讓偏鄉學生也能享有多元的英語學習與國際交流機會，教育部與學術交流基金會合作，推動「美籍英語教學人員獎學金計畫」（ETF計畫），引進美籍英語教學助理進入校園，結合英語教學、課後...…",
-    "cn_title": "外籍英語教學助理深入偏鄉 多元任務體驗讓英語走入生活",
-    "cn_classes": "教學與課程",
-    "cn_tags": "學術",
-    "source": "自由時報"
   }
 }
