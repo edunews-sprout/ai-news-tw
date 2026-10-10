@@ -1,4 +1,34 @@
 {
+  "https://www.cna.com.tw/news/ahel/202610100142.aspx": {
+    "title": "9大專參與國慶禮賓服務　教育部頒發感謝狀",
+    "link": "https://www.cna.com.tw/news/ahel/202610100142.aspx",
+    "published": "2026-10-10 16:34",
+    "images": [],
+    "summary": "（中央社記者陳至中台北10日電）今天國慶大會上，有9所大專學生提供禮賓服務，並有國中小團隊參與表演活動，教育部長鄭英耀於典禮結束後，與各校師生合影並頒發感謝狀，肯定學子在國家典禮上展現課堂所學。",
+    "tags": "大專",
+    "classes": "在地連結與社會責任（USR）",
+    "is_target": "True",
+    "cn_summary": "（中央社記者陳至中台北10日電）今天國慶大會上，有9所大專學生提供禮賓服務，並有國中小團隊參與表演活動，教育部長鄭英耀於典禮結束後，與各校師生合影並頒發感謝狀，肯定學子在國家典禮上展現課堂所學。",
+    "cn_title": "9大專參與國慶禮賓服務　教育部頒發感謝狀",
+    "cn_classes": "在地連結與社會責任（USR）",
+    "cn_tags": "大專",
+    "source": "中央社"
+  },
+  "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBab0FQc2RZZGhuUHVpNlZPMHpoUnYwNHJfT0JsZ3BDOWVSazhCS2VsMS1EeHdMdjJWUTMzODlMYmNzYzNMX1J1RGVxbFZ6ZFgyWkJKWA?oc=5": {
+    "title": "從開課門檻到系辦整併：世新爭議引爆「舍我學運」，捅破《大學法》治理漏洞 - TNL The News Lens 關鍵評論網",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBab0FQc2RZZGhuUHVpNlZPMHpoUnYwNHJfT0JsZ3BDOWVSazhCS2VsMS1EeHdMdjJWUTMzODlMYmNzYzNMX1J1RGVxbFZ6ZFgyWkJKWA?oc=5",
+    "published": "2026-10-10 07:55",
+    "images": [],
+    "summary": "從開課門檻到系辦整併：世新爭議引爆「舍我學運」，捅破《大學法》治理漏洞&nbsp;&nbsp;TNL The News Lens 關鍵評論網",
+    "tags": "大學, 世新",
+    "classes": "校務治理與管理",
+    "is_target": "True",
+    "cn_summary": "從開課門檻到系辦整併：世新爭議引爆「舍我學運」，捅破《大學法》治理漏洞&nbsp;&nbsp;TNL The News Lens 關鍵評論網",
+    "cn_title": "從開課門檻到系辦整併：世新爭議引爆「舍我學運」，捅破《大學法》治理漏洞 - TNL The News Lens 關鍵評論網",
+    "cn_classes": "校務治理與管理",
+    "cn_tags": "大學, 世新",
+    "source": "關鍵評論網"
+  },
   "https://news.ltn.com.tw/news/politics/paper/1773901": {
     "title": "胡佛研究所演說 蔡：與台灣合作 不只是在幫台灣",
     "link": "https://news.ltn.com.tw/news/politics/paper/1773901",
@@ -313,6 +343,21 @@
     "cn_classes": "其他",
     "cn_tags": "大學",
     "source": "中央社"
+  },
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMjY4NGpTUzAxR1B1Yy1MbUtOY1ZKTmsyelVfZGo3bGg2TlhWNGZ2TEtIOGExR09FN0ZNd09jb3JHSDZ5SEJIRkpZWUpISzR6eWJwcWkycS10cm51YnVGTENwb0ZwTmNKSTI4dERpd2xRSmpmSWRyS1RhVE5zUldKdEtKNWxKeUQxWnYySldJOERTQmozdnc?oc=5": {
+    "title": "大學二階面試 如何把關學生口說能力？ - 遠見雜誌",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMjY4NGpTUzAxR1B1Yy1MbUtOY1ZKTmsyelVfZGo3bGg2TlhWNGZ2TEtIOGExR09FN0ZNd09jb3JHSDZ5SEJIRkpZWUpISzR6eWJwcWkycS10cm51YnVGTENwb0ZwTmNKSTI4dERpd2xRSmpmSWRyS1RhVE5zUldKdEtKNWxKeUQxWnYySldJOERTQmozdnc?oc=5",
+    "published": "2026-10-08 19:18",
+    "images": [],
+    "summary": "大學二階面試 如何把關學生口說能力？&nbsp;&nbsp;遠見雜誌",
+    "tags": "大學",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "大學二階面試 如何把關學生口說能力？&nbsp;&nbsp;遠見雜誌",
+    "cn_title": "大學二階面試 如何把關學生口說能力？ - 遠見雜誌",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "大學",
+    "source": "遠見雜誌"
   },
   "https://udn.com/news/story/6928/9803610": {
     "title": "學生團體指世新大學追查連署名單 校方駁與事實不符",
@@ -3553,50 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "東海大學, 國立臺北科技大學, 高教, 大專",
     "source": "自由時報"
-  },
-  "https://udn.com/news/story/6928/9781697": {
-    "title": "培育10年後護國神山人才 台師大籲中學數理教育超前部署",
-    "link": "https://udn.com/news/story/6928/9781697",
-    "published": "2026-09-28 19:04",
-    "images": [],
-    "summary": "台灣談科技競爭力，但企業10年後能否持續找到足夠的工程師，台師大在教師節提出倡議，科技人才並非進入大學或企業才開始形成，...",
-    "tags": "大學, 國立臺灣師範大學",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "台灣談科技競爭力，但企業10年後能否持續找到足夠的工程師，台師大在教師節提出倡議，科技人才並非進入大學或企業才開始形成，...",
-    "cn_title": "培育10年後護國神山人才 台師大籲中學數理教育超前部署",
-    "cn_classes": "其他",
-    "cn_tags": "大學, 國立臺灣師範大學",
-    "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5588669": {
-    "title": "高科大辦感恩健走 1500人向教師致敬",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5588669",
-    "published": "2026-09-28 18:30",
-    "images": [],
-    "summary": "今天是九二八教師節，國立高雄科技大學感謝師長們長年投入教育、陪伴學生成長，今天一起和校友總會在澄清湖風景區活動大草原，舉辦「115年教師節感恩千人健走活動」，吸引校內師長、行政...…",
-    "tags": "國立高雄科技大學",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "今天是九二八教師節，國立高雄科技大學感謝師長們長年投入教育、陪伴學生成長，今天一起和校友總會在澄清湖風景區活動大草原，舉辦「115年教師節感恩千人健走活動」，吸引校內師長、行政...…",
-    "cn_title": "高科大辦感恩健走 1500人向教師致敬",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "國立高雄科技大學",
-    "source": "自由時報"
-  },
-  "https://udn.com/news/story/6929/9781710": {
-    "title": "國立二林工商3校友進軍國際技能競賽「全壘打」 揚名海外",
-    "link": "https://udn.com/news/story/6929/9781710",
-    "published": "2026-09-28 18:03",
-    "images": [],
-    "summary": "第四十八屆國際技能競賽昨（9月27日）在上海圓滿落幕，國立二林工商3名就讀雲林科技大學的校友擔任國手，分獲展示設計職類銅牌、漆作裝潢職和砌磚職類的優勝，為二林工商在國際賽事締造「全壘打」佳績，肯定地方技能教育的耕耘用心。",
-    "tags": "國立雲林科技大學",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "第四十八屆國際技能競賽昨（9月27日）在上海圓滿落幕，國立二林工商3名就讀雲林科技大學的校友擔任國手，分獲展示設計職類銅牌、漆作裝潢職和砌磚職類的優勝，為二林工商在國際賽事締造「全壘打」佳績，肯定地方技能教育的耕耘用心。",
-    "cn_title": "國立二林工商3校友進軍國際技能競賽「全壘打」 揚名海外",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "國立雲林科技大學",
-    "source": "UDN 文教"
   }
 }
