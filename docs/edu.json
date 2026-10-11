@@ -1,4 +1,19 @@
 {
+  "https://sports.ltn.com.tw/news/breakingnews/5603017": {
+    "title": "U19籃球聯盟》松山「七六人」單日兩戰 乙組許民安收葉韋喬IG私訊嚇傻",
+    "link": "https://sports.ltn.com.tw/news/breakingnews/5603017",
+    "published": "2026-10-11 20:55",
+    "images": [],
+    "summary": "福康文教基金會主辦的U19籃球聯盟2026-27年賽季，11日U19第1組在台灣大學醫學院體育館進行，HBL（高中籃球聯賽）強權松山高中單日兩戰取得1勝1敗，對今天以高一...…",
+    "tags": "國立臺灣大學",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "福康文教基金會主辦的U19籃球聯盟2026-27年賽季，11日U19第1組在台灣大學醫學院體育館進行，HBL（高中籃球聯賽）強權松山高中單日兩戰取得1勝1敗，對今天以高一...…",
+    "cn_title": "U19籃球聯盟》松山「七六人」單日兩戰 乙組許民安收葉韋喬IG私訊嚇傻",
+    "cn_classes": "其他",
+    "cn_tags": "國立臺灣大學",
+    "source": "自由時報"
+  },
   "https://www.cna.com.tw/news/ahel/202610110126.aspx": {
     "title": "鳳梨全果變身生活好物　大葉大學推農業循環再生",
     "link": "https://www.cna.com.tw/news/ahel/202610110126.aspx",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "銘傳大學",
     "source": "UDN 文教"
-  },
-  "https://www.cna.com.tw/news/ahel/202609290098.aspx": {
-    "title": "銘傳大學參與國慶禮賓　新制服融合水滴領口與領結",
-    "link": "https://www.cna.com.tw/news/ahel/202609290098.aspx",
-    "published": "2026-09-29 12:12",
-    "images": [],
-    "summary": "（中央社記者陳至中台北29日電）雙十國慶即將到來，銘傳大學參與禮賓服務，今天展出新的制服設計，融合立領、水滴領口及精緻領結，在兼顧國家慶典正式感下，展現青年世代的朝氣。",
-    "tags": "銘傳大學",
-    "classes": "在地連結與社會責任（USR）",
-    "is_target": "True",
-    "cn_summary": "（中央社記者陳至中台北29日電）雙十國慶即將到來，銘傳大學參與禮賓服務，今天展出新的制服設計，融合立領、水滴領口及精緻領結，在兼顧國家慶典正式感下，展現青年世代的朝氣。",
-    "cn_title": "銘傳大學參與國慶禮賓　新制服融合水滴領口與領結",
-    "cn_classes": "在地連結與社會責任（USR）",
-    "cn_tags": "銘傳大學",
-    "source": "中央社"
   }
 }
