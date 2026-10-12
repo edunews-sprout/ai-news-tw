@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/politics/breakingnews/5603916": {
+    "title": "雙十後中共宣布軍演 陸委會譴責霸權心態：一再成為區域麻煩製造者",
+    "link": "https://news.ltn.com.tw/news/politics/breakingnews/5603916",
+    "published": "2026-10-12 18:48",
+    "images": [],
+    "summary": "陸委會副主委沈有忠今日出席東海大學陸研中心「2026總統國慶講話與兩岸新形勢」座談會致詞時表示，總統今年國慶講話，在兩岸與國際局勢的部分，強調台灣的堅持與自信，將持續深化自我防...…",
+    "tags": "東海大學",
+    "classes": "國際交流與合作",
+    "is_target": "True",
+    "cn_summary": "陸委會副主委沈有忠今日出席東海大學陸研中心「2026總統國慶講話與兩岸新形勢」座談會致詞時表示，總統今年國慶講話，在兩岸與國際局勢的部分，強調台灣的堅持與自信，將持續深化自我防...…",
+    "cn_title": "雙十後中共宣布軍演 陸委會譴責霸權心態：一再成為區域麻煩製造者",
+    "cn_classes": "國際交流與合作",
+    "cn_tags": "東海大學",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5603728": {
     "title": "科技大廠到屏東設廠要人才 議員促屏東大學增設理工學院",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5603728",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "大學",
     "source": "遠見雜誌"
-  },
-  "https://www.cna.com.tw/news/acn/202609290351.aspx": {
-    "title": "管中閔建議兩岸在東協合作  台灣扮演信任中介",
-    "link": "https://www.cna.com.tw/news/acn/202609290351.aspx",
-    "published": "2026-09-29 23:07",
-    "images": [],
-    "summary": "（中央社記者馮昭上海29日電）前國家發展委員會主委、前國立台灣大學校長管中閔今天在上海舉辦的兩岸論壇活動中建議，兩岸可以在東協合作，台灣扮演「信任中介」角色。",
-    "tags": "國立臺灣大學",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "（中央社記者馮昭上海29日電）前國家發展委員會主委、前國立台灣大學校長管中閔今天在上海舉辦的兩岸論壇活動中建議，兩岸可以在東協合作，台灣扮演「信任中介」角色。",
-    "cn_title": "管中閔建議兩岸在東協合作  台灣扮演信任中介",
-    "cn_classes": "其他",
-    "cn_tags": "國立臺灣大學",
-    "source": "中央社"
   }
 }
