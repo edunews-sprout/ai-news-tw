@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5603267": {
+    "title": "全固態電池剪破還能發亮！台科大研發新技術降低起火風險",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5603267",
+    "published": "2026-10-12 10:20",
+    "images": [],
+    "summary": "電池充飽電後，即使遭穿刺、剪破，竟然沒有明顯升溫，連接的LED燈泡還能持續發亮！國立台灣科技大學化工系講座教授黃炳照、助理教授黃貞睿團隊研發全固態鋰離子電池，在2026年Net...…",
+    "tags": "科技大學, 國立臺灣科技大學, 教授",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "電池充飽電後，即使遭穿刺、剪破，竟然沒有明顯升溫，連接的LED燈泡還能持續發亮！國立台灣科技大學化工系講座教授黃炳照、助理教授黃貞睿團隊研發全固態鋰離子電池，在2026年Net...…",
+    "cn_title": "全固態電池剪破還能發亮！台科大研發新技術降低起火風險",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "科技大學, 國立臺灣科技大學, 教授",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/paper/1774228": {
     "title": "國際青年學員訪嘉縣 智慧蜂場吸睛",
     "link": "https://news.ltn.com.tw/news/life/paper/1774228",
@@ -3583,20 +3598,5 @@
     "cn_classes": "教學與課程",
     "cn_tags": "技職, 國立臺灣大學",
     "source": "自由時報"
-  },
-  "https://www.cna.com.tw/news/ahel/202609290120.aspx": {
-    "title": "台大啟用離岸風電人才培育基地　打造準產線化環境",
-    "link": "https://www.cna.com.tw/news/ahel/202609290120.aspx",
-    "published": "2026-09-29 13:06",
-    "images": [],
-    "summary": "（中央社記者陳至中台北29日電）台灣大學、教育部今天共同啟用「離岸風電產業人才培育基地」，在台北、雲林2地建置風力機製造、運維訓練場域等，打造「準產線化」的教學環境。",
-    "tags": "國立臺灣大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "（中央社記者陳至中台北29日電）台灣大學、教育部今天共同啟用「離岸風電產業人才培育基地」，在台北、雲林2地建置風力機製造、運維訓練場域等，打造「準產線化」的教學環境。",
-    "cn_title": "台大啟用離岸風電人才培育基地　打造準產線化環境",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "國立臺灣大學",
-    "source": "中央社"
   }
 }
