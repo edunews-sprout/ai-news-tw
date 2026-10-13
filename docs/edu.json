@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5604991": {
+    "title": "高科大EMI課程助攻學生海外圓夢 強化跨文化溝通力",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5604991",
+    "published": "2026-10-13 17:38",
+    "images": [],
+    "summary": "國立高雄科技大學推動英語授課（English as a Medium of Instruction, EMI），透過專業課程、跨文化交流及校園英語學習資源，讓英語從學習科目轉化...…",
+    "tags": "國立高雄科技大學, 文化",
+    "classes": "教學與課程",
+    "is_target": "True",
+    "cn_summary": "國立高雄科技大學推動英語授課（English as a Medium of Instruction, EMI），透過專業課程、跨文化交流及校園英語學習資源，讓英語從學習科目轉化...…",
+    "cn_title": "高科大EMI課程助攻學生海外圓夢 強化跨文化溝通力",
+    "cn_classes": "教學與課程",
+    "cn_tags": "國立高雄科技大學, 文化",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5604823": {
     "title": "用AI提升市政成效！ 竹市10/19辦智慧論壇邀產學專家、青年交流",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5604823",
@@ -3582,21 +3597,6 @@
     "cn_title": "台灣首批國產自主水下載具亮相   打破技術仰賴國外困境",
     "cn_classes": "學術研究與創新",
     "cn_tags": "科技大學, 國立成功大學",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5590614": {
-    "title": "THE世界大學排名清大創5年來最佳 研究生產力與產業指標近滿分",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5590614",
-    "published": "2026-09-30 14:11",
-    "images": [],
-    "summary": "英國《泰晤士高等教育》（Times Higher Education，THE）今公布2027世界大學排名，清華大學全球排名升至351–375名，創5年來最佳，台灣排名第三。今年...…",
-    "tags": "高等教育, 國立清華大學, 研究生",
-    "classes": "校務治理與管理",
-    "is_target": "True",
-    "cn_summary": "英國《泰晤士高等教育》（Times Higher Education，THE）今公布2027世界大學排名，清華大學全球排名升至351–375名，創5年來最佳，台灣排名第三。今年...…",
-    "cn_title": "THE世界大學排名清大創5年來最佳 研究生產力與產業指標近滿分",
-    "cn_classes": "校務治理與管理",
-    "cn_tags": "高等教育, 國立清華大學, 研究生",
     "source": "自由時報"
   }
 }
