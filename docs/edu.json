@@ -29,6 +29,21 @@
     "cn_tags": "國立陽明交通大學, 教授",
     "source": "自由時報"
   },
+  "https://www.cna.com.tw/news/acn/202610130099.aspx": {
+    "title": "前中國工程院院士、中南大學校長張堯學受賄被起訴",
+    "link": "https://www.cna.com.tw/news/acn/202610130099.aspx",
+    "published": "2026-10-13 12:11",
+    "images": [],
+    "summary": "（中央社記者馮昭上海13日電）中國湖南省與軍工系統有密切關聯的中南大學和南華大學接連發生正副校長涉貪腐被調查。其中，前中國工程院院士、前中南大學校長張堯學受賄案，安徽省安慶市檢察院近日提起公訴。",
+    "tags": "南華大學",
+    "classes": "校園受社會關注事件",
+    "is_target": "True",
+    "cn_summary": "（中央社記者馮昭上海13日電）中國湖南省與軍工系統有密切關聯的中南大學和南華大學接連發生正副校長涉貪腐被調查。其中，前中國工程院院士、前中南大學校長張堯學受賄案，安徽省安慶市檢察院近日提起公訴。",
+    "cn_title": "前中國工程院院士、中南大學校長張堯學受賄被起訴",
+    "cn_classes": "校園受社會關注事件",
+    "cn_tags": "南華大學",
+    "source": "中央社"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5604440": {
     "title": "清華揭開腦傷神經修復雙重機制 異野漆樹苷促進修復、調控氧化壓力",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5604440",
@@ -3583,20 +3598,5 @@
     "cn_classes": "校務治理與管理",
     "cn_tags": "世新大學",
     "source": "UDN 文教"
-  },
-  "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvUllXN2NlbDI0d2Qwa0NOQlljZTVHRWppSEhOaktnNFM4WWlKRFpfN3FhOHZSNThxYlZESmFKZExVbExRRjZMLVp4NS1tdw?oc=5": {
-    "title": "讀大學不如念專科？大學生所得中位數58.6萬「連輸16年」 這學歷平均破百萬輾壓| 張庭維 | 新聞 - Storm.mg",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvUllXN2NlbDI0d2Qwa0NOQlljZTVHRWppSEhOaktnNFM4WWlKRFpfN3FhOHZSNThxYlZESmFKZExVbExRRjZMLVp4NS1tdw?oc=5",
-    "published": "2026-09-30 13:13",
-    "images": [],
-    "summary": "讀大學不如念專科？大學生所得中位數58.6萬「連輸16年」 這學歷平均破百萬輾壓| 張庭維 | 新聞&nbsp;&nbsp;Storm.mg",
-    "tags": "大學生",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "讀大學不如念專科？大學生所得中位數58.6萬「連輸16年」 這學歷平均破百萬輾壓| 張庭維 | 新聞&nbsp;&nbsp;Storm.mg",
-    "cn_title": "讀大學不如念專科？大學生所得中位數58.6萬「連輸16年」 這學歷平均破百萬輾壓| 張庭維 | 新聞 - Storm.mg",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "大學生",
-    "source": "風傳媒"
   }
 }
