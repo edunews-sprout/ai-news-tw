@@ -164,6 +164,21 @@
     "cn_tags": "大學, 高教, 國立清華大學",
     "source": "天下雜誌"
   },
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Kc0wwSERNTzFxd2FwYmVLem9rM1VxamtDSHN4c2JabWdVdWFNRXc3ZzFhYnZ3amc3S3AxbWlBSzBndTFEOFR6bDY0aWIwUQ?oc=5": {
+    "title": "駕馭 Agent 時代！崑山科大以「全譜系 AI 力」領航未來人才戰場 - 遠見雜誌",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Kc0wwSERNTzFxd2FwYmVLem9rM1VxamtDSHN4c2JabWdVdWFNRXc3ZzFhYnZ3amc3S3AxbWlBSzBndTFEOFR6bDY0aWIwUQ?oc=5",
+    "published": "2026-10-13 00:00",
+    "images": [],
+    "summary": "駕馭 Agent 時代！崑山科大以「全譜系 AI 力」領航未來人才戰場&nbsp;&nbsp;遠見雜誌",
+    "tags": "崑山科技大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "駕馭 Agent 時代！崑山科大以「全譜系 AI 力」領航未來人才戰場&nbsp;&nbsp;遠見雜誌",
+    "cn_title": "駕馭 Agent 時代！崑山科大以「全譜系 AI 力」領航未來人才戰場 - 遠見雜誌",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "崑山科技大學",
+    "source": "遠見雜誌"
+  },
   "https://news.ltn.com.tw/news/politics/breakingnews/5604177": {
     "title": "蘇巧慧淡江大學演說 鼓勵青年參與城市發展",
     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5604177",
@@ -3583,20 +3598,5 @@
     "cn_classes": "產學合作",
     "cn_tags": "高等教育, 產學合作, 國立臺灣大學",
     "source": "中央社"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5590773": {
-    "title": "台灣首批國產自主水下載具亮相   打破技術仰賴國外困境",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5590773",
-    "published": "2026-09-30 15:20",
-    "images": [],
-    "summary": "為了告別高風險的人工潛水作業，海委會促成高雄科技大學與成功大學跨校合作，打造出台灣首批兼具低阻力與高耐壓特性的國產自主水下載具（AUV）。海委會表示，團隊克服了水下缺乏GPS與...…",
-    "tags": "科技大學, 國立成功大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "為了告別高風險的人工潛水作業，海委會促成高雄科技大學與成功大學跨校合作，打造出台灣首批兼具低阻力與高耐壓特性的國產自主水下載具（AUV）。海委會表示，團隊克服了水下缺乏GPS與...…",
-    "cn_title": "台灣首批國產自主水下載具亮相   打破技術仰賴國外困境",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "科技大學, 國立成功大學",
-    "source": "自由時報"
   }
 }
