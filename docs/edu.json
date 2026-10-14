@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5605792": {
+    "title": "新興毒品藏電子煙難察覺 教育部強化校園辨識與輔導",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5605792",
+    "published": "2026-10-14 12:33",
+    "images": [],
+    "summary": "新興毒品偽裝多變，也可能透過電子煙等載具施用，增加校園辨識難度。教育部持續推動高中、國中及國小高年級每年至少1次反毒教育入班宣導，並強化第一線人員清查、篩檢與輔導能力，及早發現...…",
+    "tags": "",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "新興毒品偽裝多變，也可能透過電子煙等載具施用，增加校園辨識難度。教育部持續推動高中、國中及國小高年級每年至少1次反毒教育入班宣導，並強化第一線人員清查、篩檢與輔導能力，及早發現...…",
+    "cn_title": "新興毒品藏電子煙難察覺 教育部強化校園辨識與輔導",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5605742": {
     "title": "大蔥也能製成鹹甜冰淇淋！ 豐原區農會推新品",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5605742",
@@ -3583,20 +3598,5 @@
     "cn_classes": "國際交流與合作",
     "cn_tags": "大學, 文化",
     "source": "中國時報"
-  },
-  "https://www.cna.com.tw/news/ahel/202610010039.aspx": {
-    "title": "蘇黎世大學再設台灣研究講座  台瑞深化學術交流",
-    "link": "https://www.cna.com.tw/news/ahel/202610010039.aspx",
-    "published": "2026-10-01 09:43",
-    "images": [],
-    "summary": "（中央社記者郭芳君蘇黎世1日專電）台灣駐瑞士代表處與瑞士蘇黎世大學（Universität Zürich）於9月30日在該校簽署台灣研究講座（Taiwan Study Project）合作備忘錄。蘇黎世大學在全球學術研究地位領先，該計畫持續深耕瑞士，有助兩國認識與發展。",
-    "tags": "學術研究, 大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "（中央社記者郭芳君蘇黎世1日專電）台灣駐瑞士代表處與瑞士蘇黎世大學（Universität Zürich）於9月30日在該校簽署台灣研究講座（Taiwan Study Project）合作備忘錄。蘇黎世大學在全球學術研究地位領先，該計畫持續深耕瑞士，有助兩國認識與發展。",
-    "cn_title": "蘇黎世大學再設台灣研究講座  台瑞深化學術交流",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "學術研究, 大學",
-    "source": "中央社"
   }
 }
