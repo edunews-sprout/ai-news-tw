@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/politics/breakingnews/5606686": {
+    "title": "柯志恩參加中山大學青年論壇 提「可負擔宅」與國際圓夢計畫",
+    "link": "https://news.ltn.com.tw/news/politics/breakingnews/5606686",
+    "published": "2026-10-15 08:41",
+    "images": [],
+    "summary": "國民黨高雄市長參選人柯志恩昨（14）日晚前往中山大學參加青年論壇，針對青年返鄉、居住正義、交通建設及教育等議題與學生交流。提出「可負擔宅」政策及「高雄青年國際圓夢計畫」，盼讓高...…",
+    "tags": "國立中山大學",
+    "classes": "國際交流與合作",
+    "is_target": "True",
+    "cn_summary": "國民黨高雄市長參選人柯志恩昨（14）日晚前往中山大學參加青年論壇，針對青年返鄉、居住正義、交通建設及教育等議題與學生交流。提出「可負擔宅」政策及「高雄青年國際圓夢計畫」，盼讓高...…",
+    "cn_title": "柯志恩參加中山大學青年論壇 提「可負擔宅」與國際圓夢計畫",
+    "cn_classes": "國際交流與合作",
+    "cn_tags": "國立中山大學",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyRmthOWRKc3NwNHpsQzBTOW5YR0c2dnladXVtOGstYVZBX0JFSWRXQ25BYmtVQlRKRHBRb2dMTkpablBwejQ2aHltU3ZOUQ?oc=5": {
     "title": "輔英科大SEL情感教育融入校園日常跨單位攜手打造「你好、我好、大家好」暖心文化| 徐炳文 | 地方新聞 - 風傳媒",
     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyRmthOWRKc3NwNHpsQzBTOW5YR0c2dnladXVtOGstYVZBX0JFSWRXQ25BYmtVQlRKRHBRb2dMTkpablBwejQ2aHltU3ZOUQ?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學生事務與生活",
     "cn_tags": "",
     "source": "自由時報"
-  },
-  "https://www.cna.com.tw/news/aloc/202610010176.aspx": {
-    "title": "竹市立棒球場整修後首場完整賽事　新竹蜂戰開南大學",
-    "link": "https://www.cna.com.tw/news/aloc/202610010176.aspx",
-    "published": "2026-10-01 14:07",
-    "images": [],
-    "summary": "（中央社記者郭宣彣新竹市1日電）新竹市政府今天說，竹市城市棒球隊「新竹蜂」昨天在新竹市立棒球場與開南大學棒球隊交流，此次是球場整修後首場完整棒球賽事，除讓球員累積實戰經驗，也藉比賽檢視人工草皮及相關設施。",
-    "tags": "開南大學",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "（中央社記者郭宣彣新竹市1日電）新竹市政府今天說，竹市城市棒球隊「新竹蜂」昨天在新竹市立棒球場與開南大學棒球隊交流，此次是球場整修後首場完整棒球賽事，除讓球員累積實戰經驗，也藉比賽檢視人工草皮及相關設施。",
-    "cn_title": "竹市立棒球場整修後首場完整賽事　新竹蜂戰開南大學",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "開南大學",
-    "source": "中央社"
   }
 }
