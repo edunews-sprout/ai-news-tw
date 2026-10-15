@@ -1,4 +1,19 @@
 {
+  "https://udn.com/news/story/6885/9816382": {
+    "title": "憑臉書追蹤數錄取研究所 「吳寶春條款」頻傳爭議 教育部欲修正",
+    "link": "https://udn.com/news/story/6885/9816382",
+    "published": "2026-10-15 12:57",
+    "images": [],
+    "summary": "當年烘焙師吳寶春因受限於招生法規，無法報考我國大學EMBA只能負笈海外，促成教育部修正「大學同等學力認定標準」第7條，俗稱「吳寶春條款」，讓專業領域具卓越成就表現者，憑專業表現也能報名碩士班。但該條款上路多年來問題叢生，教育部近日欲再修正規定，將運作機制法制化，學校要如實提報招生作業計畫書，經核定後才得辦理招生。",
+    "tags": "研究所, 大學, 碩士",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "當年烘焙師吳寶春因受限於招生法規，無法報考我國大學EMBA只能負笈海外，促成教育部修正「大學同等學力認定標準」第7條，俗稱「吳寶春條款」，讓專業領域具卓越成就表現者，憑專業表現也能報名碩士班。但該條款上路多年來問題叢生，教育部近日欲再修正規定，將運作機制法制化，學校要如實提報招生作業計畫書，經核定後才得辦理招生。",
+    "cn_title": "憑臉書追蹤數錄取研究所 「吳寶春條款」頻傳爭議 教育部欲修正",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "研究所, 大學, 碩士",
+    "source": "UDN 文教"
+  },
   "https://www.cna.com.tw/news/asoc/202610150070.aspx": {
     "title": "前大學教授涉收賄護航光電業者　雄院裁定2人羈押",
     "link": "https://www.cna.com.tw/news/asoc/202610150070.aspx",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "大學, 中國文化大學",
     "source": "中央社"
-  },
-  "https://ec.ltn.com.tw/article/breakingnews/5592030": {
-    "title": "銘傳攜NVIDIA及DELL打造AI人才基地  校園內部署產業級算力環境",
-    "link": "https://ec.ltn.com.tw/article/breakingnews/5592030",
-    "published": "2026-10-01 14:52",
-    "images": [],
-    "summary": "高教積極串聯與產業間合作，布局AI應用！銘傳大學攜手NVIDIA與DELL打造高階AI教學實作場域，部署超過30台GeForce RTX 5090 PC，打造「NVIDIA A...…",
-    "tags": "銘傳大學, 高教",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "高教積極串聯與產業間合作，布局AI應用！銘傳大學攜手NVIDIA與DELL打造高階AI教學實作場域，部署超過30台GeForce RTX 5090 PC，打造「NVIDIA A...…",
-    "cn_title": "銘傳攜NVIDIA及DELL打造AI人才基地  校園內部署產業級算力環境",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "銘傳大學, 高教",
-    "source": "自由時報"
   }
 }
