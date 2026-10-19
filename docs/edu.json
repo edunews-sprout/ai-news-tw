@@ -1,4 +1,34 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5610981": {
+    "title": "中教大研發「AI教科書」系統 揪出學生思考外包AI",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5610981",
+    "published": "2026-10-19 11:08",
+    "images": [],
+    "summary": "學生用AI完成作業，是獲得協助，還是把思考外包？國立台中教育大學研發「AI教科書」，將學生與AI的對話分為基礎協助、深度協作、基礎依賴及核心依賴4類，標示可能過度依賴AI的對話...…",
+    "tags": "國立臺中教育大學, 大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "學生用AI完成作業，是獲得協助，還是把思考外包？國立台中教育大學研發「AI教科書」，將學生與AI的對話分為基礎協助、深度協作、基礎依賴及核心依賴4類，標示可能過度依賴AI的對話...…",
+    "cn_title": "中教大研發「AI教科書」系統 揪出學生思考外包AI",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立臺中教育大學, 大學",
+    "source": "自由時報"
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5610934": {
+    "title": "台法學術合作開出新題 台灣經濟奇蹟登上巴黎學界焦點",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5610934",
+    "published": "2026-10-19 10:33",
+    "images": [],
+    "summary": "台灣在全球經濟中的角色，除了半導體，還有哪些值得國際認識的經驗？國立台灣大學經濟學者吳聰敏、樊家忠赴巴黎，從產業發展、制度變遷及女性勞動，與法國學界、產業人士交流。從提問中發現...…",
+    "tags": "國立臺灣大學, 學術, 學界",
+    "classes": "國際交流與合作",
+    "is_target": "True",
+    "cn_summary": "台灣在全球經濟中的角色，除了半導體，還有哪些值得國際認識的經驗？國立台灣大學經濟學者吳聰敏、樊家忠赴巴黎，從產業發展、制度變遷及女性勞動，與法國學界、產業人士交流。從提問中發現...…",
+    "cn_title": "台法學術合作開出新題 台灣經濟奇蹟登上巴黎學界焦點",
+    "cn_classes": "國際交流與合作",
+    "cn_tags": "國立臺灣大學, 學術, 學界",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5610922": {
     "title": "台科青創黑客松冠軍出爐  AI智慧養殖系統前進澎湖驗證",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5610922",
@@ -3567,36 +3597,6 @@
     "cn_title": "中山大學、倫敦大學SOAS聯合學位 首屆碩班生：學費太誘人",
     "cn_classes": "學生事務與生活",
     "cn_tags": "國立中山大學, 碩士, 學位",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5596174": {
-    "title": "英國拿學位學費減半 台英「全球公民權碩士學程」1年兩地上課",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5596174",
-    "published": "2026-10-05 15:52",
-    "images": [],
-    "summary": "國立中山大學率全台之先與倫敦大學亞非學院合作開設「全球公民權碩士學位學程」，學費只要英國大學的一半，只需1年兩學期分別在台灣與英國修業即可拿到聯合學位，加上可申請全額及半額獎學...…",
-    "tags": "國立中山大學, 碩士, 學位",
-    "classes": "教學與課程",
-    "is_target": "True",
-    "cn_summary": "國立中山大學率全台之先與倫敦大學亞非學院合作開設「全球公民權碩士學位學程」，學費只要英國大學的一半，只需1年兩學期分別在台灣與英國修業即可拿到聯合學位，加上可申請全額及半額獎學...…",
-    "cn_title": "英國拿學位學費減半 台英「全球公民權碩士學程」1年兩地上課",
-    "cn_classes": "教學與課程",
-    "cn_tags": "國立中山大學, 碩士, 學位",
-    "source": "自由時報"
-  },
-  "https://ent.ltn.com.tw/news/breakingnews/5596151": {
-    "title": "金鐘倒數半夜驚醒！木木爆瘦肌肉量掉 坦言主持最怕「這環節」",
-    "link": "https://ent.ltn.com.tw/news/breakingnews/5596151",
-    "published": "2026-10-05 15:47",
-    "images": [],
-    "summary": "全新料理實境節目《17歲之火》舉辦記者會，主持人「木木」林葦妮與FEniX夏浦洋、醒吾科技大學餐飲科學生陳瀚揚同台亮相，現場更以挑戰料理「澎湖野生大明蝦 佐第戎蜂蜜芥末醬...…",
-    "tags": "醒吾科技大學",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "全新料理實境節目《17歲之火》舉辦記者會，主持人「木木」林葦妮與FEniX夏浦洋、醒吾科技大學餐飲科學生陳瀚揚同台亮相，現場更以挑戰料理「澎湖野生大明蝦 佐第戎蜂蜜芥末醬...…",
-    "cn_title": "金鐘倒數半夜驚醒！木木爆瘦肌肉量掉 坦言主持最怕「這環節」",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "醒吾科技大學",
     "source": "自由時報"
   }
 }
