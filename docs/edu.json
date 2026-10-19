@@ -1,4 +1,34 @@
 {
+  "https://news.ltn.com.tw/news/politics/breakingnews/5611387": {
+    "title": "竹市「智慧治理X行動參與論壇」登場  高虹安：多元觀點激盪智慧治理新思維",
+    "link": "https://news.ltn.com.tw/news/politics/breakingnews/5611387",
+    "published": "2026-10-19 17:09",
+    "images": [],
+    "summary": "為持續推動「智慧治理」施政策略，打造科技創新城市，新竹市政府今舉辦「智慧治理X行動參與論壇」。論壇以「AI驅動城市新未來」為核心，邀集產學界專家及青年創新團隊齊聚交流，探討AI...…",
+    "tags": "學界",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "為持續推動「智慧治理」施政策略，打造科技創新城市，新竹市政府今舉辦「智慧治理X行動參與論壇」。論壇以「AI驅動城市新未來」為核心，邀集產學界專家及青年創新團隊齊聚交流，探討AI...…",
+    "cn_title": "竹市「智慧治理X行動參與論壇」登場  高虹安：多元觀點激盪智慧治理新思維",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "學界",
+    "source": "自由時報"
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5611377": {
+    "title": "海委會推海洋文化領航計畫 傳統造舟技藝走入全民生活",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5611377",
+    "published": "2026-10-19 17:05",
+    "images": [],
+    "summary": "海洋委員會推動航海文化復振，高雄科技大學與台灣TAMORAK文教協會首度跨界聯手，藉由造船實作經驗分享及航行體驗，帶領民眾認識傳統造舟技藝與航海文化，帶動親子親海體驗，開啟全民...…",
+    "tags": "科技大學, 文化",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "海洋委員會推動航海文化復振，高雄科技大學與台灣TAMORAK文教協會首度跨界聯手，藉由造船實作經驗分享及航行體驗，帶領民眾認識傳統造舟技藝與航海文化，帶動親子親海體驗，開啟全民...…",
+    "cn_title": "海委會推海洋文化領航計畫 傳統造舟技藝走入全民生活",
+    "cn_classes": "其他",
+    "cn_tags": "科技大學, 文化",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5611323": {
     "title": "算力中心用電怎麼解？ 清大攜美商研發微型反應器",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5611323",
@@ -58,6 +88,21 @@
     "cn_classes": "校務治理與管理",
     "cn_tags": "國立清華大學",
     "source": "UDN 文教"
+  },
+  "https://www.cna.com.tw/news/aloc/202610190134.aspx": {
+    "title": "微藻製造生質酒精　中山大學研究發現新方向",
+    "link": "https://www.cna.com.tw/news/aloc/202610190134.aspx",
+    "published": "2026-10-19 14:52",
+    "images": [],
+    "summary": "（中央社記者蔡孟妤高雄19日電）國立中山大學今天公布一項研究成果指出，微藻細胞內存在兩個關鍵調控節點，調整後可累積較多碳水化合物，作為後續發酵原料，為微藻製造生質酒精提供新的研究方向。",
+    "tags": "國立中山大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "（中央社記者蔡孟妤高雄19日電）國立中山大學今天公布一項研究成果指出，微藻細胞內存在兩個關鍵調控節點，調整後可累積較多碳水化合物，作為後續發酵原料，為微藻製造生質酒精提供新的研究方向。",
+    "cn_title": "微藻製造生質酒精　中山大學研究發現新方向",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立中山大學",
+    "source": "中央社"
   },
   "https://udn.com/news/story/6928/9823643": {
     "title": "中教大發表AI教科書 避免學生思考外包",
@@ -3553,50 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "大學, 大專",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5596998": {
-    "title": "台加高教攜手推動氫能科技研發 擴展科研、人才、研發等多面向合作",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5596998",
-    "published": "2026-10-06 12:54",
-    "images": [],
-    "summary": "台加高教攜手新科技研發！中央大學與加拿大魁北克大學三河城分校（UQTR）近日簽署學術合作協議，雙方未來將以氫能科技為重要合作主軸，共同推動科研合作、研究人才交流、國際計畫申請與...…",
-    "tags": "國立中央大學, 高教, 學術",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "台加高教攜手新科技研發！中央大學與加拿大魁北克大學三河城分校（UQTR）近日簽署學術合作協議，雙方未來將以氫能科技為重要合作主軸，共同推動科研合作、研究人才交流、國際計畫申請與...…",
-    "cn_title": "台加高教攜手推動氫能科技研發 擴展科研、人才、研發等多面向合作",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "國立中央大學, 高教, 學術",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5597034": {
-    "title": "「下一個竹科50」論壇10/10登場 探討科技城市新未來",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5597034",
-    "published": "2026-10-06 12:51",
-    "images": [],
-    "summary": "新竹的下一個科技篇章將如何展開？新竹市政府將於10日上午10時，在國立陽明交通大學博愛校區賢齊館國際會議廳舉辦「雙十論壇：下一個竹科50」，邀請工研院前院長史欽泰、宏碁創辦人施...…",
-    "tags": "國立陽明交通大學",
-    "classes": "產學合作",
-    "is_target": "True",
-    "cn_summary": "新竹的下一個科技篇章將如何展開？新竹市政府將於10日上午10時，在國立陽明交通大學博愛校區賢齊館國際會議廳舉辦「雙十論壇：下一個竹科50」，邀請工研院前院長史欽泰、宏碁創辦人施...…",
-    "cn_title": "「下一個竹科50」論壇10/10登場 探討科技城市新未來",
-    "cn_classes": "產學合作",
-    "cn_tags": "國立陽明交通大學",
-    "source": "自由時報"
-  },
-  "https://www.cna.com.tw/news/aopl/202610060050.aspx": {
-    "title": "作業暗藏指令揪AI作弊　美大學教授各出奇招",
-    "link": "https://www.cna.com.tw/news/aopl/202610060050.aspx",
-    "published": "2026-10-06 10:51",
-    "images": [],
-    "summary": "（中央社華盛頓5日綜合外電報導）隨著AI作弊氾濫，美國大學的師生間宛如展開「貓捉老鼠」攻防戰。由於AI偵測工具誤判率高，大學教授們只能各出奇招，除了在作業暗藏指令陷阱，同時也重新構思評量模式。",
-    "tags": "大學, 教授",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "（中央社華盛頓5日綜合外電報導）隨著AI作弊氾濫，美國大學的師生間宛如展開「貓捉老鼠」攻防戰。由於AI偵測工具誤判率高，大學教授們只能各出奇招，除了在作業暗藏指令陷阱，同時也重新構思評量模式。",
-    "cn_title": "作業暗藏指令揪AI作弊　美大學教授各出奇招",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "大學, 教授",
-    "source": "中央社"
   }
 }
