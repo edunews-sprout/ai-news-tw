@@ -1,4 +1,19 @@
 {
+  "https://udn.com/news/story/6928/9826207": {
+    "title": "中央大學首度證實電離層「飽和效應」有望提升衛星通訊可靠性",
+    "link": "https://udn.com/news/story/6928/9826207",
+    "published": "2026-10-20 14:02",
+    "images": [],
+    "summary": "國立中央大學太空系講座教授劉正彥、統計所教授陳玉英與日本京都大學博士黃俊雁合作，分析25年全球電離層觀測資料，首次證實電離層對太陽活動存在「飽和效應」，即當太陽活動增強至一定程度後，電離層電子含量不會再等比例增加，反而會逐漸趨於平緩。該研究有望更精準掌握電離層反應，近一步提升GPS定位、衛星通訊可靠性。",
+    "tags": "國立中央大學, 教授",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "國立中央大學太空系講座教授劉正彥、統計所教授陳玉英與日本京都大學博士黃俊雁合作，分析25年全球電離層觀測資料，首次證實電離層對太陽活動存在「飽和效應」，即當太陽活動增強至一定程度後，電離層電子含量不會再等比例增加，反而會逐漸趨於平緩。該研究有望更精準掌握電離層反應，近一步提升GPS定位、衛星通訊可靠性。",
+    "cn_title": "中央大學首度證實電離層「飽和效應」有望提升衛星通訊可靠性",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立中央大學, 教授",
+    "source": "UDN 文教"
+  },
   "https://ec.ltn.com.tw/article/breakingnews/5612166": {
     "title": "沒念大學照樣賺翻！調查揭「這行」67％老闆沒學位 年薪衝破1100萬",
     "link": "https://ec.ltn.com.tw/article/breakingnews/5612166",
@@ -3583,20 +3598,5 @@
     "cn_classes": "政策與法規",
     "cn_tags": "淡江大學, 大學生",
     "source": "中央社"
-  },
-  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83OVFsanNXQXBsTlhYYnZQWXBIQmgxdEF0UmpkanRRQVp2WTE3ckdzREFzMVVldDU1VnFBNmRNVmJoMVpDQnN3M1JRN19uUQ?oc=5": {
-    "title": "世界綠色大學評比是什麼？2026台灣前三名：屏科大、暨大、大葉 - 遠見雜誌",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83OVFsanNXQXBsTlhYYnZQWXBIQmgxdEF0UmpkanRRQVp2WTE3ckdzREFzMVVldDU1VnFBNmRNVmJoMVpDQnN3M1JRN19uUQ?oc=5",
-    "published": "2026-10-06 18:35",
-    "images": [],
-    "summary": "世界綠色大學評比是什麼？2026台灣前三名：屏科大、暨大、大葉&nbsp;&nbsp;遠見雜誌",
-    "tags": "國立屏東科技大學, 大學, 國立暨南國際大學, 大葉",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "世界綠色大學評比是什麼？2026台灣前三名：屏科大、暨大、大葉&nbsp;&nbsp;遠見雜誌",
-    "cn_title": "世界綠色大學評比是什麼？2026台灣前三名：屏科大、暨大、大葉 - 遠見雜誌",
-    "cn_classes": "其他",
-    "cn_tags": "國立屏東科技大學, 大學, 國立暨南國際大學, 大葉",
-    "source": "遠見雜誌"
   }
 }
