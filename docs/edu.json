@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5612804": {
+    "title": "揭開電離層「飽和效應」全球樣貌 台日團隊研究登國際期刊",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5612804",
+    "published": "2026-10-20 19:28",
+    "images": [],
+    "summary": "「太陽愈強，電離層就愈活躍」一直是許多人對太空天氣的直觀印象，但最新研究發現並非如此。中央大學太空系講座教授劉正彥、統計所教授陳玉英與京都大學博士黃俊雁合作，透過分析25年全球...…",
+    "tags": "國立中央大學, 教授",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "「太陽愈強，電離層就愈活躍」一直是許多人對太空天氣的直觀印象，但最新研究發現並非如此。中央大學太空系講座教授劉正彥、統計所教授陳玉英與京都大學博士黃俊雁合作，透過分析25年全球...…",
+    "cn_title": "揭開電離層「飽和效應」全球樣貌 台日團隊研究登國際期刊",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立中央大學, 教授",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/society/breakingnews/5612800": {
     "title": "清大化學館傍晚火警  疑實驗不慎起火",
     "link": "https://news.ltn.com.tw/news/society/breakingnews/5612800",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "大學",
     "source": "中央社"
-  },
-  "https://ec.ltn.com.tw/article/breakingnews/5598065": {
-    "title": "工具機推AI、低碳轉型 節能、AI雙標章成果出爐",
-    "link": "https://ec.ltn.com.tw/article/breakingnews/5598065",
-    "published": "2026-10-07 10:36",
-    "images": [],
-    "summary": "為持續推動台灣工具機與零組件產業朝向智慧化、低碳化發展，工具機暨零組件工業同業公會（TMBA）辦理「第四屆工具機產業節能標章」暨「第二屆工具機產業AI賦能標章」評鑑，評鑑...…",
-    "tags": "",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "為持續推動台灣工具機與零組件產業朝向智慧化、低碳化發展，工具機暨零組件工業同業公會（TMBA）辦理「第四屆工具機產業節能標章」暨「第二屆工具機產業AI賦能標章」評鑑，評鑑...…",
-    "cn_title": "工具機推AI、低碳轉型 節能、AI雙標章成果出爐",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "",
-    "source": "自由時報"
   }
 }
