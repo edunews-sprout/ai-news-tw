@@ -1,4 +1,19 @@
 {
+  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xbkRlcmhSWUYwRWZyNFFZMVdEbF9mRVFjekc0ZTFDSHdwN0VWM3dQTmdnbHpNTFVxSzM1bTZ1NVNfQ0I4SnFzdTA0Y3E3WHpWNFZWY29BLWNzd2ZlSkVUQzVfQXYyZw?oc=5": {
+    "title": "獲教育部2,800萬元補助！南應大導入NVIDIA H200 攜手東海大學打造地端AI算力中心- 新消息- Campus - 中時新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xbkRlcmhSWUYwRWZyNFFZMVdEbF9mRVFjekc0ZTFDSHdwN0VWM3dQTmdnbHpNTFVxSzM1bTZ1NVNfQ0I4SnFzdTA0Y3E3WHpWNFZWY29BLWNzd2ZlSkVUQzVfQXYyZw?oc=5",
+    "published": "2026-10-22 15:30",
+    "images": [],
+    "summary": "獲教育部2,800萬元補助！南應大導入NVIDIA H200 攜手東海大學打造地端AI算力中心- 新消息- Campus&nbsp;&nbsp;中時新聞網",
+    "tags": "東海大學, 南應大",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "獲教育部2,800萬元補助！南應大導入NVIDIA H200 攜手東海大學打造地端AI算力中心- 新消息- Campus&nbsp;&nbsp;中時新聞網",
+    "cn_title": "獲教育部2,800萬元補助！南應大導入NVIDIA H200 攜手東海大學打造地端AI算力中心- 新消息- Campus - 中時新聞網",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "東海大學, 南應大",
+    "source": "中國時報"
+  },
   "https://udn.com/news/story/6885/9831168": {
     "title": "批校事會議越修越偏離現場 九大教師工會靜坐抗議！教育部：持續傾聽",
     "link": "https://udn.com/news/story/6885/9831168",
@@ -3583,20 +3598,5 @@
     "cn_classes": "校務治理與管理",
     "cn_tags": "國立清華大學",
     "source": "自由時報"
-  },
-  "https://udn.com/news/story/6928/9802839": {
-    "title": "拯救師資荒！台師大理工公費專班招生開紅盤 141人搶30個名額",
-    "link": "https://udn.com/news/story/6928/9802839",
-    "published": "2026-10-08 13:58",
-    "images": [],
-    "summary": "為回應近年中學理工師資荒問題，師資培育兩大龍頭台師大、彰師大均推出相關理工教學、STEM領域等公費專班，盼吸引具物理、化學及資訊工程專業背景，甚至已有產業實務經驗的人才投入教育現場。台師大今天表示，專班今年啟動招生，物理、化學及資訊工程三組合計141人報名，核定招生名額30人，報名人數已達招生名額的4.7倍。",
-    "tags": "國立彰化師範大學",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "為回應近年中學理工師資荒問題，師資培育兩大龍頭台師大、彰師大均推出相關理工教學、STEM領域等公費專班，盼吸引具物理、化學及資訊工程專業背景，甚至已有產業實務經驗的人才投入教育現場。台師大今天表示，專班今年啟動招生，物理、化學及資訊工程三組合計141人報名，核定招生名額30人，報名人數已達招生名額的4.7倍。",
-    "cn_title": "拯救師資荒！台師大理工公費專班招生開紅盤 141人搶30個名額",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "國立彰化師範大學",
-    "source": "UDN 文教"
   }
 }
