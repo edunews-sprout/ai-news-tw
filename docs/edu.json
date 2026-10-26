@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5618729": {
+    "title": "幸妤學姊背的帆布包 陽明交大要出聯名帆布包了",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5618729",
+    "published": "2026-10-26 08:59",
+    "images": [],
+    "summary": "前總統陳水扁的女兒陳幸妤前陣子因揹著一款來自美國加州大學爾灣分校的黃色托特包受訪而在台灣掀起話題，現在陽明交大也要出聯名帆布包了。陽明交大日前在粉專發文提到，這個黃色托特包的幕...…",
+    "tags": "國立陽明交通大學, 大學",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "前總統陳水扁的女兒陳幸妤前陣子因揹著一款來自美國加州大學爾灣分校的黃色托特包受訪而在台灣掀起話題，現在陽明交大也要出聯名帆布包了。陽明交大日前在粉專發文提到，這個黃色托特包的幕...…",
+    "cn_title": "幸妤學姊背的帆布包 陽明交大要出聯名帆布包了",
+    "cn_classes": "其他",
+    "cn_tags": "國立陽明交通大學, 大學",
+    "source": "自由時報"
+  },
   "https://udn.com/news/story/6928/9836921": {
     "title": "邊走邊修 台灣高等研究學院難產",
     "link": "https://udn.com/news/story/6928/9836921",
@@ -3583,20 +3598,5 @@
     "cn_classes": "在地連結與社會責任（USR）",
     "cn_tags": "大專",
     "source": "中央社"
-  },
-  "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBab0FQc2RZZGhuUHVpNlZPMHpoUnYwNHJfT0JsZ3BDOWVSazhCS2VsMS1EeHdMdjJWUTMzODlMYmNzYzNMX1J1RGVxbFZ6ZFgyWkJKWA?oc=5": {
-    "title": "從開課門檻到系辦整併：世新爭議引爆「舍我學運」，捅破《大學法》治理漏洞 - TNL The News Lens 關鍵評論網",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBab0FQc2RZZGhuUHVpNlZPMHpoUnYwNHJfT0JsZ3BDOWVSazhCS2VsMS1EeHdMdjJWUTMzODlMYmNzYzNMX1J1RGVxbFZ6ZFgyWkJKWA?oc=5",
-    "published": "2026-10-10 07:55",
-    "images": [],
-    "summary": "從開課門檻到系辦整併：世新爭議引爆「舍我學運」，捅破《大學法》治理漏洞&nbsp;&nbsp;TNL The News Lens 關鍵評論網",
-    "tags": "大學, 世新",
-    "classes": "校務治理與管理",
-    "is_target": "True",
-    "cn_summary": "從開課門檻到系辦整併：世新爭議引爆「舍我學運」，捅破《大學法》治理漏洞&nbsp;&nbsp;TNL The News Lens 關鍵評論網",
-    "cn_title": "從開課門檻到系辦整併：世新爭議引爆「舍我學運」，捅破《大學法》治理漏洞 - TNL The News Lens 關鍵評論網",
-    "cn_classes": "校務治理與管理",
-    "cn_tags": "大學, 世新",
-    "source": "關鍵評論網"
   }
 }
