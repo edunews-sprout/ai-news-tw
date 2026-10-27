@@ -1,4 +1,19 @@
 {
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1TUQtaGE0MXR5MzltVGtDS2lCcTZLYUpiS1BNSTlCMnpUWERUb3UzU2t6bzVhQVdQZEV5ODB5RTJaV2ZjeHlMc3hoSU8yZw?oc=5": {
+    "title": "中山、高雄大學合併研議再啟動！校名協商，學歷認受度進展一次看 - 遠見雜誌",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1TUQtaGE0MXR5MzltVGtDS2lCcTZLYUpiS1BNSTlCMnpUWERUb3UzU2t6bzVhQVdQZEV5ODB5RTJaV2ZjeHlMc3hoSU8yZw?oc=5",
+    "published": "2026-10-27 17:53",
+    "images": [],
+    "summary": "中山、高雄大學合併研議再啟動！校名協商，學歷認受度進展一次看&nbsp;&nbsp;遠見雜誌",
+    "tags": "國立高雄大學, 國立中山大學",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "中山、高雄大學合併研議再啟動！校名協商，學歷認受度進展一次看&nbsp;&nbsp;遠見雜誌",
+    "cn_title": "中山、高雄大學合併研議再啟動！校名協商，學歷認受度進展一次看 - 遠見雜誌",
+    "cn_classes": "其他",
+    "cn_tags": "國立高雄大學, 國立中山大學",
+    "source": "遠見雜誌"
+  },
   "https://health.ltn.com.tw/article/breakingnews/5620528": {
     "title": "睡眠呼吸中止症不只生理 中山大學研究揭關鍵登國際期刊",
     "link": "https://health.ltn.com.tw/article/breakingnews/5620528",
@@ -13,6 +28,21 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立中山大學, 教授",
     "source": "自由時報"
+  },
+  "https://www.cna.com.tw/news/afe/202610270198.aspx": {
+    "title": "台菲科技會議　深化科研合作、擴大人才鏈結",
+    "link": "https://www.cna.com.tw/news/afe/202610270198.aspx",
+    "published": "2026-10-27 16:43",
+    "images": [],
+    "summary": "（中央社記者趙敏雅台北27日電）第10屆台菲次長級聯合科技委員會日前於菲律賓登場，國科會表示，會中決議自明年啟動「醫療、農業、人才培訓（HAT）」第3期專案計畫，聚焦前瞻性農業與醫療技術應用，同時，雙方將持續辦理「台菲三明治獎學金計畫（SSP）」，厚植科研領域的人才鏈結與學術交流。",
+    "tags": "學術",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "（中央社記者趙敏雅台北27日電）第10屆台菲次長級聯合科技委員會日前於菲律賓登場，國科會表示，會中決議自明年啟動「醫療、農業、人才培訓（HAT）」第3期專案計畫，聚焦前瞻性農業與醫療技術應用，同時，雙方將持續辦理「台菲三明治獎學金計畫（SSP）」，厚植科研領域的人才鏈結與學術交流。",
+    "cn_title": "台菲科技會議　深化科研合作、擴大人才鏈結",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "學術",
+    "source": "中央社"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5620277": {
     "title": "助學生學習跟上產業腳步 教育部投1.2億充實更新設備",
@@ -3568,35 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立清華大學, 教授, 學分",
     "source": "自由時報"
-  },
-  "https://udn.com/news/story/6928/9811162": {
-    "title": "中原大學31位教授獲選全球前2%頂尖科學家 創歷年新高",
-    "link": "https://udn.com/news/story/6928/9811162",
-    "published": "2026-10-13 11:09",
-    "images": [],
-    "summary": "中原大學表示，美國史丹佛大學研究團隊近日公布2026年全球前2%頂尖科學家榜單（World‘s Top 2% Scientists），中原大學有31位教授入榜，較去年增加2人，再創新高。入榜教授涵蓋人工智慧、電子工程、能源、材料科學及企業管理等多項研究領域。",
-    "tags": "中原大學, 教授",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "中原大學表示，美國史丹佛大學研究團隊近日公布2026年全球前2%頂尖科學家榜單（World‘s Top 2% Scientists），中原大學有31位教授入榜，較去年增加2人，再創新高。入榜教授涵蓋人工智慧、電子工程、能源、材料科學及企業管理等多項研究領域。",
-    "cn_title": "中原大學31位教授獲選全球前2%頂尖科學家 創歷年新高",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "中原大學, 教授",
-    "source": "UDN 文教"
-  },
-  "https://udn.com/news/story/6885/9811122": {
-    "title": "英文學多年仍有中文口音 陽明交大研究：外語口說發音會受母語制約",
-    "link": "https://udn.com/news/story/6885/9811122",
-    "published": "2026-10-13 10:54",
-    "images": [],
-    "summary": "民眾學習了多年英文，為何有些發音還是聽不出差異，或口說常帶有中文口音？陽明交大與加州大學爾灣分校、萬芳醫院合作研究發現，學習新語言時，並非單純模仿耳朵聽到的聲音，而會受到母語的制約，進一步反映於外語口說，導致英文發音常常帶有中文口音。",
-    "tags": "國立陽明交通大學, 大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "民眾學習了多年英文，為何有些發音還是聽不出差異，或口說常帶有中文口音？陽明交大與加州大學爾灣分校、萬芳醫院合作研究發現，學習新語言時，並非單純模仿耳朵聽到的聲音，而會受到母語的制約，進一步反映於外語口說，導致英文發音常常帶有中文口音。",
-    "cn_title": "英文學多年仍有中文口音 陽明交大研究：外語口說發音會受母語制約",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "國立陽明交通大學, 大學",
-    "source": "UDN 文教"
   }
 }
