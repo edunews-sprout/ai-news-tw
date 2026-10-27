@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5620277": {
+    "title": "助學生學習跟上產業腳步 教育部投1.2億充實更新設備",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5620277",
+    "published": "2026-10-27 15:29",
+    "images": [],
+    "summary": "為使學生學習能跟上產業發展，教育部國教署每年透過「補助高級中等學校充實教學及實習設備工作計畫」，補助相關學校充實及更新教學設備，以提升全國公私立高級中等學校專業及實習課程教學品...…",
+    "tags": "",
+    "classes": "教學與課程",
+    "is_target": "True",
+    "cn_summary": "為使學生學習能跟上產業發展，教育部國教署每年透過「補助高級中等學校充實教學及實習設備工作計畫」，補助相關學校充實及更新教學設備，以提升全國公私立高級中等學校專業及實習課程教學品...…",
+    "cn_title": "助學生學習跟上產業腳步 教育部投1.2億充實更新設備",
+    "cn_classes": "教學與課程",
+    "cn_tags": "",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yblJsS0tEcnZBc3VQRV9WaDNrQ3RFRW9aeDBaVS1YRWFVSHZOTWl5VFQ4SU5na1ZPU1ZRU2ZZV0pReEtwdmo5dXZ4bGNoZ1N5dGdOb2tCaDBMdEJ4TktfWllIMEVZQQ?oc=5": {
     "title": "文化大學校友助味全龍奪冠116學年度培育棒球產業管理人才- 新消息- Campus - 中時新聞網",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yblJsS0tEcnZBc3VQRV9WaDNrQ3RFRW9aeDBaVS1YRWFVSHZOTWl5VFQ4SU5na1ZPU1ZRU2ZZV0pReEtwdmo5dXZ4bGNoZ1N5dGdOb2tCaDBMdEJ4TktfWllIMEVZQQ?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "大學, 高教, 國立清華大學",
     "source": "天下雜誌"
-  },
-  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Kc0wwSERNTzFxd2FwYmVLem9rM1VxamtDSHN4c2JabWdVdWFNRXc3ZzFhYnZ3amc3S3AxbWlBSzBndTFEOFR6bDY0aWIwUQ?oc=5": {
-    "title": "駕馭 Agent 時代！崑山科大以「全譜系 AI 力」領航未來人才戰場 - 遠見雜誌",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Kc0wwSERNTzFxd2FwYmVLem9rM1VxamtDSHN4c2JabWdVdWFNRXc3ZzFhYnZ3amc3S3AxbWlBSzBndTFEOFR6bDY0aWIwUQ?oc=5",
-    "published": "2026-10-13 00:00",
-    "images": [],
-    "summary": "駕馭 Agent 時代！崑山科大以「全譜系 AI 力」領航未來人才戰場&nbsp;&nbsp;遠見雜誌",
-    "tags": "崑山科技大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "駕馭 Agent 時代！崑山科大以「全譜系 AI 力」領航未來人才戰場&nbsp;&nbsp;遠見雜誌",
-    "cn_title": "駕馭 Agent 時代！崑山科大以「全譜系 AI 力」領航未來人才戰場 - 遠見雜誌",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "崑山科技大學",
-    "source": "遠見雜誌"
   }
 }
