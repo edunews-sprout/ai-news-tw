@@ -599,6 +599,21 @@
     "cn_tags": "",
     "source": "UDN 文教"
   },
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwWGt4R1BrSVNGUEo4dEhvUHUzTjBybWpfV1E3SnhHUlhWaTJvR2ZGbTNRT0U1VTVWR3dNMzJHVTBpYTdIb2plTVlkN3RfQQ?oc=5": {
+    "title": "賴清德拚30年拿3諾獎！台灣高等研究學院卻傳「明年招生喊卡」 教育部回應了 | 劉庭宇 | 新聞 - 風傳媒",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwWGt4R1BrSVNGUEo4dEhvUHUzTjBybWpfV1E3SnhHUlhWaTJvR2ZGbTNRT0U1VTVWR3dNMzJHVTBpYTdIb2plTVlkN3RfQQ?oc=5",
+    "published": "2026-10-26 17:46",
+    "images": [],
+    "summary": "賴清德拚30年拿3諾獎！台灣高等研究學院卻傳「明年招生喊卡」 教育部回應了 | 劉庭宇 | 新聞&nbsp;&nbsp;風傳媒",
+    "tags": "",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "賴清德拚30年拿3諾獎！台灣高等研究學院卻傳「明年招生喊卡」 教育部回應了 | 劉庭宇 | 新聞&nbsp;&nbsp;風傳媒",
+    "cn_title": "賴清德拚30年拿3諾獎！台灣高等研究學院卻傳「明年招生喊卡」 教育部回應了 | 劉庭宇 | 新聞 - 風傳媒",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "",
+    "source": "風傳媒"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5619300": {
     "title": "台灣高等研究學院依進度籌設 教育部：將招收全國科研潛力學生",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5619300",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學生事務與生活",
     "cn_tags": "大學生, 國立臺灣大學",
     "source": "UDN 文教"
-  },
-  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52S1JId21xM0pZS2RXc1BMQkdWRl9jbUtYWmRtb2ROcUhWUzFSU0Z3VmFRc2ZsN2VLVndvV1poOVJjLWpoaGxjN3l5MEhMZw?oc=5": {
-    "title": "押注矽光子賽道，中正大學打造產學新鏈結 - 遠見雜誌",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52S1JId21xM0pZS2RXc1BMQkdWRl9jbUtYWmRtb2ROcUhWUzFSU0Z3VmFRc2ZsN2VLVndvV1poOVJjLWpoaGxjN3l5MEhMZw?oc=5",
-    "published": "2026-10-14 10:00",
-    "images": [],
-    "summary": "押注矽光子賽道，中正大學打造產學新鏈結&nbsp;&nbsp;遠見雜誌",
-    "tags": "國立中正大學",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "押注矽光子賽道，中正大學打造產學新鏈結&nbsp;&nbsp;遠見雜誌",
-    "cn_title": "押注矽光子賽道，中正大學打造產學新鏈結 - 遠見雜誌",
-    "cn_classes": "其他",
-    "cn_tags": "國立中正大學",
-    "source": "遠見雜誌"
   }
 }
