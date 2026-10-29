@@ -1,4 +1,19 @@
 {
+  "https://udn.com/news/story/6885/9844392": {
+    "title": "教育部重申台灣高等研究學院無延宕 以特殊選才招生",
+    "link": "https://udn.com/news/story/6885/9844392",
+    "published": "2026-10-29 12:55",
+    "images": [],
+    "summary": "教育部長鄭英耀今天在立法院重申，台灣高等研究學院（TAAS）沒有延宕，規劃119學年度以現有的「特殊選才」管道招生，培育...",
+    "tags": "",
+    "classes": "政策與法規",
+    "is_target": "True",
+    "cn_summary": "教育部長鄭英耀今天在立法院重申，台灣高等研究學院（TAAS）沒有延宕，規劃119學年度以現有的「特殊選才」管道招生，培育...",
+    "cn_title": "教育部重申台灣高等研究學院無延宕 以特殊選才招生",
+    "cn_classes": "政策與法規",
+    "cn_tags": "",
+    "source": "UDN 文教"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5622403": {
     "title": "高分署推大專青年預聘計畫起跑 在學期間就有薪水拿",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5622403",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立中央大學, 研究所, 教授, 大專",
     "source": "自由時報"
-  },
-  "https://www.cna.com.tw/news/ahel/202610150153.aspx": {
-    "title": "校事會議改革防濫訴　教育部補助教師法律諮詢",
-    "link": "https://www.cna.com.tw/news/ahel/202610150153.aspx",
-    "published": "2026-10-15 14:35",
-    "images": [],
-    "summary": "（中央社記者陳至中台北15日電）校園濫訴議題受到社會重視，教育部近日正式公布要點，將協助地方政府建立法律諮詢服務機制，協助涉及不適任事件調查的教師，同一事件以每人新台幣3萬元為原則。",
-    "tags": "",
-    "classes": "在地連結與社會責任（USR）",
-    "is_target": "True",
-    "cn_summary": "（中央社記者陳至中台北15日電）校園濫訴議題受到社會重視，教育部近日正式公布要點，將協助地方政府建立法律諮詢服務機制，協助涉及不適任事件調查的教師，同一事件以每人新台幣3萬元為原則。",
-    "cn_title": "校事會議改革防濫訴　教育部補助教師法律諮詢",
-    "cn_classes": "在地連結與社會責任（USR）",
-    "cn_tags": "",
-    "source": "中央社"
   }
 }
