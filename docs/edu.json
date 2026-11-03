@@ -1,4 +1,19 @@
 {
+  "https://udn.com/news/story/6885/9854285": {
+    "title": "亞太平洋青年科學家會議 我代表隊囊括4金1銀2銅",
+    "link": "https://udn.com/news/story/6885/9854285",
+    "published": "2026-11-03 13:50",
+    "images": [],
+    "summary": "第15屆亞太平洋青年科學家會議（Asia-Pacific Conference of Young Scientists, APCYS 2026）10月底於泰國呵叻府舉行，匯聚來自10個國家與地區的青年學生，交流科學研究成果。台灣學生代表隊本屆參賽7項作品全數獲獎，榮獲4面金牌、1面銀牌、2面銅牌及4項最佳海報獎，展現台灣學生科學研究與創新實作的優異表現。",
+    "tags": "",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "第15屆亞太平洋青年科學家會議（Asia-Pacific Conference of Young Scientists, APCYS 2026）10月底於泰國呵叻府舉行，匯聚來自10個國家與地區的青年學生，交流科學研究成果。台灣學生代表隊本屆參賽7項作品全數獲獎，榮獲4面金牌、1面銀牌、2面銅牌及4項最佳海報獎，展現台灣學生科學研究與創新實作的優異表現。",
+    "cn_title": "亞太平洋青年科學家會議 我代表隊囊括4金1銀2銅",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "",
+    "source": "UDN 文教"
+  },
   "https://udn.com/news/story/6928/9854174": {
     "title": "長庚大學台日團隊突破二維半導體瓶頸 有望取代傳統矽材料",
     "link": "https://udn.com/news/story/6928/9854174",
@@ -3582,21 +3597,6 @@
     "cn_title": "青年署推職涯輔導 結合AI與職場體驗助大學生定位未來",
     "cn_classes": "學生事務與生活",
     "cn_tags": "國立暨南國際大學, 東海大學, 大學生, 大專",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/politics/breakingnews/5611387": {
-    "title": "竹市「智慧治理X行動參與論壇」登場  高虹安：多元觀點激盪智慧治理新思維",
-    "link": "https://news.ltn.com.tw/news/politics/breakingnews/5611387",
-    "published": "2026-10-19 17:09",
-    "images": [],
-    "summary": "為持續推動「智慧治理」施政策略，打造科技創新城市，新竹市政府今舉辦「智慧治理X行動參與論壇」。論壇以「AI驅動城市新未來」為核心，邀集產學界專家及青年創新團隊齊聚交流，探討AI...…",
-    "tags": "學界",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "為持續推動「智慧治理」施政策略，打造科技創新城市，新竹市政府今舉辦「智慧治理X行動參與論壇」。論壇以「AI驅動城市新未來」為核心，邀集產學界專家及青年創新團隊齊聚交流，探討AI...…",
-    "cn_title": "竹市「智慧治理X行動參與論壇」登場  高虹安：多元觀點激盪智慧治理新思維",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "學界",
     "source": "自由時報"
   }
 }
