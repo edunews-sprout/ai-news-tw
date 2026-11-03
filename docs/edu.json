@@ -1,4 +1,34 @@
 {
+  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14aFktdWFHcHExZDVrcGpwY2I2SmVGYTd4dm9LYTBTc0hVbUMyeHozMVVTdG1JNHlhV1ZaOUtrT1pOV3U4YTU1SG01Z0tXTVpIQV9yZXhURHIyTmE3ZlBjLXZ1Tm9sZw?oc=5": {
+    "title": "靜宜大學深化台日產學合作以地方創生培育國際觀光人才- 新消息- Campus - 中時新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14aFktdWFHcHExZDVrcGpwY2I2SmVGYTd4dm9LYTBTc0hVbUMyeHozMVVTdG1JNHlhV1ZaOUtrT1pOV3U4YTU1SG01Z0tXTVpIQV9yZXhURHIyTmE3ZlBjLXZ1Tm9sZw?oc=5",
+    "published": "2026-11-03 17:15",
+    "images": [],
+    "summary": "靜宜大學深化台日產學合作以地方創生培育國際觀光人才- 新消息- Campus&nbsp;&nbsp;中時新聞網",
+    "tags": "產學合作, 靜宜大學",
+    "classes": "產學合作",
+    "is_target": "True",
+    "cn_summary": "靜宜大學深化台日產學合作以地方創生培育國際觀光人才- 新消息- Campus&nbsp;&nbsp;中時新聞網",
+    "cn_title": "靜宜大學深化台日產學合作以地方創生培育國際觀光人才- 新消息- Campus - 中時新聞網",
+    "cn_classes": "產學合作",
+    "cn_tags": "產學合作, 靜宜大學",
+    "source": "中國時報"
+  },
+  "https://news.ltn.com.tw/news/life/breakingnews/5628043": {
+    "title": "聖安德魯斯大學造訪中研院 聚焦台灣研究與跨域科研合作",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5628043",
+    "published": "2026-11-03 16:57",
+    "images": [],
+    "summary": "英國頂尖學府聖安德魯斯大學校長莎莉・梅普斯頓女爵士近日率團訪台，首站到中研院，目的在深化人文社會科學交流，並就台灣與東亞歷史、生醫、淨零科技，以及國際人才培育等議題進行討論。中...…",
+    "tags": "大學",
+    "classes": "國際交流與合作",
+    "is_target": "True",
+    "cn_summary": "英國頂尖學府聖安德魯斯大學校長莎莉・梅普斯頓女爵士近日率團訪台，首站到中研院，目的在深化人文社會科學交流，並就台灣與東亞歷史、生醫、淨零科技，以及國際人才培育等議題進行討論。中...…",
+    "cn_title": "聖安德魯斯大學造訪中研院 聚焦台灣研究與跨域科研合作",
+    "cn_classes": "國際交流與合作",
+    "cn_tags": "大學",
+    "source": "自由時報"
+  },
   "https://udn.com/news/story/6885/9854599": {
     "title": "校園不法侵害指引被批「照搬企業版」9大教師工會要求教育部停止強推",
     "link": "https://udn.com/news/story/6885/9854599",
@@ -3568,35 +3598,5 @@
     "cn_classes": "政策與法規",
     "cn_tags": "",
     "source": "UDN 文教"
-  },
-  "https://news.ltn.com.tw/news/HsinchuCounty/breakingnews/5612056": {
-    "title": "大學教授、工程師助攻徐欣瑩 打造「政績跑酷遊戲」",
-    "link": "https://news.ltn.com.tw/news/HsinchuCounty/breakingnews/5612056",
-    "published": "2026-10-20 11:39",
-    "images": [],
-    "summary": "國民黨新竹縣長候選人徐欣瑩陣營獲得竹北的大學教授、工程師MK助攻，他們共同開發充滿科技感與在地特色的網頁遊戲《欣瑩政績遊戲大廳》，設計出跑酷、打地鼠等13款闖關遊戲，把徐欣瑩過...…",
-    "tags": "大學, 教授",
-    "classes": "在地連結與社會責任（USR）",
-    "is_target": "True",
-    "cn_summary": "國民黨新竹縣長候選人徐欣瑩陣營獲得竹北的大學教授、工程師MK助攻，他們共同開發充滿科技感與在地特色的網頁遊戲《欣瑩政績遊戲大廳》，設計出跑酷、打地鼠等13款闖關遊戲，把徐欣瑩過...…",
-    "cn_title": "大學教授、工程師助攻徐欣瑩 打造「政績跑酷遊戲」",
-    "cn_classes": "在地連結與社會責任（USR）",
-    "cn_tags": "大學, 教授",
-    "source": "自由時報"
-  },
-  "https://www.cna.com.tw/news/acn/202610200077.aspx": {
-    "title": "陸交換生驅逐出境　陸委會：該生行為與入境宗旨不符",
-    "link": "https://www.cna.com.tw/news/acn/202610200077.aspx",
-    "published": "2026-10-20 11:32",
-    "images": [],
-    "summary": "（中央社記者李雅雯台北20日電）台大王姓陸生在社群平台發出總統賴清德側錄影片，搭配統戰文字，移民署決議廢止入境許可、驅逐出境。陸委會表示，該生行為激起台灣社會激辯，這與最初允許入境宗旨不相符。",
-    "tags": "國立臺灣大學",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "（中央社記者李雅雯台北20日電）台大王姓陸生在社群平台發出總統賴清德側錄影片，搭配統戰文字，移民署決議廢止入境許可、驅逐出境。陸委會表示，該生行為激起台灣社會激辯，這與最初允許入境宗旨不相符。",
-    "cn_title": "陸交換生驅逐出境　陸委會：該生行為與入境宗旨不符",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "國立臺灣大學",
-    "source": "中央社"
   }
 }
