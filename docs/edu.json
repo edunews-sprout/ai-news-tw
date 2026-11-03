@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/def/breakingnews/5627608": {
+    "title": "凌霄航太攜手UFORCE簽署MOU 強化AI無人載具布局",
+    "link": "https://news.ltn.com.tw/news/def/breakingnews/5627608",
+    "published": "2026-11-03 12:27",
+    "images": [],
+    "summary": "2026台灣海洋科技暨無人載具展今起一連3天在大台南會展中心登場，以AI為技術發展核心的凌霄航太宣布，將由有「無人機國家隊隊長」美譽的羅正方博士代表，與國防科技公司UFORCE...…",
+    "tags": "",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "2026台灣海洋科技暨無人載具展今起一連3天在大台南會展中心登場，以AI為技術發展核心的凌霄航太宣布，將由有「無人機國家隊隊長」美譽的羅正方博士代表，與國防科技公司UFORCE...…",
+    "cn_title": "凌霄航太攜手UFORCE簽署MOU 強化AI無人載具布局",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "",
+    "source": "自由時報"
+  },
   "https://www.cna.com.tw/news/ahel/202611030038.aspx": {
     "title": "116年大學入學3管道簡章公告　戴智慧眼鏡視同舞弊不計分",
     "link": "https://www.cna.com.tw/news/ahel/202611030038.aspx",
@@ -3582,21 +3597,6 @@
     "cn_title": "海委會推海洋文化領航計畫 傳統造舟技藝走入全民生活",
     "cn_classes": "其他",
     "cn_tags": "科技大學, 文化",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5611323": {
-    "title": "算力中心用電怎麼解？ 清大攜美商研發微型反應器",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5611323",
-    "published": "2026-10-19 16:11",
-    "images": [],
-    "summary": "AI算力與資料中心發展帶動用電需求，國立清華大學今（19）日與美國NuCube Energy簽署合作協議，評估微型模組化反應器（MMR）的研究應用與部署可行性。清大原子科學院院...…",
-    "tags": "國立清華大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "AI算力與資料中心發展帶動用電需求，國立清華大學今（19）日與美國NuCube Energy簽署合作協議，評估微型模組化反應器（MMR）的研究應用與部署可行性。清大原子科學院院...…",
-    "cn_title": "算力中心用電怎麼解？ 清大攜美商研發微型反應器",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "國立清華大學",
     "source": "自由時報"
   }
 }
