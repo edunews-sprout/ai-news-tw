@@ -1,4 +1,19 @@
 {
+  "https://www.cna.com.tw/news/ahel/202611030038.aspx": {
+    "title": "116年大學入學3管道簡章公告　戴智慧眼鏡視同舞弊不計分",
+    "link": "https://www.cna.com.tw/news/ahel/202611030038.aspx",
+    "published": "2026-11-03 09:36",
+    "images": [],
+    "summary": "（中央社記者陳至中台北3日電）大學招生委員會聯合會今天公告116學年度3入學管道簡章，加重懲處電子舞弊，且考生如果學測被取消考試資格，無法參加繁星、申請入學，分發入學只要採計學測校系也不予分發。",
+    "tags": "申請入學, 大學, 學測, 繁星",
+    "classes": "校園受社會關注事件",
+    "is_target": "True",
+    "cn_summary": "（中央社記者陳至中台北3日電）大學招生委員會聯合會今天公告116學年度3入學管道簡章，加重懲處電子舞弊，且考生如果學測被取消考試資格，無法參加繁星、申請入學，分發入學只要採計學測校系也不予分發。",
+    "cn_title": "116年大學入學3管道簡章公告　戴智慧眼鏡視同舞弊不計分",
+    "cn_classes": "校園受社會關注事件",
+    "cn_tags": "申請入學, 大學, 學測, 繁星",
+    "source": "中央社"
+  },
   "https://news.ltn.com.tw/news/life/paper/1776989": {
     "title": "鎖定核心醫療產業 陽明交大苗栗校區動土",
     "link": "https://news.ltn.com.tw/news/life/paper/1776989",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立清華大學",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03allDeFRRcGNsZVlnZHlSN3ZvYXlwUG1WYmdWTlBDQlg2QzJOZVJaVXlnNFNVQm14TWFyRFBTUDZockp3cVhZRlB4RTVnakVhdE0xa2RMYVVNSVpsRUHSAUtBVV95cUxOSlRmT3F6eXZUZzBEMEhVdDk2UEF1V0NpdGs1R1hYZXFUb1hBOE9xWVV6Z0NEMEp2eFdMU0pNZk5fR1JJaWI2cXU0WUE?oc=5": {
-    "title": "這蛤蟆能吃！斑點皺褶都像真的　陸大學「青蛙王子」蛋糕搶到缺貨 - ETtoday新聞雲",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03allDeFRRcGNsZVlnZHlSN3ZvYXlwUG1WYmdWTlBDQlg2QzJOZVJaVXlnNFNVQm14TWFyRFBTUDZockp3cVhZRlB4RTVnakVhdE0xa2RMYVVNSVpsRUHSAUtBVV95cUxOSlRmT3F6eXZUZzBEMEhVdDk2UEF1V0NpdGs1R1hYZXFUb1hBOE9xWVV6Z0NEMEp2eFdMU0pNZk5fR1JJaWI2cXU0WUE?oc=5",
-    "published": "2026-10-19 15:58",
-    "images": [],
-    "summary": "這蛤蟆能吃！斑點皺褶都像真的 陸大學「青蛙王子」蛋糕搶到缺貨&nbsp;&nbsp;ETtoday新聞雲",
-    "tags": "大學",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "這蛤蟆能吃！斑點皺褶都像真的 陸大學「青蛙王子」蛋糕搶到缺貨&nbsp;&nbsp;ETtoday新聞雲",
-    "cn_title": "這蛤蟆能吃！斑點皺褶都像真的　陸大學「青蛙王子」蛋糕搶到缺貨 - ETtoday新聞雲",
-    "cn_classes": "其他",
-    "cn_tags": "大學",
-    "source": "ETtoday"
   }
 }
