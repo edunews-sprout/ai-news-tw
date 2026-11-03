@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5628121": {
+    "title": "教育部公布國家產學大師得主 高科大陳政任、北科大姚立德獲獎",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5628121",
+    "published": "2026-11-03 17:55",
+    "images": [],
+    "summary": "教育部今天公布115年度國家產學大師獎獲獎名單，共有2位教師獲得殊榮，分別為工程領域的高科大教授陳政任及電資領域的北科大教授姚立德。 國家產學大師獎分為「工程」、「電資」...…",
+    "tags": "國立高雄科技大學, 國立臺北科技大學, 教授",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "教育部今天公布115年度國家產學大師獎獲獎名單，共有2位教師獲得殊榮，分別為工程領域的高科大教授陳政任及電資領域的北科大教授姚立德。 國家產學大師獎分為「工程」、「電資」...…",
+    "cn_title": "教育部公布國家產學大師得主 高科大陳政任、北科大姚立德獲獎",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立高雄科技大學, 國立臺北科技大學, 教授",
+    "source": "自由時報"
+  },
   "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14aFktdWFHcHExZDVrcGpwY2I2SmVGYTd4dm9LYTBTc0hVbUMyeHozMVVTdG1JNHlhV1ZaOUtrT1pOV3U4YTU1SG01Z0tXTVpIQV9yZXhURHIyTmE3ZlBjLXZ1Tm9sZw?oc=5": {
     "title": "靜宜大學深化台日產學合作以地方創生培育國際觀光人才- 新消息- Campus - 中時新聞網",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14aFktdWFHcHExZDVrcGpwY2I2SmVGYTd4dm9LYTBTc0hVbUMyeHozMVVTdG1JNHlhV1ZaOUtrT1pOV3U4YTU1SG01Z0tXTVpIQV9yZXhURHIyTmE3ZlBjLXZ1Tm9sZw?oc=5",
@@ -28,6 +43,21 @@
     "cn_classes": "國際交流與合作",
     "cn_tags": "大學",
     "source": "自由時報"
+  },
+  "https://www.cna.com.tw/news/ahel/202611030204.aspx": {
+    "title": "國家產學大師揭曉　姚立德、陳政任獲得殊榮",
+    "link": "https://www.cna.com.tw/news/ahel/202611030204.aspx",
+    "published": "2026-11-03 15:58",
+    "images": [],
+    "summary": "（中央社記者陳至中台北3日電）教育部今天揭曉115年度國家產學大師獎，共有2人獲得殊榮，包括擅長能源科技與AI的台北科技大學教授姚立德，以及深耕化學安全與緊急應變的高雄科技大學教授陳政任。",
+    "tags": "科技大學, 教授, 北科",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "（中央社記者陳至中台北3日電）教育部今天揭曉115年度國家產學大師獎，共有2人獲得殊榮，包括擅長能源科技與AI的台北科技大學教授姚立德，以及深耕化學安全與緊急應變的高雄科技大學教授陳政任。",
+    "cn_title": "國家產學大師揭曉　姚立德、陳政任獲得殊榮",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "科技大學, 教授, 北科",
+    "source": "中央社"
   },
   "https://udn.com/news/story/6885/9854599": {
     "title": "校園不法侵害指引被批「照搬企業版」9大教師工會要求教育部停止強推",
@@ -73,6 +103,21 @@
     "cn_classes": "學生事務與生活",
     "cn_tags": "國立中央大學, 大學生",
     "source": "自由時報"
+  },
+  "https://www.cna.com.tw/news/ahel/202611030179.aspx": {
+    "title": "英頂尖大學首訪中研院  擬設「台灣研究講座」",
+    "link": "https://www.cna.com.tw/news/ahel/202611030179.aspx",
+    "published": "2026-11-03 14:56",
+    "images": [],
+    "summary": "（中央社記者吳欣紜台北3日電）英國頂尖學府聖安德魯斯大學校長莎莉・梅普斯頓率團訪問中研院，中研院表示，莎莉・梅普斯頓盼成立「台灣研究講座」，與台灣就東亞研究與地緣政治等領域進行合作。",
+    "tags": "大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "（中央社記者吳欣紜台北3日電）英國頂尖學府聖安德魯斯大學校長莎莉・梅普斯頓率團訪問中研院，中研院表示，莎莉・梅普斯頓盼成立「台灣研究講座」，與台灣就東亞研究與地緣政治等領域進行合作。",
+    "cn_title": "英頂尖大學首訪中研院  擬設「台灣研究講座」",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "大學",
+    "source": "中央社"
   },
   "https://news.ltn.com.tw/news/def/breakingnews/5627882": {
     "title": "F-22精彩照片感動國外 國防大學嚴力行少校奪AIT「美國創新」首獎",
@@ -3553,50 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "大學, 學位",
     "source": "自由時報"
-  },
-  "https://health.ltn.com.tw/article/breakingnews/5612085": {
-    "title": "台大醫院攜手威剛開發消毒利器！一晚可省4清潔人力",
-    "link": "https://health.ltn.com.tw/article/breakingnews/5612085",
-    "published": "2026-10-20 12:00",
-    "images": [],
-    "summary": "台大醫院攜手威剛科技，共同發表「新世代AI智慧自主移動消毒方案」，打造可以自主移動的機器人平台、AI物件辨識與機械手臂技術，使系統能自動辨識需要消毒的物件，精準執行消毒任...…",
-    "tags": "國立臺灣大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "台大醫院攜手威剛科技，共同發表「新世代AI智慧自主移動消毒方案」，打造可以自主移動的機器人平台、AI物件辨識與機械手臂技術，使系統能自動辨識需要消毒的物件，精準執行消毒任...…",
-    "cn_title": "台大醫院攜手威剛開發消毒利器！一晚可省4清潔人力",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "國立臺灣大學",
-    "source": "自由時報"
-  },
-  "https://udn.com/news/story/6885/9825807": {
-    "title": "影／幼教代理鬆綁惹議 9大教育產業工會怒吼：撤回惡法還我專業尊嚴",
-    "link": "https://udn.com/news/story/6885/9825807",
-    "published": "2026-10-20 11:51",
-    "images": [],
-    "summary": "針對教育部近期預告的兩項幼教法規修正草案，台灣教育產業工會（台教產）等9大教育工會今天舉行記者會，批教育部深陷「進用端全面鬆綁資格把關」與「待遇端缺乏跨體系配套」的傲慢狀態。工會代表強烈呼籲教育部立即撤回修法草案，切勿以「假減量」、「撒錢補貼」來掩飾制度漏洞。",
-    "tags": "",
-    "classes": "政策與法規",
-    "is_target": "True",
-    "cn_summary": "針對教育部近期預告的兩項幼教法規修正草案，台灣教育產業工會（台教產）等9大教育工會今天舉行記者會，批教育部深陷「進用端全面鬆綁資格把關」與「待遇端缺乏跨體系配套」的傲慢狀態。工會代表強烈呼籲教育部立即撤回修法草案，切勿以「假減量」、「撒錢補貼」來掩飾制度漏洞。",
-    "cn_title": "影／幼教代理鬆綁惹議 9大教育產業工會怒吼：撤回惡法還我專業尊嚴",
-    "cn_classes": "政策與法規",
-    "cn_tags": "",
-    "source": "UDN 文教"
-  },
-  "https://udn.com/news/story/6885/9825769": {
-    "title": "幼教調薪無視制度配套、代理鬆綁惹議 教團批配套不足衝擊專業",
-    "link": "https://udn.com/news/story/6885/9825769",
-    "published": "2026-10-20 11:42",
-    "images": [],
-    "summary": "教育部近日預告修正幼教人員敘薪及代理進用規定，引發教團反彈。台灣教育產業工會今天召開記者會，批評調薪未補齊制度配套，代理資格鬆綁更衝擊專業，要求撤回爭議草案，全面檢討幼教勞動條件。",
-    "tags": "",
-    "classes": "政策與法規",
-    "is_target": "True",
-    "cn_summary": "教育部近日預告修正幼教人員敘薪及代理進用規定，引發教團反彈。台灣教育產業工會今天召開記者會，批評調薪未補齊制度配套，代理資格鬆綁更衝擊專業，要求撤回爭議草案，全面檢討幼教勞動條件。",
-    "cn_title": "幼教調薪無視制度配套、代理鬆綁惹議 教團批配套不足衝擊專業",
-    "cn_classes": "政策與法規",
-    "cn_tags": "",
-    "source": "UDN 文教"
   }
 }
