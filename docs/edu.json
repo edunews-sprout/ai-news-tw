@@ -1,4 +1,19 @@
 {
+  "https://udn.com/news/story/6928/9854174": {
+    "title": "長庚大學台日團隊突破二維半導體瓶頸 有望取代傳統矽材料",
+    "link": "https://udn.com/news/story/6928/9854174",
+    "published": "2026-11-03 13:05",
+    "images": [],
+    "summary": "隨AI、高效能運算的發展，業界正尋求能取代傳統矽材料的新世代二維半導體。長庚大學今召開記者會，台日跨國團隊突破長年瓶頸，開發全球罕見、可晶圓級製造的高遷移率p型「硼碳氮（BCN）」二維半導體，p型BCN可望與n型二維半導體整合，形成互補式二維電子元件，也為次世代晶片奠定基礎。",
+    "tags": "長庚大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "隨AI、高效能運算的發展，業界正尋求能取代傳統矽材料的新世代二維半導體。長庚大學今召開記者會，台日跨國團隊突破長年瓶頸，開發全球罕見、可晶圓級製造的高遷移率p型「硼碳氮（BCN）」二維半導體，p型BCN可望與n型二維半導體整合，形成互補式二維電子元件，也為次世代晶片奠定基礎。",
+    "cn_title": "長庚大學台日團隊突破二維半導體瓶頸 有望取代傳統矽材料",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "長庚大學",
+    "source": "UDN 文教"
+  },
   "https://news.ltn.com.tw/news/def/breakingnews/5627608": {
     "title": "凌霄航太攜手UFORCE簽署MOU 強化AI無人載具布局",
     "link": "https://news.ltn.com.tw/news/def/breakingnews/5627608",
@@ -3582,21 +3597,6 @@
     "cn_title": "竹市「智慧治理X行動參與論壇」登場  高虹安：多元觀點激盪智慧治理新思維",
     "cn_classes": "學術研究與創新",
     "cn_tags": "學界",
-    "source": "自由時報"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5611377": {
-    "title": "海委會推海洋文化領航計畫 傳統造舟技藝走入全民生活",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5611377",
-    "published": "2026-10-19 17:05",
-    "images": [],
-    "summary": "海洋委員會推動航海文化復振，高雄科技大學與台灣TAMORAK文教協會首度跨界聯手，藉由造船實作經驗分享及航行體驗，帶領民眾認識傳統造舟技藝與航海文化，帶動親子親海體驗，開啟全民...…",
-    "tags": "科技大學, 文化",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "海洋委員會推動航海文化復振，高雄科技大學與台灣TAMORAK文教協會首度跨界聯手，藉由造船實作經驗分享及航行體驗，帶領民眾認識傳統造舟技藝與航海文化，帶動親子親海體驗，開啟全民...…",
-    "cn_title": "海委會推海洋文化領航計畫 傳統造舟技藝走入全民生活",
-    "cn_classes": "其他",
-    "cn_tags": "科技大學, 文化",
     "source": "自由時報"
   }
 }
