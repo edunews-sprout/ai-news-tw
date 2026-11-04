@@ -119,6 +119,21 @@
     "cn_tags": "國立高雄科技大學, 國立臺北科技大學, 教授",
     "source": "自由時報"
   },
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03Zm1SdmVLc21welVyR1o3dHR4ZTVhMWlyXzVWbVlIQTQ4Rm5kQUpsRkZUS2I4dkxyNGJCWEVnUGlfUFNrbFY1SzNTdHJrQQ?oc=5": {
+    "title": "長庚大學攜手台日團隊突破二維半導體瓶頸 0.5奈米單層材料躍登《Nature》 | 王秀禾 | 地方新聞 - 風傳媒",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03Zm1SdmVLc21welVyR1o3dHR4ZTVhMWlyXzVWbVlIQTQ4Rm5kQUpsRkZUS2I4dkxyNGJCWEVnUGlfUFNrbFY1SzNTdHJrQQ?oc=5",
+    "published": "2026-11-03 17:17",
+    "images": [],
+    "summary": "長庚大學攜手台日團隊突破二維半導體瓶頸 0.5奈米單層材料躍登《Nature》 | 王秀禾 | 地方新聞&nbsp;&nbsp;風傳媒",
+    "tags": "長庚大學",
+    "classes": "在地連結與社會責任（USR）",
+    "is_target": "True",
+    "cn_summary": "長庚大學攜手台日團隊突破二維半導體瓶頸 0.5奈米單層材料躍登《Nature》 | 王秀禾 | 地方新聞&nbsp;&nbsp;風傳媒",
+    "cn_title": "長庚大學攜手台日團隊突破二維半導體瓶頸 0.5奈米單層材料躍登《Nature》 | 王秀禾 | 地方新聞 - 風傳媒",
+    "cn_classes": "在地連結與社會責任（USR）",
+    "cn_tags": "長庚大學",
+    "source": "風傳媒"
+  },
   "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14aFktdWFHcHExZDVrcGpwY2I2SmVGYTd4dm9LYTBTc0hVbUMyeHozMVVTdG1JNHlhV1ZaOUtrT1pOV3U4YTU1SG01Z0tXTVpIQV9yZXhURHIyTmE3ZlBjLXZ1Tm9sZw?oc=5": {
     "title": "靜宜大學深化台日產學合作以地方創生培育國際觀光人才- 新消息- Campus - 中時新聞網",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14aFktdWFHcHExZDVrcGpwY2I2SmVGYTd4dm9LYTBTc0hVbUMyeHozMVVTdG1JNHlhV1ZaOUtrT1pOV3U4YTU1SG01Z0tXTVpIQV9yZXhURHIyTmE3ZlBjLXZ1Tm9sZw?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "校園受社會關注事件",
     "cn_tags": "國立清華大學",
     "source": "中央社"
-  },
-  "https://news.ltn.com.tw/news/society/breakingnews/5612800": {
-    "title": "清大化學館傍晚火警  疑實驗不慎起火",
-    "link": "https://news.ltn.com.tw/news/society/breakingnews/5612800",
-    "published": "2026-10-20 19:15",
-    "images": [],
-    "summary": "國立清華大學化學館傍晚發生火警，7樓實驗室進行化學反應時，禁水性物質不慎燃燒，所幸消防人員迅速撲滅火勢，無人員受困受傷。 新竹市消防局傍晚5點33分受理報案，5點42分趕...…",
-    "tags": "國立清華大學",
-    "classes": "校園受社會關注事件",
-    "is_target": "True",
-    "cn_summary": "國立清華大學化學館傍晚發生火警，7樓實驗室進行化學反應時，禁水性物質不慎燃燒，所幸消防人員迅速撲滅火勢，無人員受困受傷。 新竹市消防局傍晚5點33分受理報案，5點42分趕...…",
-    "cn_title": "清大化學館傍晚火警  疑實驗不慎起火",
-    "cn_classes": "校園受社會關注事件",
-    "cn_tags": "國立清華大學",
-    "source": "自由時報"
   }
 }
