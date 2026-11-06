@@ -119,6 +119,21 @@
     "cn_tags": "東海大學, 國立體育大學",
     "source": "UDN 文教"
   },
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05bENZTElqZEhSTGpOZEFhRW1na3pTcVJPSGV5TWhTaWVNQmo0SWN1XzF4TU51a2toMEJIaGNPUm1sRXBsa2JlWGdkOHBHQQ?oc=5": {
+    "title": "徐欣瑩推AI智慧交通、科技產業雙引擎葛如鈞、葉匡時及產學專家肯定科技治縣願景| 何長澤| 地方新聞 - 風傳媒",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05bENZTElqZEhSTGpOZEFhRW1na3pTcVJPSGV5TWhTaWVNQmo0SWN1XzF4TU51a2toMEJIaGNPUm1sRXBsa2JlWGdkOHBHQQ?oc=5",
+    "published": "2026-11-05 13:12",
+    "images": [],
+    "summary": "徐欣瑩推AI智慧交通、科技產業雙引擎葛如鈞、葉匡時及產學專家肯定科技治縣願景| 何長澤| 地方新聞&nbsp;&nbsp;風傳媒",
+    "tags": "",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "徐欣瑩推AI智慧交通、科技產業雙引擎葛如鈞、葉匡時及產學專家肯定科技治縣願景| 何長澤| 地方新聞&nbsp;&nbsp;風傳媒",
+    "cn_title": "徐欣瑩推AI智慧交通、科技產業雙引擎葛如鈞、葉匡時及產學專家肯定科技治縣願景| 何長澤| 地方新聞 - 風傳媒",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "",
+    "source": "風傳媒"
+  },
   "https://udn.com/news/story/6885/9859009": {
     "title": "教師管教處處踩紅線 全教產籲提升學校法規位階、明訂家長責任",
     "link": "https://udn.com/news/story/6885/9859009",
@@ -3583,20 +3598,5 @@
     "cn_classes": "政策與法規",
     "cn_tags": "",
     "source": "風傳媒"
-  },
-  "https://udn.com/news/story/6885/9830369": {
-    "title": "校園唾液快篩待修法上路 國教盟籲明確分工、跨部會訂改善時程",
-    "link": "https://udn.com/news/story/6885/9830369",
-    "published": "2026-10-22 10:23",
-    "images": [],
-    "summary": "因應新興毒品氾濫，教育部擬在校園毒品篩檢擬新增唾液快篩工具。會前受訪時，鄭英耀表示，唾液篩檢較尿液篩檢方便、快速，待毒品危害防制條例修法通過後，將推動相關措施；國教盟青年部則呼籲教育部、衛福部、法務部及警政署提出具體改善時程與分工。",
-    "tags": "",
-    "classes": "政策與法規",
-    "is_target": "True",
-    "cn_summary": "因應新興毒品氾濫，教育部擬在校園毒品篩檢擬新增唾液快篩工具。會前受訪時，鄭英耀表示，唾液篩檢較尿液篩檢方便、快速，待毒品危害防制條例修法通過後，將推動相關措施；國教盟青年部則呼籲教育部、衛福部、法務部及警政署提出具體改善時程與分工。",
-    "cn_title": "校園唾液快篩待修法上路 國教盟籲明確分工、跨部會訂改善時程",
-    "cn_classes": "政策與法規",
-    "cn_tags": "",
-    "source": "UDN 文教"
   }
 }
