@@ -14,6 +14,21 @@
     "cn_tags": "高等教育, 產學合作, 教授, 文化",
     "source": "中央社"
   },
+  "https://www.cna.com.tw/news/asoc/202611060157.aspx": {
+    "title": "AI建自動化系統竊23萬筆台港泰個資　高雄警逮駭客",
+    "link": "https://www.cna.com.tw/news/asoc/202611060157.aspx",
+    "published": "2026-11-06 14:28",
+    "images": [],
+    "summary": "（中央社記者洪學廣高雄6日電）林姓男子以人工智慧（AI）學程式撰寫，建置自動化網路攻擊系統，竊取台灣、香港與泰國等超過23萬筆個人資料在暗網販售。高雄警方循線逮捕，雄檢訊後諭令新台幣3萬元交保。",
+    "tags": "",
+    "classes": "校園受社會關注事件",
+    "is_target": "True",
+    "cn_summary": "（中央社記者洪學廣高雄6日電）林姓男子以人工智慧（AI）學程式撰寫，建置自動化網路攻擊系統，竊取台灣、香港與泰國等超過23萬筆個人資料在暗網販售。高雄警方循線逮捕，雄檢訊後諭令新台幣3萬元交保。",
+    "cn_title": "AI建自動化系統竊23萬筆台港泰個資　高雄警逮駭客",
+    "cn_classes": "校園受社會關注事件",
+    "cn_tags": "",
+    "source": "中央社"
+  },
   "https://news.ltn.com.tw/news/society/breakingnews/5631569": {
     "title": "怕爆！東海大學外YouBike整排車籃驚見紅包 沒人敢騎",
     "link": "https://news.ltn.com.tw/news/society/breakingnews/5631569",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "科技大學, 大學生, 國立臺灣科技大學",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xbkRlcmhSWUYwRWZyNFFZMVdEbF9mRVFjekc0ZTFDSHdwN0VWM3dQTmdnbHpNTFVxSzM1bTZ1NVNfQ0I4SnFzdTA0Y3E3WHpWNFZWY29BLWNzd2ZlSkVUQzVfQXYyZw?oc=5": {
-    "title": "獲教育部2,800萬元補助！南應大導入NVIDIA H200 攜手東海大學打造地端AI算力中心- 新消息- Campus - 中時新聞網",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xbkRlcmhSWUYwRWZyNFFZMVdEbF9mRVFjekc0ZTFDSHdwN0VWM3dQTmdnbHpNTFVxSzM1bTZ1NVNfQ0I4SnFzdTA0Y3E3WHpWNFZWY29BLWNzd2ZlSkVUQzVfQXYyZw?oc=5",
-    "published": "2026-10-22 15:30",
-    "images": [],
-    "summary": "獲教育部2,800萬元補助！南應大導入NVIDIA H200 攜手東海大學打造地端AI算力中心- 新消息- Campus&nbsp;&nbsp;中時新聞網",
-    "tags": "東海大學, 南應大",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "獲教育部2,800萬元補助！南應大導入NVIDIA H200 攜手東海大學打造地端AI算力中心- 新消息- Campus&nbsp;&nbsp;中時新聞網",
-    "cn_title": "獲教育部2,800萬元補助！南應大導入NVIDIA H200 攜手東海大學打造地端AI算力中心- 新消息- Campus - 中時新聞網",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "東海大學, 南應大",
-    "source": "中國時報"
   }
 }
