@@ -1,4 +1,19 @@
 {
+  "https://ec.ltn.com.tw/article/breakingnews/5636106": {
+    "title": "工研院攜手產學醫研發腦波控制外骨骼 實測辨識準確率達92.5％",
+    "link": "https://ec.ltn.com.tw/article/breakingnews/5636106",
+    "published": "2026-11-10 18:40",
+    "images": [],
+    "summary": "為提升中風患者的復健品質與效率，工研院在經濟部產業技術司支持下，攜手陽明交通大學、臺灣大學開發「腦波控制外骨骼復健系統」，並與臺中榮民總醫院及高雄醫學大學附設中和紀念醫院...…",
+    "tags": "高雄醫學大學, 國立陽明交通大學, 國立臺灣大學",
+    "classes": "產學合作",
+    "is_target": "True",
+    "cn_summary": "為提升中風患者的復健品質與效率，工研院在經濟部產業技術司支持下，攜手陽明交通大學、臺灣大學開發「腦波控制外骨骼復健系統」，並與臺中榮民總醫院及高雄醫學大學附設中和紀念醫院...…",
+    "cn_title": "工研院攜手產學醫研發腦波控制外骨骼 實測辨識準確率達92.5％",
+    "cn_classes": "產學合作",
+    "cn_tags": "高雄醫學大學, 國立陽明交通大學, 國立臺灣大學",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5636041": {
     "title": "高為元騎驢找馬處置？清大意見普查排除校友 調查題目曝光",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5636041",
@@ -3583,20 +3598,5 @@
     "cn_classes": "其他",
     "cn_tags": "大學",
     "source": "中央社"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5621872": {
-    "title": "屏大「啟利蹲下」市集每週三登場 社福團體行銷產品新平台",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5621872",
-    "published": "2026-10-28 19:41",
-    "images": [],
-    "summary": "支持身心障礙者自立，國立屏東大學推動大學社會責任（USR）計畫，與屏縣社福機構合作，每週三在屏東大學創新育成中心前舉辦「啟利蹲下」共融市集，展售社福團體製作的清潔用品、烘焙產品...…",
-    "tags": "國立屏東大學",
-    "classes": "在地連結與社會責任（USR）",
-    "is_target": "True",
-    "cn_summary": "支持身心障礙者自立，國立屏東大學推動大學社會責任（USR）計畫，與屏縣社福機構合作，每週三在屏東大學創新育成中心前舉辦「啟利蹲下」共融市集，展售社福團體製作的清潔用品、烘焙產品...…",
-    "cn_title": "屏大「啟利蹲下」市集每週三登場 社福團體行銷產品新平台",
-    "cn_classes": "在地連結與社會責任（USR）",
-    "cn_tags": "國立屏東大學",
-    "source": "自由時報"
   }
 }
