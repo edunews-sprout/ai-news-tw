@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5636131": {
+    "title": "推動AI人才培育 澎縣府與澎科大、神通資訊簽署合作意向書",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5636131",
+    "published": "2026-11-10 19:38",
+    "images": [],
+    "summary": "澎湖縣政府、國立澎湖科技大學與神通資訊科技公司，今（10）日舉行「澎湖AI人才培育暨創新創業計畫」合作意向書簽署儀式。由副縣長林皆興與國立澎湖科技大學校長李文熙、神通資訊科技總...…",
+    "tags": "國立澎湖科技大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "澎湖縣政府、國立澎湖科技大學與神通資訊科技公司，今（10）日舉行「澎湖AI人才培育暨創新創業計畫」合作意向書簽署儀式。由副縣長林皆興與國立澎湖科技大學校長李文熙、神通資訊科技總...…",
+    "cn_title": "推動AI人才培育 澎縣府與澎科大、神通資訊簽署合作意向書",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立澎湖科技大學",
+    "source": "自由時報"
+  },
   "https://ec.ltn.com.tw/article/breakingnews/5636106": {
     "title": "工研院攜手產學醫研發腦波控制外骨骼 實測辨識準確率達92.5％",
     "link": "https://ec.ltn.com.tw/article/breakingnews/5636106",
@@ -3583,20 +3598,5 @@
     "cn_classes": "在地連結與社會責任（USR）",
     "cn_tags": "義守大學",
     "source": "風傳媒"
-  },
-  "https://www.cna.com.tw/news/aspt/202610280315.aspx": {
-    "title": "世界大學射擊錦標賽　台灣新星鄭晏晴單日雙金",
-    "link": "https://www.cna.com.tw/news/aspt/202610280315.aspx",
-    "published": "2026-10-28 20:36",
-    "images": [],
-    "summary": "（中央社記者陳容琛台北28日電）在公西靶場舉行的2026世界大學射擊錦標賽，名古屋亞運射擊國手鄭晏晴今天不僅摘下女子10公尺空氣手槍個人金牌，更攜手隊友鐘儀茹、林柔羽拿到團體金牌。",
-    "tags": "大學",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "（中央社記者陳容琛台北28日電）在公西靶場舉行的2026世界大學射擊錦標賽，名古屋亞運射擊國手鄭晏晴今天不僅摘下女子10公尺空氣手槍個人金牌，更攜手隊友鐘儀茹、林柔羽拿到團體金牌。",
-    "cn_title": "世界大學射擊錦標賽　台灣新星鄭晏晴單日雙金",
-    "cn_classes": "其他",
-    "cn_tags": "大學",
-    "source": "中央社"
   }
 }
