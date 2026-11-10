@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5636269": {
+    "title": "高雄北門里大改造！老舊公廁變身藝術館",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5636269",
+    "published": "2026-11-10 21:59",
+    "images": [],
+    "summary": "高雄市北門里保留大陳文化，過去生活型態公廁蓋在戶外，時代變遷荒廢無人使用，淪為社區髒亂點、治安死角，里長謝秀霞攜手正修科技大學建築與室內設計系師生，發揮創意改造為社區藝術館，展...…",
+    "tags": "正修科技大學, 文化",
+    "classes": "在地連結與社會責任（USR）",
+    "is_target": "True",
+    "cn_summary": "高雄市北門里保留大陳文化，過去生活型態公廁蓋在戶外，時代變遷荒廢無人使用，淪為社區髒亂點、治安死角，里長謝秀霞攜手正修科技大學建築與室內設計系師生，發揮創意改造為社區藝術館，展...…",
+    "cn_title": "高雄北門里大改造！老舊公廁變身藝術館",
+    "cn_classes": "在地連結與社會責任（USR）",
+    "cn_tags": "正修科技大學, 文化",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5636131": {
     "title": "推動AI人才培育 澎縣府與澎科大、神通資訊簽署合作意向書",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5636131",
@@ -13,6 +28,21 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立澎湖科技大學",
     "source": "自由時報"
+  },
+  "https://www.cna.com.tw/news/ahel/202611100314.aspx": {
+    "title": "高為元海外遴選爭議　清大校務會議決議辦全校意見調查",
+    "link": "https://www.cna.com.tw/news/ahel/202611100314.aspx",
+    "published": "2026-11-10 19:37",
+    "images": [],
+    "summary": "（中央社記者魯鋼駿新竹市10日電）國立清華大學校長高為元續任後參與海外大學校長遴選，引發議論。清大今天召開校務會議，決議針對高為元參與海外遴選對學校校譽及校務發展的影響，辦理全校教職員工生意見調查。",
+    "tags": "國立清華大學",
+    "classes": "校務治理與管理",
+    "is_target": "True",
+    "cn_summary": "（中央社記者魯鋼駿新竹市10日電）國立清華大學校長高為元續任後參與海外大學校長遴選，引發議論。清大今天召開校務會議，決議針對高為元參與海外遴選對學校校譽及校務發展的影響，辦理全校教職員工生意見調查。",
+    "cn_title": "高為元海外遴選爭議　清大校務會議決議辦全校意見調查",
+    "cn_classes": "校務治理與管理",
+    "cn_tags": "國立清華大學",
+    "source": "中央社"
   },
   "https://ec.ltn.com.tw/article/breakingnews/5636106": {
     "title": "工研院攜手產學醫研發腦波控制外骨骼 實測辨識準確率達92.5％",
@@ -3568,35 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立臺灣大學, 文化",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qUUZPZUs0T0piZnNtUEJOa3FWeDE1blJmVUIzTmtJTjN4U2FXbVBQbE9BSTlKOUlFQXdoZHhxRVJUeDI3aDhWQVBVZVhUZw?oc=5": {
-    "title": "吳敏求獲頒中央大學名譽博士！盼半導體成「護人神山」，救人應用優先供貨 | 魏鑫陽 | 財經 - 風傳媒",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qUUZPZUs0T0piZnNtUEJOa3FWeDE1blJmVUIzTmtJTjN4U2FXbVBQbE9BSTlKOUlFQXdoZHhxRVJUeDI3aDhWQVBVZVhUZw?oc=5",
-    "published": "2026-10-29 01:12",
-    "images": [],
-    "summary": "吳敏求獲頒中央大學名譽博士！盼半導體成「護人神山」，救人應用優先供貨 | 魏鑫陽 | 財經&nbsp;&nbsp;風傳媒",
-    "tags": "國立中央大學",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "吳敏求獲頒中央大學名譽博士！盼半導體成「護人神山」，救人應用優先供貨 | 魏鑫陽 | 財經&nbsp;&nbsp;風傳媒",
-    "cn_title": "吳敏求獲頒中央大學名譽博士！盼半導體成「護人神山」，救人應用優先供貨 | 魏鑫陽 | 財經 - 風傳媒",
-    "cn_classes": "其他",
-    "cn_tags": "國立中央大學",
-    "source": "風傳媒"
-  },
-  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51U2lWbk9RNFhtUUJLclMxaGlXV3pqU3JOdjhDYVRmZ0phTnBrbkVKcndSclgxaVc4NWduUzJuZzhGeHhscEk5WkR5NUxxQQ?oc=5": {
-    "title": "義守大學USR玩出AI新創意！燕巢長輩寫歌、學生製作CD 跨世代共創家鄉旋律| 徐炳文 | 地方新聞 - 風傳媒",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51U2lWbk9RNFhtUUJLclMxaGlXV3pqU3JOdjhDYVRmZ0phTnBrbkVKcndSclgxaVc4NWduUzJuZzhGeHhscEk5WkR5NUxxQQ?oc=5",
-    "published": "2026-10-28 22:35",
-    "images": [],
-    "summary": "義守大學USR玩出AI新創意！燕巢長輩寫歌、學生製作CD 跨世代共創家鄉旋律| 徐炳文 | 地方新聞&nbsp;&nbsp;風傳媒",
-    "tags": "義守大學",
-    "classes": "在地連結與社會責任（USR）",
-    "is_target": "True",
-    "cn_summary": "義守大學USR玩出AI新創意！燕巢長輩寫歌、學生製作CD 跨世代共創家鄉旋律| 徐炳文 | 地方新聞&nbsp;&nbsp;風傳媒",
-    "cn_title": "義守大學USR玩出AI新創意！燕巢長輩寫歌、學生製作CD 跨世代共創家鄉旋律| 徐炳文 | 地方新聞 - 風傳媒",
-    "cn_classes": "在地連結與社會責任（USR）",
-    "cn_tags": "義守大學",
-    "source": "風傳媒"
   }
 }
