@@ -1,4 +1,19 @@
 {
+  "https://udn.com/news/story/6928/9868084": {
+    "title": "羅丹青銅像無聲諫言：關於清大校長誠信風暴的集體省思",
+    "link": "https://udn.com/news/story/6928/9868084",
+    "published": "2026-11-10 07:30",
+    "images": [],
+    "summary": "近期清華大學因校長高為元赴美求職引發的骨牌效應，演變成一場高等教育的價值危機。在此權力真空與道德風暴交織的關鍵十字路口，校友謝宏亮選擇以羅丹的《加萊義民》作為對母校的深沉諫言。表面上是藝術贊助，實則是借古諷今，直指當前清華人面對政治與權力時的集體鄉愿與沈默。",
+    "tags": "高等教育, 國立清華大學",
+    "classes": "其他",
+    "is_target": "True",
+    "cn_summary": "近期清華大學因校長高為元赴美求職引發的骨牌效應，演變成一場高等教育的價值危機。在此權力真空與道德風暴交織的關鍵十字路口，校友謝宏亮選擇以羅丹的《加萊義民》作為對母校的深沉諫言。表面上是藝術贊助，實則是借古諷今，直指當前清華人面對政治與權力時的集體鄉愿與沈默。",
+    "cn_title": "羅丹青銅像無聲諫言：關於清大校長誠信風暴的集體省思",
+    "cn_classes": "其他",
+    "cn_tags": "高等教育, 國立清華大學",
+    "source": "UDN 文教"
+  },
   "https://udn.com/news/story/6885/9867774": {
     "title": "教師憾事頻傳 教長：學校應協助",
     "link": "https://udn.com/news/story/6885/9867774",
@@ -3583,20 +3598,5 @@
     "cn_classes": "教學與課程",
     "cn_tags": "",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yblJsS0tEcnZBc3VQRV9WaDNrQ3RFRW9aeDBaVS1YRWFVSHZOTWl5VFQ4SU5na1ZPU1ZRU2ZZV0pReEtwdmo5dXZ4bGNoZ1N5dGdOb2tCaDBMdEJ4TktfWllIMEVZQQ?oc=5": {
-    "title": "文化大學校友助味全龍奪冠116學年度培育棒球產業管理人才- 新消息- Campus - 中時新聞網",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yblJsS0tEcnZBc3VQRV9WaDNrQ3RFRW9aeDBaVS1YRWFVSHZOTWl5VFQ4SU5na1ZPU1ZRU2ZZV0pReEtwdmo5dXZ4bGNoZ1N5dGdOb2tCaDBMdEJ4TktfWllIMEVZQQ?oc=5",
-    "published": "2026-10-27 15:18",
-    "images": [],
-    "summary": "文化大學校友助味全龍奪冠116學年度培育棒球產業管理人才- 新消息- Campus&nbsp;&nbsp;中時新聞網",
-    "tags": "大學, 文化",
-    "classes": "校務治理與管理",
-    "is_target": "True",
-    "cn_summary": "文化大學校友助味全龍奪冠116學年度培育棒球產業管理人才- 新消息- Campus&nbsp;&nbsp;中時新聞網",
-    "cn_title": "文化大學校友助味全龍奪冠116學年度培育棒球產業管理人才- 新消息- Campus - 中時新聞網",
-    "cn_classes": "校務治理與管理",
-    "cn_tags": "大學, 文化",
-    "source": "中國時報"
   }
 }
