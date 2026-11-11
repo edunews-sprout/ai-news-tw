@@ -1,4 +1,19 @@
 {
+  "https://udn.com/news/story/6928/9872225": {
+    "title": "世新大學整併系辦惹議 學生「下戰帖」籲校方月底前回覆5訴求",
+    "link": "https://udn.com/news/story/6928/9872225",
+    "published": "2026-11-11 16:34",
+    "images": [],
+    "summary": "世新大學日前裁撤系辦，整修圖書館並納入KTV、遊戲機等設施，引發學生抗議。世新學權前進陣線與北市數個大學學生團體，今在校內創辦人成舍我銅像前宣講，向校方下「戰帖」。由於世新大學事前已遭教育部認定未善盡溝通，要求恢復原配置，校方則說，正由校內單位就函文內容及相關事項進行研議。",
+    "tags": "世新大學",
+    "classes": "校務治理與管理",
+    "is_target": "True",
+    "cn_summary": "世新大學日前裁撤系辦，整修圖書館並納入KTV、遊戲機等設施，引發學生抗議。世新學權前進陣線與北市數個大學學生團體，今在校內創辦人成舍我銅像前宣講，向校方下「戰帖」。由於世新大學事前已遭教育部認定未善盡溝通，要求恢復原配置，校方則說，正由校內單位就函文內容及相關事項進行研議。",
+    "cn_title": "世新大學整併系辦惹議 學生「下戰帖」籲校方月底前回覆5訴求",
+    "cn_classes": "校務治理與管理",
+    "cn_tags": "世新大學",
+    "source": "UDN 文教"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5637152": {
     "title": "裁系辦惹議教育部要求先復原 世新大學：審慎評估後對外說明",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5637152",
@@ -73,6 +88,21 @@
     "cn_classes": "學生事務與生活",
     "cn_tags": "國立虎尾科技大學",
     "source": "UDN 文教"
+  },
+  "https://www.cna.com.tw/news/ahel/202611110162.aspx": {
+    "title": "極地論壇台北登場　海委會：極圈沒有想像中遙遠",
+    "link": "https://www.cna.com.tw/news/ahel/202611110162.aspx",
+    "published": "2026-11-11 14:49",
+    "images": [],
+    "summary": "（中央社記者陳至中台北11日電）中央大學今天在台北舉辦2026台灣極地研究國際專題論壇，邀請國際學者討論。海洋委員會處長林麗英表示：「極圈沒有想像中遙遠。」從生態、航運、地緣政治等，都與台灣息息相關。",
+    "tags": "國立中央大學",
+    "classes": "國際交流與合作",
+    "is_target": "True",
+    "cn_summary": "（中央社記者陳至中台北11日電）中央大學今天在台北舉辦2026台灣極地研究國際專題論壇，邀請國際學者討論。海洋委員會處長林麗英表示：「極圈沒有想像中遙遠。」從生態、航運、地緣政治等，都與台灣息息相關。",
+    "cn_title": "極地論壇台北登場　海委會：極圈沒有想像中遙遠",
+    "cn_classes": "國際交流與合作",
+    "cn_tags": "國立中央大學",
+    "source": "中央社"
   },
   "https://ec.ltn.com.tw/article/breakingnews/5637053": {
     "title": "股市震盪不改助學初心！虎科大校友送300張高股息ETF打造「永續獎學金」",
@@ -3568,35 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "大學",
     "source": "遠見雜誌"
-  },
-  "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBoSjdsU21MV2xUMGFlaEJOSTl4V29Ud1plaU51b1c3TkN5OFhYMlJEX00xaVRzX002ZldsVXFEUWdGVDFxMG9Oc3lZUDRKZw?oc=5": {
-    "title": "「對抗AI」，哈佛大學這門課為何爆紅？ - 天下雜誌",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBoSjdsU21MV2xUMGFlaEJOSTl4V29Ud1plaU51b1c3TkN5OFhYMlJEX00xaVRzX002ZldsVXFEUWdGVDFxMG9Oc3lZUDRKZw?oc=5",
-    "published": "2026-10-29 20:03",
-    "images": [],
-    "summary": "「對抗AI」，哈佛大學這門課為何爆紅？&nbsp;&nbsp;天下雜誌",
-    "tags": "大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "「對抗AI」，哈佛大學這門課為何爆紅？&nbsp;&nbsp;天下雜誌",
-    "cn_title": "「對抗AI」，哈佛大學這門課為何爆紅？ - 天下雜誌",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "大學",
-    "source": "天下雜誌"
-  },
-  "https://news.ltn.com.tw/news/politics/breakingnews/5623143": {
-    "title": "綠委批諮商心理實習亂象 衛福部：或可參考醫學生制度擬新規",
-    "link": "https://news.ltn.com.tw/news/politics/breakingnews/5623143",
-    "published": "2026-10-29 19:59",
-    "images": [],
-    "summary": "諮商心理師實習爆出收費亂象，有實習機構利用學生必須實習才能畢業、獲得國家考試資格的處境，開出額外收費條件。對此衛福部心理健康司長陳柏熹表示，未來或可參考醫學生實習的做法，由「學...…",
-    "tags": "",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "諮商心理師實習爆出收費亂象，有實習機構利用學生必須實習才能畢業、獲得國家考試資格的處境，開出額外收費條件。對此衛福部心理健康司長陳柏熹表示，未來或可參考醫學生實習的做法，由「學...…",
-    "cn_title": "綠委批諮商心理實習亂象 衛福部：或可參考醫學生制度擬新規",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "",
-    "source": "自由時報"
   }
 }
