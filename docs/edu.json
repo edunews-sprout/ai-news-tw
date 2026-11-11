@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/art/breakingnews/5636596": {
+    "title": "水產系畢業婚後赴美學藝術 屏科大校友許麗蓉、林俍君「萬里相會」回母校開展",
+    "link": "https://news.ltn.com.tw/news/art/breakingnews/5636596",
+    "published": "2026-11-11 13:55",
+    "images": [],
+    "summary": "國立屏東科技大學（簡稱屏科大）的校友許麗蓉、林俍君，在多年前婚後直奔美國，兩人在美國開始雙雙皆投入藝術領域，屏科大今天在校內圖書與會展館3樓藝文中心舉辦「萬里相會－許麗蓉...…",
+    "tags": "國立屏東科技大學",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "國立屏東科技大學（簡稱屏科大）的校友許麗蓉、林俍君，在多年前婚後直奔美國，兩人在美國開始雙雙皆投入藝術領域，屏科大今天在校內圖書與會展館3樓藝文中心舉辦「萬里相會－許麗蓉...…",
+    "cn_title": "水產系畢業婚後赴美學藝術 屏科大校友許麗蓉、林俍君「萬里相會」回母校開展",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "國立屏東科技大學",
+    "source": "自由時報"
+  },
   "https://udn.com/news/story/6898/9871682": {
     "title": "金城國中代理教師離世案延燒！家屬赴立院請求中央介入 縣府回應了",
     "link": "https://udn.com/news/story/6898/9871682",
@@ -3583,20 +3598,5 @@
     "cn_classes": "國際交流與合作",
     "cn_tags": "大學",
     "source": "中央社"
-  },
-  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lZlo1dkw5bG9DSUlEMzNKNm9LbDN3ZlBkUU13c1BvLXNVT2d1cDNrTFRFRkFjT0QxUXNRQTJDRzNuMjNUd0Y4YmZoeGoxQQ?oc=5": {
-    "title": "在校實習領薪又能直接轉正！大專預聘計畫每人最高補助7.2萬，企業留任率破八成即日起開放申請| 陳逸群 | 地方新聞 - 風傳媒",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lZlo1dkw5bG9DSUlEMzNKNm9LbDN3ZlBkUU13c1BvLXNVT2d1cDNrTFRFRkFjT0QxUXNRQTJDRzNuMjNUd0Y4YmZoeGoxQQ?oc=5",
-    "published": "2026-10-29 11:27",
-    "images": [],
-    "summary": "在校實習領薪又能直接轉正！大專預聘計畫每人最高補助7.2萬，企業留任率破八成即日起開放申請| 陳逸群 | 地方新聞&nbsp;&nbsp;風傳媒",
-    "tags": "大專",
-    "classes": "在地連結與社會責任（USR）",
-    "is_target": "True",
-    "cn_summary": "在校實習領薪又能直接轉正！大專預聘計畫每人最高補助7.2萬，企業留任率破八成即日起開放申請| 陳逸群 | 地方新聞&nbsp;&nbsp;風傳媒",
-    "cn_title": "在校實習領薪又能直接轉正！大專預聘計畫每人最高補助7.2萬，企業留任率破八成即日起開放申請| 陳逸群 | 地方新聞 - 風傳媒",
-    "cn_classes": "在地連結與社會責任（USR）",
-    "cn_tags": "大專",
-    "source": "風傳媒"
   }
 }
