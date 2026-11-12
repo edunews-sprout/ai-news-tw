@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5638891": {
+    "title": "電池及光譜診斷技術研究 台科大黃貞睿獲玉山青年學者",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5638891",
+    "published": "2026-11-12 19:57",
+    "images": [],
+    "summary": "台科大化工系助理教授黃貞睿獲教育部選為玉山青年學者，他從台科大學生、海外研究人員到重返母校任教，多年來投入電池及同步輻射影像與光譜診斷技術研究，他也點出未來最重要的2項工作為人...…",
+    "tags": "大學生, 國立臺灣科技大學, 教授",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "台科大化工系助理教授黃貞睿獲教育部選為玉山青年學者，他從台科大學生、海外研究人員到重返母校任教，多年來投入電池及同步輻射影像與光譜診斷技術研究，他也點出未來最重要的2項工作為人...…",
+    "cn_title": "電池及光譜診斷技術研究 台科大黃貞睿獲玉山青年學者",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "大學生, 國立臺灣科技大學, 教授",
+    "source": "自由時報"
+  },
   "https://udn.com/news/story/6928/9874697": {
     "title": "靜宜創校70周年 西文系學生赴阿根廷服務傳遞跨國關懷",
     "link": "https://udn.com/news/story/6928/9874697",
@@ -3583,20 +3598,5 @@
     "cn_classes": "校園受社會關注事件",
     "cn_tags": "大學, 中國文化大學, 文化, 國立陽明交通大學",
     "source": "UDN 文教"
-  },
-  "https://sports.ltn.com.tw/news/breakingnews/5616510": {
-    "title": "亞洲大學女壘賽9：0大勝南韓！台灣隊雙投聯手締造「完全比賽」",
-    "link": "https://sports.ltn.com.tw/news/breakingnews/5616510",
-    "published": "2026-10-23 16:25",
-    "images": [],
-    "summary": "亞洲大學女子壘球年度國際盛事「2026 亞洲盃大學女子壘球賽」（Asian Universities Women Softball Asia Cup 2026），22日上...…",
-    "tags": "亞洲大學",
-    "classes": "學生事務與生活",
-    "is_target": "True",
-    "cn_summary": "亞洲大學女子壘球年度國際盛事「2026 亞洲盃大學女子壘球賽」（Asian Universities Women Softball Asia Cup 2026），22日上...…",
-    "cn_title": "亞洲大學女壘賽9：0大勝南韓！台灣隊雙投聯手締造「完全比賽」",
-    "cn_classes": "學生事務與生活",
-    "cn_tags": "亞洲大學",
-    "source": "自由時報"
   }
 }
