@@ -89,6 +89,21 @@
     "cn_tags": "國立臺灣大學, 科技大學, 國立臺灣科技大學",
     "source": "UDN 文教"
   },
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6VmFmSGU5NmNyZzE5NDFKaDYxYmFpYTVycnpLR1htdTA5bm9uMUNRZm5Yb2Vlcl9rZHRvUEdidW1HbzRKdTk3ckx2TElZQQ?oc=5": {
+    "title": "金屬中心攜手台科大奪專利布局競賽第一名機器人感知融合技術助攻智慧醫療創新| 徐炳文 | 地方新聞 - 風傳媒",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6VmFmSGU5NmNyZzE5NDFKaDYxYmFpYTVycnpLR1htdTA5bm9uMUNRZm5Yb2Vlcl9rZHRvUEdidW1HbzRKdTk3ckx2TElZQQ?oc=5",
+    "published": "2026-11-11 21:36",
+    "images": [],
+    "summary": "金屬中心攜手台科大奪專利布局競賽第一名機器人感知融合技術助攻智慧醫療創新| 徐炳文 | 地方新聞&nbsp;&nbsp;風傳媒",
+    "tags": "國立臺灣科技大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "金屬中心攜手台科大奪專利布局競賽第一名機器人感知融合技術助攻智慧醫療創新| 徐炳文 | 地方新聞&nbsp;&nbsp;風傳媒",
+    "cn_title": "金屬中心攜手台科大奪專利布局競賽第一名機器人感知融合技術助攻智慧醫療創新| 徐炳文 | 地方新聞 - 風傳媒",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立臺灣科技大學",
+    "source": "風傳媒"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5637600": {
     "title": "校務會議通過對高為元意見調查 清華人：淪全校「公審」校長鬧劇",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5637600",
@@ -3582,21 +3597,6 @@
     "cn_title": "廣達成立達穎智能　布局智慧醫療拚落地走向市場",
     "cn_classes": "產學合作",
     "cn_tags": "",
-    "source": "中央社"
-  },
-  "https://www.cna.com.tw/news/ahel/202610300126.aspx": {
-    "title": "林郁婷亞運金牌拳套　捐文化大學校史室典藏",
-    "link": "https://www.cna.com.tw/news/ahel/202610300126.aspx",
-    "published": "2026-10-30 13:27",
-    "images": [],
-    "summary": "（中央社記者陳至中台北30日電）拳擊好手林郁婷今天在中國文化大學舉辦簽書會，將親筆簽名的亞運金牌拳擊手套捐贈母校，將由校史室典藏，作為文大師生的榮耀紀錄。",
-    "tags": "中國文化大學",
-    "classes": "其他",
-    "is_target": "True",
-    "cn_summary": "（中央社記者陳至中台北30日電）拳擊好手林郁婷今天在中國文化大學舉辦簽書會，將親筆簽名的亞運金牌拳擊手套捐贈母校，將由校史室典藏，作為文大師生的榮耀紀錄。",
-    "cn_title": "林郁婷亞運金牌拳套　捐文化大學校史室典藏",
-    "cn_classes": "其他",
-    "cn_tags": "中國文化大學",
     "source": "中央社"
   }
 }
