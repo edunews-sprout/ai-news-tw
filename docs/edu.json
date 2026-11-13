@@ -1,4 +1,34 @@
 {
+  "https://www.cna.com.tw/news/ahel/202611130122.aspx": {
+    "title": "學者：未經設計的AI會傷害學習　應保留經歷失敗機會",
+    "link": "https://www.cna.com.tw/news/ahel/202611130122.aspx",
+    "published": "2026-11-13 12:51",
+    "images": [],
+    "summary": "（中央社記者陳至中台北13日電）台灣師範大學今天舉辦「AI時代的教育展望」研討會，多名學者提到，AI是師生的好幫手，但未經設計的AI會傷害學習，尤其要避免AI隔絕學習挫折，保留學生經歷失敗的機會。",
+    "tags": "大學",
+    "classes": "教學與課程",
+    "is_target": "True",
+    "cn_summary": "（中央社記者陳至中台北13日電）台灣師範大學今天舉辦「AI時代的教育展望」研討會，多名學者提到，AI是師生的好幫手，但未經設計的AI會傷害學習，尤其要避免AI隔絕學習挫折，保留學生經歷失敗的機會。",
+    "cn_title": "學者：未經設計的AI會傷害學習　應保留經歷失敗機會",
+    "cn_classes": "教學與課程",
+    "cn_tags": "大學",
+    "source": "中央社"
+  },
+  "https://udn.com/news/story/6929/9876580": {
+    "title": "結合AI自動化與3D列印工藝 弘光科大國際研討會烘焙前瞻能量",
+    "link": "https://udn.com/news/story/6929/9876580",
+    "published": "2026-11-13 12:44",
+    "images": [],
+    "summary": "因應消費需求轉變與科技迅速進步，餐飲與烘焙產業正迎來智慧化升級與低碳永續轉型的關鍵時刻。弘光科技大學國際餐旅學院今天舉辦「2026智慧烘焙與綠色創新永續國際研討會」，邀國內外學者與產業，針對人工智慧應用、智慧自動化製造、ESG 綠色器具及3D列印輔助智慧烘焙創新等前瞻議題展開深度對話。學生現場展示3D列印參賽成果，呈現以3D列印技術設計的學校吉祥物特殊餅模。",
+    "tags": "弘光科技大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "因應消費需求轉變與科技迅速進步，餐飲與烘焙產業正迎來智慧化升級與低碳永續轉型的關鍵時刻。弘光科技大學國際餐旅學院今天舉辦「2026智慧烘焙與綠色創新永續國際研討會」，邀國內外學者與產業，針對人工智慧應用、智慧自動化製造、ESG 綠色器具及3D列印輔助智慧烘焙創新等前瞻議題展開深度對話。學生現場展示3D列印參賽成果，呈現以3D列印技術設計的學校吉祥物特殊餅模。",
+    "cn_title": "結合AI自動化與3D列印工藝 弘光科大國際研討會烘焙前瞻能量",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "弘光科技大學",
+    "source": "聯合報"
+  },
   "https://news.ltn.com.tw/news/society/breakingnews/5639360": {
     "title": "東華大學控副教授曠職討萬元薪資 北高行還公道撤銷處分",
     "link": "https://news.ltn.com.tw/news/society/breakingnews/5639360",
@@ -42,7 +72,7 @@
     "cn_title": "資訊揭露另須切結 大專校院校長遴選 教部祭「高為元條款」",
     "cn_classes": "政策與法規",
     "cn_tags": "國立清華大學, 國立大學, 大專",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6885/9875597": {
     "title": "校長遴選硬性要求揭露...大學：恐導致海外人才退卻",
@@ -57,7 +87,7 @@
     "cn_title": "校長遴選硬性要求揭露...大學：恐導致海外人才退卻",
     "cn_classes": "政策與法規",
     "cn_tags": "大學, 大專",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56YXRKUXpqbXZ2MmRsTHJqR0FyMDNLazlPR1BycHEwdEZPYTRMeTUxbHVrNDJ6WG1LdU1RUHExNU1vRlI1cWhYRXlybWRUZw?oc=5": {
     "title": "AI人才怎麼教？高雄大學資管系赴大阪取經2028年MISNC國際研討會確定由近畿大學主辦| 徐炳文 | 地方新聞 - 風傳媒",
@@ -102,7 +132,7 @@
     "cn_title": "靜宜創校70周年 西文系學生赴阿根廷服務傳遞跨國關懷",
     "cn_classes": "在地連結與社會責任（USR）",
     "cn_tags": "靜宜大學, 實踐, 佛光, 文化",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6885/9874646": {
     "title": "選校長求職資訊揭露…教育部推「高為元條款」大學憂國外人才恐退卻",
@@ -117,7 +147,7 @@
     "cn_title": "選校長求職資訊揭露…教育部推「高為元條款」大學憂國外人才恐退卻",
     "cn_classes": "政策與法規",
     "cn_tags": "國立清華大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://www.cna.com.tw/news/aspt/202611120214.aspx": {
     "title": "輔大主辦首屆亞太天主教大學運動會　22日登場",
@@ -207,7 +237,7 @@
     "cn_title": "校園USEME租借服務上路 中山大學師生可以免費借用小家電",
     "cn_classes": "在地連結與社會責任（USR）",
     "cn_tags": "國立中山大學, 大學生",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5638312": {
     "title": "學生生理假擬增為每月2天 教育部：與各大學建立共識中",
@@ -237,7 +267,7 @@
     "cn_title": "諾貝爾物理學獎得主John Clarke睽違10年重返東海 受聘榮譽講座教授",
     "cn_classes": "國際交流與合作",
     "cn_tags": "東海大學, 學術, 教授",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6928/9874178": {
     "title": "中原大學創新研發成果獲國際肯定 德國紐倫堡發明展勇奪6獎",
@@ -252,7 +282,7 @@
     "cn_title": "中原大學創新研發成果獲國際肯定 德國紐倫堡發明展勇奪6獎",
     "cn_classes": "學術研究與創新",
     "cn_tags": "中原大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://www.cna.com.tw/news/ahel/202611120119.aspx": {
     "title": "學生生理假放寬　教育部朝每月2天研議",
@@ -312,7 +342,7 @@
     "cn_title": "世新學運凸顯大學難題 鄭英耀：受教權是核心承諾",
     "cn_classes": "學生事務與生活",
     "cn_tags": "世新大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6885/9873756": {
     "title": "教育部推社大創新卻只有大學能申請補助 52所社大連署凍結草率政策",
@@ -327,7 +357,7 @@
     "cn_title": "教育部推社大創新卻只有大學能申請補助 52所社大連署凍結草率政策",
     "cn_classes": "在地連結與社會責任（USR）",
     "cn_tags": "大學, 大專",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://www.cna.com.tw/news/ahel/202611120079.aspx": {
     "title": "世新學運凸顯大學難題　鄭英耀：受教權是核心承諾",
@@ -372,7 +402,7 @@
     "cn_title": "學生生理假每月僅一天不夠用 教長鄭英耀：朝每月給2天研議",
     "cn_classes": "政策與法規",
     "cn_tags": "",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://www.cna.com.tw/news/ahel/202611120045.aspx": {
     "title": "清華爭議　鄭英耀：已研議校長遴選資訊揭露機制",
@@ -402,7 +432,7 @@
     "cn_title": "高為元赴美求職案 教育部修辦法：校長遴選前後資訊均需揭露",
     "cn_classes": "校務治理與管理",
     "cn_tags": "國立清華大學, 國立大學, 大專",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://sports.ltn.com.tw/news/paper/1778219": {
     "title": "UBA 17日開戰》政大隊長林恩宇 接棒邁向7連霸",
@@ -447,7 +477,7 @@
     "cn_title": "世新大學裁撤系辦惹議 教部限一個月內改善",
     "cn_classes": "校務治理與管理",
     "cn_tags": "世新大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://www.cna.com.tw/news/aspt/202611110348.aspx": {
     "title": "台灣戰隊CFO舉辦分享會　帶領學生深入了解電競產業",
@@ -492,7 +522,7 @@
     "cn_title": "台大昆蟲、台科大電子雙主修！她赴仁寶實習 網：真的是debug了",
     "cn_classes": "學生事務與生活",
     "cn_tags": "國立臺灣大學, 科技大學, 國立臺灣科技大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6VmFmSGU5NmNyZzE5NDFKaDYxYmFpYTVycnpLR1htdTA5bm9uMUNRZm5Yb2Vlcl9rZHRvUEdidW1HbzRKdTk3ckx2TElZQQ?oc=5": {
     "title": "金屬中心攜手台科大奪專利布局競賽第一名機器人感知融合技術助攻智慧醫療創新| 徐炳文 | 地方新聞 - 風傳媒",
@@ -567,7 +597,7 @@
     "cn_title": "世新大學整併系辦惹議 學生「下戰帖」籲校方月底前回覆5訴求",
     "cn_classes": "校務治理與管理",
     "cn_tags": "世新大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5637152": {
     "title": "裁系辦惹議教育部要求先復原 世新大學：審慎評估後對外說明",
@@ -627,7 +657,7 @@
     "cn_title": "0056、00878變留學基金 虎科大校友低調捐300張ETF成立獎助學金",
     "cn_classes": "學生事務與生活",
     "cn_tags": "國立虎尾科技大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://www.cna.com.tw/news/ahel/202611110162.aspx": {
     "title": "極地論壇台北登場　海委會：極圈沒有想像中遙遠",
@@ -717,7 +747,7 @@
     "cn_title": "大學新宿舍運動砸62億、改善5.5萬床 卓榮泰讚：比信義官邸還漂亮",
     "cn_classes": "校務治理與管理",
     "cn_tags": "大學, 大專",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://www.cna.com.tw/news/ahel/202611110048.aspx": {
     "title": "世新大學裁撤系辦惹議　教育部要求完善溝通前先恢復",
@@ -747,7 +777,7 @@
     "cn_title": "世新大學裁系辦、圖書館添遊戲機惹議 教育部令改善前恢復原配置",
     "cn_classes": "校務治理與管理",
     "cn_tags": "世新大學, 國立政治大學, 國立臺灣大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTTE0bm5XaHB2VVRjOUZNQU9TMnp1Z2VXdWtieWpOT1BnR2lEM1QtYm1ubi11ajBZS0FzMl9YdGJzQ3pPbndrMUJ6azhVQ0lkclFPX3o2RWxYNFFCamtXdUtKS0d4dmFPR2NsTjBsUWo2UXk3OE1yODVYUFlSYjY0cG5ZUzhpakI5N3JpeVFYOHV4N0MyWHc?oc=5": {
     "title": "大學講師面臨的失業焦慮源自何處？ - 遠見雜誌",
@@ -867,7 +897,7 @@
     "cn_title": "清大校長高為元海外覓職爭議落幕？ 清大校務會議表決通過擱置調查案",
     "cn_classes": "校務治理與管理",
     "cn_tags": "國立清華大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5635870": {
     "title": "獨家》清大處置校長高為元 將對師生做意見普查",
@@ -927,7 +957,7 @@
     "cn_title": "元智資傳系AI影像與紀實創作雙軌並進 國際影展、永續紀錄片都獲獎",
     "cn_classes": "學術研究與創新",
     "cn_tags": "元智大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5635465": {
     "title": "中山大學洪子聖以4D雷達與6G研究  獲教育部學術獎",
@@ -957,7 +987,7 @@
     "cn_title": "中山大學教授洪子聖獲教育部學術獎 雷達技術可隔空測心跳",
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立中山大學, 學術, 教授",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://www.cna.com.tw/news/aloc/202611100081.aspx": {
     "title": "澎縣府簽MOU　推動無人機人才培育及醫療物流",
@@ -987,7 +1017,7 @@
     "cn_title": "停招不停步！中華大學QS國際化指標逆勢成長獲肯定",
     "cn_classes": "校務治理與管理",
     "cn_tags": "高等教育, 私立大學, 亞洲大學, 中華大學, 國立成功大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://www.cna.com.tw/news/ahel/202611100053.aspx": {
     "title": "中山大學教授洪子聖獲教育部學術獎　雷達技術可隔空測心跳",
@@ -1017,7 +1047,7 @@
     "cn_title": "第30屆台法文化獎出爐 淡大榮譽教授楊淑娟、EFEO主任梅豪方獲獎",
     "cn_classes": "學術研究與創新",
     "cn_tags": "淡江大學, 教授, 文化",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6928/9868405": {
     "title": "哲學不只談人生！中正大學陳瑞麟研究科技風險與倫理獲國家級肯定",
@@ -1032,7 +1062,7 @@
     "cn_title": "哲學不只談人生！中正大學陳瑞麟研究科技風險與倫理獲國家級肯定",
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立中正大學, 學術, 教授",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6928/9868084": {
     "title": "羅丹青銅像無聲諫言：關於清大校長誠信風暴的集體省思",
@@ -1047,7 +1077,7 @@
     "cn_title": "羅丹青銅像無聲諫言：關於清大校長誠信風暴的集體省思",
     "cn_classes": "校務治理與管理",
     "cn_tags": "高等教育, 國立清華大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6928/9867769": {
     "title": "誠信風波 清大校長去留 今再開校務會議",
@@ -1062,7 +1092,7 @@
     "cn_title": "誠信風波 清大校長去留 今再開校務會議",
     "cn_classes": "校務治理與管理",
     "cn_tags": "高等教育, 國立清華大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6885/9867779": {
     "title": "高科大前副校長 接大考中心主任",
@@ -1077,7 +1107,7 @@
     "cn_title": "高科大前副校長 接大考中心主任",
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立高雄科技大學, 學術研究",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6928/9867773": {
     "title": "時機敏感 清大遭爆退2國際大學聯盟",
@@ -1092,7 +1122,7 @@
     "cn_title": "時機敏感 清大遭爆退2國際大學聯盟",
     "cn_classes": "校務治理與管理",
     "cn_tags": "大學, 國立清華大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQjdGNF9vTEluVEVjMlloQU1JUjJlUVFhV0hNNkRzZTltRmV2RTdpaXdHdzJTQlh6TWpWSTBYLXZheVpNd2M2UlJCRE45Slc0RkxWY1ktUTVnRVVZQ1hsTDlDZWRrS1Z1LWJCUGp4ekt2WFRQQnYyTk5QeEtZYjlkNGtxRVdwbndMM3UzSlBhQmVBSkxXN2c?oc=5": {
     "title": "台灣今年共有多少所大學進入QS亞洲大學排名？ - 遠見雜誌",
@@ -1137,7 +1167,7 @@
     "cn_title": "高為元赴美覓職掀風波 清大教授倡建「離職報備機制」解套",
     "cn_classes": "校務治理與管理",
     "cn_tags": "國立清華大學, 教授",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://www.cna.com.tw/news/ahel/202611090236.aspx": {
     "title": "諾貝爾物理學獎得主返台師大　勉學子培養好奇心探索未知",
@@ -1197,7 +1227,7 @@
     "cn_title": "諾貝爾物理學獎得主重返台師大 分享量子世界最新突破",
     "cn_classes": "國際交流與合作",
     "cn_tags": "研究所, 大學, 教授, 國立臺灣師範大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zZndqSHRQejBTNXpJLWtLZEowQmpaQlZIcjJFdks1U0pmRnJfbGpUZEYzQVNNZlptcU1fNXNsMjhIeUZWcWdSWmhhcEhqUEJQT0ptZGxCYjJUQlZjSWNsT0Zwam5NQQ?oc=5": {
     "title": "諾貝爾物理學獎得主John Clarke重返臺師大分享量子世界最新突破！宋曜廷校長率團隊迎接，深化國際學術交流 - 中時新聞網",
@@ -1227,7 +1257,7 @@
     "cn_title": "嶺東科大214名境外新生入學 多元文化點亮國際校園",
     "cn_classes": "國際交流與合作",
     "cn_tags": "嶺東科技大學, 文化",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6928/9866919": {
     "title": "清大校長高為元遭爆任內退出2國際大學聯盟 清大回應了",
@@ -1242,7 +1272,7 @@
     "cn_title": "清大校長高為元遭爆任內退出2國際大學聯盟 清大回應了",
     "cn_classes": "校務治理與管理",
     "cn_tags": "國立清華大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5634458": {
     "title": "大考中心新主任謝淑玲上任 提AI、溝通、應變SOP未來努力3方向",
@@ -1272,7 +1302,7 @@
     "cn_title": "陽明交大研發「細胞GPS」 追蹤抗癌藥物運輸路徑助減少動物實驗",
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立陽明交通大學, 教授, 實踐",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5634301": {
     "title": "演唱會經濟帶動文藝熱潮 中山大學首招藝管高階碩士在職班",
@@ -1302,7 +1332,7 @@
     "cn_title": "教育部師資培育及藝術教育司武曉霞司長專訪：形塑具備韌性與未來力的教師圖像",
     "cn_classes": "政策與法規",
     "cn_tags": "高等教育",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6885/9866020": {
     "title": "國立臺灣大學玉山學者Stephen Payne：以計算模型丈量歲月 跨域解鎖大腦健康密碼",
@@ -1317,7 +1347,7 @@
     "cn_title": "國立臺灣大學玉山學者Stephen Payne：以計算模型丈量歲月 跨域解鎖大腦健康密碼",
     "cn_classes": "國際交流與合作",
     "cn_tags": "國立臺灣大學, 高等教育, 研究所, 學術, 教授, 大專",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6885/9866064": {
     "title": "從「願意學」到「被看見」：PBL、遊戲化及AI適性支持的教學實踐",
@@ -1332,7 +1362,7 @@
     "cn_title": "從「願意學」到「被看見」：PBL、遊戲化及AI適性支持的教學實踐",
     "cn_classes": "教學與課程",
     "cn_tags": "國立高雄科技大學, 教授, 實踐",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5634237": {
     "title": "以螢光奈米鑽石打造「細胞GPS」追蹤抗癌藥運作 陽明交大偕業界研究成果登國際期刊",
@@ -1362,7 +1392,7 @@
     "cn_title": "首位技職出身 高科大前副校長謝淑玲接任大考中心主任 拋三大工作方向",
     "cn_classes": "其他",
     "cn_tags": "國立高雄科技大學, 技職",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6928/9865950": {
     "title": "高為元赴美求職案 為何升級為高教界「管中閔案 2.0」",
@@ -1377,7 +1407,7 @@
     "cn_title": "高為元赴美求職案 為何升級為高教界「管中閔案 2.0」",
     "cn_classes": "校務治理與管理",
     "cn_tags": "國立大學, 國立清華大學, 高教, 國立臺灣大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.ltn.com.tw/news/art/breakingnews/5633739": {
     "title": "新北學生影像新星獎揭曉  世新大學《夕日記》獲首獎40萬",
@@ -1482,7 +1512,7 @@
     "cn_title": "大學助教抓作弊遭學生毆傷 校方：已完成校安通報、輔導學生",
     "cn_classes": "校園受社會關注事件",
     "cn_tags": "大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://www.cna.com.tw/news/ahel/202611070060.aspx": {
     "title": "北科大派學生赴美取經AI　實戰養成工程解題力",
@@ -1512,7 +1542,7 @@
     "cn_title": "亞洲首座人工核分裂加速器 台大獲「科學界文化遺產」認證",
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立臺灣大學, 學界, 文化",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6928/9863358": {
     "title": "新北知名大學驚傳校園暴力！學生不滿期中考作弊被抓 竟埋伏痛毆助教",
@@ -1527,7 +1557,7 @@
     "cn_title": "新北知名大學驚傳校園暴力！學生不滿期中考作弊被抓 竟埋伏痛毆助教",
     "cn_classes": "校園受社會關注事件",
     "cn_tags": "大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://www.cna.com.tw/news/acul/202611070025.aspx": {
     "title": "山海島鏈國際學術研討會　聚焦海陸絲路文化影響",
@@ -1557,7 +1587,7 @@
     "cn_title": "亞大校長蔡進發 獲選終身頂尖學者",
     "cn_classes": "校務治理與管理",
     "cn_tags": "亞洲大學, 學術",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.google.com/rss/articles/CBMilgFBVV95cUxQME5pT3ZKckpuYUpRZ2dIa3BfZHgwUzFNSXYySjVNMkxsT2ppOEMtdjdoTUtvTXI4MERFNDdmQzM2R3JNZEpORXk3c2pEa1Z5N0REQ3VJMzI5dV85MEhOVlNvRnlPOVdaQjk3R0pxYy1hc1FMR2d6ZHlmMEdZMjdqN1Z3RWZDcVRUNXp4U3FseGhHVFNjOEE?oc=5": {
     "title": "東海大學為何選擇在現今時機點大力投入半導體學程？ - 遠見雜誌",
@@ -1632,22 +1662,7 @@
     "cn_title": "亞洲色彩會議登場 華梵校長籲AI發展下保留生活體驗",
     "cn_classes": "校務治理與管理",
     "cn_tags": "華梵大學",
-    "source": "UDN 文教"
-  },
-  "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XVC16VG45akdYZXlzWFBzZW1kV3MyUkYyQThRUWJDQmRwdnIxUkVJTE9GSC1MYktRZGE1SWZveUowNGhiZ1liNTJ0Q3VucDc0T0cxeVlXN0FOYmZjUVHSAUtBVV95cUxNallqODZyUEl5SUc2dzBqeDFBVlJiWVFBUkhWUnk3SVNwTkdBQWc1MWNwUHpjRUc0U19QbVVPX1d0VWt2eDRhR2I5ZDA?oc=5": {
-    "title": "大學教授染指女學生！噁問「有沒有舒服」：男人也需要忍耐 - ETtoday新聞雲",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XVC16VG45akdYZXlzWFBzZW1kV3MyUkYyQThRUWJDQmRwdnIxUkVJTE9GSC1MYktRZGE1SWZveUowNGhiZ1liNTJ0Q3VucDc0T0cxeVlXN0FOYmZjUVHSAUtBVV95cUxNallqODZyUEl5SUc2dzBqeDFBVlJiWVFBUkhWUnk3SVNwTkdBQWc1MWNwUHpjRUc0U19QbVVPX1d0VWt2eDRhR2I5ZDA?oc=5",
-    "published": "2026-11-06 13:54",
-    "images": [],
-    "summary": "大學教授染指女學生！噁問「有沒有舒服」：男人也需要忍耐&nbsp;&nbsp;ETtoday新聞雲",
-    "tags": "大學, 教授",
-    "classes": "校園受社會關注事件",
-    "is_target": "True",
-    "cn_summary": "大學教授染指女學生！噁問「有沒有舒服」：男人也需要忍耐&nbsp;&nbsp;ETtoday新聞雲",
-    "cn_title": "大學教授染指女學生！噁問「有沒有舒服」：男人也需要忍耐 - ETtoday新聞雲",
-    "cn_classes": "校園受社會關注事件",
-    "cn_tags": "大學, 教授",
-    "source": "ETtoday"
+    "source": "聯合報"
   },
   "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SV3NWQ1MwVE5iOWY4U0dzQzhwc3Y3RG9ZeHlib1VRSVpaZUwzb2NVNFZ3cEZRV2RQWWtpdTVJZzJUY2tRdnhHWTNoakRPSzk4dm1CWlJpZ0J4Q09DbmtrbXJjTWNYZw?oc=5": {
     "title": "2027年QS亞洲大學排名 南華大學榮獲台灣第49名、東亞第482名 - 中時新聞網",
@@ -1707,7 +1722,7 @@
     "cn_title": "諾貝爾獎得主北川進台大開講 因學生1句話開啟有機金屬骨架研發",
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立臺灣大學, 教授",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDVW1qblNYakR1OHBEdm5KbW95b2Q5SDNyNW9Rb0VHZ0tVdW5ueVgxanYzaEpLWTROWEs2V3NFbDVkR1VaSEVTTklnSU8yR1dHaUt1dHN3a29vemJ2azZZTnpjQTBxZw?oc=5": {
     "title": "【投書】誰有資格站上專業講台？從國防大學爭議反思警察教育｜ 何昱慶 ／ 多元發聲．讀者投書 - 獨立評論@天下",
@@ -1812,7 +1827,7 @@
     "cn_title": "東海大學興建半導體大樓 「他」霸氣捐1億元助培育半導體人才",
     "cn_classes": "校務治理與管理",
     "cn_tags": "東海大學, 國立體育大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6928/9859002": {
     "title": "台大系統3校接軌國際 加入全球高教領袖網絡QS One",
@@ -1827,7 +1842,7 @@
     "cn_title": "台大系統3校接軌國際 加入全球高教領袖網絡QS One",
     "cn_classes": "校務治理與管理",
     "cn_tags": "國立臺灣大學, 科技大學, 高教",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://www.cna.com.tw/news/afe/202611050086.aspx": {
     "title": "旺宏吳敏求捐200萬美元成立基金　盼培養頂尖人才",
@@ -1857,7 +1872,7 @@
     "cn_title": "人體蛋白變身mRNA「送貨車」　清大開發癌症免疫治療新載體",
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立清華大學, 教授",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6885/9858864": {
     "title": "網傳越南生來台讀書補助5萬 教育部澄清：獎學金需審查、非普發",
@@ -1872,7 +1887,7 @@
     "cn_title": "網傳越南生來台讀書補助5萬 教育部澄清：獎學金需審查、非普發",
     "cn_classes": "政策與法規",
     "cn_tags": "",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6885/9858716": {
     "title": "網傳越南生來台即享補助 教部澄清：獎學金有審查程序",
@@ -1887,7 +1902,7 @@
     "cn_title": "網傳越南生來台即享補助 教部澄清：獎學金有審查程序",
     "cn_classes": "政策與法規",
     "cn_tags": "",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5630024": {
     "title": "金門大學「三十而立」 創校校長黃廣志：曾被質疑金門人少怎麼設大學",
@@ -1947,7 +1962,7 @@
     "cn_title": "從離島分部到國立大學！金大走過30年 各界捐資力挺下一個黃金十年",
     "cn_classes": "校務治理與管理",
     "cn_tags": "國立金門大學, 國立大學, 文化",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BN2sybndoN1pwUm1NQWNhZEtPVGxWNHIyRHNvMFhoejZRSnotVUxPZnltU2VvV0xjaDdtOWx6SEQwSldUeHFMZHRYNDE3enM4?oc=5": {
     "title": "別只看北科大、雲科大！台灣最強科技大學是它「亞洲排名擠進百大」， 影響力強學生搶讀 - 風傳媒",
@@ -2007,7 +2022,7 @@
     "cn_title": "台師大調查：家庭影響個人飲食認知 最能代表台灣的食物是「它」",
     "cn_classes": "學術研究與創新",
     "cn_tags": "大學, 國立臺灣師範大學, 文化",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6929/9856014": {
     "title": "嶺東科大校友回娘家 跨世代齊聚共譜62年情誼",
@@ -2022,7 +2037,7 @@
     "cn_title": "嶺東科大校友回娘家 跨世代齊聚共譜62年情誼",
     "cn_classes": "校務治理與管理",
     "cn_tags": "嶺東科技大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.ltn.com.tw/news/life/paper/1777109": {
     "title": "中大學生3度捕捉「紅色精靈」大氣奇觀",
@@ -2052,7 +2067,7 @@
     "cn_title": "大學招生 大考電子舞弊 最重取消資格",
     "cn_classes": "學生事務與生活",
     "cn_tags": "申請入學, 大學, 繁星",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.ltn.com.tw/news/society/breakingnews/5628428": {
     "title": "靜宜大學出事了！婦人打錯檔暴衝邊坡 坐台階男大生「嚇到秒彈開」",
@@ -2232,7 +2247,7 @@
     "cn_title": "長庚大學台日團隊突破二維半導體瓶頸 有望取代傳統矽材料",
     "cn_classes": "學術研究與創新",
     "cn_tags": "長庚大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://www.cna.com.tw/news/ahel/202611030112.aspx": {
     "title": "長庚大學攜日本突破二維半導體瓶頸　為次世代晶片奠基",
@@ -2322,7 +2337,7 @@
     "cn_title": "苗縣府斥資約4億籌建 陽明交大「篤行學院」今動土、2028年完工",
     "cn_classes": "校務治理與管理",
     "cn_tags": "國立陽明交通大學, 高等教育, 學術",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5626868": {
     "title": "中興大學攜手澎湖科大 簽署合作備忘錄推動綠色循環島",
@@ -2382,7 +2397,7 @@
     "cn_title": "金大8.2億預算近六成用於人事 陳玉珍籲中央正視離島大學資源落差",
     "cn_classes": "政策與法規",
     "cn_tags": "國立金門大學, 學術",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5626617": {
     "title": "台師大劉美慧接國教院長 提3方向「讓台灣教育被世界看見」",
@@ -2412,7 +2427,7 @@
     "cn_title": "清大校長高為元赴美覓職爭議延燒 11月10日將加開校務會議",
     "cn_classes": "校務治理與管理",
     "cn_tags": "國立清華大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5626495": {
     "title": "陽明交大苗栗校區動土！鎖定核心醫療產業 拚117學年招生",
@@ -2442,7 +2457,7 @@
     "cn_title": "中山、高雄大學合併研議再啟動！校名協商、學歷認受度進展一次看",
     "cn_classes": "校務治理與管理",
     "cn_tags": "國立中山大學, 國立高雄大學, 學術",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5626197": {
     "title": "晶片薄到只剩一層原子 台大跨國團隊突破半導體材料瓶頸登「Nature」",
@@ -2487,7 +2502,7 @@
     "cn_title": "教育跨界觀光 深度學旅讓地方成為孩子的教室",
     "cn_classes": "在地連結與社會責任（USR）",
     "cn_tags": "逢甲大學, 碩士, 學位, 文化",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5625152": {
     "title": "情緒不打結！成大SEL嘉年華 從頌缽到桌遊探索內心",
@@ -2532,7 +2547,7 @@
     "cn_title": "東海大學迎71周年校慶 聘4中研院士校友任榮譽講座教授",
     "cn_classes": "學術研究與創新",
     "cn_tags": "學術研究, 東海大學, 教授, 國立體育大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6885/9848667": {
     "title": "第30屆國家講座主持人 台清交成4頂大全數包辦",
@@ -2547,7 +2562,7 @@
     "cn_title": "第30屆國家講座主持人 台清交成4頂大全數包辦",
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立陽明交通大學, 頂大, 教授, 國立成功大學, 國立清華大學, 國立臺灣大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://health.ltn.com.tw/article/breakingnews/5624510": {
     "title": "代謝酵素也會斜槓！台大揭PGK1協助細胞運送蛋白質",
@@ -2592,7 +2607,7 @@
     "cn_title": "王惕吾獎學金 24人獲獎",
     "cn_classes": "學生事務與生活",
     "cn_tags": "研究生, 大學生",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6929/9847909": {
     "title": "僑光科大頒獎表揚21家產學合作績優企業 讓學生實習留任接軌就業",
@@ -2607,7 +2622,7 @@
     "cn_title": "僑光科大頒獎表揚21家產學合作績優企業 讓學生實習留任接軌就業",
     "cn_classes": "產學合作",
     "cn_tags": "僑光科技大學, 產學合作, 僑光科大",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6925/9847480": {
     "title": "高一生「太生澀」資料不敢放入學習歷程檔案 大學端提點加分作法",
@@ -2622,7 +2637,7 @@
     "cn_title": "高一生「太生澀」資料不敢放入學習歷程檔案 大學端提點加分作法",
     "cn_classes": "學生事務與生活",
     "cn_tags": "申請入學, 大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6928/9847478": {
     "title": "王惕吾獎學金名單曝光 24人獲獎",
@@ -2637,7 +2652,7 @@
     "cn_title": "王惕吾獎學金名單曝光 24人獲獎",
     "cn_classes": "學生事務與生活",
     "cn_tags": "研究生, 大學生",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6928/9847366": {
     "title": "華梵大學36週年校慶 覺之教育迎接AI時代",
@@ -2652,7 +2667,7 @@
     "cn_title": "華梵大學36週年校慶 覺之教育迎接AI時代",
     "cn_classes": "校務治理與管理",
     "cn_tags": "法鼓文理學院, 華梵大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6928/9847411": {
     "title": "中山大學創校46年首位建築業名譽博士 黃烱輝獲頒殊榮",
@@ -2667,7 +2682,7 @@
     "cn_title": "中山大學創校46年首位建築業名譽博士 黃烱輝獲頒殊榮",
     "cn_classes": "校務治理與管理",
     "cn_tags": "國立中山大學, 學位",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://www.cna.com.tw/news/aloc/202610300189.aspx": {
     "title": "陽明交大攜手康橋培育師資　實習每月加發1萬元",
@@ -2892,7 +2907,7 @@
     "cn_title": "考生注意！升大學英聽一試明公布成績 查詢方式一次看",
     "cn_classes": "其他",
     "cn_tags": "申請入學, 大學, 繁星",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QSm9uVHE1akgtSGFmR3NxdFlMV1FNZTk1RDZuS2NZZS0wZlU4RlhRRDNrb2g4eHpWcXA3VDNjQ09aV2c2eV9iVDh4U0o1TW9ZbU01M3B1R0t0ZThRVEhkUmY0RFpEdw?oc=5": {
     "title": "把演算法帶進社區！南華大學資工系自主研發AI 健康系統深入嘉義舉辦青銀共融活力營- 新消息- Campus - 中時新聞網",
@@ -2937,7 +2952,7 @@
     "cn_title": "教育部重申台灣高等研究學院無延宕 以特殊選才招生",
     "cn_classes": "政策與法規",
     "cn_tags": "",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5622403": {
     "title": "高分署推大專青年預聘計畫起跑 在學期間就有薪水拿",
@@ -2997,7 +3012,7 @@
     "cn_title": "運用毛細作用打造補充式香水瓶 台科大5作品獲2026紅點設計獎",
     "cn_classes": "學生事務與生活",
     "cn_tags": "科技大學, 國立臺灣科技大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR1AzWnE4aVdkWVFmV0ZfNlpxTUVSYllGRGZsZ1ZzaGRldGRidUhNSzJVS3NLc21TNDRhLVZfSGZ6UzlyZWdlaGVsWW5mYVZGcXdDQlo5ZXJCWVpKSWRGWFdNbU03TlNqNmIyYUd2LUVNdzdxTzRpTzRBemhIMTNXOGZQUmxvR3dlcTJPSXZIdlhSUERSbEE?oc=5": {
     "title": "高雄大學校友為何堅持保留「高雄」校名？ - 遠見雜誌",
@@ -3072,7 +3087,7 @@
     "cn_title": "玉山學者年薪加給500萬仍難留才 瓶頸卡在大學內部",
     "cn_classes": "政策與法規",
     "cn_tags": "大學, 學界",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qUUZPZUs0T0piZnNtUEJOa3FWeDE1blJmVUIzTmtJTjN4U2FXbVBQbE9BSTlKOUlFQXdoZHhxRVJUeDI3aDhWQVBVZVhUZw?oc=5": {
     "title": "吳敏求獲頒中央大學名譽博士！盼半導體成「護人神山」，救人應用優先供貨 | 魏鑫陽 | 財經 - 風傳媒",
@@ -3147,7 +3162,7 @@
     "cn_title": "嶺東科大62周年校慶 盧秀燕錄製影片祝賀",
     "cn_classes": "學生事務與生活",
     "cn_tags": "嶺東科技大學, 文化",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.ltn.com.tw/news/life/breakingnews/5621335": {
     "title": "環境部攜手北科大示範「都市林」智慧治理 文化部也加入",
@@ -3237,7 +3252,7 @@
     "cn_title": "教授遭控刁難學業碩班生不幸亡 台北科大認定霸凌不成立",
     "cn_classes": "校園受社會關注事件",
     "cn_tags": "科技大學, 台北科大, 碩士, 教授",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6925/9840792": {
     "title": "陽明交大資工等4系組 「對準專業」不參採國文",
@@ -3252,7 +3267,7 @@
     "cn_title": "陽明交大資工等4系組 「對準專業」不參採國文",
     "cn_classes": "學生事務與生活",
     "cn_tags": "申請入學, 國立陽明交通大學, 大學, 學測, 繁星, 國立政治大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1TUQtaGE0MXR5MzltVGtDS2lCcTZLYUpiS1BNSTlCMnpUWERUb3UzU2t6bzVhQVdQZEV5ODB5RTJaV2ZjeHlMc3hoSU8yZw?oc=5": {
     "title": "中山、高雄大學合併研議再啟動！校名協商，學歷認受度進展一次看 - 遠見雜誌",
@@ -3327,7 +3342,7 @@
     "cn_title": "台英大學聯盟年會登場 聚焦淨零綠能與雙語教育",
     "cn_classes": "國際交流與合作",
     "cn_tags": "大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://www.cna.com.tw/news/ahel/202610270131.aspx": {
     "title": "台英大學聯盟年會登場　聚焦淨零綠能與雙語教育",
@@ -3387,7 +3402,7 @@
     "cn_title": "116申請入學 陽明交大資工甲乙組不再採國文、政大資科系改名資工",
     "cn_classes": "學生事務與生活",
     "cn_tags": "申請入學, 國立陽明交通大學, 大學, 繁星, 國立政治大學, 國立臺灣大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://health.ltn.com.tw/article/breakingnews/5619927": {
     "title": "陽明交大、北榮首度發現新型抗藥細菌  恐成無藥可用  獲美CDC刊登示警",
@@ -3417,7 +3432,7 @@
     "cn_title": "116升大學申請入學 339個系僅參採學測1科",
     "cn_classes": "學生事務與生活",
     "cn_tags": "申請入學, 大學, 學測, 繁星",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://www.cna.com.tw/news/ahel/202610270068.aspx": {
     "title": "116大學繁星推薦、申請入學　參採學測3科居多",
@@ -3447,7 +3462,7 @@
     "cn_title": "家鄉味和台灣漢餅結合 喜豐香1985攜手弘光科大推動「風味共釀」",
     "cn_classes": "產學合作",
     "cn_tags": "弘光科技大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6925/9839134": {
     "title": "116升大學繁星、申請參採科目公告 逾700系採計3科最多",
@@ -3462,7 +3477,7 @@
     "cn_title": "116升大學繁星、申請參採科目公告 逾700系採計3科最多",
     "cn_classes": "學生事務與生活",
     "cn_tags": "申請入學, 大學, 學測, 繁星",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6885/9838505": {
     "title": "公費師培生解約人數增 加重罰則恐更難搶才",
@@ -3477,7 +3492,7 @@
     "cn_title": "公費師培生解約人數增 加重罰則恐更難搶才",
     "cn_classes": "學生事務與生活",
     "cn_tags": "國立彰化師範大學, 碩士",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6885/9838504": {
     "title": "理科師培公費專班選才惹議 有教師證反遭拒",
@@ -3492,7 +3507,7 @@
     "cn_title": "理科師培公費專班選才惹議 有教師證反遭拒",
     "cn_classes": "學生事務與生活",
     "cn_tags": "國立彰化師範大學, 碩士",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://udn.com/news/story/6885/9837954": {
     "title": "台灣高等研究學院傳首屆招生延後 教育部發聲：無延宕、將提前試辦",
@@ -3507,7 +3522,7 @@
     "cn_title": "台灣高等研究學院傳首屆招生延後 教育部發聲：無延宕、將提前試辦",
     "cn_classes": "政策與法規",
     "cn_tags": "國立陽明交通大學, 大學, 大四, 國立成功大學, 國立清華大學, 國立臺灣大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   },
   "https://www.cna.com.tw/news/ahel/202610260194.aspx": {
     "title": "教育部：台灣高等研究學院無延宕　提前啟動試辦",
@@ -3582,21 +3597,6 @@
     "cn_title": "邊走邊修 台灣高等研究學院難產",
     "cn_classes": "政策與法規",
     "cn_tags": "",
-    "source": "UDN 文教"
-  },
-  "https://udn.com/news/story/6885/9836825": {
-    "title": "台灣高等研究學院趕上路 大學端踩煞車抱怨不清楚細節",
-    "link": "https://udn.com/news/story/6885/9836825",
-    "published": "2026-10-25 23:06",
-    "images": [],
-    "summary": "教育部近期推出第一所國立學校型態實驗教育學校－台灣實中，以及與實中搭配的升大學機制台灣高等研究學院（TAAS），盼培養基礎科學人才，兩者本欲於今年底公告說明，但執行上各有困難。明年初TAAS將在台大以「校學士」機制先行，學界則認為，台大爭取到以既有校學士體制先行較理想，先作為樣本，以此觀察、修正運作樣態。",
-    "tags": "大學, 學士, 學界, 國立臺灣大學",
-    "classes": "政策與法規",
-    "is_target": "True",
-    "cn_summary": "教育部近期推出第一所國立學校型態實驗教育學校－台灣實中，以及與實中搭配的升大學機制台灣高等研究學院（TAAS），盼培養基礎科學人才，兩者本欲於今年底公告說明，但執行上各有困難。明年初TAAS將在台大以「校學士」機制先行，學界則認為，台大爭取到以既有校學士體制先行較理想，先作為樣本，以此觀察、修正運作樣態。",
-    "cn_title": "台灣高等研究學院趕上路 大學端踩煞車抱怨不清楚細節",
-    "cn_classes": "政策與法規",
-    "cn_tags": "大學, 學士, 學界, 國立臺灣大學",
-    "source": "UDN 文教"
+    "source": "聯合報"
   }
 }
