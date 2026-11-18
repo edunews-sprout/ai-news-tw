@@ -29,6 +29,21 @@
     "cn_tags": "中原大學",
     "source": "聯合報"
   },
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwandSN2lrWlNaVjFKcmY2bTN0NDRtc25HazNnWUhHVy1zQ0cxRjRVVVNfWjEyYjRjYVBNV3VWSEV4cVJmeEhEV0dwYzJhdw?oc=5": {
+    "title": "AIT處長與愛達荷州長見證東海大學與美國名校串連在美光科技美國總部培育半導體人才| 王秀禾 | 地方新聞 - 風傳媒",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwandSN2lrWlNaVjFKcmY2bTN0NDRtc25HazNnWUhHVy1zQ0cxRjRVVVNfWjEyYjRjYVBNV3VWSEV4cVJmeEhEV0dwYzJhdw?oc=5",
+    "published": "2026-11-17 18:44",
+    "images": [],
+    "summary": "AIT處長與愛達荷州長見證東海大學與美國名校串連在美光科技美國總部培育半導體人才| 王秀禾 | 地方新聞&nbsp;&nbsp;風傳媒",
+    "tags": "東海大學",
+    "classes": "產學合作",
+    "is_target": "True",
+    "cn_summary": "AIT處長與愛達荷州長見證東海大學與美國名校串連在美光科技美國總部培育半導體人才| 王秀禾 | 地方新聞&nbsp;&nbsp;風傳媒",
+    "cn_title": "AIT處長與愛達荷州長見證東海大學與美國名校串連在美光科技美國總部培育半導體人才| 王秀禾 | 地方新聞 - 風傳媒",
+    "cn_classes": "產學合作",
+    "cn_tags": "東海大學",
+    "source": "風傳媒"
+  },
   "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0UWF2elFMc1dpTTJrTk9xc2trdHo0SjFGLW5KOVVINlF0bFV1NGNQd2cxSEVlRlU0a3k5WEE1TVRDOTcxOHBHRDRzRWREbWZqSlBMMlFRWnlvNkROUkFXOVdDcEMxQQ?oc=5": {
     "title": "東海大學推動博雅教育革新打破科系框架、提供免費住宿助學生適性探索- 新消息- Campus - 中時新聞網",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0UWF2elFMc1dpTTJrTk9xc2trdHo0SjFGLW5KOVVINlF0bFV1NGNQd2cxSEVlRlU0a3k5WEE1TVRDOTcxOHBHRDRzRWREbWZqSlBMMlFRWnlvNkROUkFXOVdDcEMxQQ?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學生事務與生活",
     "cn_tags": "國立成功大學, 大專, 國立臺灣大學",
     "source": "自由時報"
-  },
-  "https://www.cna.com.tw/news/ahel/202610310168.aspx": {
-    "title": "東海大學71週年校慶  校友捐1億元助建半導體大樓",
-    "link": "https://www.cna.com.tw/news/ahel/202610310168.aspx",
-    "published": "2026-10-31 18:44",
-    "images": [],
-    "summary": "（中央社記者蘇木春台中31日電）東海大學今天舉辦創校71週年校慶活動，聘任4名中央研究院院士為榮譽講座教授。校友、大渡山學會理事長鄭清和捐資新台幣1億元支持半導體大樓建設與人才培育，盼強化教學量能。",
-    "tags": "東海大學, 教授, 國立體育大學",
-    "classes": "校務治理與管理",
-    "is_target": "True",
-    "cn_summary": "（中央社記者蘇木春台中31日電）東海大學今天舉辦創校71週年校慶活動，聘任4名中央研究院院士為榮譽講座教授。校友、大渡山學會理事長鄭清和捐資新台幣1億元支持半導體大樓建設與人才培育，盼強化教學量能。",
-    "cn_title": "東海大學71週年校慶  校友捐1億元助建半導體大樓",
-    "cn_classes": "校務治理與管理",
-    "cn_tags": "東海大學, 教授, 國立體育大學",
-    "source": "中央社"
   }
 }
