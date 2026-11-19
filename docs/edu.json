@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5646875": {
+    "title": "雨豆樹「動不得」成大測量系館老建築命運未卜",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5646875",
+    "published": "2026-11-19 20:19",
+    "images": [],
+    "summary": "30億「成大之芯」興建計畫引發成功大學測量系館拆除或保留爭議，外界質疑文化資產審查是否配合事先「喬好」審查委員名單，南市文化資產管理處出面澄清。不過，測量系館前1棵樹冠優美的雨...…",
+    "tags": "國立成功大學, 學測, 文化",
+    "classes": "校務治理與管理",
+    "is_target": "True",
+    "cn_summary": "30億「成大之芯」興建計畫引發成功大學測量系館拆除或保留爭議，外界質疑文化資產審查是否配合事先「喬好」審查委員名單，南市文化資產管理處出面澄清。不過，測量系館前1棵樹冠優美的雨...…",
+    "cn_title": "雨豆樹「動不得」成大測量系館老建築命運未卜",
+    "cn_classes": "校務治理與管理",
+    "cn_tags": "國立成功大學, 學測, 文化",
+    "source": "自由時報"
+  },
   "https://sports.ltn.com.tw/news/breakingnews/5646572": {
     "title": "UBA》「每場好像都回到那一天」走出冠軍戰失利的痛 李恩芯盼率文化重返榮耀",
     "link": "https://sports.ltn.com.tw/news/breakingnews/5646572",
@@ -3583,20 +3598,5 @@
     "cn_classes": "產學合作",
     "cn_tags": "科技大學, 教授, 北科",
     "source": "中央社"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5627862": {
-    "title": "突破下世代晶片瓶頸！ 台日團隊研發二維半導體登Nature",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5627862",
-    "published": "2026-11-03 15:24",
-    "images": [],
-    "summary": "下世代半導體技術迎來突破！隨著 AI、高效能運算與 3D晶片快速發展，半導體產業正積極尋求能取代傳統矽材料的新世代「二維半導體」。長庚大學攜手台灣、日本跨國研究團隊，成功突破國...…",
-    "tags": "長庚大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "下世代半導體技術迎來突破！隨著 AI、高效能運算與 3D晶片快速發展，半導體產業正積極尋求能取代傳統矽材料的新世代「二維半導體」。長庚大學攜手台灣、日本跨國研究團隊，成功突破國...…",
-    "cn_title": "突破下世代晶片瓶頸！ 台日團隊研發二維半導體登Nature",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "長庚大學",
-    "source": "自由時報"
   }
 }
