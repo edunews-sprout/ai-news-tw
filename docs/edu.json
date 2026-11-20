@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5647089": {
+    "title": "明新科大拆圍牆讓路   新豐康樂路、明新街到台1線壅塞路段可望打開",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5647089",
+    "published": "2026-11-20 08:12",
+    "images": [],
+    "summary": "新竹縣新豐鄉前、現任鄉長李錦復和徐煒傑攜手合作，歷時2年半跟私立明新科技大學董事會爭取協調，終獲董事長郝碧蓮等支持，明新科大決定拆除緊鄰康樂路的局部圍牆退縮入校，原圍牆土地則提...…",
+    "tags": "明新科技大學",
+    "classes": "在地連結與社會責任（USR）",
+    "is_target": "True",
+    "cn_summary": "新竹縣新豐鄉前、現任鄉長李錦復和徐煒傑攜手合作，歷時2年半跟私立明新科技大學董事會爭取協調，終獲董事長郝碧蓮等支持，明新科大決定拆除緊鄰康樂路的局部圍牆退縮入校，原圍牆土地則提...…",
+    "cn_title": "明新科大拆圍牆讓路   新豐康樂路、明新街到台1線壅塞路段可望打開",
+    "cn_classes": "在地連結與社會責任（USR）",
+    "cn_tags": "明新科技大學",
+    "source": "自由時報"
+  },
   "https://sports.ltn.com.tw/news/paper/1779228": {
     "title": "UBA》李恩芯心傷癒合 重啟文大奪金任務",
     "link": "https://sports.ltn.com.tw/news/paper/1779228",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "長庚大學",
     "source": "風傳媒"
-  },
-  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14aFktdWFHcHExZDVrcGpwY2I2SmVGYTd4dm9LYTBTc0hVbUMyeHozMVVTdG1JNHlhV1ZaOUtrT1pOV3U4YTU1SG01Z0tXTVpIQV9yZXhURHIyTmE3ZlBjLXZ1Tm9sZw?oc=5": {
-    "title": "靜宜大學深化台日產學合作以地方創生培育國際觀光人才- 新消息- Campus - 中時新聞網",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14aFktdWFHcHExZDVrcGpwY2I2SmVGYTd4dm9LYTBTc0hVbUMyeHozMVVTdG1JNHlhV1ZaOUtrT1pOV3U4YTU1SG01Z0tXTVpIQV9yZXhURHIyTmE3ZlBjLXZ1Tm9sZw?oc=5",
-    "published": "2026-11-03 17:15",
-    "images": [],
-    "summary": "靜宜大學深化台日產學合作以地方創生培育國際觀光人才- 新消息- Campus&nbsp;&nbsp;中時新聞網",
-    "tags": "產學合作, 靜宜大學",
-    "classes": "產學合作",
-    "is_target": "True",
-    "cn_summary": "靜宜大學深化台日產學合作以地方創生培育國際觀光人才- 新消息- Campus&nbsp;&nbsp;中時新聞網",
-    "cn_title": "靜宜大學深化台日產學合作以地方創生培育國際觀光人才- 新消息- Campus - 中時新聞網",
-    "cn_classes": "產學合作",
-    "cn_tags": "產學合作, 靜宜大學",
-    "source": "中國時報"
   }
 }
