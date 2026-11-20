@@ -1,4 +1,19 @@
 {
+  "https://udn.com/news/story/6928/9890544": {
+    "title": "新北市府與台北海洋科大合作培育動保人才 動物之家提供學生實習",
+    "link": "https://udn.com/news/story/6928/9890544",
+    "published": "2026-11-20 09:09",
+    "images": [],
+    "summary": "新北市農業局昨天與台北海洋科技大學簽署合作意向書，未來雙方將相互支援師資、共同推動專業課程與教育訓練，新北市8所動物之家及醫療中心等場域提供學生實習，合作培育動物照顧與保護專業人才。",
+    "tags": "台北海洋科技大學, 科大, 護專",
+    "classes": "產學合作",
+    "is_target": "True",
+    "cn_summary": "新北市農業局昨天與台北海洋科技大學簽署合作意向書，未來雙方將相互支援師資、共同推動專業課程與教育訓練，新北市8所動物之家及醫療中心等場域提供學生實習，合作培育動物照顧與保護專業人才。",
+    "cn_title": "新北市府與台北海洋科大合作培育動保人才 動物之家提供學生實習",
+    "cn_classes": "產學合作",
+    "cn_tags": "台北海洋科技大學, 科大, 護專",
+    "source": "聯合報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5647089": {
     "title": "明新科大拆圍牆讓路   新豐康樂路、明新街到台1線壅塞路段可望打開",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5647089",
@@ -3583,20 +3598,5 @@
     "cn_classes": "產學合作",
     "cn_tags": "國立高雄科技大學, 國立臺北科技大學, 教授",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03Zm1SdmVLc21welVyR1o3dHR4ZTVhMWlyXzVWbVlIQTQ4Rm5kQUpsRkZUS2I4dkxyNGJCWEVnUGlfUFNrbFY1SzNTdHJrQQ?oc=5": {
-    "title": "長庚大學攜手台日團隊突破二維半導體瓶頸 0.5奈米單層材料躍登《Nature》 | 王秀禾 | 地方新聞 - 風傳媒",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03Zm1SdmVLc21welVyR1o3dHR4ZTVhMWlyXzVWbVlIQTQ4Rm5kQUpsRkZUS2I4dkxyNGJCWEVnUGlfUFNrbFY1SzNTdHJrQQ?oc=5",
-    "published": "2026-11-03 17:17",
-    "images": [],
-    "summary": "長庚大學攜手台日團隊突破二維半導體瓶頸 0.5奈米單層材料躍登《Nature》 | 王秀禾 | 地方新聞&nbsp;&nbsp;風傳媒",
-    "tags": "長庚大學",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "長庚大學攜手台日團隊突破二維半導體瓶頸 0.5奈米單層材料躍登《Nature》 | 王秀禾 | 地方新聞&nbsp;&nbsp;風傳媒",
-    "cn_title": "長庚大學攜手台日團隊突破二維半導體瓶頸 0.5奈米單層材料躍登《Nature》 | 王秀禾 | 地方新聞 - 風傳媒",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "長庚大學",
-    "source": "風傳媒"
   }
 }
