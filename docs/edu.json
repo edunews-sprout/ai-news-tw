@@ -1,4 +1,19 @@
 {
+  "https://sports.ltn.com.tw/news/breakingnews/5649821": {
+    "title": "划船》退役後攻讀輔大商學院博士 奧運國手黃義婷參與亞太天主教大學運動會",
+    "link": "https://sports.ltn.com.tw/news/breakingnews/5649821",
+    "published": "2026-11-22 19:35",
+    "images": [],
+    "summary": "首屆亞太天主教大學運動會於輔仁大學盛大登場，場內各國大學好手奮力競技，場邊也出現一位熟悉的身影，兩屆奧運划船國手黃義婷退役後回到母校輔仁大學服務，不僅攻讀商學院博士學位，...…",
+    "tags": "輔仁大學, 學位",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "首屆亞太天主教大學運動會於輔仁大學盛大登場，場內各國大學好手奮力競技，場邊也出現一位熟悉的身影，兩屆奧運划船國手黃義婷退役後回到母校輔仁大學服務，不僅攻讀商學院博士學位，...…",
+    "cn_title": "划船》退役後攻讀輔大商學院博士 奧運國手黃義婷參與亞太天主教大學運動會",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "輔仁大學, 學位",
+    "source": "自由時報"
+  },
   "https://udn.com/news/story/6925/9894539": {
     "title": "捨台大選台師大 建中前1%學霸抱走50萬獎金 「不該吝於為理想找環境」",
     "link": "https://udn.com/news/story/6925/9894539",
@@ -28,6 +43,21 @@
     "cn_classes": "政策與法規",
     "cn_tags": "國立大學",
     "source": "遠見雜誌"
+  },
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4V09TWTdsa1FjWUNPeHhHQjFDb3hYaFI4cmhlQjg3TjNadl9WYVU4LTdFTHhERUlwLTI1c2piUmlObEFpTnRGQ0pSc0l6QQ?oc=5": {
+    "title": "徐作聖觀點：半導體學程不能代替科技人才培育，高教改革須重建知識主體性 | 徐作聖 | 評論 - 風傳媒",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4V09TWTdsa1FjWUNPeHhHQjFDb3hYaFI4cmhlQjg3TjNadl9WYVU4LTdFTHhERUlwLTI1c2piUmlObEFpTnRGQ0pSc0l6QQ?oc=5",
+    "published": "2026-11-22 05:45",
+    "images": [],
+    "summary": "徐作聖觀點：半導體學程不能代替科技人才培育，高教改革須重建知識主體性 | 徐作聖 | 評論&nbsp;&nbsp;風傳媒",
+    "tags": "高教",
+    "classes": "政策與法規",
+    "is_target": "True",
+    "cn_summary": "徐作聖觀點：半導體學程不能代替科技人才培育，高教改革須重建知識主體性 | 徐作聖 | 評論&nbsp;&nbsp;風傳媒",
+    "cn_title": "徐作聖觀點：半導體學程不能代替科技人才培育，高教改革須重建知識主體性 | 徐作聖 | 評論 - 風傳媒",
+    "cn_classes": "政策與法規",
+    "cn_tags": "高教",
+    "source": "風傳媒"
   },
   "https://sports.ltn.com.tw/news/breakingnews/5648976": {
     "title": "讓世界看見輔大、看見台灣！亞太天主教大學運動會明開幕",
@@ -3568,35 +3598,5 @@
     "cn_classes": "校務治理與管理",
     "cn_tags": "東海大學, 國立體育大學",
     "source": "聯合報"
-  },
-  "https://udn.com/news/story/6928/9859002": {
-    "title": "台大系統3校接軌國際 加入全球高教領袖網絡QS One",
-    "link": "https://udn.com/news/story/6928/9859002",
-    "published": "2026-11-05 11:55",
-    "images": [],
-    "summary": "國立台灣科技大學與國立台灣大學、國立台灣師範大學組成「國立台灣大學系統」，日前參與在印尼舉行的「2026 QS亞太高教峰會」，共同簽約加入QS One，成為高教領袖網絡的一員。",
-    "tags": "國立臺灣大學, 科技大學, 高教",
-    "classes": "校務治理與管理",
-    "is_target": "True",
-    "cn_summary": "國立台灣科技大學與國立台灣大學、國立台灣師範大學組成「國立台灣大學系統」，日前參與在印尼舉行的「2026 QS亞太高教峰會」，共同簽約加入QS One，成為高教領袖網絡的一員。",
-    "cn_title": "台大系統3校接軌國際 加入全球高教領袖網絡QS One",
-    "cn_classes": "校務治理與管理",
-    "cn_tags": "國立臺灣大學, 科技大學, 高教",
-    "source": "聯合報"
-  },
-  "https://www.cna.com.tw/news/afe/202611050086.aspx": {
-    "title": "旺宏吳敏求捐200萬美元成立基金　盼培養頂尖人才",
-    "link": "https://www.cna.com.tw/news/afe/202611050086.aspx",
-    "published": "2026-11-05 11:40",
-    "images": [],
-    "summary": "（中央社記者張建中台南5日電）記憶體廠旺宏董事長吳敏求今天宣布，以個人力量捐出至少200萬美元，在成功大學成立基金，並與史丹佛大學合作，希望每年送一名學生到史丹佛學最先進科技，以培養頂尖人才帶領台灣往前走。",
-    "tags": "國立成功大學",
-    "classes": "校務治理與管理",
-    "is_target": "True",
-    "cn_summary": "（中央社記者張建中台南5日電）記憶體廠旺宏董事長吳敏求今天宣布，以個人力量捐出至少200萬美元，在成功大學成立基金，並與史丹佛大學合作，希望每年送一名學生到史丹佛學最先進科技，以培養頂尖人才帶領台灣往前走。",
-    "cn_title": "旺宏吳敏求捐200萬美元成立基金　盼培養頂尖人才",
-    "cn_classes": "校務治理與管理",
-    "cn_tags": "國立成功大學",
-    "source": "中央社"
   }
 }
