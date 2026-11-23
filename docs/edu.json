@@ -1,4 +1,19 @@
 {
+  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LNnFnZkt1Rk5ScnJHLU1yOFlURjViVkZjN2VLSW1aajZXTXpBSmJkS0ZjR1BHMk9jY1B1alVLaVFreEdVQTNmX0FqTWtHa0xlYUdXVnN1VEVRd2ZEOE5ESXM3dFp3QQ?oc=5": {
+    "title": "超級電腦助攻、緊鄰半導體S廊帶！ 義守大學磁吸學子南漂- 新消息- Campus - 中時新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LNnFnZkt1Rk5ScnJHLU1yOFlURjViVkZjN2VLSW1aajZXTXpBSmJkS0ZjR1BHMk9jY1B1alVLaVFreEdVQTNmX0FqTWtHa0xlYUdXVnN1VEVRd2ZEOE5ESXM3dFp3QQ?oc=5",
+    "published": "2026-11-23 17:32",
+    "images": [],
+    "summary": "超級電腦助攻、緊鄰半導體S廊帶！ 義守大學磁吸學子南漂- 新消息- Campus&nbsp;&nbsp;中時新聞網",
+    "tags": "義守大學",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "超級電腦助攻、緊鄰半導體S廊帶！ 義守大學磁吸學子南漂- 新消息- Campus&nbsp;&nbsp;中時新聞網",
+    "cn_title": "超級電腦助攻、緊鄰半導體S廊帶！ 義守大學磁吸學子南漂- 新消息- Campus - 中時新聞網",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "義守大學",
+    "source": "中國時報"
+  },
   "https://www.cna.com.tw/news/afe/202611230157.aspx": {
     "title": "華邦電、成大設共同研發中心　聚焦前瞻技術研發和育才",
     "link": "https://www.cna.com.tw/news/afe/202611230157.aspx",
@@ -3583,20 +3598,5 @@
     "cn_classes": "校務治理與管理",
     "cn_tags": "亞洲大學, 學術",
     "source": "聯合報"
-  },
-  "https://news.google.com/rss/articles/CBMilgFBVV95cUxQME5pT3ZKckpuYUpRZ2dIa3BfZHgwUzFNSXYySjVNMkxsT2ppOEMtdjdoTUtvTXI4MERFNDdmQzM2R3JNZEpORXk3c2pEa1Z5N0REQ3VJMzI5dV85MEhOVlNvRnlPOVdaQjk3R0pxYy1hc1FMR2d6ZHlmMEdZMjdqN1Z3RWZDcVRUNXp4U3FseGhHVFNjOEE?oc=5": {
-    "title": "東海大學為何選擇在現今時機點大力投入半導體學程？ - 遠見雜誌",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQME5pT3ZKckpuYUpRZ2dIa3BfZHgwUzFNSXYySjVNMkxsT2ppOEMtdjdoTUtvTXI4MERFNDdmQzM2R3JNZEpORXk3c2pEa1Z5N0REQ3VJMzI5dV85MEhOVlNvRnlPOVdaQjk3R0pxYy1hc1FMR2d6ZHlmMEdZMjdqN1Z3RWZDcVRUNXp4U3FseGhHVFNjOEE?oc=5",
-    "published": "2026-11-06 23:28",
-    "images": [],
-    "summary": "東海大學為何選擇在現今時機點大力投入半導體學程？&nbsp;&nbsp;遠見雜誌",
-    "tags": "東海大學",
-    "classes": "教學與課程",
-    "is_target": "True",
-    "cn_summary": "東海大學為何選擇在現今時機點大力投入半導體學程？&nbsp;&nbsp;遠見雜誌",
-    "cn_title": "東海大學為何選擇在現今時機點大力投入半導體學程？ - 遠見雜誌",
-    "cn_classes": "教學與課程",
-    "cn_tags": "東海大學",
-    "source": "遠見雜誌"
   }
 }
