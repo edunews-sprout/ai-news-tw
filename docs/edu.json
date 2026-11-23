@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5650543": {
+    "title": "枯枝竟會自己走 中山大學教授從中發現10種疑似台灣特有甲蟲",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5650543",
+    "published": "2026-11-23 14:48",
+    "images": [],
+    "summary": "森林裡有些枯枝會突然走動起來，這可能是藏身其中的甲蟲幼蟲造成。國立中山大學生物科學系助理教授費卡契（Martin Fikáček）研究團隊運用DNA條碼技術，確認藏身枯枝內的不...…",
+    "tags": "國立中山大學, 大學生, 教授",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "森林裡有些枯枝會突然走動起來，這可能是藏身其中的甲蟲幼蟲造成。國立中山大學生物科學系助理教授費卡契（Martin Fikáček）研究團隊運用DNA條碼技術，確認藏身枯枝內的不...…",
+    "cn_title": "枯枝竟會自己走 中山大學教授從中發現10種疑似台灣特有甲蟲",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立中山大學, 大學生, 教授",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5650469": {
     "title": "華語教育結合AI與半導體 台美攜手培育科技人才",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5650469",
@@ -3583,20 +3598,5 @@
     "cn_classes": "國際交流與合作",
     "cn_tags": "高等教育, 產學合作, 教授, 文化",
     "source": "中央社"
-  },
-  "https://udn.com/news/story/6885/9862051": {
-    "title": "亞洲色彩會議登場 華梵校長籲AI發展下保留生活體驗",
-    "link": "https://udn.com/news/story/6885/9862051",
-    "published": "2026-11-06 15:09",
-    "images": [],
-    "summary": "2026亞洲色彩會議今天在台北登場，華梵大學校長李天任說，AI正不斷改變人們的生活，如何在透過科技深化對色彩理解的同時，...",
-    "tags": "華梵大學",
-    "classes": "校務治理與管理",
-    "is_target": "True",
-    "cn_summary": "2026亞洲色彩會議今天在台北登場，華梵大學校長李天任說，AI正不斷改變人們的生活，如何在透過科技深化對色彩理解的同時，...",
-    "cn_title": "亞洲色彩會議登場 華梵校長籲AI發展下保留生活體驗",
-    "cn_classes": "校務治理與管理",
-    "cn_tags": "華梵大學",
-    "source": "聯合報"
   }
 }
