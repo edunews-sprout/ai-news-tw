@@ -1,4 +1,19 @@
 {
+  "https://www.cna.com.tw/news/afe/202611230157.aspx": {
+    "title": "華邦電、成大設共同研發中心　聚焦前瞻技術研發和育才",
+    "link": "https://www.cna.com.tw/news/afe/202611230157.aspx",
+    "published": "2026-11-23 15:51",
+    "images": [],
+    "summary": "（中央社記者張建中新竹23日電）記憶體廠華邦電今天宣布，與國立成功大學成立共同研發中心，華邦電每年將投入新台幣1000萬元，結合雙方研發能量，聚焦AI在半導體製程優化與電路設計、先進封裝熱管理、次世代電容元件及智慧製程等前瞻技術，並深化人才培育。",
+    "tags": "國立成功大學",
+    "classes": "產學合作",
+    "is_target": "True",
+    "cn_summary": "（中央社記者張建中新竹23日電）記憶體廠華邦電今天宣布，與國立成功大學成立共同研發中心，華邦電每年將投入新台幣1000萬元，結合雙方研發能量，聚焦AI在半導體製程優化與電路設計、先進封裝熱管理、次世代電容元件及智慧製程等前瞻技術，並深化人才培育。",
+    "cn_title": "華邦電、成大設共同研發中心　聚焦前瞻技術研發和育才",
+    "cn_classes": "產學合作",
+    "cn_tags": "國立成功大學",
+    "source": "中央社"
+  },
   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92d1dGR3hzV25PM3ZoZkZXRjR3OXlSS1JpTWd2N3IwN1VwU3MwSU42cmNTWVA2ZmdOWVc4TVl6RjM5S0Jyc1VpcFdyU0ZQb1N4ZkZKOV9aSGtfa0E?oc=5": {
     "title": "工地打工出身的校長 周文松充分溝通、以身作則凝聚校園信任 - 翻轉教育",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92d1dGR3hzV25PM3ZoZkZXRjR3OXlSS1JpTWd2N3IwN1VwU3MwSU42cmNTWVA2ZmdOWVc4TVl6RjM5S0Jyc1VpcFdyU0ZQb1N4ZkZKOV9aSGtfa0E?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "教學與課程",
     "cn_tags": "東海大學",
     "source": "遠見雜誌"
-  },
-  "https://news.ltn.com.tw/news/society/breakingnews/5632070": {
-    "title": "研究室指侵女大生噁問「舒服嗎？」國立大學副教授判刑4年2月",
-    "link": "https://news.ltn.com.tw/news/society/breakingnews/5632070",
-    "published": "2026-11-06 19:09",
-    "images": [],
-    "summary": "台北市某國立大學張姓男副教授，以指導撰寫論文審查意見為由，約一名在學女助理到他研究室，藉口要幫她按摩，竟命她脫下衣褲予以指侵，還頻頻問「這樣舒服嗎？」，女助理脫離魔爪後找女同學...…",
-    "tags": "國立大學, 女大生, 教授, 論文",
-    "classes": "校園受社會關注事件",
-    "is_target": "True",
-    "cn_summary": "台北市某國立大學張姓男副教授，以指導撰寫論文審查意見為由，約一名在學女助理到他研究室，藉口要幫她按摩，竟命她脫下衣褲予以指侵，還頻頻問「這樣舒服嗎？」，女助理脫離魔爪後找女同學...…",
-    "cn_title": "研究室指侵女大生噁問「舒服嗎？」國立大學副教授判刑4年2月",
-    "cn_classes": "校園受社會關注事件",
-    "cn_tags": "國立大學, 女大生, 教授, 論文",
-    "source": "自由時報"
   }
 }
