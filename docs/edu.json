@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5650469": {
+    "title": "華語教育結合AI與半導體 台美攜手培育科技人才",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5650469",
+    "published": "2026-11-23 14:24",
+    "images": [],
+    "summary": "學華語成為進入半導體產業的起點！教育部率領17所大專校院赴美參加全美外語教學協會（ACTFL）年會，以華語教育結合人工智慧（AI）及半導體為主軸，推動台美人才培育合作。 ...…",
+    "tags": "大專",
+    "classes": "國際交流與合作",
+    "is_target": "True",
+    "cn_summary": "學華語成為進入半導體產業的起點！教育部率領17所大專校院赴美參加全美外語教學協會（ACTFL）年會，以華語教育結合人工智慧（AI）及半導體為主軸，推動台美人才培育合作。 ...…",
+    "cn_title": "華語教育結合AI與半導體 台美攜手培育科技人才",
+    "cn_classes": "國際交流與合作",
+    "cn_tags": "大專",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5650366": {
     "title": "藝術走進偏鄉校園 教育部招募大專生投入美感育苗",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5650366",
@@ -3583,20 +3598,5 @@
     "cn_classes": "校務治理與管理",
     "cn_tags": "華梵大學",
     "source": "聯合報"
-  },
-  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SV3NWQ1MwVE5iOWY4U0dzQzhwc3Y3RG9ZeHlib1VRSVpaZUwzb2NVNFZ3cEZRV2RQWWtpdTVJZzJUY2tRdnhHWTNoakRPSzk4dm1CWlJpZ0J4Q09DbmtrbXJjTWNYZw?oc=5": {
-    "title": "2027年QS亞洲大學排名 南華大學榮獲台灣第49名、東亞第482名 - 中時新聞網",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SV3NWQ1MwVE5iOWY4U0dzQzhwc3Y3RG9ZeHlib1VRSVpaZUwzb2NVNFZ3cEZRV2RQWWtpdTVJZzJUY2tRdnhHWTNoakRPSzk4dm1CWlJpZ0J4Q09DbmtrbXJjTWNYZw?oc=5",
-    "published": "2026-11-06 13:32",
-    "images": [],
-    "summary": "2027年QS亞洲大學排名 南華大學榮獲台灣第49名、東亞第482名&nbsp;&nbsp;中時新聞網",
-    "tags": "亞洲大學, 南華大學",
-    "classes": "校務治理與管理",
-    "is_target": "True",
-    "cn_summary": "2027年QS亞洲大學排名 南華大學榮獲台灣第49名、東亞第482名&nbsp;&nbsp;中時新聞網",
-    "cn_title": "2027年QS亞洲大學排名 南華大學榮獲台灣第49名、東亞第482名 - 中時新聞網",
-    "cn_classes": "校務治理與管理",
-    "cn_tags": "亞洲大學, 南華大學",
-    "source": "中國時報"
   }
 }
