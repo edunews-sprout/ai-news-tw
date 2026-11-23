@@ -1,4 +1,19 @@
 {
+  "https://news.ltn.com.tw/news/life/breakingnews/5650188": {
+    "title": "從口腔照護到數位教學 青年海外志工走進12國偏鄉",
+    "link": "https://news.ltn.com.tw/news/life/breakingnews/5650188",
+    "published": "2026-11-23 10:19",
+    "images": [],
+    "summary": "教育部推動青年走向世界，我國青年海外志工足跡，今年遍及泰國、尼泊爾、印度、柬埔寨等12國，其中，台北醫學大學團隊深入尼泊爾偏鄉推動口腔保健，培訓當地人員延續照護；清華大學志工則...…",
+    "tags": "國立清華大學, 北醫",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "教育部推動青年走向世界，我國青年海外志工足跡，今年遍及泰國、尼泊爾、印度、柬埔寨等12國，其中，台北醫學大學團隊深入尼泊爾偏鄉推動口腔保健，培訓當地人員延續照護；清華大學志工則...…",
+    "cn_title": "從口腔照護到數位教學 青年海外志工走進12國偏鄉",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "國立清華大學, 北醫",
+    "source": "自由時報"
+  },
   "https://news.ltn.com.tw/news/life/paper/1779486": {
     "title": "2026THE創新與影響力峰會 台、清、台科大分享創新實力、AI人才培育",
     "link": "https://news.ltn.com.tw/news/life/paper/1779486",
@@ -3583,20 +3598,5 @@
     "cn_classes": "校務治理與管理",
     "cn_tags": "國立臺灣大學, 研究所, 學術, 教授, 文化",
     "source": "中央社"
-  },
-  "https://ec.ltn.com.tw/article/breakingnews/5630781": {
-    "title": "宏達電攜國防醫學大學推智慧平台  DeepQ助陣戰場急救、軍醫培訓",
-    "link": "https://ec.ltn.com.tw/article/breakingnews/5630781",
-    "published": "2026-11-05 17:49",
-    "images": [],
-    "summary": "虛擬實境創新者宏達電 HTC旗下醫療 AI 團隊 DeepQ今（5）日宣布，與國防醫學大學簽署「智慧醫療平台開發合作備忘錄（MOU）」，HTC 副總裁盧佳德指出，雙方將結...…",
-    "tags": "大學",
-    "classes": "產學合作",
-    "is_target": "True",
-    "cn_summary": "虛擬實境創新者宏達電 HTC旗下醫療 AI 團隊 DeepQ今（5）日宣布，與國防醫學大學簽署「智慧醫療平台開發合作備忘錄（MOU）」，HTC 副總裁盧佳德指出，雙方將結...…",
-    "cn_title": "宏達電攜國防醫學大學推智慧平台  DeepQ助陣戰場急救、軍醫培訓",
-    "cn_classes": "產學合作",
-    "cn_tags": "大學",
-    "source": "自由時報"
   }
 }
