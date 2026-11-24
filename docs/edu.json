@@ -14,6 +14,21 @@
     "cn_tags": "世新大學",
     "source": "聯合報"
   },
+  "https://www.cna.com.tw/news/ahel/202611240246.aspx": {
+    "title": "民法刪除兄弟姊妹特留分　世新大學辦模擬庭審",
+    "link": "https://www.cna.com.tw/news/ahel/202611240246.aspx",
+    "published": "2026-11-24 17:48",
+    "images": [],
+    "summary": "（中央社記者陳至中台北24日電）立法院今年7月三讀通過「民法」修正案，刪除兄弟姊妹特留分規定。世新大學法律系今天舉辦實習法庭展演，學生透過自編自導的家事案件，探討修法議題。",
+    "tags": "世新大學",
+    "classes": "教學與課程",
+    "is_target": "True",
+    "cn_summary": "（中央社記者陳至中台北24日電）立法院今年7月三讀通過「民法」修正案，刪除兄弟姊妹特留分規定。世新大學法律系今天舉辦實習法庭展演，學生透過自編自導的家事案件，探討修法議題。",
+    "cn_title": "民法刪除兄弟姊妹特留分　世新大學辦模擬庭審",
+    "cn_classes": "教學與課程",
+    "cn_tags": "世新大學",
+    "source": "中央社"
+  },
   "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02V05uaW5YX19vdlBCNjR4aTdRQ2hLX3NQQkFXNVpLdmRxcUdpRmoya2ZVWFBLT3FuRTcxdVg1aGwzaWJtTTI5NDRjMmRMdGhTM180aFh6cHM2LVdZcUZ1d25ldXFyZw?oc=5": {
     "title": "明新科大師生赴菲律賓亞當森大學交流全英語課程拓展國際視野- 新消息- Campus - 中時新聞網",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02V05uaW5YX19vdlBCNjR4aTdRQ2hLX3NQQkFXNVpLdmRxcUdpRmoya2ZVWFBLT3FuRTcxdVg1aGwzaWJtTTI5NDRjMmRMdGhTM180aFh6cHM2LVdZcUZ1d25ldXFyZw?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "教學與課程",
     "cn_tags": "國立高雄科技大學, 教授, 實踐",
     "source": "聯合報"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5634237": {
-    "title": "以螢光奈米鑽石打造「細胞GPS」追蹤抗癌藥運作 陽明交大偕業界研究成果登國際期刊",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5634237",
-    "published": "2026-11-09 11:19",
-    "images": [],
-    "summary": "陽明交大生物科技學系特聘教授趙瑞益攜手路明思生技（LuminX Biotech），運用具長效螢光特性的奈米鑽石（Fluorescent Nanodiamond），打造可追蹤治療...…",
-    "tags": "國立陽明交通大學, 教授",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "陽明交大生物科技學系特聘教授趙瑞益攜手路明思生技（LuminX Biotech），運用具長效螢光特性的奈米鑽石（Fluorescent Nanodiamond），打造可追蹤治療...…",
-    "cn_title": "以螢光奈米鑽石打造「細胞GPS」追蹤抗癌藥運作 陽明交大偕業界研究成果登國際期刊",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "國立陽明交通大學, 教授",
-    "source": "自由時報"
   }
 }
