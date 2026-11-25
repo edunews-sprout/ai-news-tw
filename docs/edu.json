@@ -1,4 +1,19 @@
 {
+  "https://ec.ltn.com.tw/article/breakingnews/5652675": {
+    "title": "成大攜手永豐銀 成立金融業首家共研中心",
+    "link": "https://ec.ltn.com.tw/article/breakingnews/5652675",
+    "published": "2026-11-25 12:17",
+    "images": [],
+    "summary": "國立成功大學與永豐銀行產學合作邁入第10年，雙方進一步成立「永豐銀行─成大共研中心」，由過去專案式合作升級為長期制度化研究平台。成大目前設有13個企業共研中心，永豐銀行是...…",
+    "tags": "國立成功大學, 產學合作",
+    "classes": "產學合作",
+    "is_target": "True",
+    "cn_summary": "國立成功大學與永豐銀行產學合作邁入第10年，雙方進一步成立「永豐銀行─成大共研中心」，由過去專案式合作升級為長期制度化研究平台。成大目前設有13個企業共研中心，永豐銀行是...…",
+    "cn_title": "成大攜手永豐銀 成立金融業首家共研中心",
+    "cn_classes": "產學合作",
+    "cn_tags": "國立成功大學, 產學合作",
+    "source": "自由時報"
+  },
   "https://www.cna.com.tw/news/asoc/202611250030.aspx": {
     "title": "清大化學館火警　廢棄化學藥品空瓶燃燒",
     "link": "https://www.cna.com.tw/news/asoc/202611250030.aspx",
@@ -3583,20 +3598,5 @@
     "cn_classes": "學術研究與創新",
     "cn_tags": "國立高雄科技大學, 大學, 教授",
     "source": "自由時報"
-  },
-  "https://udn.com/news/story/6928/9866555": {
-    "title": "陽明交大研發「細胞GPS」 追蹤抗癌藥物運輸路徑助減少動物實驗",
-    "link": "https://udn.com/news/story/6928/9866555",
-    "published": "2026-11-09 12:14",
-    "images": [],
-    "summary": "陽明交大生物科技學系趙瑞益特聘教授攜手路明思生技（LuminX Biotech），運用具長效螢光特性的奈米鑽石（Fluorescent Nanodiamond），打造可追蹤治療分子在細胞內運輸與清除路徑的「細胞GPS」技術，讓科學家不僅能清楚觀察藥物在細胞內的運作過程，也有助於減少動物實驗，實踐替代（Replacement）、減量（Reduction）與精緻化（Refinement）的3R人道科學精神。",
-    "tags": "國立陽明交通大學, 教授, 實踐",
-    "classes": "學術研究與創新",
-    "is_target": "True",
-    "cn_summary": "陽明交大生物科技學系趙瑞益特聘教授攜手路明思生技（LuminX Biotech），運用具長效螢光特性的奈米鑽石（Fluorescent Nanodiamond），打造可追蹤治療分子在細胞內運輸與清除路徑的「細胞GPS」技術，讓科學家不僅能清楚觀察藥物在細胞內的運作過程，也有助於減少動物實驗，實踐替代（Replacement）、減量（Reduction）與精緻化（Refinement）的3R人道科學精神。",
-    "cn_title": "陽明交大研發「細胞GPS」 追蹤抗癌藥物運輸路徑助減少動物實驗",
-    "cn_classes": "學術研究與創新",
-    "cn_tags": "國立陽明交通大學, 教授, 實踐",
-    "source": "聯合報"
   }
 }
