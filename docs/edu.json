@@ -1,4 +1,34 @@
 {
+  "https://www.cna.com.tw/news/afe/202611250127.aspx": {
+    "title": "台大團隊開發高能效學習晶片　可助生成式AI地端應用發展",
+    "link": "https://www.cna.com.tw/news/afe/202611250127.aspx",
+    "published": "2026-11-25 13:18",
+    "images": [],
+    "summary": "（中央社記者趙敏雅台北25日電）生成式人工智慧（AI）要在本地端高效運作，須兼顧運算效能與能源效率。國立台灣大學研究團隊成功開發兩代Transformer學習處理器晶片，透過減少不必要的運算及簡化AI運算流程，提升晶片能量效率，可助攻生成式AI朝本地端應用發展。",
+    "tags": "國立臺灣大學",
+    "classes": "學術研究與創新",
+    "is_target": "True",
+    "cn_summary": "（中央社記者趙敏雅台北25日電）生成式人工智慧（AI）要在本地端高效運作，須兼顧運算效能與能源效率。國立台灣大學研究團隊成功開發兩代Transformer學習處理器晶片，透過減少不必要的運算及簡化AI運算流程，提升晶片能量效率，可助攻生成式AI朝本地端應用發展。",
+    "cn_title": "台大團隊開發高能效學習晶片　可助生成式AI地端應用發展",
+    "cn_classes": "學術研究與創新",
+    "cn_tags": "國立臺灣大學",
+    "source": "中央社"
+  },
+  "https://www.cna.com.tw/news/asoc/202611250116.aspx": {
+    "title": "清大生科一館火警　校方：無人受傷無財損",
+    "link": "https://www.cna.com.tw/news/asoc/202611250116.aspx",
+    "published": "2026-11-25 12:48",
+    "images": [],
+    "summary": "（中央社記者魯鋼駿新竹市25日電）國立清華大學生命科學一館垃圾堆放處昨天晚間發生火警，校方人員今天表示，師長緊急持滅火器控制火勢，駐警隊疏散館內數十名學生並調度沙包支援，事件未造成人員傷亡。",
+    "tags": "國立清華大學, 大學生",
+    "classes": "校園受社會關注事件",
+    "is_target": "True",
+    "cn_summary": "（中央社記者魯鋼駿新竹市25日電）國立清華大學生命科學一館垃圾堆放處昨天晚間發生火警，校方人員今天表示，師長緊急持滅火器控制火勢，駐警隊疏散館內數十名學生並調度沙包支援，事件未造成人員傷亡。",
+    "cn_title": "清大生科一館火警　校方：無人受傷無財損",
+    "cn_classes": "校園受社會關注事件",
+    "cn_tags": "國立清華大學, 大學生",
+    "source": "中央社"
+  },
   "https://ec.ltn.com.tw/article/breakingnews/5652675": {
     "title": "成大攜手永豐銀 成立金融業首家共研中心",
     "link": "https://ec.ltn.com.tw/article/breakingnews/5652675",
@@ -3567,36 +3597,6 @@
     "cn_title": "諾貝爾物理學獎得主重返台師大 分享量子世界最新突破",
     "cn_classes": "國際交流與合作",
     "cn_tags": "研究所, 大學, 教授, 國立臺灣師範大學",
-    "source": "聯合報"
-  },
-  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zZndqSHRQejBTNXpJLWtLZEowQmpaQlZIcjJFdks1U0pmRnJfbGpUZEYzQVNNZlptcU1fNXNsMjhIeUZWcWdSWmhhcEhqUEJQT0ptZGxCYjJUQlZjSWNsT0Zwam5NQQ?oc=5": {
-    "title": "諾貝爾物理學獎得主John Clarke重返臺師大分享量子世界最新突破！宋曜廷校長率團隊迎接，深化國際學術交流 - 中時新聞網",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zZndqSHRQejBTNXpJLWtLZEowQmpaQlZIcjJFdks1U0pmRnJfbGpUZEYzQVNNZlptcU1fNXNsMjhIeUZWcWdSWmhhcEhqUEJQT0ptZGxCYjJUQlZjSWNsT0Zwam5NQQ?oc=5",
-    "published": "2026-11-09 15:52",
-    "images": [],
-    "summary": "諾貝爾物理學獎得主John Clarke重返臺師大分享量子世界最新突破！宋曜廷校長率團隊迎接，深化國際學術交流&nbsp;&nbsp;中時新聞網",
-    "tags": "國立臺灣師範大學, 學術",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "諾貝爾物理學獎得主John Clarke重返臺師大分享量子世界最新突破！宋曜廷校長率團隊迎接，深化國際學術交流&nbsp;&nbsp;中時新聞網",
-    "cn_title": "諾貝爾物理學獎得主John Clarke重返臺師大分享量子世界最新突破！宋曜廷校長率團隊迎接，深化國際學術交流 - 中時新聞網",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "國立臺灣師範大學, 學術",
-    "source": "中國時報"
-  },
-  "https://udn.com/news/story/6929/9866992": {
-    "title": "嶺東科大214名境外新生入學 多元文化點亮國際校園",
-    "link": "https://udn.com/news/story/6929/9866992",
-    "published": "2026-11-09 15:22",
-    "images": [],
-    "summary": "為深化國際化教育，營造多元共融的校園環境，嶺東科技大學本學期共有214名境外新生入學，全校境外生總數達510人，包含外國學生、僑生及香港學生，校方今日舉辦境外新生始業式，印尼籍學長姐用歌舞表演歡迎新生，為校園注入豐富的文化色彩與國際活力。",
-    "tags": "嶺東科技大學, 文化",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "為深化國際化教育，營造多元共融的校園環境，嶺東科技大學本學期共有214名境外新生入學，全校境外生總數達510人，包含外國學生、僑生及香港學生，校方今日舉辦境外新生始業式，印尼籍學長姐用歌舞表演歡迎新生，為校園注入豐富的文化色彩與國際活力。",
-    "cn_title": "嶺東科大214名境外新生入學 多元文化點亮國際校園",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "嶺東科技大學, 文化",
     "source": "聯合報"
   }
 }
