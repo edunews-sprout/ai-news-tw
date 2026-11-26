@@ -1,4 +1,19 @@
 {
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIeVBnay02MTNpRTJ4bUk5OFVTdll4MkxPVlBQZE1aM3oxa0x5V1c1Ylc1cjlQS19oUWF3ZW1CLXBlazJQbU8xLU1MTEdSZw?oc=5": {
+    "title": "迎戰AI轉型浪潮！北科大攜手美國德州大學阿靈頓分校（UTA）打造雙聯EMBA，培養新世代跨域領導人才 - 天下雜誌",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIeVBnay02MTNpRTJ4bUk5OFVTdll4MkxPVlBQZE1aM3oxa0x5V1c1Ylc1cjlQS19oUWF3ZW1CLXBlazJQbU8xLU1MTEdSZw?oc=5",
+    "published": "2026-11-26 15:05",
+    "images": [],
+    "summary": "迎戰AI轉型浪潮！北科大攜手美國德州大學阿靈頓分校（UTA）打造雙聯EMBA，培養新世代跨域領導人才&nbsp;&nbsp;天下雜誌",
+    "tags": "國立臺北科技大學, 大學",
+    "classes": "國際交流與合作",
+    "is_target": "True",
+    "cn_summary": "迎戰AI轉型浪潮！北科大攜手美國德州大學阿靈頓分校（UTA）打造雙聯EMBA，培養新世代跨域領導人才&nbsp;&nbsp;天下雜誌",
+    "cn_title": "迎戰AI轉型浪潮！北科大攜手美國德州大學阿靈頓分校（UTA）打造雙聯EMBA，培養新世代跨域領導人才 - 天下雜誌",
+    "cn_classes": "國際交流與合作",
+    "cn_tags": "國立臺北科技大學, 大學",
+    "source": "天下雜誌"
+  },
   "https://news.ltn.com.tw/news/life/breakingnews/5654138": {
     "title": "更新「台灣地震危害評估」資料 中央大學團隊科研登國際期刊",
     "link": "https://news.ltn.com.tw/news/life/breakingnews/5654138",
@@ -3583,20 +3598,5 @@
     "cn_classes": "校務治理與管理",
     "cn_tags": "國立清華大學",
     "source": "聯合報"
-  },
-  "https://news.ltn.com.tw/news/life/breakingnews/5635870": {
-    "title": "獨家》清大處置校長高為元 將對師生做意見普查",
-    "link": "https://news.ltn.com.tw/news/life/breakingnews/5635870",
-    "published": "2026-11-10 17:16",
-    "images": [],
-    "summary": "首次上稿 16:51更新時間 17:16 清華大學今天下午2點加開校務會議，會中針對校監會所提是否針對校長高為元續任帶職海外覓職事件進行意見調查提案繼續討論，1個多小時的...…",
-    "tags": "國立清華大學",
-    "classes": "校務治理與管理",
-    "is_target": "True",
-    "cn_summary": "首次上稿 16:51更新時間 17:16 清華大學今天下午2點加開校務會議，會中針對校監會所提是否針對校長高為元續任帶職海外覓職事件進行意見調查提案繼續討論，1個多小時的...…",
-    "cn_title": "獨家》清大處置校長高為元 將對師生做意見普查",
-    "cn_classes": "校務治理與管理",
-    "cn_tags": "國立清華大學",
-    "source": "自由時報"
   }
 }
