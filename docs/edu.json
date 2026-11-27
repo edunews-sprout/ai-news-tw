@@ -1,4 +1,19 @@
 {
+  "https://www.cna.com.tw/news/afe/202611270216.aspx": {
+    "title": "資安署：AI迅速發展　資安產業可望成另一座護國神山",
+    "link": "https://www.cna.com.tw/news/afe/202611270216.aspx",
+    "published": "2026-11-27 18:35",
+    "images": [],
+    "summary": "（中央社記者趙敏雅台北27日電）第21屆資安技能金盾獎決賽今天登場，國立陽明交通大學隊伍「BambooB33F」奪下大專校院組冠軍。數發部資安署長蔡福隆表示，隨著人工智慧（AI）迅速發展，資安產業未來發展可期，有機會成為台灣另一座「護國神山」，並鼓勵年輕世代投入資安領域。",
+    "tags": "國立陽明交通大學, 大專",
+    "classes": "學生事務與生活",
+    "is_target": "True",
+    "cn_summary": "（中央社記者趙敏雅台北27日電）第21屆資安技能金盾獎決賽今天登場，國立陽明交通大學隊伍「BambooB33F」奪下大專校院組冠軍。數發部資安署長蔡福隆表示，隨著人工智慧（AI）迅速發展，資安產業未來發展可期，有機會成為台灣另一座「護國神山」，並鼓勵年輕世代投入資安領域。",
+    "cn_title": "資安署：AI迅速發展　資安產業可望成另一座護國神山",
+    "cn_classes": "學生事務與生活",
+    "cn_tags": "國立陽明交通大學, 大專",
+    "source": "中央社"
+  },
   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uaFFuWjJXeWtTYXFCOGFZN1owNDMwUUhDbS1mRlEzWVFtQVl1Rm50RlNHQ0Jwc3FfRmk5VmN2VTduYXFDSjl6MWpDRnVhZEgxM1HSAVBBVV95cUxQRldkQTRjQ0tCUk9fbVpjMkRORDFkWjdDaVNqOFB6NUxBWGNNNlE3SGtJZ3BWM0Fac25OZmJSc3pqdlBucGotZjgzZ3ZaNDVEbw?oc=5": {
     "title": "從港灣看見永續　港務公司、高科大與新加坡社科大學術交流 - ETtoday財經雲",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uaFFuWjJXeWtTYXFCOGFZN1owNDMwUUhDbS1mRlEzWVFtQVl1Rm50RlNHQ0Jwc3FfRmk5VmN2VTduYXFDSjl6MWpDRnVhZEgxM1HSAVBBVV95cUxQRldkQTRjQ0tCUk9fbVpjMkRORDFkWjdDaVNqOFB6NUxBWGNNNlE3SGtJZ3BWM0Fac25OZmJSc3pqdlBucGotZjgzZ3ZaNDVEbw?oc=5",
@@ -3583,20 +3598,5 @@
     "cn_classes": "校務治理與管理",
     "cn_tags": "世新大學",
     "source": "自由時報"
-  },
-  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nS0ZPcXlHc0d6MXlkNEFhbDBzTkxaZXJKTFg3VkZJcVdwRnpzMC1obmxVNm5FYnJKRmJZUkk3Z2U4ekwwaWZ0d1AxZU5rUmdSdEdGdC1ERUxBZ2ZrXzZrdG1ONG1jUQ?oc=5": {
-    "title": "南華大學匯聚20國教育領袖以智慧慈悲引領AI與永續發展- 新消息- Campus - 中時新聞網",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nS0ZPcXlHc0d6MXlkNEFhbDBzTkxaZXJKTFg3VkZJcVdwRnpzMC1obmxVNm5FYnJKRmJZUkk3Z2U4ekwwaWZ0d1AxZU5rUmdSdEdGdC1ERUxBZ2ZrXzZrdG1ONG1jUQ?oc=5",
-    "published": "2026-11-11 16:07",
-    "images": [],
-    "summary": "南華大學匯聚20國教育領袖以智慧慈悲引領AI與永續發展- 新消息- Campus&nbsp;&nbsp;中時新聞網",
-    "tags": "南華大學",
-    "classes": "國際交流與合作",
-    "is_target": "True",
-    "cn_summary": "南華大學匯聚20國教育領袖以智慧慈悲引領AI與永續發展- 新消息- Campus&nbsp;&nbsp;中時新聞網",
-    "cn_title": "南華大學匯聚20國教育領袖以智慧慈悲引領AI與永續發展- 新消息- Campus - 中時新聞網",
-    "cn_classes": "國際交流與合作",
-    "cn_tags": "南華大學",
-    "source": "中國時報"
   }
 }
